@@ -1,0 +1,304 @@
+[
+    {
+        "initiator": "Выход из метро",
+        "resolution_description": "As 'Выход из метро', create an interactive urban escape simulation experience within metro exits that gathers user preferences and feedback, using gamification to influence urban design by integrating subconscious user desires into the planning process.",
+        "new_actor": "МетроГеймДизайнер",
+        "participants": [
+            {
+                "participant": "Пассажиры",
+                "agreement_structure": {
+                    "current_goal": "Достигнуть выхода из метро",
+                    "current_action": "Следовать к выходу",
+                    "imposed_goal": "Ускорить процесс выхода из метро",
+                    "imposed_action": "Увеличить скорость движения к выходу",
+                    "mechanism": "Создать свободный проход, чтобы пассажиры могли быстро двигаться к выходу",
+                    "reasoning": "The proposal to create an interactive urban escape simulation experience aligns well with my desire for quick and convenient access to destinations. By incorporating user preferences and feedback, this initiative addresses my fear of wasting time navigating obstacles, potentially leading to a more efficient and user-friendly urban design. Overall, it enhances my experience as a passenger.",
+                    "recruited_sources": [
+                        "Транспортные компании",
+                        "Задержки в общественном транспорте"
+                    ]
+                }
+            },
+            {
+                "participant": "Sustainability concept",
+                "agreement_structure": {
+                    "current_goal": "Develop sustainable practices in urban transportation",
+                    "current_action": "Implementing eco-friendly transport solutions",
+                    "imposed_goal": "Reduce carbon emissions from metro systems by 50% within 5 years",
+                    "imposed_action": "Conducting a comprehensive energy audit and retrofitting existing metro infrastructure",
+                    "mechanism": "Establishing a task force to oversee the implementation of green technologies and practices in metro operations",
+                    "reasoning": "The proposal from 'Выход из метро' aligns with the goals of 'Sustainability concept' by introducing innovative practices that can lead to a significant reduction in carbon emissions from metro systems. By creating an interactive urban escape simulation, user feedback will inform urban design while also engaging the community. This approach not only fosters sustainable urban transportation practices but also ensures that the needs and preferences of users are integrated into the planning process. Additionally, the proposed measures for energy audits and retrofitting existing infrastructure demonstrate a commitment to eco-friendly solutions, which are essential for achieving long-term sustainability objectives.",
+                    "recruited_sources": [
+                        "Consumerism Culture",
+                        "Environmental NGOs",
+                        "Corporate Social Responsibility (CSR) Initiatives",
+                        "Industrial Capitalism",
+                        "Government Policies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пассажиры",
+                "reasoning": "Пассажиры are the primary users of the metro system, and their preferences and experiences will provide valuable insights for the interactive urban escape simulation, making it more relevant and engaging."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Sustainability concept is essential to ensure that any urban design influenced by the simulation promotes sustainable practices and contributes positively to the urban environment."
+            }
+        ],
+        "recruited_sources": [
+            "Государственные органы",
+            "Современные технологии автоматизации",
+            "Метро",
+            "Government Policies",
+            "Environmental NGOs",
+            "Городская инфраструктура",
+            "Industrial Capitalism",
+            "Транспортные компании",
+            "Corporate Social Responsibility (CSR) Initiatives",
+            "Задержки в общественном транспорте",
+            "Пассажиры метро",
+            "Consumerism Culture"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Городская инфраструктура",
+                "Современные технологии автоматизации",
+                "Пассажиры метро",
+                "Метро",
+                "Государственные органы"
+            ]
+        }
+    },
+    {
+        "initiator": "Места предполагаемого интереса",
+        "resolution_description": "As 'Места предполагаемого интереса', establish an AI-driven \"Urban Sentiment Mapping\" platform that continuously analyzes and visualizes the emotional and social dynamics of urban spaces through real-time data from social media, local sensors, and community feedback, enabling urban planners to dynamically adapt and personalize urban designs to meet the evolving needs and desires of the community.",
+        "new_actor": "Urban Sentiment Dynamics AI Platform",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Транспортные компании",
+            "Туристические агентства",
+            "Транспортные службы",
+            "Туристы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Транспортные компании",
+                "Туристические агентства",
+                "Транспортные службы",
+                "Туристы"
+            ]
+        }
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "As 'African cities', implement a \"Cultural Tapestry Co-Creation\" initiative, where local artisans, community leaders, and urban planners collaboratively design urban spaces that reflect and celebrate the unique cultural narratives and indigenous knowledge systems of each community, fostering a sense of ownership and belonging that aligns with user interests through participatory design workshops and cultural festivals.",
+        "new_actor": "Cultural Tapestry Co-Creation Consortium",
+        "participants": [
+            {
+                "participant": "Cities",
+                "agreement_structure": {
+                    "current_goal": "Enhance urban sustainability and resilience in city planning.",
+                    "current_action": "Implementing green infrastructure projects and promoting public transportation.",
+                    "imposed_goal": "Achieve a 30% reduction in carbon emissions by 2030.",
+                    "imposed_action": "Adopt a comprehensive carbon reduction strategy including renewable energy sources and energy efficiency measures.",
+                    "mechanism": "Establishing a collaborative framework for sharing best practices and resources among cities to facilitate the implementation of the carbon reduction strategy.",
+                    "reasoning": "The proposed 'Cultural Tapestry Co-Creation' initiative aligns well with the goals of fostering community engagement and ownership in urban planning, which can enhance urban sustainability. By integrating local cultural narratives and indigenous knowledge systems, the initiative not only promotes a sense of belonging but also encourages the sustainable use of resources. Furthermore, this collaborative approach can lead to innovative solutions that contribute to the reduction of carbon emissions, supporting the goal of achieving a 30% reduction by 2030. Overall, this proposal benefits the objectives of 'Cities' by enhancing community participation and environmental sustainability.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Government",
+                        "Climate Change",
+                        "Technology Companies",
+                        "Urban Planners",
+                        "Local Government"
+                    ]
+                }
+            },
+            {
+                "participant": "Tourism authorities",
+                "agreement_structure": {
+                    "current_goal": "Increase tourist visits to major attractions in the city",
+                    "current_action": "Developing marketing campaigns and partnerships with local businesses",
+                    "imposed_goal": "Enhance sustainable tourism practices in urban areas",
+                    "imposed_action": "Implementing eco-friendly initiatives and promoting responsible tourism",
+                    "mechanism": "Establish a collaborative framework with local stakeholders to share resources and best practices for sustainable tourism",
+                    "reasoning": "The proposed 'Cultural Tapestry Co-Creation' initiative aligns with the interests of 'Tourism authorities' by enhancing sustainable tourism practices in urban areas. It promotes collaboration with local stakeholders, allowing for the development of unique urban spaces that reflect the cultural narratives of the communities. This approach not only increases tourist visits by offering authentic experiences but also fosters a sense of ownership and belonging among locals, which is vital for sustainable tourism. Furthermore, the initiative's focus on participatory design and cultural festivals can lead to increased tourist engagement and satisfaction, making it an appealing strategy for 'Tourism authorities'.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Local Communities",
+                        "Environmental NGOs",
+                        "Local businesses",
+                        "Government regulations"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Cities",
+                "reasoning": "Cities as participants are crucial because they serve as the platform where the 'Cultural Tapestry Co-Creation' initiative will be implemented. Their involvement will facilitate collaboration among various stakeholders and ensure that the initiative aligns with existing urban policies and frameworks."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can play a vital role in promoting the cultural narratives and unique aspects of the co-created urban spaces. Their support will help attract visitors and foster community pride, which is essential for the sustainability and success of the initiative."
+            }
+        ],
+        "recruited_sources": [
+            "Local Businesses",
+            "Government",
+            "International NGOs",
+            "Global Corporations",
+            "Global Investors",
+            "Environmental NGOs",
+            "Local Communities",
+            "Government regulations",
+            "Local Government",
+            "Technology Companies",
+            "Government Policies",
+            "Local businesses",
+            "Climate Change",
+            "Real estate developers",
+            "Urban Planners"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Global Investors",
+                "Global Corporations",
+                "Real estate developers",
+                "International NGOs",
+                "Government Policies"
+            ]
+        }
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "As 'Land use functions (LUFs)', establish a \"Dynamic Land Allocation Platform\" that utilizes real-time environmental, social, and economic data to fluidly rezone and reconfigure urban spaces, allowing them to spontaneously adapt to the shifting needs and preferences of their users, thereby creating a living urban ecosystem that prioritizes user interaction and satisfaction.",
+        "new_actor": "Dynamic Land Allocation Platform Actor",
+        "participants": [
+            {
+                "participant": "Smart city",
+                "agreement_structure": {
+                    "current_goal": "Enhance urban sustainability and improve quality of life for residents",
+                    "current_action": "Implementing smart technologies for energy efficiency and traffic management",
+                    "imposed_goal": "Integrate land use functions to optimize resource allocation and urban planning",
+                    "imposed_action": "Develop a comprehensive land use plan that incorporates various land use functions",
+                    "mechanism": "Establish a collaborative platform for stakeholders to share data and insights on land use planning",
+                    "reasoning": "The proposed resolution aligns with 'Smart city's' goal of enhancing urban sustainability and improving quality of life through the integration of land use functions. The 'Dynamic Land Allocation Platform' would allow for more responsive and adaptable urban planning, catering to the evolving needs of the community. This collaboration with 'Land use functions (LUFs)' not only supports the optimization of resource allocation but also fosters a participatory approach where user satisfaction is prioritized. Overall, this proposal enhances our ability to leverage real-time data for better urban design and resource management.",
+                    "recruited_sources": [
+                        "Corporate Tech Companies",
+                        "Government Regulations",
+                        "Urban Residents",
+                        "Local businesses",
+                        "Local Government"
+                    ]
+                }
+            },
+            {
+                "participant": "Администрация",
+                "agreement_structure": {
+                    "current_goal": "Ensure sustainable urban development and land use planning.",
+                    "current_action": "Implementing zoning regulations and land use policies.",
+                    "imposed_goal": "Enhance land use efficiency and promote multifunctional land use.",
+                    "imposed_action": "Conduct a comprehensive assessment of current land use practices and develop a strategic land use plan.",
+                    "mechanism": "Establish a participatory framework involving stakeholders to collaborate on land use planning and management.",
+                    "reasoning": "The proposed initiative by 'Land use functions (LUFs)' aligns closely with 'Администрация's' desires to improve the urban environment and meet the needs of residents. By establishing a 'Dynamic Land Allocation Platform', the proposal allows for real-time adaptation of urban spaces based on user feedback and preferences, enhancing user satisfaction. This participatory framework not only promotes efficiency in land use but also encourages stakeholder collaboration, which can mitigate potential citizen dissatisfaction and criticism of decisions made by 'Администрация'. Overall, this proposal presents an opportunity for 'Администрация' to engage proactively with the community and foster a sense of ownership among residents.",
+                    "recruited_sources": [
+                        "Граждане (жители города)",
+                        "Граждане города",
+                        "Граждане"
+                    ]
+                }
+            },
+            {
+                "participant": "Gastronomic trail",
+                "agreement_structure": {
+                    "current_goal": "To promote local gastronomy and attract tourists through a gastronomic trail.",
+                    "current_action": "Organizing food tours and events that showcase local cuisine.",
+                    "imposed_goal": "To enhance land use efficiency by integrating gastronomy with sustainable land management.",
+                    "imposed_action": "Develop a comprehensive plan that incorporates local food production into the trail, emphasizing sustainability.",
+                    "mechanism": "Establish partnerships with local farmers and landowners to create a sustainable food supply chain that supports the gastronomic trail.",
+                    "reasoning": "The proposed resolution offers an innovative approach to urban land use that aligns well with the goals of the 'Gastronomic trail'. By establishing a 'Dynamic Land Allocation Platform', the integration of local gastronomy into urban spaces can be enhanced, allowing for a more efficient use of land that supports local food production and sustainability. This proposal not only promotes local cuisine but also provides a framework for adapting to the evolving preferences of users, which can strengthen the appeal of the gastronomic trail and attract more tourists. Therefore, this proposal is beneficial as it addresses both the promotion of local gastronomy and the enhancement of land use efficiency.",
+                    "recruited_sources": [
+                        "Local Restaurants",
+                        "Local restaurants",
+                        "Local government",
+                        "Local Farmers",
+                        "Tourism Board",
+                        "Local Government"
+                    ]
+                }
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "agreement_structure": {
+                    "current_goal": "Создание функционального и эстетически привлекательного ландшафта",
+                    "current_action": "Разработка ландшафтных проектов с учетом предпочтений клиентов",
+                    "imposed_goal": "Оптимизация использования земельных ресурсов в соответствии с функциями землеведения",
+                    "imposed_action": "Анализ и переработка текущих ландшафтных проектов для интеграции LUFs",
+                    "mechanism": "Проведение семинаров и тренингов по LUFs для улучшения знаний и навыков в применении функций землеведения",
+                    "reasoning": "The proposal from 'Land use functions (LUFs)' aligns well with our desire to create aesthetic and functional urban spaces while addressing our fear of criticism regarding the mismatch with user needs. By participating in the 'Dynamic Land Allocation Platform', we can leverage real-time data to adapt our landscape designs to the evolving preferences of users, thereby improving user satisfaction and ensuring our projects meet actual needs. This collaborative approach also allows us to enhance our skills in integrating land use functions, making our designs more relevant and effective.",
+                    "recruited_sources": [
+                        "Горожане",
+                        "Горожане (пассажиры)",
+                        "Городские власти"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Smart city",
+                "reasoning": "Recruiting 'Smart city' is crucial as it encompasses the technological framework and infrastructure needed to support the Dynamic Land Allocation Platform. This participant will provide insights into integrating real-time data systems, ensuring the platform is efficient and effective in adapting urban spaces according to user needs."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The 'Administration' is essential for regulatory support and policy-making. Their involvement will facilitate necessary approvals and the implementation of the Dynamic Land Allocation Platform, ensuring it aligns with legal frameworks and urban planning standards."
+            },
+            {
+                "participant": "Gastronomic trail",
+                "reasoning": "The 'Gastronomic trail' represents a specific use case for urban reconfiguration, demonstrating the potential impact of the platform on local economies and cultural experiences. Engaging this participant will help demonstrate the platform's adaptability and its benefits to community engagement and tourism."
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Involving 'Managers and designers' who are responsible for the landscape is key to ensuring that the platform's outputs are not only functional but also aesthetically pleasing. Their expertise will contribute to creating urban spaces that are both user-friendly and visually appealing."
+            }
+        ],
+        "recruited_sources": [
+            "Граждане",
+            "Граждане города",
+            "Local Government",
+            "Local government",
+            "Local restaurants",
+            "Tourism Board",
+            "Граждане (жители города)",
+            "Government Regulations",
+            "Local Restaurants",
+            "Corporate Tech Companies",
+            "Urban Residents",
+            "Local Farmers",
+            "Urban Planning Agencies",
+            "Городские власти",
+            "Urban Developers",
+            "Government Policies",
+            "Agricultural Practices",
+            "Real Estate Developers",
+            "Горожане",
+            "Urban Planning Regulations",
+            "Горожане (пассажиры)",
+            "Local businesses"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Agricultural Practices",
+                "Real Estate Developers",
+                "Urban Planning Agencies",
+                "Urban Planning Regulations",
+                "Urban Developers",
+                "Government Policies"
+            ]
+        }
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscaping is crucial as they can provide expertise in creating a functional and aesthetically pleasing pathway through the lawn, ensuring that it aligns with the existing landscape design."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration is essential to gain the necessary approvals and support for the project, as they control the regulations and can facilitate the implementation of the pathway."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "\"Implement a dynamic, real-time urban space adaptation system using sensor networks and AI to continuously reshape and optimize land use functions based on actual user behavior and preferences, ensuring urban designs evolve in harmony with community needs.\"",
+        "new_actor": "UrbanSpace AI Adaptation Entity",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are crucial for implementing the dynamic urban space adaptation system. Their expertise in urban design and land use will ensure that the system aligns with aesthetic and functional community needs."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "The concept of a Smart City is integral to the resolution as it embodies the use of technology, such as sensor networks and AI, to manage urban spaces. Engaging with smart city initiatives will enhance the effectiveness and integration of the proposed system."
+            },
+            {
+                "participant": "Urban residents",
+                "reasoning": "Urban residents are key stakeholders whose behavior and preferences will directly inform the system's adaptations. Their feedback will ensure that land use functions align with community needs and foster a sense of ownership and satisfaction."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a vital role in policy-making and resource allocation, which are essential for the successful implementation and sustainability of the urban adaptation system. Their support will help navigate regulatory frameworks and secure necessary funding."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic trail\" could resolve the issue by creating a network of community-driven pop-up culinary hubs that naturally guide urban flow, enticing users to organically shape and redefine urban spaces through their culinary journeys, making urban design responsive to evolving gastronomic interests.",
+        "new_actor": "Culinary Urban Flow Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Места предполагаемого интереса",
+                "reasoning": "Identifying and integrating 'Места предполагаемого интереса' (Places of Interest) is crucial as these locations will serve as the focal points for the pop-up culinary hubs. They need to be strategically chosen to attract urban flow and enhance the culinary journey of users."
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting 'Менеджеры и дизайнеры, отвечавшие за ландшафт' (Managers and Designers responsible for the landscape) is essential for effectively planning and designing the culinary hubs within urban spaces, ensuring they are appealing and functional."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Involving 'Tourism authorities' will help in promoting the gastronomic trail to both locals and visitors, thereby increasing participation and interest in the culinary hubs and enhancing the overall success of the initiative."
+            },
+            {
+                "participant": "Urban residents",
+                "reasoning": "Engaging 'Urban residents' is vital as they are the end-users of the culinary hubs. Their input and participation will ensure that the initiative meets the community's needs and preferences, fostering a sense of ownership and support."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "\"African cities can resolve the issue by establishing 'Cultural Resilience Frameworks' that harness indigenous knowledge systems and local art forms to create flexible, narrative-rich urban spaces, where community-led storytelling and traditional practices dynamically guide and transform urban landscapes, ensuring they resonate with the cultural identity and evolving aspirations of their inhabitants.\"",
+        "new_actor": "Cultural Resilience Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are crucial as they will play a key role in implementing the Cultural Resilience Frameworks. Their expertise in urban design and landscape architecture will help integrate indigenous knowledge systems and local art forms into urban planning."
+            },
+            {
+                "participant": "Urban residents",
+                "reasoning": "Urban residents are essential to the success of the resolution as they are the primary users of urban spaces. Their involvement in community-led storytelling and traditional practices ensures that the narratives and cultural identities reflected in urban landscapes truly resonate with the inhabitants."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important for promoting the culturally rich urban spaces developed through the Cultural Resilience Frameworks. Their support can help attract visitors and generate economic benefits, while also emphasizing the cultural significance of the areas."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is vital as it ensures that the developments are not only culturally resonant but also environmentally and socially sustainable. Incorporating sustainability into the frameworks will help stabilize urban spaces in the long term."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

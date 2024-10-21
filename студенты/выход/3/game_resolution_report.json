@@ -1,0 +1,198 @@
+[
+    {
+        "initiator": "teacher",
+        "resolution_description": "**Initiator: Teacher**  \n**Resolution:** Integrate experiential learning modules that immerse students in real-world problem-solving scenarios, allowing them to demonstrate and apply their knowledge in practical contexts, thereby ensuring assessments reflect genuine understanding and skills. To address potential concerns regarding the integrity of assessments and the misuse of technology, specific measures will be implemented: \n\n1. Establish clear guidelines for the use of technology during experiential learning activities to ensure it supports learning objectives without facilitating academic dishonesty.\n\n2. Implement secure assessment methods that verify individual student contributions and understanding, such as reflective journals, peer assessments, and oral presentations.\n\n3. Provide training for both educators and students on ethical technology use and academic integrity, emphasizing the importance of honesty in the learning process.\n\n4. Regularly review and adapt assessment strategies to incorporate feedback and emerging technologies while maintaining rigorous standards for academic integrity.\n\nBy incorporating these measures, we can enhance experiential learning while safeguarding the credibility of assessments and promoting a culture of integrity.",
+        "new_actor": "Experiential Learning Facilitator",
+        "participants": [
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Enhance student engagement in the classroom",
+                    "current_action": "Implement interactive teaching methods",
+                    "imposed_goal": "Increase overall student performance by 20%",
+                    "imposed_action": "Develop and execute a comprehensive assessment plan",
+                    "mechanism": "Monthly progress reviews and feedback sessions with students and faculty",
+                    "reasoning": "The proposed resolution aligns with my desire to effectively convey knowledge and objectively assess students by integrating experiential learning. This approach encourages practical application of knowledge, enhancing student engagement and understanding. Additionally, the outlined measures address my fears regarding academic dishonesty by establishing clear guidelines for technology use, secure assessment methods, and training on academic integrity. These steps help maintain control over the learning process while fostering a culture of honesty.",
+                    "recruited_sources": [
+                        "Студенты",
+                        "Учебные планы",
+                        "Технологии списывания",
+                        "Современные технологии обучения"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers play a vital role in implementing and facilitating experiential learning. Their expertise in pedagogy and curriculum design is essential to create meaningful learning experiences that align with the resolution."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers provide insights into the skills and knowledge required in the workforce. Their involvement ensures that the experiential learning modules are relevant and aligned with real-world expectations, enhancing students' employability."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can enhance the experiential learning process by providing personalized learning experiences and data analytics. This technology can help track student progress and adapt learning scenarios to meet diverse needs."
+            }
+        ],
+        "recruited_sources": [
+            "Студенты",
+            "Технологии списывания",
+            "Учебные планы",
+            "School Administration",
+            "students",
+            "Современные технологии обучения",
+            "Standardized Testing"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "School Administration",
+                "students",
+                "Standardized Testing"
+            ]
+        }
+    },
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "**Resolution:** As 'Academic Integrity', develop a blockchain-based credentialing system that securely records and verifies each student's learning journey and skill acquisition through micro-assessments, enabling a transparent, tamper-proof, and comprehensive reflection of genuine knowledge and capabilities, thus revolutionizing how educational achievements are recognized and valued.",
+        "new_actor": "EduCredChain Validator",
+        "participants": [
+            {
+                "participant": "Работодатели",
+                "agreement_structure": {
+                    "current_goal": "To hire qualified candidates who demonstrate integrity and competency.",
+                    "current_action": "Reviewing resumes and conducting interviews.",
+                    "imposed_goal": "Ensure all candidates have a verified record of academic integrity.",
+                    "imposed_action": "Implement a mandatory verification process for all educational credentials.",
+                    "mechanism": "Establish a partnership with academic institutions to access and verify candidates' academic records.",
+                    "reasoning": "The proposal from 'Academic Integrity' to develop a blockchain-based credentialing system aligns with 'Работодатели's' desires to hire competent graduates with real knowledge and skills. This system would provide a verified record of academic integrity, directly addressing the fear of hiring candidates whose diplomas do not reflect their true capabilities. By implementing a mandatory verification process for educational credentials, 'Работодатели' can ensure that all candidates have undergone a legitimate learning journey, thereby enhancing the quality of hires and establishing a trusted link between education and employment.",
+                    "recruited_sources": [
+                        "Кандидаты на работу",
+                        "Образовательные учреждения",
+                        "Университеты",
+                        "Выпускники"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers are crucial for validating the importance of the blockchain-based credentialing system. Their endorsement will ensure that the system is aligned with real-world job requirements and skill demands, thereby enhancing its credibility and adoption."
+            }
+        ],
+        "recruited_sources": [
+            "Educational Institutions",
+            "Образовательные учреждения",
+            "Academic Institutions",
+            "Plagiarism Detection Software",
+            "Кандидаты на работу",
+            "Выпускники",
+            "Plagiarism",
+            "Университеты"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Plagiarism",
+                "Academic Institutions",
+                "Educational Institutions",
+                "Plagiarism Detection Software"
+            ]
+        }
+    },
+    {
+        "initiator": "Survey researchers",
+        "resolution_description": "As 'Survey researchers', implement a dynamic, real-time feedback loop utilizing adaptive surveys that continuously gauge and adjust to students' evolving understanding and learning preferences, thus providing a personalized assessment that accurately reflects their true knowledge and skills.",
+        "new_actor": "Dynamic Student Feedback Assessor",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Completing coursework and preparing for exams",
+                    "current_action": "Studying and attending classes regularly",
+                    "imposed_goal": "Participating in a comprehensive survey on student experiences",
+                    "imposed_action": "Filling out the survey questionnaire by the deadline",
+                    "mechanism": "Providing incentives such as gift cards or extra credit for timely survey completion",
+                    "reasoning": "The proposed resolution aligns with my desire to achieve good grades and acquire useful knowledge with minimal effort. The dynamic, real-time feedback loop through adaptive surveys will provide personalized assessments that reflect my true understanding and skills. Additionally, the use of incentives like gift cards or extra credit for timely survey completion addresses my fear of not obtaining necessary skills for future employment by encouraging engagement in the learning process.",
+                    "recruited_sources": [
+                        "Преподаватели"
+                    ]
+                }
+            },
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance personalized learning experiences for students through AI technology.",
+                    "current_action": "Developing adaptive learning algorithms based on student performance data.",
+                    "imposed_goal": "Conduct a comprehensive survey to assess the effectiveness of AI-enabled learning tools.",
+                    "imposed_action": "Design and distribute a survey to educators and students about their experiences with AI-enabled learning.",
+                    "mechanism": "Utilize a feedback loop where survey results inform future AI tool developments and improvements.",
+                    "reasoning": "The proposed scenario aligns with the goals of 'AI-enabled learning' to enhance personalized learning experiences through the use of adaptive learning algorithms. By collaborating with 'Survey researchers' to implement a dynamic feedback loop, 'AI-enabled learning' can refine its tools based on real-time assessments of student needs and preferences. This partnership not only facilitates the collection of valuable data but also ensures that the AI-enabled learning tools can be continuously improved, thus directly benefiting the educational experience of students.",
+                    "recruited_sources": [
+                        "Teachers",
+                        "Educational Institutions",
+                        "Traditional Education Systems",
+                        "Data Analytics Tools"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Enhance teaching methodologies and research practices among colleagues.",
+                    "current_action": "Conducting workshops and sharing research findings.",
+                    "imposed_goal": "Gather comprehensive data on teaching effectiveness across disciplines.",
+                    "imposed_action": "Administer a standardized survey to all members.",
+                    "mechanism": "Utilizing an online survey platform to facilitate data collection and analysis.",
+                    "reasoning": "The proposed resolution aligns with our desire to support high educational standards and adapt to new technologies by implementing a dynamic feedback mechanism that personalizes assessments. This approach mitigates our fear of losing relevance in traditional teaching and evaluation methods, as it emphasizes a modern, data-driven understanding of student knowledge and skills.",
+                    "recruited_sources": [
+                        "Образовательные технологии",
+                        "Современные образовательные технологии",
+                        "Технологические платформы (например, онлайн-курсы, образовательные приложения)",
+                        "Технологические компании",
+                        "Традиционные образовательные учреждения"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary beneficiaries of the adaptive surveys. Their feedback and evolving understanding are crucial for the dynamic, real-time adjustments needed in the survey design, ensuring the assessments align with their learning preferences and accurately reflect their knowledge."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies are essential for the real-time feedback loop. They can analyze data from surveys and adapt the questions and assessments based on students' responses, allowing for a more personalized and effective learning experience."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including other educators and researchers, can contribute valuable perspectives, share best practices, and collaborate on the development and refinement of the adaptive surveys, ensuring they are grounded in educational research and effective pedagogical strategies."
+            }
+        ],
+        "recruited_sources": [
+            "Образовательные технологии",
+            "Преподаватели",
+            "Технологические компании",
+            "Educational Institutions",
+            "Традиционные образовательные учреждения",
+            "Academic Institutions",
+            "Funding agencies",
+            "Funding Agencies",
+            "Data Analytics Tools",
+            "Teachers",
+            "Traditional Survey Methods",
+            "Технологические платформы (например, онлайн-курсы, образовательные приложения)",
+            "Traditional Education Systems",
+            "Современные образовательные технологии"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Academic Institutions",
+                "Funding agencies",
+                "Traditional Survey Methods",
+                "Funding Agencies"
+            ]
+        }
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Utilize graphic design theories to create packaging with dynamic optical illusions that appear to shift or change when moved, compelling handlers to engage with caution and curiosity, thereby reducing the likelihood of damage during transportation.",
+        "new_actor": "OptiShift PackGuardian",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "Recruiting the bicycle manufacturer is crucial as they are directly responsible for the product being packaged. Their input on design and packaging requirements will ensure that the graphic design theories are applied effectively to meet the needs of the product during transportation."
+            },
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Involving federal government agencies can provide regulatory support and ensure that the packaging meets safety and transportation standards. Their endorsement can enhance the credibility and acceptance of the innovative packaging solution."
+            }
+        ],
+        "recruited_sources": [
+            "Design software tools",
+            "Traditional Art Methods",
+            "Cultural Trends",
+            "Digital design tools",
+            "Corporate Marketing Trends",
+            "Technological advancements in design software"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Traditional Art Methods",
+                "Technological advancements in design software",
+                "Digital design tools",
+                "Corporate Marketing Trends",
+                "Design software tools",
+                "Cultural Trends"
+            ]
+        }
+    },
+    {
+        "initiator": "resilience",
+        "resolution_description": "Initiator: Resilience, Resolution: Develop a modular and self-healing packaging system that utilizes smart materials capable of absorbing impact and automatically repairing minor damages, ensuring cargo integrity while promoting sustainable and adaptive transportation practices.",
+        "new_actor": "ResilientSmartPackSystem.",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is crucial as they would directly benefit from the modular and self-healing packaging system, ensuring that their products reach customers in optimal condition while also promoting sustainability."
+            },
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Federal Government Agencies can provide regulatory support and funding for the development of innovative packaging solutions, helping to ensure compliance with safety and environmental standards."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System is essential for integrating the new packaging technology into existing supply chain processes, facilitating efficient tracking and management of cargo."
+            },
+            {
+                "participant": "Коробка с грузом",
+                "reasoning": "The cargo box itself is a critical participant since the proposed packaging system is designed to enhance its functionality, ensuring that it can effectively utilize the smart materials to maintain cargo integrity during transit."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Socially vulnerable households",
+        "resolution_description": "Initiator: Socially vulnerable households, Resolution: Create a cooperative network where socially vulnerable households are empowered and employed as 'cargo guardians,' utilizing their local knowledge and community ties to provide personalized, vigilant oversight and real-time reporting during transportation, turning cargo safety into a grassroots initiative that fosters economic inclusion and community resilience.",
+        "new_actor": "Cargo Guardian Cooperative Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Local communities",
+                "reasoning": "Local communities are essential for the success of the cooperative network as they will provide the socially vulnerable households with the necessary support, trust, and engagement needed to empower them as 'cargo guardians'. Their local knowledge and community ties will be crucial for effective oversight and real-time reporting."
+            },
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Federal Government Agencies can provide support in terms of policy, funding, and regulatory frameworks that facilitate the establishment of this cooperative network. Their involvement is vital for legitimizing the initiative and ensuring that it aligns with national economic and social inclusion goals."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "Logistics Management Platform Systems are important for implementing the real-time reporting aspect of the initiative. These systems will help in coordinating the activities of 'cargo guardians' and provide a technological backbone for tracking cargo safety and facilitating communication among participants."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Port Community Systems",
+        "resolution_description": "Implement a collaborative blockchain-based Port Community System that integrates all stakeholders in the supply chain to provide transparent, real-time data sharing and accountability, utilizing smart contracts to incentivize safe handling practices and automatically trigger corrective actions, thereby creating an ecosystem of mutual trust and a self-regulating mechanism to prevent cargo damage.",
+        "new_actor": "Collaborative Blockchain Port Ecosystem (CBPE)",
+        "participants": [],
+        "required_participants": []
+    }
+]

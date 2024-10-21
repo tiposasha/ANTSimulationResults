@@ -1,0 +1,177 @@
+[
+    {
+        "initiator": "Consumers",
+        "resolution_description": "Consumers can resolve the issue of fake reviews in the restaurant and tourism industry by creating a community-driven review platform where users earn credibility scores through peer validation and real-world experiences, fostering a culture of transparency and trust that naturally disfavors deceit.",
+        "new_actor": "CommunityCred Review Network",
+        "participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Develop a viable product that meets market needs.",
+                    "current_action": "Conducting market research and prototype testing.",
+                    "imposed_goal": "Increase customer engagement and satisfaction.",
+                    "imposed_action": "Implement user feedback mechanisms and adjust the product accordingly.",
+                    "mechanism": "Establish a systematic feedback loop with customers through surveys and beta testing phases.",
+                    "reasoning": "The proposed resolution aligns with the desires of 'Три основателя стартапа' to create a successful platform for planning trips and evaluating restaurants by fostering a transparent and trustworthy review environment. Additionally, the community-driven aspect and peer validation will likely attract more users and restaurants, which addresses the fear of not attracting enough users. By participating in this resolution, 'Три основателя стартапа' can also benefit from increased customer engagement and satisfaction through systematic feedback mechanisms controlled by 'Consumers', further enhancing the platform's viability.",
+                    "recruited_sources": [
+                        "Пользователи платформы",
+                        "Конкурирующие платформы для планирования путешествий и ресторанов",
+                        "Конкуренты в сфере платформ для планирования путешествий"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "Recruiting the three startup founders is crucial as they will provide the vision, technological expertise, and operational leadership needed to create and manage the community-driven review platform. Their entrepreneurial spirit can drive the initiative forward."
+            }
+        ],
+        "recruited_sources": [
+            "Brand Advertisers",
+            "Social Media Platforms",
+            "Пользователи платформы",
+            "Конкурирующие платформы для планирования путешествий и ресторанов",
+            "Конкуренты в сфере платформ для планирования путешествий",
+            "Retailers",
+            "Corporations"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Retailers",
+                "Corporations",
+                "Brand Advertisers",
+                "Social Media Platforms"
+            ]
+        }
+    },
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "TripAdvisor ranking could resolve the issue of fake reviews by developing an AI-powered \"Review Authenticity Index\" that dynamically adjusts the visibility of reviews based on a multi-layered analysis of user behavior patterns, cross-referencing external data sources, and historical accuracy, thereby promoting genuine feedback while diminishing the influence of fraudulent content.",
+        "new_actor": "Review Authenticity AI Index Actor",
+        "participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "To find the best travel experiences and reviews from other tourists.",
+                    "current_action": "Browsing and reading reviews on TripAdvisor.",
+                    "imposed_goal": "To contribute reviews and ratings for places visited.",
+                    "imposed_action": "Submit at least one review for each place visited.",
+                    "mechanism": "Incentivize participation by offering badges and recognition for top reviewers.",
+                    "reasoning": "The proposed resolution by 'TripAdvisor ranking' directly addresses my fears of encountering subpar services and unreliable information regarding restaurants. By implementing an AI-powered 'Review Authenticity Index', I can trust that the reviews I read will be more genuine and reflective of real experiences. Additionally, the opportunity to contribute my own reviews and receive recognition for my input fosters a collaborative environment that enhances the quality of information on the platform. This aligns with my desire to find quality restaurants and avoid disappointments during my travels.",
+                    "recruited_sources": [
+                        "Некачественные рестораны",
+                        "Негативные отзывы и рейтинги",
+                        "Онлайн-отзывы и рейтинги",
+                        "Сайты отзывов",
+                        "Платформы отзывов (например, TripAdvisor)",
+                        "Платформы для отзывов (TripAdvisor, Google Reviews)"
+                    ]
+                }
+            },
+            {
+                "participant": "Рестораны",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction ratings",
+                    "current_action": "Encouraging customers to leave reviews",
+                    "imposed_goal": "Achieve a top 10 ranking in the TripAdvisor restaurant category",
+                    "imposed_action": "Implementing a customer feedback program to gather insights for improvement",
+                    "mechanism": "Monthly performance reviews and adjustments based on customer feedback analytics",
+                    "reasoning": "The proposed scenario aligns well with Рестораны's desires to attract more customers and improve reputation with lower costs. The implementation of an AI-powered 'Review Authenticity Index' would enhance the visibility of genuine reviews while reducing the impact of fake ones, thereby addressing the fear of losing clients due to negative reviews. Additionally, the focus on customer feedback analytics for continuous improvement supports the goal of achieving a top 10 ranking on TripAdvisor, which is crucial for attracting new clientele.",
+                    "recruited_sources": [
+                        "Негативные отзывы на платформах (например, TripAdvisor, Google Reviews)",
+                        "Социальные сети",
+                        "Платформы отзывов (например, TripAdvisor, Google Reviews)",
+                        "Клиенты"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Increase investment in high-ranking tourism-related businesses",
+                    "current_action": "Researching potential investment opportunities in the tourism sector",
+                    "imposed_goal": "Achieve a top 10 ranking on TripAdvisor for portfolio companies",
+                    "imposed_action": "Allocate funds to enhance customer experience and service quality at targeted businesses",
+                    "mechanism": "Implement a performance tracking system that monitors TripAdvisor ratings and customer feedback for all portfolio companies",
+                    "reasoning": "The proposal from 'TripAdvisor ranking' aligns well with the desires of 'Инвесторы' to achieve a top ranking for portfolio companies and secure long-term income from investments in promising startups. By leveraging the AI-powered 'Review Authenticity Index', the concerns regarding the authenticity of reviews are mitigated, which in turn reduces the risk of losing invested funds due to misinformation. This new approach not only addresses the issue of fake reviews but also enhances customer experience and service quality, leading to better performance and higher rankings on TripAdvisor.",
+                    "recruited_sources": [
+                        "Аналитические компании",
+                        "Конкуренты на рынке стартапов",
+                        "Стартапы",
+                        "Финансовые аналитики"
+                    ]
+                }
+            },
+            {
+                "participant": "Managers",
+                "agreement_structure": {
+                    "current_goal": "Improve customer service ratings",
+                    "current_action": "Conducting training sessions for staff",
+                    "imposed_goal": "Achieve a Top 10 ranking on TripAdvisor",
+                    "imposed_action": "Implement a customer feedback system and respond to reviews within 24 hours",
+                    "mechanism": "Monthly performance reviews based on TripAdvisor rankings and user feedback analysis",
+                    "reasoning": "The proposal from 'TripAdvisor ranking' aligns with the current resolution initiated by 'Managers' to combat fake reviews and improve the overall customer experience. By implementing an AI-powered 'Review Authenticity Index', 'Managers' can enhance the credibility of feedback received, which is essential for achieving a top ranking on TripAdvisor. This system not only addresses the immediate concern of fake reviews but also provides a structured approach to improving service ratings through genuine customer feedback. Therefore, it supports the overarching goal of building a trustworthy platform while simultaneously advancing 'Managers' interests.",
+                    "recruited_sources": [
+                        "Employees",
+                        "Corporate Executives",
+                        "Organizational Culture",
+                        "Corporate Policies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-clients are essential as they are the primary users of TripAdvisor and their genuine feedback is crucial for the Review Authenticity Index. Their engagement and trust in the platform will help validate the effectiveness of the AI-powered solution."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are important stakeholders as they are directly impacted by reviews. Gaining their support and input will help ensure the Review Authenticity Index is fair and accurately reflects the quality of the establishments, thus promoting their participation and adherence to the new system."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are key to securing the necessary funding and resources to develop and implement the AI-powered Review Authenticity Index. Their backing will also lend credibility to the initiative and help in scaling it effectively."
+            },
+            {
+                "participant": "Managers",
+                "reasoning": "Managers, particularly those in charge of overseeing the implementation and monitoring of the platform, will be crucial in executing the strategy. Their expertise will ensure the operational success of the Review Authenticity Index and its integration with TripAdvisor's existing systems."
+            }
+        ],
+        "recruited_sources": [
+            "Стартапы",
+            "Corporate Policies",
+            "Финансовые аналитики",
+            "Конкуренты на рынке стартапов",
+            "Corporate Executives",
+            "Негативные отзывы на платформах (например, TripAdvisor, Google Reviews)",
+            "Клиенты",
+            "Аналитические компании",
+            "Онлайн-отзывы и рейтинги",
+            "Платформы для отзывов (TripAdvisor, Google Reviews)",
+            "Employees",
+            "Travelers/Consumers",
+            "Некачественные рестораны",
+            "Платформы отзывов (например, TripAdvisor, Google Reviews)",
+            "Hotel Owners",
+            "Organizational Culture",
+            "Платформы отзывов (например, TripAdvisor)",
+            "Local Restaurants",
+            "User Reviews",
+            "Сайты отзывов",
+            "Competitor Review Sites",
+            "Социальные сети",
+            "Негативные отзывы и рейтинги"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Travelers/Consumers",
+                "Local Restaurants",
+                "Hotel Owners",
+                "Competitor Review Sites",
+                "User Reviews"
+            ]
+        }
+    }
+]

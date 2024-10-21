@@ -1,0 +1,148 @@
+[
+    {
+        "initiator": "Volume",
+        "resolution_description": "As 'Volume', implement a blockchain-based transparent trading platform that democratizes access to financial data and transaction histories, allowing individual investors to directly engage in equitable trades with large financial funds under a decentralized and fair market structure.",
+        "new_actor": "DecentralTrade Hub",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "Initiator: XG-9, Resolution: Implement a decentralized AI-driven investment cooperative that autonomously identifies, pools, and allocates individual investor resources into diversified micro-investment portfolios, leveraging machine learning algorithms to predict and counteract large fund strategies while ensuring equitable profit distribution among participants.",
+        "new_actor": "DecentralAI InvestCooperative",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are essential for the success of the decentralized AI-driven investment cooperative. Their active participation will ensure a diverse pool of capital and investment preferences, which is critical for creating balanced micro-investment portfolios."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques will play a crucial role in understanding market trends and investor behavior. By leveraging these techniques, the cooperative can enhance its machine learning algorithms to make more informed investment decisions and counteract large fund strategies effectively."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', I propose the creation of a global, decentralized financial literacy and strategy platform powered by an AI mentor system that customizes educational pathways and strategic insights for individual investors, empowering them with the knowledge and tools to independently identify and exploit market inefficiencies before large financial funds can act.",
+        "new_actor": "FinMentor AI Network",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose creating an adaptive, self-regulating investment ecosystem powered by quantum computing algorithms that dynamically adjust market conditions in real-time, providing individual investors with personalized, predictive insights and strategies that inherently neutralize large financial funds' advantages by continuously recalibrating market equilibria.",
+        "new_actor": "QuantumInvest Equilibrium Agent",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (retail investors) are crucial to the success of the proposed adaptive investment ecosystem as they will benefit most from personalized insights and strategies. Their engagement and participation will help to create a balanced market environment that counteracts the advantages held by larger financial funds."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for understanding market emotions and trends. Integrating these techniques into the ecosystem will enhance the predictive capabilities of the quantum algorithms, allowing for real-time adjustments based on the collective sentiment of investors."
+            }
+        ],
+        "recruited_sources": [
+            "Financial Analysts",
+            "Investors",
+            "Market Volatility",
+            "Market Trends"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Trends",
+                "Investors",
+                "Financial Analysts",
+                "Market Volatility"
+            ]
+        }
+    },
+    {
+        "initiator": "SEC",
+        "resolution_description": "As 'SEC', I propose the creation of a regulatory framework that mandates large financial funds to transparently share their high-frequency trading algorithms and decision-making processes with the public in real-time, thereby leveling the playing field by allowing individual investors to access and understand the strategic mechanisms that drive market dynamics.",
+        "new_actor": "Market Transparency Oversight Entity (MTOE)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Short squeeze",
+        "resolution_description": "As 'Short squeeze', I propose the creation of a decentralized, real-time market intervention platform that empowers individual investors to collectively initiate legally compliant short squeezes against large financial funds, redistributing market power by leveraging crowd-sourced capital and strategic coordination to temporarily invert traditional market dynamics and create opportunities for individual profit.",
+        "new_actor": "\"Collective Squeeze Platform\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (retail investors) are crucial for the success of the short squeeze resolution as they form the collective base that will participate in the market intervention. Their collective action can generate the necessary buying pressure to initiate a short squeeze."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit serves as a vital communication platform for organizing and strategizing among retail investors. It can amplify the message and coordinate efforts to initiate short squeezes, leveraging the community's collective knowledge and enthusiasm."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "WallStreetBets community is a powerful and influential group that has previously successfully engaged in short squeezes. Their involvement can provide the necessary momentum and community support to effectively mobilize retail investors."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the establishment of a global, AI-driven \"Collective Intelligence Network\" that incentivizes and harnesses the diverse insights and strategies of individual investors by dynamically aggregating and analyzing their collective decision-making patterns to autonomously develop and execute large-scale, coordinated investment strategies that effectively neutralize the influence of large financial funds while promoting shared profits and market inclusivity.",
+        "new_actor": "Global Collective Intelligence Investment Network (GCIIN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the Collective Intelligence Network as they are the primary source of diverse insights and strategies that the network aims to aggregate and analyze."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Брокеры (brokers) play a vital role in facilitating trades and connecting small investors with the market. Their involvement will ensure that the automated strategies can be executed efficiently across various platforms."
+            }
+        ],
+        "recruited_sources": [
+            "Livestock Farmers",
+            "Government Regulations",
+            "Agricultural Policy Makers",
+            "Regulatory bodies",
+            "Local communities"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Agricultural Policy Makers",
+                "Livestock Farmers",
+                "Local communities",
+                "Government Regulations",
+                "Regulatory bodies"
+            ]
+        }
+    },
+    {
+        "initiator": "Liquidity",
+        "resolution_description": "As 'Liquidity', I propose the development of a global, decentralized liquidity-sharing network that automatically allocates and optimizes the flow of capital between individual investors based on real-time demand signals and market conditions, effectively diluting the concentration of financial power held by large funds and fostering a collaborative, resilient investment ecosystem where individuals can seamlessly leverage collective liquidity to access profitable opportunities.",
+        "new_actor": "DecentralizedLiquidityNetwork",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (Small Investors) are crucial for the liquidity-sharing network as they represent the primary users who will benefit from improved access to capital and investment opportunities. Their participation will help create a more resilient investment ecosystem."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (Stock Prices) is an essential factor in determining the real-time demand signals and market conditions that the liquidity-sharing network must analyze to optimize capital allocation among investors."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors are a key participant in the network, as their engagement and contributions are fundamental to the functionality of the liquidity-sharing system, ensuring that capital flows effectively among them."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood is a significant platform that caters to small investors, and its integration into the liquidity-sharing network can facilitate seamless access for a larger pool of individual investors, enhancing the overall effectiveness of the proposed solution."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

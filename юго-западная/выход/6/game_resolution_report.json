@@ -1,0 +1,299 @@
+[
+    {
+        "initiator": "Trail Paths",
+        "resolution_description": "\"Trail Paths' will implement an adaptive urban design platform powered by real-time user feedback and AI-driven simulations, allowing city spaces to evolve dynamically in response to the changing needs and interests of their users.\"",
+        "new_actor": "Adaptive Urban Evolution Platform (AUEP)",
+        "participants": [
+            {
+                "participant": "Места предполагаемого интереса",
+                "agreement_structure": {
+                    "current_goal": "Identify popular tourist spots in the area",
+                    "current_action": "Researching local attractions and gathering information",
+                    "imposed_goal": "Create a comprehensive list of must-visit places",
+                    "imposed_action": "Compile and categorize the identified tourist spots",
+                    "mechanism": "Utilize a collaborative online document for sharing and updating information",
+                    "reasoning": "The proposed resolution by 'Trail Paths' aligns with my desire to attract more visitors, students, residents, and employees by creating a dynamic urban environment that adapts to user needs. The implementation of an adaptive urban design platform that utilizes real-time feedback and AI-driven simulations will enhance the appeal of tourist spots, making them more accessible and relevant, which directly addresses my fear of losing attractiveness due to inconvenient transportation. This collaborative approach will also ensure that the information about must-visit places is continuously updated and relevant.",
+                    "recruited_sources": [
+                        "Транспортные компании",
+                        "Транспортная инфраструктура"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Места предполагаемого интереса",
+                "reasoning": "Identifying places of interest is vital for the platform's success, as it will help tailor the urban design to meet the preferences and needs of users, ensuring the spaces are vibrant and engaging."
+            }
+        ],
+        "recruited_sources": [
+            "Транспортные компании",
+            "Транспортная инфраструктура",
+            "Local Community",
+            "Local Wildlife",
+            "Hikers",
+            "Urban Developers",
+            "Local Government"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Hikers",
+                "Local Wildlife",
+                "Local Community",
+                "Urban Developers",
+                "Local Government"
+            ]
+        }
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic Trail\" will transform urban spaces into multi-sensory culinary ecosystems, where the design and functionality of public areas are continuously reshaped by the diverse cultural and gastronomic experiences of the community, fostering a dynamic environment that adapts to the evolving tastes and preferences of its users.",
+        "new_actor": "CulinaryEcosystemArchitect",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Local Government",
+            "Industrial Agriculture",
+            "Local Farmers",
+            "Local restaurants",
+            "Local farmers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Industrial Agriculture",
+                "Local farmers",
+                "Local restaurants",
+                "Local Farmers",
+                "Local Government"
+            ]
+        }
+    },
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "\"Пассажиры\" will introduce a decentralized urban symbiosis network that empowers citizens to co-create and spontaneously modify their environments through a blockchain-powered system of shared resources and collective decision-making, ensuring urban spaces are continuously and organically aligned with the collective aspirations and needs of their users.",
+        "new_actor": "The actor that will be created is \"Decentralized Urban Symbiosis Network (DUSN)\".",
+        "participants": [
+            {
+                "participant": "Администрация",
+                "agreement_structure": {
+                    "current_goal": "Ensure passenger safety and comfort during travel",
+                    "current_action": "Conduct regular maintenance checks and provide customer service support",
+                    "imposed_goal": "Enhance passenger experience by implementing more efficient boarding processes",
+                    "imposed_action": "Introduce automated check-in kiosks and streamline boarding procedures",
+                    "mechanism": "Deploy technology solutions and conduct staff training to ensure a smooth transition to the new processes",
+                    "reasoning": "The proposed resolution aligns with 'Администрация's' desires to improve urban environments and satisfy the needs of residents. By empowering citizens through a decentralized network, 'Пассажиры' can foster community engagement and ensure that urban spaces evolve according to the collective aspirations of users. This approach not only enhances the passenger experience but also helps mitigate fears of citizen dissatisfaction and criticism by involving them directly in the decision-making process.",
+                    "recruited_sources": [
+                        "Экологические организации",
+                        "Гражданское общество",
+                        "Законы и нормативные акты",
+                        "Граждане"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Администрация",
+                "reasoning": "Engaging with the administration is essential for gaining the necessary permissions and support to implement the blockchain-powered system, ensuring alignment with local governance and regulations."
+            }
+        ],
+        "recruited_sources": [
+            "Граждане",
+            "Гражданское общество",
+            "Технологии навигации",
+            "Транспортные компании",
+            "Законы и нормативные акты",
+            "Экологические организации"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Технологии навигации",
+                "Транспортные компании"
+            ]
+        }
+    },
+    {
+        "initiator": "Выход из метро",
+        "resolution_description": "\"Выход из метро\" will pioneer an urban transformation initiative that leverages underground infrastructure to create a network of subterranean hubs, offering flexible, multifunctional spaces that can be rapidly reconfigured to accommodate community-driven projects and pop-up events, thereby extending the urban experience beyond traditional surface-level interactions and fostering a new dimension of adaptive urban living.",
+        "new_actor": "\"Subterra Urban Innovator\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Пассажиры метро",
+            "Новые технологии оплаты проезда",
+            "Государственные органы",
+            "Система автоматизации метро",
+            "Пассажиры"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Пассажиры",
+                "Пассажиры метро",
+                "Новые технологии оплаты проезда",
+                "Государственные органы",
+                "Система автоматизации метро"
+            ]
+        }
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "\"African Cities\" will harness indigenous knowledge systems and community storytelling to create a living urban tapestry, where spaces are continuously reimagined and reshaped through cultural narratives and ancestral wisdom, fostering a uniquely dynamic urban environment that evolves in harmony with its people's heritage and aspirations.",
+        "new_actor": "\"African Urban Cultural Narratives Catalyst\"",
+        "participants": [
+            {
+                "participant": "Cities",
+                "agreement_structure": {
+                    "current_goal": "Improve urban sustainability and resilience",
+                    "current_action": "Implementing green infrastructure projects",
+                    "imposed_goal": "Achieve carbon neutrality by 2030",
+                    "imposed_action": "Develop a comprehensive climate action plan",
+                    "mechanism": "Establish a coalition of local governments to share best practices and resources",
+                    "reasoning": "The proposal presented by 'African Cities' aligns with the overarching goals of 'Cities' to enhance urban sustainability and resilience while also enabling the achievement of carbon neutrality by 2030. By integrating indigenous knowledge and community storytelling into urban planning, 'Cities' can foster a more dynamic and culturally relevant urban environment. This collaboration not only supports the ecological transformation initiative but also enriches urban spaces with cultural narratives, enhancing social cohesion and community engagement. Therefore, accepting this proposal is beneficial for 'Cities' as it addresses both environmental and community needs.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Governments",
+                        "Government",
+                        "Climate Change",
+                        "Suburban Areas",
+                        "Local Government"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Cities",
+                "reasoning": "Cities themselves are fundamental participants as they provide the context within which the resolution will be implemented. Engaging city representatives will ensure that the resolution aligns with existing urban policies and frameworks, facilitating smoother integration of indigenous knowledge and community narratives."
+            }
+        ],
+        "recruited_sources": [
+            "Global Capital Markets",
+            "Multinational Corporations",
+            "Local Businesses",
+            "Real Estate Developers",
+            "Suburban Areas",
+            "Local Governments",
+            "Government",
+            "Urban planners",
+            "Local Government",
+            "Climate Change",
+            "Governments"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Real Estate Developers",
+                "Urban planners",
+                "Multinational Corporations",
+                "Local Governments",
+                "Global Capital Markets"
+            ]
+        }
+    },
+    {
+        "initiator": "Smart city",
+        "resolution_description": "\"Smart City\" will introduce a bio-integrated urban ecosystem that leverages living architecture and responsive biosensors to create self-regulating urban environments, allowing city spaces to autonomously adapt and thrive in harmony with human activity and environmental changes, ensuring a perpetual alignment with the evolving needs and well-being of their inhabitants.",
+        "new_actor": "BioSynced Urban Ecosystem Manager",
+        "participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "agreement_structure": {
+                    "current_goal": "Создание привлекательного и функционального ландшафта для городской среды",
+                    "current_action": "Разработка дизайн-проектов и выбор растений для озеленения",
+                    "imposed_goal": "Устойчивое развитие городского ландшафта с учетом экологии и общественного мнения",
+                    "imposed_action": "Интеграция устойчивых практик озеленения и вовлечение сообщества в процесс планирования",
+                    "mechanism": "Создание рабочей группы, включающей местных жителей и экспертов, для совместной разработки и утверждения ландшафтных проектов",
+                    "reasoning": "The proposal from 'Smart City' aligns well with the desires of 'Менеджеры и дизайнеры, отвечавшие за ландшафт' to create aesthetically pleasing and functional urban spaces. By integrating sustainable practices and involving the community in the planning process, it addresses the current fears regarding criticism due to a lack of alignment with the actual needs of users. The opportunity to have a say in the design process through a working group with local residents and experts further enhances the likelihood of meeting the real needs of the community, thereby mitigating potential criticism.",
+                    "recruited_sources": [
+                        "Горожане",
+                        "Города и урбанистические тенденции",
+                        "Городские власти",
+                        "Градостроительный комитет",
+                        "Градостроительные нормы и правила",
+                        "Критики и эксперты в области градостроительства"
+                    ]
+                }
+            },
+            {
+                "participant": "Sustainability concept",
+                "agreement_structure": {
+                    "current_goal": "Reduce carbon emissions in urban areas",
+                    "current_action": "Implementing renewable energy solutions and promoting public transportation",
+                    "imposed_goal": "Achieve a 50% reduction in urban carbon footprint by 2030",
+                    "imposed_action": "Develop a comprehensive sustainability plan that includes green building standards and waste reduction initiatives",
+                    "mechanism": "Establish a partnership with local governments and organizations to provide resources and support for sustainability projects",
+                    "reasoning": "The proposed resolution from 'Smart City' aligns with the overarching goal of achieving significant reductions in urban carbon emissions. By implementing a bio-integrated urban ecosystem that adapts to both human activity and environmental changes, 'Sustainability concept' can enhance its impact and effectiveness. This approach not only offers a more innovative path to reach a 50% reduction in the urban carbon footprint by 2030 but also ensures that the initiatives are responsive to the evolving needs of the community. The partnership with local governments and organizations for resources and support further strengthens the sustainability efforts, making this proposal beneficial for 'Sustainability concept'.",
+                    "recruited_sources": [
+                        "Agricultural Corporations",
+                        "Corporate Sector",
+                        "Environmental NGOs",
+                        "Environmental Policies",
+                        "Consumer Culture",
+                        "Government Policies"
+                    ]
+                }
+            },
+            {
+                "participant": "Tourism authorities",
+                "agreement_structure": {
+                    "current_goal": "Increase tourist footfall and enhance visitor experiences in the city.",
+                    "current_action": "Promoting local attractions through marketing campaigns and partnerships with travel agencies.",
+                    "imposed_goal": "Integrate smart technologies to provide real-time information and enhance tourist engagement.",
+                    "imposed_action": "Implement a smart tourism app that offers personalized recommendations and navigational support.",
+                    "mechanism": "Establish a collaboration framework with tech developers and local businesses to co-create the smart tourism app and ensure its accessibility to all visitors.",
+                    "reasoning": "The proposal from 'Smart City' aligns well with the interests of 'Tourism authorities' by integrating smart technologies that enhance tourist engagement. The implementation of a smart tourism app will provide real-time information and personalized recommendations, significantly improving the visitor experience. This initiative not only supports the goal of increasing tourist footfall but also addresses the need for modern, tech-savvy solutions in urban tourism. Additionally, collaborating with tech developers and local businesses fosters a sense of community and ensures the accessibility of the app to all visitors, which is essential for promoting local attractions.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Local Communities",
+                        "Government Policies",
+                        "Environmental Activists"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape are crucial for integrating living architecture and biosensors into urban environments. Their expertise will ensure the design aligns with the ecosystem's self-regulating needs."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is essential for the smart city initiative as it provides the framework for environmentally friendly practices and ensures that urban ecosystems work in harmony with human activities."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important for promoting the smart city initiative, as a bio-integrated urban ecosystem can enhance the appeal of cities and attract visitors, thereby supporting local economies and sustainability efforts."
+            }
+        ],
+        "recruited_sources": [
+            "Environmental NGOs",
+            "Environmental Policies",
+            "Corporate Sector",
+            "Градостроительные нормы и правила",
+            "Government Policies",
+            "Городские власти",
+            "Критики и эксперты в области градостроительства",
+            "Градостроительный комитет",
+            "Горожане",
+            "Города и урбанистические тенденции",
+            "Local Businesses",
+            "Local Communities",
+            "Environmental Activists",
+            "Bureaucratic Regulations",
+            "Agricultural Corporations",
+            "Urban Technology Providers",
+            "Local Government",
+            "IoT devices",
+            "Traditional Urban Infrastructure",
+            "Consumer Culture"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Traditional Urban Infrastructure",
+                "Bureaucratic Regulations",
+                "IoT devices",
+                "Urban Technology Providers",
+                "Local Government"
+            ]
+        }
+    }
+]

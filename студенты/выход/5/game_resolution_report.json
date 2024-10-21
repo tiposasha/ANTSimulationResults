@@ -1,0 +1,205 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Resolution: \"Implement a blockchain-based portfolio assessment system that records and verifies a student's ongoing learning processes, achievements, and reflections across diverse contexts, ensuring transparency, authenticity, and a holistic understanding of their knowledge and skills while upholding academic integrity.\"",
+        "new_actor": "\"Blockchain Academic Portfolio Verifier\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Academic Institutions",
+            "Plagiarism Detection Software",
+            "Educational Institutions",
+            "Plagiarism"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Plagiarism",
+                "Academic Institutions",
+                "Educational Institutions",
+                "Plagiarism Detection Software"
+            ]
+        }
+    },
+    {
+        "initiator": "Machine learning classification model",
+        "resolution_description": "Initiate a dynamic, adaptive learning ecosystem where machine learning models continuously analyze and adjust to individual student learning styles, preferences, and progress, providing real-time, tailored feedback and assessments that truly reflect their knowledge and potential, thus redefining the evaluation paradigm.",
+        "new_actor": "Adaptive Learning Facilitator Model",
+        "participants": [
+            {
+                "participant": "Работодатели",
+                "agreement_structure": {
+                    "current_goal": "Найти квалифицированных кандидатов для открытых вакансий",
+                    "current_action": "Публикация вакансий на различных платформах",
+                    "imposed_goal": "Увеличить точность подбора кандидатов с помощью модели машинного обучения",
+                    "imposed_action": "Интегрировать модель машинного обучения в процесс подбора кандидатов",
+                    "mechanism": "Использовать алгоритмы классификации для анализа резюме и сопоставления их с требованиями вакансий",
+                    "reasoning": "The proposed resolution aligns perfectly with the desires of 'Работодатели' to hire competent graduates with real knowledge and skills. By implementing a dynamic, adaptive learning ecosystem that utilizes machine learning models to analyze individual student learning styles and provide tailored feedback, 'Работодатели' can enhance the accuracy of candidate selection. This approach also addresses the current fears regarding hiring candidates whose diplomas do not reflect their actual abilities, as it promises a more accurate assessment of a candidate's true potential and competencies.",
+                    "recruited_sources": [
+                        "Выпускники",
+                        "Образовательные учреждения",
+                        "Университеты",
+                        "Кандидаты с неадекватными дипломами"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers can provide valuable insights into the skills and knowledge that are most relevant in the job market. Their involvement ensures that the adaptive learning system aligns with industry needs, enhancing the employability of students."
+            }
+        ],
+        "recruited_sources": [
+            "Образовательные учреждения",
+            "Data Analyst",
+            "Data Scientist",
+            "Университеты",
+            "Data Sources",
+            "Кандидаты с неадекватными дипломами",
+            "Выпускники",
+            "Data Preprocessing Techniques",
+            "Traditional statistical models",
+            "Data Bias"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Data Bias",
+                "Data Sources",
+                "Data Preprocessing Techniques",
+                "Traditional statistical models",
+                "Data Analyst",
+                "Data Scientist"
+            ]
+        }
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiate a collaborative, student-led knowledge assessment platform where students design and participate in peer-reviewed projects and challenges across disciplines, fostering a community-driven evaluation system that emphasizes creativity, critical thinking, and real-world application of skills.",
+        "new_actor": "Peer-Led Assessment Innovator (PLAI)",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Understand the course material thoroughly",
+                    "current_action": "Attending lectures and completing assignments",
+                    "imposed_goal": "Achieve a minimum grade of B on the final exam",
+                    "imposed_action": "Participate in weekly study groups and review sessions",
+                    "mechanism": "Organize structured study sessions with peer tutors and provide access to additional resources",
+                    "reasoning": "The proposed resolution aligns with the desires of 'Студенты' to achieve good grades and acquire useful knowledge while minimizing effort. By participating in collaborative, student-led assessments, students can engage in a more meaningful learning experience that emphasizes real-world applications and creativity. This approach mitigates the fear of being caught cheating, as it encourages genuine participation and skill development through peer interaction and structured study sessions. Overall, this proposal presents an opportunity for both academic success and personal growth.",
+                    "recruited_sources": [
+                        "Университет",
+                        "Система оценки",
+                        "Учебные заведения",
+                        "Система оценивания",
+                        "Учебные материалы"
+                    ]
+                }
+            },
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Improve student engagement in online classes",
+                    "current_action": "Conducting interactive quizzes and discussions",
+                    "imposed_goal": "Increase overall student performance by 20%",
+                    "imposed_action": "Implement personalized feedback sessions for each student",
+                    "mechanism": "Weekly progress tracking and a feedback loop involving both students and teachers",
+                    "reasoning": "The proposed resolution aligns with the desires of 'Преподаватели' to effectively convey knowledge and objectively assess students through a collaborative, student-led knowledge assessment platform. This approach not only enhances student engagement and promotes creativity and critical thinking but also provides an opportunity for personalized feedback through weekly progress tracking, which can help mitigate fears about losing control over the learning process. The focus on peer-reviewed projects and community-driven evaluation supports a more holistic understanding of students' capabilities while upholding academic integrity.",
+                    "recruited_sources": [
+                        "Образовательные технологии",
+                        "Новые технологии списывания",
+                        "Технологии обучения",
+                        "Технологии образовательного процесса",
+                        "Новые технологии обучения"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Enhance collaborative teaching methodologies among colleagues.",
+                    "current_action": "Conduct regular meetings to share best practices and resources.",
+                    "imposed_goal": "Implement a standardized curriculum framework across all subjects.",
+                    "imposed_action": "Develop and submit a new curriculum plan that aligns with the framework.",
+                    "mechanism": "Provide workshops and resources to support the development of the standardized curriculum.",
+                    "reasoning": "The proposed resolution aligns with our desire to maintain high educational standards and adapt to new technologies by implementing a collaborative, student-led knowledge assessment platform. This approach fosters creativity, critical thinking, and real-world application of skills, which are essential in modern education. Additionally, by participating in the development of a standardized curriculum framework, we can help mitigate our fears of losing relevance in traditional teaching methods and assessments, ensuring that our practices evolve in line with contemporary educational needs.",
+                    "recruited_sources": [
+                        "Образовательные стандарты",
+                        "Образовательные технологии",
+                        "Традиционные методы обучения",
+                        "Технологические компании",
+                        "Новые технологии в образовании"
+                    ]
+                }
+            },
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance student engagement through personalized learning experiences.",
+                    "current_action": "Utilizing AI algorithms to analyze student performance and preferences.",
+                    "imposed_goal": "Increase overall student achievement by 20% in standardized assessments.",
+                    "imposed_action": "Implement adaptive learning technologies that provide tailored resources and assessments.",
+                    "mechanism": "Regular progress monitoring and feedback loops integrated into the AI system to adjust learning paths accordingly.",
+                    "reasoning": "The proposed resolution aligns well with the goals of 'AI-enabled learning' to enhance student engagement and achievement through personalized learning experiences. By initiating a collaborative, student-led knowledge assessment platform, 'AI-enabled learning' can leverage adaptive learning technologies to provide tailored resources and assessments, ultimately benefiting students and increasing their real-world application of skills. This scenario not only addresses the existing issues with current assessment methods but also enhances the overall educational ecosystem, making it a beneficial proposal.",
+                    "recruited_sources": [
+                        "Educators",
+                        "Government Regulations",
+                        "Educational Institutions",
+                        "Educators/Teachers"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary stakeholders in the proposed platform. Their active participation in designing and engaging with peer-reviewed projects and challenges is essential for fostering a community-driven evaluation system that emphasizes creativity and real-world application of skills."
+            },
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers play a critical role in guiding and facilitating the collaborative projects. Their expertise in various disciplines will help ensure that the assessments are meaningful and aligned with educational goals."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "A community of colleagues, including other educators and researchers, is vital for providing support, sharing best practices, and ensuring the validity and reliability of the assessment processes within the platform."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can enhance the platform by providing personalized feedback, analyzing student performance, and facilitating the peer-review process, thereby improving the overall quality of the assessments."
+            }
+        ],
+        "recruited_sources": [
+            "student",
+            "students",
+            "Новые технологии обучения",
+            "Система оценки",
+            "Университет",
+            "Традиционные методы обучения",
+            "Образовательные стандарты",
+            "Новые технологии списывания",
+            "Технологии образовательного процесса",
+            "Учебные материалы",
+            "Технологические компании",
+            "Образовательные технологии",
+            "Новые технологии в образовании",
+            "Educational Institutions",
+            "Educators",
+            "Система оценивания",
+            "Учебные заведения",
+            "Технологии обучения",
+            "curriculum standards",
+            "Educational Institution",
+            "Government Regulations",
+            "School Administration",
+            "Educators/Teachers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Educational Institution",
+                "curriculum standards",
+                "student",
+                "School Administration",
+                "students"
+            ]
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "As 'TripAdvisor ranking', I propose the development of an AI-driven authenticity scoring system that evaluates the linguistic patterns, reviewer history, and cross-platform behavior of reviews to dynamically adjust their influence on a business's ranking, ensuring only credible reviews impact the overall score.",
+        "new_actor": "AI-Driven Authenticity Scoring System",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are crucial as they will drive the development and implementation of the AI-driven authenticity scoring system. Their vision and expertise will be key to ensuring the system can accurately evaluate reviews based on linguistic patterns and reviewer history."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourist customers are essential participants as their feedback and behavior will be the primary data source for the authenticity scoring system. Their experiences and trust in the platform will directly influence the system's effectiveness and acceptance."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are important stakeholders since the authenticity scoring system will impact their visibility and reputation on TripAdvisor. Their input will help tailor the scoring system to reflect genuine customer experiences and ensure it addresses their concerns."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are vital for securing the necessary funding and resources to develop and maintain the AI-driven system. Their support can facilitate research, technology acquisition, and marketing efforts to promote the new scoring system."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Hotel Managers",
+        "resolution_description": "As 'Hotel Managers', we propose establishing a global consortium of trusted hospitality professionals who conduct periodic, anonymous, in-person evaluations of restaurants and tourist spots, offering verified reviews that carry special certification and influence, thereby ensuring authenticity and reliability while fostering a community of accountability and trust.",
+        "new_actor": "Global Hospitality Evaluation Consortium (GHEC)",
+        "participants": [],
+        "required_participants": []
+    }
+]

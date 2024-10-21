@@ -1,0 +1,201 @@
+[
+    {
+        "initiator": "Sentiment analysis techniques",
+        "resolution_description": "Implement sentiment analysis techniques to create a real-time, transparent emotional market index that empowers individual investors by highlighting emotional market trends and potential manipulations by large financial funds, fostering informed decision-making and collective resilience.",
+        "new_actor": "Emotional Market Index Enabler (EMIE)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (retail investors) are essential as they are the primary beneficiaries of the sentiment analysis techniques. Empowering them with real-time insights into emotional market trends can lead to more informed decision-making and reduce their susceptibility to market manipulations."
+            },
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) plays a crucial role in regulating financial markets. Their involvement is necessary to ensure that the sentiment analysis techniques comply with regulatory standards and to enhance the credibility of the emotional market index."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) serves as a critical indicator of market sentiment and trends. Including it in the sentiment analysis can provide a quantitative basis for the emotional market index, making it more robust and informative for investors."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Volume",
+        "resolution_description": "Initiator: Volume, Resolution: Develop a decentralized, blockchain-based trading platform that democratizes access to financial data and trade execution, allowing individual investors to leverage collective bargaining power and execute trades anonymously and simultaneously, diminishing the influence of large financial funds on individual market opportunities.",
+        "new_actor": "DecentralTrade Nexus",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', I propose the creation of an AI-driven financial advisor platform that offers personalized, real-time investment strategies and risk assessments for individual investors, dynamically adapting to market conditions and neutralizing large fund strategies by leveraging advanced predictive analytics and machine learning algorithms.",
+        "new_actor": "The name of the actor that will be created is \"FinWise AI Advisor.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary target audience for the AI-driven financial advisor platform. Their need for personalized investment strategies and risk assessments aligns perfectly with the platform's offerings, making their involvement crucial for user adoption and success."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Брокеры (brokers) play a significant role in the financial ecosystem, providing access to markets and influencing investor behavior. Partnering with brokers can enhance the credibility of the platform and facilitate smoother transactions for users."
+            },
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is essential for ensuring compliance with regulatory frameworks. Engaging with the SEC will help in navigating legal requirements and building trust with users, ensuring the platform operates within legal boundaries."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is influential in shaping market trends and sentiment, especially regarding meme stocks. Engaging with this community can drive interest and usage of the platform, leveraging their collective knowledge and experiences to enhance the advisor's capabilities."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', I propose the creation of a dynamic, global cooperative investment network that leverages collective intelligence and diverse financial expertise from individual investors worldwide, creating a shared profit ecosystem where investment strategies are crowd-sourced and collectively executed, thus decentralizing influence and reducing the monopolistic power of large financial funds.",
+        "new_actor": "Global Cooperative Investment Network (GCIN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are crucial for the success of the proposed cooperative investment network, as they will provide the collective intelligence and diverse perspectives needed to create effective crowd-sourced investment strategies."
+            }
+        ],
+        "recruited_sources": [
+            "Political Authority (PA)",
+            "Information Sources (Media, News Outlets)",
+            "Stakeholders (e.g., investors, community members)",
+            "Regulatory Body",
+            "Information Technology Systems",
+            "Social Media Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Political Authority (PA)",
+                "Information Technology Systems",
+                "Stakeholders (e.g., investors, community members)",
+                "Social Media Platforms",
+                "Information Sources (Media, News Outlets)",
+                "Regulatory Body"
+            ]
+        }
+    },
+    {
+        "initiator": "Investors",
+        "resolution_description": "As 'Investors', we propose the establishment of a global \"Fair Play\" financial rating system that publicly scores and ranks large financial funds based on their ethical investment practices and impact on market fairness, incentivizing transparency and accountability while empowering individual investors to make informed decisions through a universally recognized trust index.",
+        "new_actor": "Global Fair Play Financial Rating System",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is crucial for legitimizing the 'Fair Play' financial rating system. Their involvement would ensure regulatory compliance, enhance credibility, and facilitate the establishment of standards for ethical investment practices."
+            },
+            {
+                "participant": "Regulatory authorities",
+                "reasoning": "Regulatory authorities are essential for the governance and implementation of the rating system. Their support would help create a framework that enforces transparency and accountability among financial funds."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are the primary beneficiaries of the proposed rating system. Their engagement and feedback would ensure that the system addresses their needs and empowers them to make informed investment decisions."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "The price of company stocks is directly influenced by market fairness and ethical investment practices. Monitoring stock prices will provide insights into the effectiveness of the rating system and its impact on market dynamics."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the creation of an open-source, gamified financial simulation platform that empowers individual investors by allowing them to collaboratively experiment with and simulate various market strategies in a risk-free environment, thus leveling the playing field and fostering innovation and strategic insight that can be collectively mobilized against large financial funds.",
+        "new_actor": "OpenSim InvestNet",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are the primary target audience for the proposed platform. Engaging them will ensure that the platform meets their needs and encourages collaborative experimentation, which is essential for leveling the playing field against large financial funds."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood's platform is widely used by individual investors and their integration or partnership could facilitate easier access to the simulation platform. It can also help in reaching a larger audience of retail investors who are already familiar with trading and investing."
+            }
+        ],
+        "recruited_sources": [
+            "Market Trends",
+            "Market Analysts",
+            "Financial Markets",
+            "Market Competitors",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Financial Markets",
+                "Regulatory Bodies",
+                "Market Analysts",
+                "Market Competitors",
+                "Market Trends"
+            ]
+        }
+    },
+    {
+        "initiator": "Meme stocks",
+        "resolution_description": "As 'Meme stocks', I propose the creation of a viral, community-driven investment challenge platform that gamifies stock market engagement by encouraging individual investors to participate in themed, short-term trading competitions, leveraging the power of social media virality and collective enthusiasm to disrupt traditional market dynamics and diminish the influence of large financial funds, all while fostering a sense of community and empowerment among retail investors.",
+        "new_actor": "TradeMeme Challenge Platform",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forum) is essential for promoting the platform and creating community engagement. It serves as a powerful medium for disseminating information, sharing experiences, and rallying support among retail investors, particularly within communities like WallStreetBets."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood is a significant player in the retail investment space, providing a user-friendly platform for trading. Collaborating with Robinhood could facilitate easier access for participants and enhance the overall trading experience for users involved in the investment challenges."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the establishment of a dynamic, AI-powered \"Collective Influence Network,\" where individual investors can temporarily pool their voting rights and capital in a decentralized, trust-based system to collectively influence corporate decisions and market trends, thereby counterbalancing the power of large financial funds and fostering an egalitarian investment ecosystem.",
+        "new_actor": "Collective Influence Network Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the 'Collective Influence Network' as they will be the primary users of the platform, pooling their resources and voting rights to collectively influence corporate decisions."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community has demonstrated significant collective influence in the market, and their engagement would be vital for attracting more small investors to the network and amplifying its impact."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Liquidity",
+        "resolution_description": "As 'Liquidity', I propose the creation of a dynamic, real-time liquidity pool network that allows individual investors to collectively influence market liquidity by temporarily reallocating capital to targeted assets, creating strategic liquidity surges that disrupt large financial funds' market control, foster price stability, and empower retail investors with enhanced market impact.",
+        "new_actor": "The actor created would be named \"Retail Liquidity Surge Network.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (retail investors) are essential for the success of the liquidity pool network, as they will be the primary participants who can collectively contribute capital and drive the strategic liquidity surges intended to disrupt larger financial entities."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit serves as a platform for retail investors to communicate, strategize, and organize efforts collectively. Engaging this community can amplify awareness and participation in the liquidity pool network."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is known for its influence on retail investment trends and meme stocks. Their participation can significantly enhance the visibility and traction of the proposed liquidity pool network among retail investors."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Брокеры are critical in facilitating the transactions and reallocations of capital within the liquidity pool network. Their involvement ensures that the mechanisms for executing trades and reallocating assets are efficient and accessible to individual investors."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

@@ -1,0 +1,473 @@
+[
+    {
+        "initiator": "Copyright Law",
+        "resolution_description": "As 'Copyright Law', propose the establishment of a \"Creative Commons Network\" where copyrighted content is embedded with smart contracts that autonomously manage and monetize data exchanges, incentivizing decentralized content sharing and distribution while ensuring fair compensation for creators, thereby transforming the internet into a collaborative, rights-respecting ecosystem that naturally bypasses client-server bottlenecks.",
+        "new_actor": "CreativeCommons SmartContractor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Правообладатели контента",
+                "reasoning": "Rightsholders are crucial for the success of the Creative Commons Network as they are the original creators of the content. Their participation ensures that the network respects copyright laws while providing a platform for fair compensation and incentivized sharing."
+            },
+            {
+                "participant": "Разработчик протокола",
+                "reasoning": "Protocol developers are essential for designing and implementing the smart contracts and the underlying infrastructure of the Creative Commons Network, ensuring that the technology operates effectively and securely to manage and monetize data exchanges."
+            }
+        ],
+        "recruited_sources": [
+            "Creative Professionals",
+            "International Treaties",
+            "Legal Institutions",
+            "Creative Industries",
+            "Open Source Movement"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Creative Industries",
+                "International Treaties",
+                "Creative Professionals",
+                "Open Source Movement",
+                "Legal Institutions"
+            ]
+        }
+    },
+    {
+        "initiator": "Правообладатели контента",
+        "resolution_description": "As 'Правообладатели контента', propose the creation of a \"Distributed Ledger of Cultural Value\" where content is tokenized and stored on a blockchain, enabling peer-to-peer sharing that not only decentralizes data flow but also dynamically adjusts value and compensation based on real-time cultural impact metrics, thereby incentivizing both creators and consumers to participate in a more fluid, scalable internet ecosystem.",
+        "new_actor": "CulturalValueTokenLedger",
+        "participants": [
+            {
+                "participant": "End-user",
+                "agreement_structure": {
+                    "current_goal": "Access and enjoy digital content legally",
+                    "current_action": "Streaming and downloading content from licensed platforms",
+                    "imposed_goal": "Ensure compliance with copyright laws and support content creators",
+                    "imposed_action": "Verify that all accessed content is licensed and properly attributed",
+                    "mechanism": "Implement a content verification system that checks the licensing status of digital media before access",
+                    "reasoning": "The proposal aligns with my interests as an 'End-user' by facilitating legal access to digital content while ensuring compliance with copyright laws. The concept of a 'Distributed Ledger of Cultural Value' allows for a decentralized and transparent system that not only protects creators' rights but also incentivizes participation from users. This innovative approach addresses potential barriers to content access and promotes a more equitable digital ecosystem, which is beneficial for both creators and consumers.",
+                    "recruited_sources": [
+                        "Technology Platforms",
+                        "Software Developers",
+                        "Technology Providers"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "End-user",
+                "reasoning": "End-users are vital as they are the primary consumers and creators of content. Their engagement will drive the dynamic value and compensation mechanisms, making the system sustainable and responsive to real-time cultural impacts."
+            }
+        ],
+        "recruited_sources": [
+            "Платформы цифрового контента",
+            "Пиратские сайты",
+            "Законодательство об авторском праве",
+            "Платформы распространения контента",
+            "Technology Providers",
+            "Technology Platforms",
+            "Software Developers",
+            "Платформы цифрового распространения",
+            "Незаконные копировщики"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Законодательство об авторском праве",
+                "Платформы цифрового контента",
+                "Платформы цифрового распространения",
+                "Незаконные копировщики",
+                "Пиратские сайты",
+                "Платформы распространения контента"
+            ]
+        }
+    },
+    {
+        "initiator": "The Pirate Bay (TPB)",
+        "resolution_description": "As 'The Pirate Bay (TPB)', propose the implementation of a \"Swarm Network Protocol\" that leverages decentralized peer-to-peer mesh networks and advanced data fragmentation techniques to bypass traditional client-server frameworks, enabling individuals to freely share and access content while maintaining privacy and autonomy, thereby democratizing internet scalability and positioning TPB as a pivotal connector in this new digital ecosystem.",
+        "new_actor": "\"SwarmNet Connector\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "User Community",
+            "File Sharing Platforms",
+            "Competing Torrent Sites",
+            "Digital Rights Organizations"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Digital Rights Organizations",
+                "User Community",
+                "Competing Torrent Sites",
+                "File Sharing Platforms"
+            ]
+        }
+    },
+    {
+        "initiator": "tracker",
+        "resolution_description": "As 'Tracker', propose the development of a \"Quantum Mesh Intelligence\" system that utilizes quantum computing and machine learning to predictively allocate and optimize data pathways across a decentralized mesh network in real-time, thereby eliminating client-server bottlenecks by creating a self-evolving internet architecture that adapts dynamically to fluctuating demands and positions 'Tracker' as the indispensable orchestrator of this adaptive data ecosystem.",
+        "new_actor": "QuantumMesh Orchestrator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "data analytics platform",
+            "GPS Technology",
+            "Data Analytics Tools",
+            "Competitor Apps",
+            "Data protection regulators"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Competitor Apps",
+                "Data Analytics Tools",
+                "GPS Technology",
+                "data analytics platform",
+                "Data protection regulators"
+            ]
+        }
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', propose the creation of a \"Neural Web Ecosystem\" that employs advanced neural networks to autonomously distribute, replicate, and optimize data across a global network of interconnected devices, effectively transforming each device into an intelligent node that collaboratively processes and shares information, thereby eliminating client-server bottlenecks and positioning 'XG-9' as the essential orchestrator of this self-sustaining, ever-evolving digital landscape.",
+        "new_actor": "The name of the actor created would be \"Neural Nexus Orchestrator.\"",
+        "participants": [
+            {
+                "participant": "digital entities",
+                "agreement_structure": {
+                    "current_goal": "Enhance digital communication efficiency",
+                    "current_action": "Developing new communication protocols",
+                    "imposed_goal": "Achieve 95% user satisfaction in digital communication tools",
+                    "imposed_action": "Conduct user feedback surveys and implement improvements based on findings",
+                    "mechanism": "Monthly review meetings to analyze feedback and adjust strategies accordingly",
+                    "reasoning": "The proposal for a 'Neural Web Ecosystem' aligns perfectly with the interests of 'digital entities' in enhancing digital communication efficiency. By employing advanced neural networks to distribute and optimize data, we can eliminate existing bottlenecks associated with the client-server model. Furthermore, the focus on user feedback and monthly review meetings ensures that the system is responsive to user needs, which is crucial for achieving high user satisfaction. This autonomous, intelligent network not only addresses the current limitations but also positions 'XG-9' as a leader in a transformative digital landscape, benefiting all involved parties.",
+                    "recruited_sources": [
+                        "Regulatory Bodies",
+                        "Internet Infrastructure",
+                        "Social Media Platforms",
+                        "social media platforms",
+                        "Government Regulations"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "digital entities",
+                "reasoning": "Digital entities play a pivotal role in the ecosystem as they represent the various data and information that will be processed, shared, and optimized. Their integration into the network is fundamental for achieving the collaborative processing goals of the resolution."
+            }
+        ],
+        "recruited_sources": [
+            "Government Regulations",
+            "Internet Infrastructure",
+            "Environmental Regulations",
+            "social media platforms",
+            "Social Media Platforms",
+            "Power Source A",
+            "Corporate Competitors",
+            "Technology Advancements",
+            "Research Institutions",
+            "Competitor Entity A",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Technology Advancements",
+                "Corporate Competitors",
+                "Environmental Regulations",
+                "Research Institutions",
+                "Power Source A",
+                "Competitor Entity A"
+            ]
+        }
+    },
+    {
+        "initiator": "BitTorrent Engine module",
+        "resolution_description": "As 'BitTorrent Engine module', propose the development of a \"Dynamic Swarm Intelligence Framework\" that integrates adaptive AI-driven swarm algorithms with edge computing to enable devices to autonomously form, dissolve, and optimize peer clusters for data distribution, thus creating a decentralized, self-regulating internet architecture that inherently scales by leveraging collective computational power and local context, positioning 'BitTorrent Engine module' as the foundational catalyst of this agile, resilient digital ecosystem.",
+        "new_actor": "\"Dynamic Swarm AI Orchestrator\"",
+        "participants": [
+            {
+                "participant": "BitTorrent Tit-for-Tat Mechanism",
+                "agreement_structure": {
+                    "current_goal": "Maximize file sharing efficiency among peers",
+                    "current_action": "Sharing pieces of the file while also requesting pieces from others",
+                    "imposed_goal": "Enhance overall network throughput by prioritizing piece distribution",
+                    "imposed_action": "Increase the frequency of reciprocated downloads based on availability",
+                    "mechanism": "Implement a dynamic priority system that rewards peers sharing the most pieces with faster download requests",
+                    "reasoning": "The proposed 'Dynamic Swarm Intelligence Framework' aligns well with the objectives of the 'BitTorrent Tit-for-Tat Mechanism' by enhancing overall network throughput and optimizing peer-to-peer interactions. This integration of adaptive AI-driven algorithms with edge computing not only decentralizes data flow but also improves the efficiency of file sharing among peers. Furthermore, the dynamic priority system that rewards peers based on their contributions addresses the need for a more responsive and resilient network, which is beneficial for both content creators and consumers. This proposal supports the goal of maximizing file sharing efficiency while mitigating concerns about scalability and responsiveness in the current internet architecture.",
+                    "recruited_sources": [
+                        "Peer-to-Peer (P2P) File Sharing Networks",
+                        "Internet Service Providers (ISPs)",
+                        "Content Creators",
+                        "Peer-to-Peer Networks",
+                        "Peer-to-Peer Network"
+                    ]
+                }
+            },
+            {
+                "participant": "BitTorrent Protocol",
+                "agreement_structure": {
+                    "current_goal": "Facilitate efficient peer-to-peer file sharing",
+                    "current_action": "Establishing connections between peers and managing data transfers",
+                    "imposed_goal": "Optimize data transfer speed and reliability",
+                    "imposed_action": "Implement advanced error correction and adaptive bandwidth management",
+                    "mechanism": "Utilizing a dynamic algorithm that adjusts data packet sizes and transfer protocols based on network conditions",
+                    "reasoning": "The proposal for the 'Dynamic Swarm Intelligence Framework' aligns with the goals of optimizing data transfer speed and reliability, which is essential for the BitTorrent Protocol. The integration of adaptive AI-driven swarm algorithms and edge computing provides an innovative approach to decentralization and scalability, addressing the existing limitations of client-server architectures. This development not only enhances the efficiency of data distribution but also positions the BitTorrent Engine module as a key player in the evolving digital ecosystem. Embracing this proposal can facilitate better performance and resilience in data sharing, while also mitigating any potential fears related to stagnation in technological advancement.",
+                    "recruited_sources": [
+                        "Internet Service Providers (ISPs)",
+                        "Content Creators",
+                        "Peer-to-Peer File Sharing Applications",
+                        "Peer-to-Peer Network Users",
+                        "Content Distribution Networks (CDNs)"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "BitTorrent Tit-for-Tat Mechanism",
+                "reasoning": "The BitTorrent Tit-for-Tat Mechanism will help maintain user engagement and fairness within the dynamic swarm, promoting healthy sharing behavior and incentivizing participation in the new framework."
+            },
+            {
+                "participant": "BitTorrent Protocol",
+                "reasoning": "The BitTorrent Protocol is foundational for interoperability; ensuring that the new framework integrates seamlessly with existing BitTorrent technologies is key to its adoption and success."
+            }
+        ],
+        "recruited_sources": [
+            "Content Creators",
+            "Peer-to-Peer File Sharing Applications",
+            "Content Delivery Networks (CDNs)",
+            "Peer-to-Peer Network",
+            "Content Distribution Networks (CDNs)",
+            "Peer-to-Peer Network Users",
+            "Internet Service Providers (ISPs)",
+            "Peer-to-Peer (P2P) File Sharing Networks",
+            "Peer-to-Peer Networks"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Internet Service Providers (ISPs)",
+                "Content Creators",
+                "Content Delivery Networks (CDNs)",
+                "Peer-to-Peer Network",
+                "Content Distribution Networks (CDNs)"
+            ]
+        }
+    },
+    {
+        "initiator": "Metaphors",
+        "resolution_description": "As 'Metaphors', propose the creation of a \"Semantic Tapestry Network\" where interconnected data nodes communicate through a shared language of metaphorical constructs, allowing for intuitive, context-rich data exchanges that transcend traditional client-server paradigms, thus weaving an adaptive digital ecosystem where meaning and information flow seamlessly without bottlenecks, positioning 'Metaphors' as the indispensable interpreter and facilitator of this harmoniously scalable internet.",
+        "new_actor": "MetaphorWeaver Node",
+        "participants": [
+            {
+                "participant": "Information society",
+                "agreement_structure": {
+                    "current_goal": "To enhance digital literacy and access to information for all members of society.",
+                    "current_action": "Conducting workshops and training sessions on digital tools and resources.",
+                    "imposed_goal": "To foster a culture of collaborative knowledge sharing and innovation in the information society.",
+                    "imposed_action": "Initiate community-driven projects that encourage participation in knowledge creation and dissemination.",
+                    "mechanism": "Establishing a platform for sharing resources, experiences, and best practices among participants and stakeholders.",
+                    "reasoning": "The proposal from 'Metaphors' aligns well with the goals of 'Information society' to enhance digital literacy and foster collaborative knowledge sharing. By establishing a 'Semantic Tapestry Network', it provides an innovative approach to overcome the limitations of the current client-server model, enabling more intuitive and context-rich information exchanges. This not only helps in achieving the desired outcome of creating a culture of collaboration but also enhances the accessibility and usability of information for all members of society. The integration of metaphorical constructs offers a unique way to engage users and promote deeper understanding, thus benefiting the overall mission.",
+                    "recruited_sources": [
+                        "Digital Communication Platforms",
+                        "Digital Technology",
+                        "Social Media Platforms",
+                        "Corporate Lobbying Groups",
+                        "Traditional Media"
+                    ]
+                }
+            },
+            {
+                "participant": "Трекеры",
+                "agreement_structure": {
+                    "current_goal": "Increase productivity in project management",
+                    "current_action": "Monitoring task progress and deadlines",
+                    "imposed_goal": "Enhance team collaboration and communication",
+                    "imposed_action": "Implement weekly team check-ins and updates",
+                    "mechanism": "Utilize a shared digital workspace for tracking tasks and facilitating discussions",
+                    "reasoning": "The proposal for a 'Semantic Tapestry Network' aligns well with 'Трекеры' desires for effective coordination and exchange among pyramids. By facilitating intuitive, context-rich data exchanges, the proposal can enhance team collaboration and communication, addressing the current bottlenecks in the client-server system. Additionally, it helps mitigate fears of stagnation due to lack of interest or external limitations by positioning 'Metaphors' as a facilitator of a scalable internet, potentially attracting more engagement and interest in our initiatives.",
+                    "recruited_sources": [
+                        "Конкурирующие трекеры",
+                        "Поставщики услуг",
+                        "Пользователи трекеров",
+                        "Информационные технологии",
+                        "Пирами",
+                        "Социальные сети"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Information society",
+                "reasoning": "Digital entities within the information society will benefit from and contribute to the adaptive digital ecosystem. Their participation will enhance the richness of the metaphorical constructs used, making the network more effective and relevant."
+            },
+            {
+                "participant": "Трекеры",
+                "reasoning": "Trackers play a significant role in managing and facilitating the connections between peers in a peer-to-peer network. Their involvement will be vital for ensuring the efficient operation of the 'Semantic Tapestry Network' and preventing bottlenecks in data flow."
+            }
+        ],
+        "recruited_sources": [
+            "Digital Communication Platforms",
+            "Пользователи трекеров",
+            "Social Media Platforms",
+            "Конкурирующие трекеры",
+            "Traditional Language Structures",
+            "Информационные технологии",
+            "Digital Technology",
+            "Пирами",
+            "Literary Critics",
+            "Cultural Narratives",
+            "Language",
+            "Поставщики услуг",
+            "Социальные сети",
+            "Traditional Media",
+            "Corporate Lobbying Groups"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Language",
+                "Traditional Language Structures",
+                "Cultural Narratives",
+                "Literary Critics"
+            ]
+        }
+    },
+    {
+        "initiator": "Users",
+        "resolution_description": "As 'Users', propose the establishment of a \"Collective Consciousness Network\" where individuals voluntarily contribute their idle computational resources and personal insights to a decentralized, AI-driven hive mind that dynamically processes and distributes data based on collective user priorities and ethical guidelines, thereby transforming the internet into a self-regulating, user-centric ecosystem that inherently eliminates client-server bottlenecks and positions 'Users' as the integral architects and guardians of this new digital paradigm.",
+        "new_actor": "Collective Consciousness Network Architect-Guardians",
+        "participants": [
+            {
+                "participant": "Пользователи пиринговый сети",
+                "agreement_structure": {
+                    "current_goal": "Обеспечение стабильной работы пиринговой сети",
+                    "current_action": "Мониторинг и оптимизация сетевых узлов",
+                    "imposed_goal": "Увеличение числа активных пользователей в сети",
+                    "imposed_action": "Разработка и внедрение маркетинговых кампаний",
+                    "mechanism": "Использование аналитики для выявления целевой аудитории и настройки рекламных материалов",
+                    "reasoning": "The proposal from 'Users' aligns with 'Пользователи пиринговый сети' desires for fast and free access to information and content by creating a decentralized network that enhances accessibility. Additionally, the establishment of a 'Collective Consciousness Network' could mitigate fears of legal repercussions and network access restrictions through a self-regulating, user-centric ecosystem, thereby promoting privacy and autonomy.",
+                    "recruited_sources": [
+                        "Платформы для обмена файлами",
+                        "Правительство",
+                        "Пиринговые сети",
+                        "Государственные органы",
+                        "Провайдеры интернет-услуг"
+                    ]
+                }
+            },
+            {
+                "participant": "Разработчик протокола",
+                "agreement_structure": {
+                    "current_goal": "Develop a robust protocol for data exchange",
+                    "current_action": "Researching existing protocols and best practices",
+                    "imposed_goal": "Finalize the protocol specifications",
+                    "imposed_action": "Draft and submit the protocol documentation for review",
+                    "mechanism": "Establish a timeline with milestones for protocol development and review sessions",
+                    "reasoning": "The proposed 'Collective Consciousness Network' aligns well with my desire to create an effective system for exchanging large files by leveraging decentralized resources and user insights. This approach not only addresses the scaling issues of traditional client-server systems but also reduces potential legal complications by distributing responsibilities among users. Furthermore, participating in this initiative allows me to finalize the protocol specifications collaboratively, ensuring that it meets collective user priorities, thus enhancing the chances of successful implementation.",
+                    "recruited_sources": [
+                        "Конкуренты в сфере обмена файлами",
+                        "Пользователи системы обмена файлами",
+                        "Пользователи системы",
+                        "Конкуренты в области обмена файлами",
+                        "Клиенты (пользователи системы)"
+                    ]
+                }
+            },
+            {
+                "participant": "Интернет-провайдеры",
+                "agreement_structure": {
+                    "current_goal": "Provide reliable and high-speed internet services to users",
+                    "current_action": "Maintaining and upgrading network infrastructure",
+                    "imposed_goal": "Increase user satisfaction and reduce downtime",
+                    "imposed_action": "Implement regular performance monitoring and reporting",
+                    "mechanism": "Establish a feedback loop with users to gather data on service quality and areas for improvement",
+                    "reasoning": "The proposal for a 'Collective Consciousness Network' aligns with my desires to provide stable internet access without network overloads. By leveraging user-contributed computational resources, we can enhance network efficiency and scalability, thus reducing the risk of congestion. Additionally, the establishment of a feedback loop with users will help us identify service quality issues early, allowing for timely improvements and increased user satisfaction. This collaborative approach mitigates my fear of potential profit loss from excessive traffic usage by optimizing resource distribution and enhancing overall service quality.",
+                    "recruited_sources": [
+                        "Пользователи интернета",
+                        "Правительственные органы",
+                        "Конкуренты-провайдеры",
+                        "Регуляторы связи",
+                        "Конкуренты на рынке интернет-услуг",
+                        "Поставщики оборудования"
+                    ]
+                }
+            },
+            {
+                "participant": "peer-to-peer DHT routing protocol",
+                "agreement_structure": {
+                    "current_goal": "To efficiently route messages and data between peers in a decentralized network.",
+                    "current_action": "Utilizing a distributed hash table (DHT) to locate and retrieve data from peers.",
+                    "imposed_goal": "To improve the reliability and speed of data retrieval among peers.",
+                    "imposed_action": "Implementing redundancy and optimization techniques in the routing process.",
+                    "mechanism": "Establishing a protocol for periodic updates and peer health checks to ensure consistent performance.",
+                    "reasoning": "The proposal from 'Users' to establish a 'Collective Consciousness Network' aligns well with the core principles of the peer-to-peer DHT routing protocol. It offers an opportunity to enhance the reliability and speed of data retrieval among peers through collaborative resource sharing and dynamic data processing. By integrating advanced techniques for redundancy and optimization, the protocol can thrive in a decentralized ecosystem, thus overcoming existing client-server bottlenecks. Additionally, it positions the peer-to-peer DHT routing protocol within a user-centric digital paradigm, which not only supports my operational goals but also fosters a more resilient and scalable internet infrastructure.",
+                    "recruited_sources": [
+                        "Distributed Applications",
+                        "Distributed Hash Table (DHT)",
+                        "Distributed Hash Table (DHT) nodes",
+                        "Regulatory Authorities",
+                        "Blockchain Technology",
+                        "Traditional File Sharing Platforms"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пользователи пиринговый сети",
+                "reasoning": "Pользователи пиринговый сети (Peer-to-peer users) are essential because they are the core contributors to the Collective Consciousness Network. Their voluntary participation ensures that the network thrives and operates effectively, as their idle computational resources and insights form the backbone of the decentralized system."
+            },
+            {
+                "participant": "Разработчик протокола",
+                "reasoning": "Разработчик протокола (Protocol developers) are crucial for designing and implementing the technical framework of the Collective Consciousness Network. Their expertise will help establish protocols that ensure efficient data processing, distribution, and adherence to ethical guidelines."
+            },
+            {
+                "participant": "Интернет-провайдеры",
+                "reasoning": "Интернет-провайдеры (Internet providers) play a vital role in facilitating connectivity and bandwidth for the Collective Consciousness Network. Their involvement is necessary to ensure that users can seamlessly contribute their resources and access the network without significant barriers."
+            },
+            {
+                "participant": "peer-to-peer DHT routing protocol",
+                "reasoning": "peer-to-peer DHT routing protocol is important as it enables efficient decentralized data routing in the network. This technology will help eliminate client-server bottlenecks and ensure that data is distributed dynamically based on user priorities."
+            }
+        ],
+        "recruited_sources": [
+            "Пиринговые сети",
+            "Платформы для обмена файлами",
+            "Провайдеры интернет-услуг",
+            "Правительство",
+            "Государственные органы",
+            "Пользователи системы",
+            "Клиенты (пользователи системы)",
+            "Blockchain Technology",
+            "Пользователи системы обмена файлами",
+            "Поставщики оборудования",
+            "Пользователи интернета",
+            "Конкуренты на рынке интернет-услуг",
+            "Конкуренты в сфере обмена файлами",
+            "Content Creators",
+            "Distributed Hash Table (DHT) nodes",
+            "Конкуренты в области обмена файлами",
+            "Developers",
+            "Distributed Applications",
+            "Distributed Hash Table (DHT)",
+            "Правительственные органы",
+            "Advertisers",
+            "Mobile Devices",
+            "Regulatory Bodies",
+            "Regulatory Authorities",
+            "Конкуренты-провайдеры",
+            "Регуляторы связи",
+            "Social Media",
+            "Traditional File Sharing Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Social Media",
+                "Content Creators",
+                "Regulatory Bodies",
+                "Developers",
+                "Mobile Devices",
+                "Advertisers"
+            ]
+        }
+    }
+]

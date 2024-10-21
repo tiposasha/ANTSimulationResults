@@ -1,0 +1,111 @@
+[
+    {
+        "initiator": "Студенты",
+        "resolution_description": "Использовать технологии искусственного интеллекта для прохождения тестирования",
+        "new_actor": "Списанный текст",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies are essential to support the implementation of AI in testing, ensuring that the tools used are effective and aligned with educational goals."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: Establish a transparent peer-review system where students evaluate each other's knowledge and understanding through collaborative projects and presentations, fostering a holistic learning environment that prioritizes genuine comprehension and ethical academic practices.",
+        "new_actor": "PeerReview Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Instructors play a crucial role in facilitating the peer-review system and guiding students in understanding the importance of academic integrity. Their support and endorsement can help legitimize the initiative and ensure that it is effectively integrated into the curriculum."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including researchers and educators, can provide valuable insights and best practices for establishing a transparent peer-review system. Their collaboration can enhance the credibility of the initiative and foster a broader commitment to academic integrity across institutions."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can assist in developing and implementing the peer-review system by providing platforms for collaboration, feedback, and assessment. Integrating technology can enhance the efficiency and effectiveness of the peer-review process, making it more accessible and engaging for students."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Survey researchers",
+        "resolution_description": "Initiator: Survey Researchers, Resolution: Develop a continuous feedback loop system using longitudinal surveys that track students’ self-reported learning experiences, challenges, and knowledge application in real-world scenarios, creating a comprehensive understanding of student knowledge that extends beyond traditional assessments.",
+        "new_actor": "Continuous Student Feedback Loop System (CSFLS) Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including educators and researchers, can provide insights and support for the development and implementation of the feedback loop system. Their collaboration is vital for ensuring the validity and reliability of the survey data."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers are crucial stakeholders as they can offer perspectives on the practical application of students' knowledge in real-world scenarios. Their feedback can help refine the survey focus to align educational outcomes with workforce needs."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies can enhance the data collection and analysis process, providing sophisticated insights into student learning experiences and enabling more responsive feedback mechanisms."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "**Initiator: Teacher**  \n**Resolution:** Integrate experiential learning modules that immerse students in real-world problem-solving scenarios, allowing them to demonstrate and apply their knowledge in practical contexts, thereby ensuring assessments reflect genuine understanding and skills. To address potential concerns regarding the integrity of assessments and the misuse of technology, specific measures will be implemented: \n\n1. Establish clear guidelines for the use of technology during experiential learning activities to ensure it supports learning objectives without facilitating academic dishonesty.\n\n2. Implement secure assessment methods that verify individual student contributions and understanding, such as reflective journals, peer assessments, and oral presentations.\n\n3. Provide training for both educators and students on ethical technology use and academic integrity, emphasizing the importance of honesty in the learning process.\n\n4. Regularly review and adapt assessment strategies to incorporate feedback and emerging technologies while maintaining rigorous standards for academic integrity.\n\nBy incorporating these measures, we can enhance experiential learning while safeguarding the credibility of assessments and promoting a culture of integrity.",
+        "new_actor": "Experiential Learning Facilitator",
+        "participants": [
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Enhance student engagement in the classroom",
+                    "current_action": "Implement interactive teaching methods",
+                    "imposed_goal": "Increase overall student performance by 20%",
+                    "imposed_action": "Develop and execute a comprehensive assessment plan",
+                    "mechanism": "Monthly progress reviews and feedback sessions with students and faculty",
+                    "reasoning": "The proposed resolution aligns with my desire to effectively convey knowledge and objectively assess students by integrating experiential learning. This approach encourages practical application of knowledge, enhancing student engagement and understanding. Additionally, the outlined measures address my fears regarding academic dishonesty by establishing clear guidelines for technology use, secure assessment methods, and training on academic integrity. These steps help maintain control over the learning process while fostering a culture of honesty.",
+                    "recruited_sources": [
+                        "Студенты",
+                        "Учебные планы",
+                        "Технологии списывания",
+                        "Современные технологии обучения"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers play a vital role in implementing and facilitating experiential learning. Their expertise in pedagogy and curriculum design is essential to create meaningful learning experiences that align with the resolution."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers provide insights into the skills and knowledge required in the workforce. Their involvement ensures that the experiential learning modules are relevant and aligned with real-world expectations, enhancing students' employability."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can enhance the experiential learning process by providing personalized learning experiences and data analytics. This technology can help track student progress and adapt learning scenarios to meet diverse needs."
+            }
+        ],
+        "recruited_sources": [
+            "Студенты",
+            "Технологии списывания",
+            "Учебные планы",
+            "School Administration",
+            "students",
+            "Современные технологии обучения",
+            "Standardized Testing"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "School Administration",
+                "students",
+                "Standardized Testing"
+            ]
+        }
+    }
+]

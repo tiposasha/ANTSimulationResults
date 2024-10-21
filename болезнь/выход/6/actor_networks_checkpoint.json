@@ -1,0 +1,1616 @@
+[
+    {
+        "entity": "Фармакологические компании",
+        "actor_network": {
+            "6": {
+                "data": [
+                    {
+                        "source": "Инвесторы",
+                        "change": "Инвесторы становятся более осторожными в своих вложениях, анализируя риски связанных с разработкой новых препаратов.",
+                        "opportunity": "Получение прибыли от успешного запуска нового лекарства.",
+                        "restrictions": "Необходимость тщательной оценки рисков и возможных потерь.",
+                        "imposed_role": "Критик и поддержка на этапе разработки.",
+                        "comment": "I am, the Инвесторы, see my relationships with a target in the following perspective: I must balance risk and reward while supporting innovative solutions."
+                    },
+                    {
+                        "source": "Регуляторные органы",
+                        "change": "Регуляторные органы увеличивают количество проверок и требований для обеспечения безопасности новых лекарств.",
+                        "opportunity": "Установление стандартов качества и безопасности, повышающих доверие к медицинским продуктам.",
+                        "restrictions": "Ограничение скорости вывода на рынок новых препаратов.",
+                        "imposed_role": "Контролирующий орган, обеспечивающий соответствие стандартам.",
+                        "comment": "I am, the Регуляторные органы, see my relationships with a target in the following perspective: My goal is to ensure public safety while facilitating innovation."
+                    },
+                    {
+                        "source": "Научные исследователи",
+                        "change": "Научные исследователи получают новые направления для своих исследований и разработки инновационных решений.",
+                        "opportunity": "Участие в передовых исследованиях и возможность публикации результатов.",
+                        "restrictions": "Зависимость от финансирования со стороны фармакологических компаний.",
+                        "imposed_role": "Создатель знаний и новшеств в области науки.",
+                        "comment": "I am, the Научные исследователи, see my relationships with a target in the following perspective: Collaboration with pharma companies is vital for advancing science and tackling pressing health issues."
+                    },
+                    {
+                        "source": "Конкуренты",
+                        "change": "Конкуренты вынуждены адаптироваться к новым условиям рынка и улучшать свои продукты.",
+                        "opportunity": "Разработка уникальных решений для удержания доли рынка.",
+                        "restrictions": "Необходимость значительных инвестиций в исследования и разработки.",
+                        "imposed_role": "Соперник, стимулирующий инновации.",
+                        "comment": "I am, the Конкуренты, see my relationships with a target in the following perspective: Competition drives us all to improve and innovate for better patient outcomes."
+                    },
+                    {
+                        "source": "Пациенты",
+                        "change": "Пациенты становятся более информированными о новых разработках и ожидают улучшений в лечении.",
+                        "opportunity": "Доступ к потенциально эффективным новым вариантам лечения.",
+                        "restrictions": "Зависимость от успешности клинических испытаний и одобрения новых препаратов.",
+                        "imposed_role": "Целевая аудитория для новых продуктов.",
+                        "comment": "I am, the Пациенты, see my relationships with a target in the following perspective: My hope for effective treatment drives the need for pharmaceutical innovation."
+                    }
+                ]
+            },
+            "4": {
+                "data": [
+                    {
+                        "source": "Инвесторы",
+                        "essentiality": "Фармакологические компании разрабатывают лекарства, что привлекает инвестиции для финансирования исследований и разработок.",
+                        "opportunity": "Инвесторы получают потенциально высокую прибыль от успешных лекарств, особенно если они патентованы и эксклюзивны.",
+                        "restrictions": "Инвесторы не могут требовать мгновенных результатов или вмешиваться в научные исследования.",
+                        "imposed_role": "Финансирующая сторона, на которую возложена ответственность за успех или неудачу проектов.",
+                        "comment": "I am, the source, see my relationships with a target in the following perspective: Our investments are crucial for their success, and we rely on their innovations to secure our returns."
+                    },
+                    {
+                        "source": "Научные исследователи",
+                        "essentiality": "Фармакологические компании предоставляют исследователям ресурсы и платформу для проведения исследований.",
+                        "opportunity": "Исследователи получают доступ к финансированию, лабораторному оборудованию и возможности публикации результатов.",
+                        "restrictions": "Исследователи должны соблюдать корпоративные интересы и цели компании в своих исследованиях.",
+                        "imposed_role": "Разработчики и исследователи новых фармацевтических решений.",
+                        "comment": "I am, the source, see my relationships with a target in the following perspective: Their support allows me to advance my research, but I must align my goals with their business strategies."
+                    },
+                    {
+                        "source": "Регуляторные органы",
+                        "essentiality": "Фармакологические компании должны соответствовать стандартам и требованиям, установленным регуляторными органами.",
+                        "opportunity": "Регуляторные органы обеспечивают легитимность и безопасность новых препаратов, что способствует их успешному выходу на рынок.",
+                        "restrictions": "Фармакологические компании должны соблюдать строгие правила и процедуры, что может ограничивать их гибкость в разработке.",
+                        "imposed_role": "Контролирующий орган, обеспечивающий безопасность и эффективность лекарств.",
+                        "comment": "I am, the source, see my relationships with a target in the following perspective: My role ensures that their innovations meet safety standards, which is critical for public trust."
+                    },
+                    {
+                        "source": "Потребители (пациенты)",
+                        "essentiality": "Фармакологические компании ориентированы на разработку препаратов, которые удовлетворяют потребности пациентов.",
+                        "opportunity": "Потребители получают доступ к новым и потенциально эффективным лекарствам, которые могут улучшить их качество жизни.",
+                        "restrictions": "Потребители могут не иметь возможности выбора между конкурентными продуктами, если компания контролирует рынок.",
+                        "imposed_role": "Целевая аудитория для новых препаратов и инноваций.",
+                        "comment": "I am, the source, see my relationships with a target in the following perspective: My health and well-being depend on their innovations, and I hope for effective solutions to my conditions."
+                    },
+                    {
+                        "source": "Конкуренты",
+                        "essentiality": "Фармакологические компании обязаны следить за действиями конкурентов для поддержания своей конкурентоспособности.",
+                        "opportunity": "Конкуренты могут стимулировать инновации и улучшения в разработке препаратов.",
+                        "restrictions": "Компании не могут игнорировать угрозы со стороны конкурентов, что заставляет их постоянно адаптироваться.",
+                        "imposed_role": "Соперники на рынке фармацевтики, создающие необходимость для инноваций.",
+                        "comment": "I am, the source, see my relationships with a target in the following perspective: Their pursuit of innovation pushes me to improve my offerings and remain relevant in the market."
+                    }
+                ]
+            },
+            "2": {
+                "data": [
+                    {
+                        "source": "Конкурирующие фармакологические компании",
+                        "threat": "Они разрабатывают аналогичные препараты, что может привести к потере доли рынка и инвестиций.",
+                        "consequences_if_deteriorates": "Фармакологические компании смогут сохранить свою долю рынка и продолжить получать инвестиции.",
+                        "consequences_if_improves": "Увеличение конкуренции может привести к падению цен на препараты и уменьшению прибыли.",
+                        "imposed_role": "Непосредственный соперник, заставляющий реагировать на угрозу.",
+                        "comment": "I am Конкурирующие фармакологические компании, see my relationships with Фармакологические компании in the following perspective: я стремлюсь занять их место на рынке."
+                    },
+                    {
+                        "source": "Инвесторы",
+                        "threat": "Инвесторы могут отозвать финансирование в случае неудачи в разработке препарата.",
+                        "consequences_if_deteriorates": "Фармакологические компании смогут избежать чрезмерного давления и сосредоточиться на долгосрочных целях.",
+                        "consequences_if_improves": "Увеличение финансовой поддержки может привести к ускорению разработки препарата.",
+                        "imposed_role": "Финансирующий орган, чьи интересы определяют направление исследований.",
+                        "comment": "I am Инвесторы, see my relationships with Фармакологические компании in the following perspective: я требую прозрачности и успеха для продолжения финансирования."
+                    },
+                    {
+                        "source": "Регуляторные органы",
+                        "threat": "Сложные и длительные процессы одобрения могут замедлить выход препарата на рынок.",
+                        "consequences_if_deteriorates": "Фармакологические компании смогут быстрее вводить свои продукты на рынок без бюрократических задержек.",
+                        "consequences_if_improves": "Упрощение регулирования может ускорить процесс разработки и внедрения препаратов.",
+                        "imposed_role": "Контролирующий орган, накладывающий ограничения на деятельность.",
+                        "comment": "I am Регуляторные органы, see my relationships with Фармакологические компании in the following perspective: я обеспечиваю безопасность и эффективность препаратов."
+                    },
+                    {
+                        "source": "Научные исследования и разработки",
+                        "threat": "Неудачные исследования могут привести к потере времени и ресурсов.",
+                        "consequences_if_deteriorates": "Фармакологические компании смогут сэкономить ресурсы и сосредоточиться на более перспективных проектах.",
+                        "consequences_if_improves": "Успех в исследованиях может привести к значительным прорывам в разработке новых лекарств.",
+                        "imposed_role": "Доказательная база, определяющая успешность разработки.",
+                        "comment": "I am Научные исследования и разработки, see my relationships with Фармакологические компании in the following perspective: я определяю научные и практические рамки для успеха."
+                    },
+                    {
+                        "source": "Общественное мнение и пациенты",
+                        "threat": "Недовольство пациентов и общественности может негативно повлиять на репутацию компании.",
+                        "consequences_if_deteriorates": "Фармакологические компании смогут избежать негативной реакции и сосредоточиться на своих целях.",
+                        "consequences_if_improves": "Улучшение отношений с общественностью и пациентами может привести к увеличению спроса на препараты.",
+                        "imposed_role": "Критик, оказывающий влияние на репутацию компании.",
+                        "comment": "I am Общественное мнение и пациенты, see my relationships with Фармакологические компании in the following perspective: я влияю на их успех через доверие и ожидания."
+                    }
+                ]
+            },
+            "1": {
+                "data": [
+                    {
+                        "source": "Инвесторы",
+                        "essentiality": "Инвесторы предоставляют финансовые ресурсы, необходимые для разработки и исследований новых лекарств.",
+                        "opportunity": "Фармакологические компании получают необходимое финансирование для проведения клинических испытаний и разработки препаратов.",
+                        "restrictions": "Фармакологические компании обязаны отчитываться перед инвесторами и соблюдать условия финансирования.",
+                        "imposed_role": "Фармакологические компании становятся зависимыми от мнения и решений инвесторов в отношении финансирования.",
+                        "comment": "I am Инвесторы, see my relationships with a target in the following perspective: Без меня, финансирования, ваши амбиции по разработке эффективного лекарства могут оказаться лишь мечтой."
+                    },
+                    {
+                        "source": "Регуляторные органы",
+                        "essentiality": "Регуляторные органы контролируют процесс разработки и сертификации новых лекарств.",
+                        "opportunity": "Фармакологические компании получают доступ к рынкам после успешного прохождения тестирования и сертификации.",
+                        "restrictions": "Фармакологические компании не могут выходить на рынок без одобрения регуляторов.",
+                        "imposed_role": "Фармакологические компании должны строго следовать установленным стандартам и требованиям регуляторов.",
+                        "comment": "I am Регуляторные органы, see my relationships with a target in the following perspective: Я гарантирую безопасность и эффективность ваших продуктов, но только при соблюдении всех моих правил."
+                    },
+                    {
+                        "source": "Научные исследования и разработки (НИОКР)",
+                        "essentiality": "НИОКР обеспечивают знания и технологии, необходимые для создания новых лекарств.",
+                        "opportunity": "Фармакологические компании могут использовать новые научные открытия для разработки инновационных препаратов.",
+                        "restrictions": "Фармакологические компании обязаны соблюдать этические нормы и стандарты в процессе исследований.",
+                        "imposed_role": "Фармакологические компании выступают как исследователи и разработчики, обязаные к инновациям.",
+                        "comment": "I am Научные исследования и разработки, see my relationships with a target in the following perspective: Без меня вам будет сложно создать что-то новое и революционное."
+                    },
+                    {
+                        "source": "Конкуренты",
+                        "essentiality": "Конкуренты влияют на рынок и задают стандарты для разработки и ценообразования на лекарства.",
+                        "opportunity": "Фармакологические компании могут изучать конкурентов и адаптировать свои стратегии для достижения успеха.",
+                        "restrictions": "Фармакологические компании должны быть внимательны к действиям и стратегиям своих конкурентов.",
+                        "imposed_role": "Фармакологические компании должны постоянно совершенствовать свои продукты, чтобы оставаться конкурентоспособными.",
+                        "comment": "I am Конкуренты, see my relationships with a target in the following perspective: Я заставляю вас развиваться и улучшаться, чтобы вы могли выжить на этом насыщенном рынке."
+                    },
+                    {
+                        "source": "Пациенты и потребители",
+                        "essentiality": "Пациенты являются конечными пользователями лекарств и влияют на спрос на новые препараты.",
+                        "opportunity": "Фармакологические компании получают обратную связь и данные о потребностях рынка, что помогает им адаптировать продукты.",
+                        "restrictions": "Фармакологические компании должны учитывать мнение пациентов и их предпочтения при разработке продуктов.",
+                        "imposed_role": "Фармакологические компании должны сосредоточиться на потребностях и ожиданиях пациентов.",
+                        "comment": "I am Пациенты, see my relationships with a target in the following perspective: Я ваш главный приоритет, и вы должны учитывать мои нужды для успешного существования на рынке."
+                    }
+                ]
+            },
+            "3": {
+                "data": [
+                    {
+                        "source": "Инвесторы",
+                        "change": "Инвесторы предоставляют финансирование и поддержку, что позволяет фармакологическим компаниям развивать исследования и клинические испытания.",
+                        "opportunity": "Доступ к капиталу для разработки новых лекарств.",
+                        "restrictions": "Ожидания возврата инвестиций и соблюдение сроков.",
+                        "imposed_role": "Фармакологические компании должны отчитываться и демонстрировать прогресс в разработке препаратов.",
+                        "comment": "I am Инвесторы, see my relationships with Фармакологические компании in the following perspective: Я поддерживаю их разработки в обмен на потенциальную прибыль."
+                    },
+                    {
+                        "source": "Регуляторные органы",
+                        "change": "Регуляторные органы устанавливают стандарты и требования для клинических испытаний и лицензирования новых препаратов.",
+                        "opportunity": "Получение одобрения на продажу новых лекарств, что открывает рынок.",
+                        "restrictions": "Соблюдение строгих норм и правил, что может замедлить процесс разработки.",
+                        "imposed_role": "Фармакологические компании должны адаптировать свои процессы к требованиям регуляторов.",
+                        "comment": "I am Регуляторные органы, see my relationships with Фармакологические компании in the following perspective: Я обеспечиваю безопасность и эффективность лекарств для общества."
+                    },
+                    {
+                        "source": "Конкуренты",
+                        "change": "Конкуренты подстегивают фармакологические компании к инновациям и улучшению существующих продуктов.",
+                        "opportunity": "Улучшение качества и разработки более эффективных лекарств.",
+                        "restrictions": "Необходимость постоянно следить за действиями конкурентов и адаптировать свои стратегии.",
+                        "imposed_role": "Фармакологические компании должны активно исследовать рынок и проводить анализ конкуренции.",
+                        "comment": "I am Конкуренты, see my relationships with Фармакологические компании in the following perspective: Я создаю динамику на рынке, заставляя их развиваться."
+                    },
+                    {
+                        "source": "Научные исследования и технологии",
+                        "change": "Научные открытия и новые технологии влияют на методы разработки и испытания лекарств.",
+                        "opportunity": "Использование передовых технологий для разработки более эффективных и безопасных препаратов.",
+                        "restrictions": "Зависимость от новых научных открытий и технологий, которые могут оказаться недоступными или дорогостоящими.",
+                        "imposed_role": "Фармакологические компании становятся зависимыми от исследований и разработок.",
+                        "comment": "I am Научные исследования и технологии, see my relationships with Фармакологические компании in the following perspective: Я предоставляю возможности для инноваций и развития."
+                    },
+                    {
+                        "source": "Общественное мнение",
+                        "change": "Общественное мнение влияет на восприятие препаратов и их принятие на рынке.",
+                        "opportunity": "Положительное общественное мнение может привести к увеличению продаж и спроса на препараты.",
+                        "restrictions": "Необходимость учитывать общественные опасения и ожидания при разработке препаратов.",
+                        "imposed_role": "Фармакологические компании должны активно работать над имиджем и репутацией.",
+                        "comment": "I am Общественное мнение, see my relationships with Фармакологические компании in the following perspective: Я формирую рынок через восприятие и доверие к продуктам."
+                    }
+                ]
+            },
+            "5": {
+                "data": [
+                    {
+                        "source": "Инвесторы",
+                        "threat": "Фармакологические компании могут потерять инвестиции из-за неудачи в разработке препарата.",
+                        "consequences_if_deteriorates": "Инвесторы могут направить свои средства в более успешные проекты, что приведет к увеличению их доходов.",
+                        "consequences_if_improves": "Инвесторы получат высокую прибыль от успешного продукта, что укрепит их отношение с фармакологическими компаниями.",
+                        "imposed_role": "Критически важный финансовый партнер.",
+                        "comment": "I am, Инвесторы, see my relationships with a target in the following perspective: I depend on their success for returns, but their failures risk my capital."
+                    },
+                    {
+                        "source": "Конкуренты",
+                        "threat": "Фармакологические компании могут создать более эффективные препараты, что приведет к снижению рыночной доли конкурентов.",
+                        "consequences_if_deteriorates": "Конкуренты могут занять освободившуюся нишу на рынке, увеличив свои позиции и прибыль.",
+                        "consequences_if_improves": "Конкуренты могут быть вынуждены улучшать свои собственные разработки или снижать цены, чтобы оставаться конкурентоспособными.",
+                        "imposed_role": "Соперник на рынке.",
+                        "comment": "I am, Конкуренты, see my relationships with a target in the following perspective: Their advancements force me to innovate or risk obsolescence."
+                    },
+                    {
+                        "source": "Регуляторы",
+                        "threat": "Фармакологические компании могут столкнуться с ужесточением регулирования в случае выявления недостатков в разработанных препаратах.",
+                        "consequences_if_deteriorates": "Регуляторы могут снизить требования к другим компаниям, что упростит выход на рынок для новых игроков.",
+                        "consequences_if_improves": "Регуляторы получат возможность укрепить контроль над безопасностью и эффективностью новых лекарств.",
+                        "imposed_role": "Контролирующий орган.",
+                        "comment": "I am, Регуляторы, see my relationships with a target in the following perspective: Their failures can lead to broader scrutiny of my authority."
+                    },
+                    {
+                        "source": "Научные исследователи",
+                        "threat": "Фармакологические компании могут пренебрегать научными исследованиями, если их разработки окажутся успешными.",
+                        "consequences_if_deteriorates": "Исследователи могут получить больше финансирования и внимания к своим проектам от других компаний.",
+                        "consequences_if_improves": "Научные исследования могут быть интегрированы в разработки фармакологических компаний, что повысит качество продукции.",
+                        "imposed_role": "Специалисты, необходимы для разработки.",
+                        "comment": "I am, Научные исследователи, see my relationships with a target in the following perspective: My work is often overshadowed by their commercial success."
+                    },
+                    {
+                        "source": "Пациенты",
+                        "threat": "Фармакологические компании могут игнорировать потребности и мнения пациентов в процессе разработки препаратов.",
+                        "consequences_if_deteriorates": "Пациенты могут обратиться к альтернативным методам лечения, что снизит доверие к фармакологическим компаниям.",
+                        "consequences_if_improves": "Пациенты получат доступ к более эффективным и безопасным лечениям, что повысит их удовлетворенность.",
+                        "imposed_role": "Клиенты с высокими ожиданиями.",
+                        "comment": "I am, Пациенты, see my relationships with a target in the following perspective: My health is at stake, and I need them to prioritize my needs."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "entity": "Научный журнал",
+        "actor_network": {
+            "1": {
+                "data": [
+                    {
+                        "source": "Научные рецензенты",
+                        "essentiality": "Они обеспечивают проверку качества и достоверности исследований перед публикацией.",
+                        "opportunity": "Повышают доверие к журналу за счет обеспечения рецензирования статей.",
+                        "restrictions": "Не допускают публикацию неподтвержденных или недостоверных исследований.",
+                        "imposed_role": "Рецензируемый автор должен предоставлять качественные и проверенные данные.",
+                        "comment": "Я, Научные рецензенты, вижу мои отношения с Научным журналом в следующей перспективе: я обеспечиваю качество и репутацию, что критично для успешной публикации."
+                    },
+                    {
+                        "source": "Редакционный совет",
+                        "essentiality": "Принимает окончательные решения о публикации статей, основываясь на их значимости и качестве.",
+                        "opportunity": "Обеспечивает стратегическое направление и поддержку для повышения импакт-фактора.",
+                        "restrictions": "Ограничивают публикации, которые не соответствуют высоким стандартам научной работы.",
+                        "imposed_role": "Редакционный совет формирует имидж и стандарты, которым должен следовать журнал.",
+                        "comment": "Я, Редакционный совет, вижу мои отношения с Научным журналом в следующей перспективе: я определяю цели и стандарты, необходимые для поддержания репутации."
+                    },
+                    {
+                        "source": "Научное сообщество",
+                        "essentiality": "Предоставляет материалы и исследования, которые могут быть опубликованы.",
+                        "opportunity": "Способствует расширению базы авторов и статей для публикации.",
+                        "restrictions": "Ограничивает публикации на основе актуальности и важности тематики исследований.",
+                        "imposed_role": "Анализирует и формирует ожидания к качеству и содержанию статей.",
+                        "comment": "Я, Научное сообщество, вижу мои отношения с Научным журналом в следующей перспективе: я являюсь основным поставщиком контента и ожиданий, которые формируют будущее журнала."
+                    },
+                    {
+                        "source": "Научные базы данных",
+                        "essentiality": "Обеспечивают видимость и доступность статей после их публикации.",
+                        "opportunity": "Увеличивают доступность и цитируемость статей, что влияет на импакт-фактор.",
+                        "restrictions": "Налагают требования к формату и качеству статей для включения в базы данных.",
+                        "imposed_role": "Формируют стандарты, которым необходимо соответствовать для успешной индексации.",
+                        "comment": "Я, Научные базы данных, вижу мои отношения с Научным журналом в следующей перспективе: я открываю двери к широкой аудитории, но ожидаю соответствия высоким стандартам."
+                    },
+                    {
+                        "source": "Цитирующие авторы",
+                        "essentiality": "Влияют на репутацию и импакт-фактор через ссылки на статьи журнала.",
+                        "opportunity": "Способствуют повышению статуса и видимости статей журнала.",
+                        "restrictions": "Могут игнорировать или не ссылаться на статьи, которые не были должным образом рецензированы.",
+                        "imposed_role": "Формируют общественное восприятие и ценность исследований, опубликованных в журнале.",
+                        "comment": "Я, Цитирующие авторы, вижу мои отношения с Научным журналом в следующей перспективе: я формирую его репутацию через свои ссылки и признание значимости его публикаций."
+                    }
+                ]
+            },
+            "2": {
+                "data": [
+                    {
+                        "source": "Недостоверные исследования",
+                        "threat": "Угроза потери репутации у научного журнала из-за публикации ненадежных данных.",
+                        "consequences_if_deteriorates": "Научный журнал сможет поддерживать свой имидж и репутацию, избегая публикации недостоверной информации.",
+                        "consequences_if_improves": "Если недостоверные исследования начнут улучшаться, это может привести к ухудшению качества публикаций и снижению импакт-фактора.",
+                        "imposed_role": "Дискредитирующий агент",
+                        "comment": "I am, недостоверные исследования, see my relationships with a target in the following perspective: Я являюсь основным источником угрозы для репутации научных журналов."
+                    },
+                    {
+                        "source": "Конкурирующие журналы",
+                        "threat": "Конкуренция за публикации и влияние на импакт-фактор.",
+                        "consequences_if_deteriorates": "Научный журнал сможет занять более высокие позиции в научном сообществе без сильной конкуренции.",
+                        "consequences_if_improves": "Усиление конкуренции может привести к необходимости снижать стандарты публикации для привлечения авторов.",
+                        "imposed_role": "Конкурент",
+                        "comment": "I am, конкурирующие журналы, see my relationships with a target in the following perspective: Я стремлюсь занять ваше место на рынке публикаций."
+                    },
+                    {
+                        "source": "Рецензенты",
+                        "threat": "Могут отклонить статьи, которые не соответствуют высоким стандартам.",
+                        "consequences_if_deteriorates": "Научный журнал сможет улучшить качество публикаций и повысить свою репутацию.",
+                        "consequences_if_improves": "Если рецензенты будут более лояльны, это может привести к снижению качества проверяемых исследований.",
+                        "imposed_role": "Критик",
+                        "comment": "I am, рецензенты, see my relationships with a target in the following perspective: Я гарантирую, что только качественные исследования публикуются в научных журналах."
+                    },
+                    {
+                        "source": "Финансирование",
+                        "threat": "Недостаток финансирования может ограничить возможности журнала по привлечению качественных материалов.",
+                        "consequences_if_deteriorates": "Научный журнал сможет получить больше ресурсов для публикации прорывных исследований.",
+                        "consequences_if_improves": "Увеличение финансирования может привести к большему количеству публикаций, но также и к давлению на качество.",
+                        "imposed_role": "Спонсор",
+                        "comment": "I am, финансирование, see my relationships with a target in the following perspective: Я контролирую ресурсы, которые влияют на вашу способность публиковать исследования."
+                    },
+                    {
+                        "source": "Сообщество ученых",
+                        "threat": "Общественное мнение может повлиять на репутацию журнала.",
+                        "consequences_if_deteriorates": "Научный журнал сможет свободнее публиковать материалы, не боясь ухудшения своей репутации.",
+                        "consequences_if_improves": "Если сообщество будет более поддерживающим, это повысит доверие к журналу и его публикациям.",
+                        "imposed_role": "Оценщик",
+                        "comment": "I am, сообщество ученых, see my relationships with a target in the following perspective: Я определяю, насколько ваше издание ценно в научном мире."
+                    }
+                ]
+            },
+            "6": {
+                "data": [
+                    {
+                        "source": "Научные исследователи",
+                        "change": "Researchers adapt their research focus to align with the journal's standards and impact factor requirements.",
+                        "opportunity": "Publication in a high-impact journal enhances their credibility and visibility in the academic community.",
+                        "restrictions": "They must adhere to strict guidelines and quality standards set by the journal to get published.",
+                        "imposed_role": "Contributors of high-quality research that align with the journal's objectives.",
+                        "comment": "I am, the researchers, see my relationships with the journal in the following perspective: it is a crucial platform for disseminating my work and gaining recognition."
+                    },
+                    {
+                        "source": "Редакционный совет",
+                        "change": "The editorial board refines its criteria for manuscript selection based on the journal's impact factor and reputation.",
+                        "opportunity": "A higher impact factor can attract better submissions and increase the journal's prestige.",
+                        "restrictions": "They face pressure to maintain rigorous standards which may limit the diversity of accepted research.",
+                        "imposed_role": "Gatekeepers of quality and relevance in the publications.",
+                        "comment": "I am, the editorial board, see my relationships with the journal in the following perspective: it shapes our decision-making process and enhances our professional standing."
+                    },
+                    {
+                        "source": "Академические учреждения",
+                        "change": "Universities and research institutions may alter their funding strategies to support research that aligns with publication in high-impact journals.",
+                        "opportunity": "Increased funding and resources for research that is likely to be published in respected journals.",
+                        "restrictions": "They may need to prioritize certain research areas or methodologies that fit the journal's focus.",
+                        "imposed_role": "Supporters of research that meets the journal's criteria.",
+                        "comment": "I am, the academic institutions, see my relationships with the journal in the following perspective: it drives our research agenda and funding priorities."
+                    },
+                    {
+                        "source": "Аудитория (читатели и исследователи)",
+                        "change": "Readers adjust their research interests and knowledge based on the studies published in the journal.",
+                        "opportunity": "Access to cutting-edge research that informs their own work and enhances their understanding of the field.",
+                        "restrictions": "They may become reliant on the journal for credible information, which can skew their perspective if the journal publishes biased or flawed studies.",
+                        "imposed_role": "Consumers of knowledge who interpret and apply the research findings.",
+                        "comment": "I am, the audience, see my relationships with the journal in the following perspective: it is my primary source of reliable and impactful research."
+                    },
+                    {
+                        "source": "Издатель",
+                        "change": "The publisher adapts its marketing and distribution strategies based on the journal's performance metrics.",
+                        "opportunity": "Higher sales and subscription rates driven by the journal's reputation and impact factor.",
+                        "restrictions": "The publisher must invest in maintaining and promoting the journal's prestige, which can be resource-intensive.",
+                        "imposed_role": "Facilitators of the journal's dissemination and accessibility.",
+                        "comment": "I am, the publisher, see my relationships with the journal in the following perspective: it is essential for our business model and reputation in the academic publishing industry."
+                    }
+                ]
+            },
+            "4": {
+                "data": [
+                    {
+                        "source": "Научные исследователи",
+                        "essentiality": "Научный журнал создает платформу для публикации их исследований, что делает его необходимым для распространения их работы.",
+                        "opportunity": "Публикация в журнале повышает видимость и признание их исследований, что может привести к дальнейшим финансированиям и сотрудничествам.",
+                        "restrictions": "Исследователи должны соблюдать строгие методологические стандарты и этические нормы при публикации в журнале.",
+                        "imposed_role": "Научные исследователи становятся авторами и рецензентами, поддерживающими качество контента журнала.",
+                        "comment": "I am, the Научные исследователи, see my relationships with a target in the following perspective: I rely on the journal to disseminate my work and maintain my academic reputation."
+                    },
+                    {
+                        "source": "Академические учреждения",
+                        "essentiality": "Научный журнал позволяет им продемонстрировать достижения своих сотрудников, что влияет на репутацию учреждения.",
+                        "opportunity": "Публикации в журнале способствуют рейтингу и престижу учебного заведения.",
+                        "restrictions": "Учебные заведения должны гарантировать, что их исследования соответствуют стандартам качества, установленным журналом.",
+                        "imposed_role": "Академические учреждения выступают как спонсоры и поддерживающие организации для исследователей.",
+                        "comment": "I am, the Академические учреждения, see my relationships with a target in the following perspective: I use the journal to elevate my institution's standing in the academic community."
+                    },
+                    {
+                        "source": "Редакторы журнала",
+                        "essentiality": "Научный журнал предоставляет редакторам возможность формировать содержание и качество публикуемых исследований.",
+                        "opportunity": "Редакторы могут влиять на научное сообщество через отбор значимых исследований для публикации.",
+                        "restrictions": "Редакторы обязаны следовать редакционным этическим нормам и избегать предвзятости при выборе статей для публикации.",
+                        "imposed_role": "Редакторы играют роль кураторов научного контента и защитников качественных стандартов.",
+                        "comment": "I am, the Редакторы журнала, see my relationships with a target in the following perspective: I ensure the integrity and relevance of the journal's content."
+                    },
+                    {
+                        "source": "Научные сообщества",
+                        "essentiality": "Научный журнал служит каналом для распространения идей и исследований среди сообщества.",
+                        "opportunity": "Сообщества получают доступ к последним исследованиям и могут участвовать в обсуждениях и коллаборациях.",
+                        "restrictions": "Сообщества должны уважать авторские права и этические нормы, связанные с публикацией и использованием материалов журнала.",
+                        "imposed_role": "Научные сообщества становятся активными участниками в распространении и обсуждении научных знаний.",
+                        "comment": "I am, the Научные сообщества, see my relationships with a target in the following perspective: I depend on the journal for the latest research that fuels our collective knowledge."
+                    },
+                    {
+                        "source": "Рецензенты",
+                        "essentiality": "Научный журнал нуждается в рецензентах для оценки качества и надежности статей перед публикацией.",
+                        "opportunity": "Рецензенты могут влиять на выбор публикаций и поддерживать свой статус экспертов в области.",
+                        "restrictions": "Рецензенты не могут раскрывать информацию о статьях до их официальной публикации.",
+                        "imposed_role": "Рецензенты выполняют роль гарантии качества публикуемого контента.",
+                        "comment": "I am, the Рецензенты, see my relationships with a target in the following perspective: I play a crucial role in maintaining the journal's credibility through my evaluations."
+                    }
+                ]
+            },
+            "3": {
+                "data": [
+                    {
+                        "source": "Научные рецензенты",
+                        "change": "Влияют на качество и достоверность публикаций, предоставляя экспертные отзывы.",
+                        "opportunity": "Обеспечивают высокий стандарт исследований, что может повысить импакт-фактор журнала.",
+                        "restrictions": "Могут отклонить статьи, которые не соответствуют требованиям и стандартам.",
+                        "imposed_role": "Критик и защитник качества публикаций.",
+                        "comment": "Я, Научные рецензенты, вижу свои отношения с Научным журналом в следующей перспективе: я помогаю поддерживать высокий стандарт исследований."
+                    },
+                    {
+                        "source": "Академические исследователи",
+                        "change": "Создают материалы для публикации, что влияет на содержание журнала.",
+                        "opportunity": "Предоставляют прорывные исследования, которые могут привлечь внимание к журналу.",
+                        "restrictions": "Журнал должен соответствовать ожиданиям исследователей в отношении процесса публикации.",
+                        "imposed_role": "Создатель контента и инноваций.",
+                        "comment": "Я, Академические исследователи, вижу свои отношения с Научным журналом в следующей перспективе: я обеспечиваю контент, который может повысить репутацию журнала."
+                    },
+                    {
+                        "source": "Редакционный совет",
+                        "change": "Управляет процессом публикации и стратегическим направлением журнала.",
+                        "opportunity": "Может улучшить видимость и влияние журнала в научном сообществе.",
+                        "restrictions": "Определяет тематику и приоритеты публикаций, ограничивая выбор статей.",
+                        "imposed_role": "Стратег и куратор содержания.",
+                        "comment": "Я, Редакционный совет, вижу свои отношения с Научным журналом в следующей перспективе: я определяю направление развития и качество содержания."
+                    },
+                    {
+                        "source": "Научные базы данных",
+                        "change": "Влияют на доступность и видимость публикаций.",
+                        "opportunity": "Увеличивают охват аудитории и цитируемость статей.",
+                        "restrictions": "Журнал должен следовать требованиям для индексации, что может ограничивать выбор статей.",
+                        "imposed_role": "Промоутер и распределитель информации.",
+                        "comment": "Я, Научные базы данных, вижу свои отношения с Научным журналом в следующей перспективе: я помогаю увеличить видимость и доступность публикаций."
+                    },
+                    {
+                        "source": "Конкурирующие журналы",
+                        "change": "Создают давление на журнал в плане качества и уникальности публикаций.",
+                        "opportunity": "Стимулируют журнал к улучшению качества контента и повышению импакт-фактора.",
+                        "restrictions": "Могут снизить интерес к публикациям, если качество не будет на уровне.",
+                        "imposed_role": "Конкурент, заставляющий стремиться к лучшему.",
+                        "comment": "Я, Конкурирующие журналы, вижу свои отношения с Научным журналом в следующей перспективе: я стимулирую его к постоянному улучшению и повышению качества."
+                    }
+                ]
+            },
+            "5": {
+                "data": [
+                    {
+                        "source": "Научные исследователи",
+                        "threat": "Научный журнал может отвергнуть их исследования, если они не отвечают высоким стандартам достоверности.",
+                        "consequences_if_deteriorates": "Исследователи могут потерять возможность публиковать свои работы в высокоимпактных журналах.",
+                        "consequences_if_improves": "Исследователи получат возможность публиковать качественные исследования, что улучшит их репутацию.",
+                        "imposed_role": "Критик, который должен постоянно улучшать качество своих исследований.",
+                        "comment": "I am, Научные исследователи, see my relationships with a target in the following perspective: наш успех зависит от репутации журнала."
+                    },
+                    {
+                        "source": "Научные рецензенты",
+                        "threat": "Научный журнал может обострить требования к качеству рецензирования, что увеличит нагрузку на рецензентов.",
+                        "consequences_if_deteriorates": "Если журнал потеряет свою репутацию, рецензенты могут быть менее востребованы.",
+                        "consequences_if_improves": "Если журнал улучшит свои стандарты, рецензенты смогут работать с более качественными исследовательскими материалами.",
+                        "imposed_role": "Сторож, обязан следить за качеством публикаций.",
+                        "comment": "I am, Научные рецензенты, see my relationships with a target in the following perspective: я чувствую давление для повышения качества рецензирования."
+                    },
+                    {
+                        "source": "Университеты и исследовательские учреждения",
+                        "threat": "Научный журнал формирует репутацию университета через публикации его сотрудников.",
+                        "consequences_if_deteriorates": "Университеты могут потерять финансирование и престиж.",
+                        "consequences_if_improves": "Университеты получат больше возможностей для привлечения талантливых студентов и исследователей.",
+                        "imposed_role": "Поддержка и распространение качественных исследований.",
+                        "comment": "I am, Университеты и исследовательские учреждения, see my relationships with a target in the following perspective: успех нашего института зависит от успешной работы журнала."
+                    },
+                    {
+                        "source": "Научные финансирующие организации",
+                        "threat": "Научный журнал может повлиять на распределение грантов, если публикации не имеют высокого качества.",
+                        "consequences_if_deteriorates": "Финансирующие организации могут больше не финансировать исследования, которые публикуются в ненадежных журналах.",
+                        "consequences_if_improves": "Финансирование станет более эффективным, если журнал будет публиковать прорывные исследования.",
+                        "imposed_role": "Контролер, который определяет, какие исследования достойны финансирования.",
+                        "comment": "I am, Научные финансирующие организации, see my relationships with a target in the following perspective: наш бюджет зависит от качества публикаций."
+                    },
+                    {
+                        "source": "Общество и научное сообщество",
+                        "threat": "Научный журнал формирует общественное мнение о научных достижениях.",
+                        "consequences_if_deteriorates": "Общественное недоверие к науке может возрасти, если журнал публикует недостоверные исследования.",
+                        "consequences_if_improves": "Если журнал будет публиковать качественные исследования, это повысит доверие к научному сообществу.",
+                        "imposed_role": "Агент по повышению доверия к науке.",
+                        "comment": "I am, Общество и научное сообщество, see my relationships with a target in the following perspective: я завишу от репутации научных публикаций."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "entity": "Пациенты",
+        "actor_network": {
+            "3": {
+                "data": [
+                    {
+                        "source": "Медицинские работники",
+                        "change": "Обеспечение лечения и поддержки для управления симптомами болезни Альцгеймера.",
+                        "opportunity": "Получение доступа к медицинским ресурсам и информации о болезни.",
+                        "restrictions": "Зависимость от графиков и рекомендаций врачей.",
+                        "imposed_role": "Пациенты должны следовать предписаниям и активно участвовать в лечении.",
+                        "comment": "I am, медицинские работники, see my relationships with пациенты in the following perspective: I provide essential care and guidance, yet I also require compliance and cooperation."
+                    },
+                    {
+                        "source": "Семья и опекуны",
+                        "change": "Эмоциональная поддержка и помощь в повседневной жизни.",
+                        "opportunity": "Чувство безопасности и любви, что помогает пациентам справляться с болезнью.",
+                        "restrictions": "Ограничение личной свободы из-за необходимости заботы.",
+                        "imposed_role": "Пациенты становятся зависимыми от поддержки своих близких.",
+                        "comment": "I am, семья и опекуны, see my relationships with пациенты in the following perspective: I provide love and care, but this also means they rely heavily on me for their well-being."
+                    },
+                    {
+                        "source": "Технологии (например, приложения для здоровья)",
+                        "change": "Упрощение отслеживания симптомов и медицинских назначений.",
+                        "opportunity": "Повышение независимости за счёт использования технологий для управления состоянием.",
+                        "restrictions": "Необходимость осваивать новые технологии, что может быть сложно для некоторых пациентов.",
+                        "imposed_role": "Пациенты становятся пользователями технологий, что требует от них обучения.",
+                        "comment": "I am, технологии, see my relationships with пациенты in the following perspective: I offer tools for self-management, yet I require them to adapt to my use."
+                    },
+                    {
+                        "source": "Общество (группы поддержки, организации)",
+                        "change": "Создание сообщества для обмена опытом и поддержкой.",
+                        "opportunity": "Соблюдение чувства принадлежности и уменьшение изоляции.",
+                        "restrictions": "Возможные стереотипы и предвзятости со стороны общества.",
+                        "imposed_role": "Пациенты становятся частью группы, что требует от них открытости и участия.",
+                        "comment": "I am, общество, see my relationships with пациенты in the following perspective: I provide a network of support, but I also expect engagement and sharing from them."
+                    },
+                    {
+                        "source": "Исследования и научные разработки",
+                        "change": "Обеспечение новых методов лечения и понимания болезни.",
+                        "opportunity": "Доступ к последним достижениям в медицине и возможным экспериментальным лечениям.",
+                        "restrictions": "Неопределенность и риск участия в клинических испытаниях.",
+                        "imposed_role": "Пациенты становятся участниками исследований, что требует от них готовности к экспериментам.",
+                        "comment": "I am, исследования и научные разработки, see my relationships with пациенты in the following perspective: I offer hope for new treatments, but this comes with uncertainty and risk."
+                    }
+                ]
+            },
+            "2": {
+                "data": [
+                    {
+                        "source": "Болезнь Альцгеймера",
+                        "threat": "Постепенное разрушение когнитивных функций, что приводит к потере памяти и личности.",
+                        "consequences_if_deteriorates": "Больные смогут сохранить свои воспоминания и личность.",
+                        "consequences_if_improves": "Увеличение симптомов и ухудшение качества жизни.",
+                        "imposed_role": "Зависимый человек, теряющий свои возможности.",
+                        "comment": "I am, Болезнь Альцгеймера, see my relationships with Пациенты in the following perspective: я забираю их воспоминания и независимость."
+                    },
+                    {
+                        "source": "Медикаменты",
+                        "threat": "Неэффективные или побочные действия лекарств могут ухудшить состояние пациентов.",
+                        "consequences_if_deteriorates": "Больные смогут принимать более эффективные препараты без побочных эффектов.",
+                        "consequences_if_improves": "Улучшение симптомов на короткий срок, но с возможным ухудшением в будущем.",
+                        "imposed_role": "Пациент, вынужденный зависеть от лекарств.",
+                        "comment": "I am, Медикаменты, see my relationships with Пациенты in the following perspective: я должен контролировать их лечение."
+                    },
+                    {
+                        "source": "Общество",
+                        "threat": "Стигматизация и непонимание со стороны окружающих, что может привести к изоляции.",
+                        "consequences_if_deteriorates": "Пациенты смогут чувствовать себя принятыми и поддержанными.",
+                        "consequences_if_improves": "Увеличение давления на пациентов, чтобы они соответствовали ожиданиям общества.",
+                        "imposed_role": "Изолированный человек с болезнью.",
+                        "comment": "I am, Общество, see my relationships with Пациенты in the following perspective: я заставляю их скрывать свою болезнь."
+                    },
+                    {
+                        "source": "Семья и друзья",
+                        "threat": "Недостаточная поддержка или недопонимание могут усугубить эмоциональное состояние пациентов.",
+                        "consequences_if_deteriorates": "Пациенты получат эмоциональную поддержку и понимание.",
+                        "consequences_if_improves": "Больные могут стать чрезмерно зависимыми от мнения и помощи близких.",
+                        "imposed_role": "Бремя для семьи и друзей.",
+                        "comment": "I am, Семья и друзья, see my relationships with Пациенты in the following perspective: я должен быть опорой, но иногда приношу давление."
+                    },
+                    {
+                        "source": "Медицинская система",
+                        "threat": "Отсутствие доступа к качественной медицинской помощи и ресурсам.",
+                        "consequences_if_deteriorates": "Пациенты смогут получить необходимое лечение и поддержку.",
+                        "consequences_if_improves": "Увеличение зависимости от медицинских учреждений и их решений.",
+                        "imposed_role": "Пациент, ожидающий помощи от системы.",
+                        "comment": "I am, Медицинская система, see my relationships with Пациенты in the following perspective: я должен контролировать их доступ к ресурсам."
+                    }
+                ]
+            },
+            "6": {
+                "data": [
+                    {
+                        "source": "Медицинские работники",
+                        "change": "Увеличение знаний и навыков в области ухода за пациентами с болезнью Альцгеймера.",
+                        "opportunity": "Расширение возможностей для научных исследований и профессионального роста.",
+                        "restrictions": "Необходимость соблюдать этические нормы и лечить пациентов с осторожностью.",
+                        "imposed_role": "Поставщик услуг здравоохранения, ответственный за поддержку пациентов.",
+                        "comment": "Я, медицинский работник, вижу свои отношения с пациентами в следующей перспективе: я могу помочь им жить полноценной жизнью, но должен также учитывать свои профессиональные обязательства."
+                    },
+                    {
+                        "source": "Семья пациентов",
+                        "change": "Увеличение эмоциональной нагрузки и ответственности за заботу о близких.",
+                        "opportunity": "Углубление связей и понимания в семье через совместное преодоление трудностей.",
+                        "restrictions": "Сложности в управлении временем и ресурсами для ухода за пациентами.",
+                        "imposed_role": "Заботящийся человек, играющий ключевую роль в жизни пациента.",
+                        "comment": "Я, член семьи пациента, вижу свои отношения с пациентом в следующей перспективе: я должен поддерживать их, но также сталкиваюсь с большим стрессом и ответственностью."
+                    },
+                    {
+                        "source": "Общество",
+                        "change": "Изменение отношения к людям с болезнью Альцгеймера и улучшение доступности ресурсов.",
+                        "opportunity": "Создание более инклюзивной среды для людей с ограниченными возможностями.",
+                        "restrictions": "Необходимость выделять дополнительные ресурсы и внимание к проблемам здоровья.",
+                        "imposed_role": "Сообщество, обязанное поддерживать и принимать людей с болезнью Альцгеймера.",
+                        "comment": "Я, представитель общества, вижу свои отношения с пациентами в следующей перспективе: я обязан поддерживать их, чтобы они чувствовали себя частью нашего общества."
+                    },
+                    {
+                        "source": "Технологические компании",
+                        "change": "Разработка новых технологий и приложений для помощи пациентам с болезнью Альцгеймера.",
+                        "opportunity": "Расширение рынка и внедрение инновационных решений для улучшения качества жизни.",
+                        "restrictions": "Необходимость соответствовать высоким стандартам безопасности и конфиденциальности данных.",
+                        "imposed_role": "Инноватор, стремящийся создать решения для улучшения жизни пациентов.",
+                        "comment": "Я, технологическая компания, вижу свои отношения с пациентами в следующей перспективе: я могу разрабатывать решения, которые меняют их жизнь, но должен следить за безопасностью и этичностью."
+                    },
+                    {
+                        "source": "Фонды и организации, занимающиеся исследованием болезни Альцгеймера",
+                        "change": "Увеличение финансирования и внимания к исследованиям в области болезни Альцгеймера.",
+                        "opportunity": "Обнаружение новых методов лечения и улучшение условий жизни пациентов.",
+                        "restrictions": "Зависимость от донорских средств и необходимость соблюдения отчетности.",
+                        "imposed_role": "Исследователь, стремящийся найти решения для улучшения здоровья пациентов.",
+                        "comment": "Я, фонд, занимающийся исследованием болезни Альцгеймера, вижу свои отношения с пациентами в следующей перспективе: я стремлюсь к улучшению их состояния, но завишу от внешних ресурсов и поддержки."
+                    }
+                ]
+            },
+            "4": {
+                "data": [
+                    {
+                        "source": "Медицинские работники",
+                        "essentiality": "Пациенты обеспечивают медицинских работников постоянным потоком информации о состоянии здоровья, что позволяет им корректировать подход к лечению.",
+                        "opportunity": "Медицинские работники получают возможность применять свои знания и навыки для улучшения качества жизни пациентов.",
+                        "restrictions": "Медицинские работники не могут игнорировать этические нормы и должны действовать в интересах пациентов.",
+                        "imposed_role": "Медицинские работники выступают в роли заботливых специалистов, ответственных за здоровье пациентов.",
+                        "comment": "I am, медицинские работники, see my relationships with a target in the following perspective: пациенты позволяют мне реализовывать мои профессиональные цели и обеспечивать моральное удовлетворение от своей работы."
+                    },
+                    {
+                        "source": "Фармацевтические компании",
+                        "essentiality": "Пациенты создают спрос на лекарства и терапевтические средства, что делает пациентов важными для бизнеса фармацевтических компаний.",
+                        "opportunity": "Фармацевтические компании получают прибыль от продаж медикаментов и возможности для исследования новых препаратов.",
+                        "restrictions": "Фармацевтические компании обязаны соблюдать законы и этические нормы при разработке и продаже препаратов.",
+                        "imposed_role": "Фармацевтические компании принимают на себя роль разработчиков и поставщиков лекарств.",
+                        "comment": "I am, фармацевтические компании, see my relationships with a target in the following perspective: пациенты являются основой нашего бизнеса и важным источником вдохновения для инноваций."
+                    },
+                    {
+                        "source": "Семья и близкие",
+                        "essentiality": "Пациенты нуждаются в поддержке и заботе от семьи, что делает близких важными для их эмоционального и физического благополучия.",
+                        "opportunity": "Семья и близкие получают возможность проявлять заботу и укреплять связь с пациентом.",
+                        "restrictions": "Семья и близкие не могут игнорировать потребности и желания пациента, что требует от них внимания и участия.",
+                        "imposed_role": "Семья и близкие становятся защитниками и опекунами пациентов.",
+                        "comment": "I am, семья и близкие, see my relationships with a target in the following perspective: мы играем важную роль в жизни пациентов, обеспечивая им любовь и поддержку."
+                    },
+                    {
+                        "source": "Общество",
+                        "essentiality": "Пациенты представляют собой сегмент общества, чьи потребности и проблемы требуют внимания и решения.",
+                        "opportunity": "Общество получает возможность развивать программы поддержки и улучшать доступ к медицинским услугам.",
+                        "restrictions": "Общество должно учитывать права пациентов и не может игнорировать их потребности.",
+                        "imposed_role": "Общество играет роль ответственного за здоровье и благополучие своих членов.",
+                        "comment": "I am, общество, see my relationships with a target in the following perspective: пациенты побуждают нас действовать и улучшать качество жизни для всех."
+                    },
+                    {
+                        "source": "Научные исследования",
+                        "essentiality": "Пациенты становятся объектами для научных исследований, что делает их необходимыми для получения новых знаний о болезни Альцгеймера.",
+                        "opportunity": "Научные исследования получают данные и примеры, необходимые для разработки новых методов лечения и понимания заболевания.",
+                        "restrictions": "Научные исследования должны соблюдать этические нормы и права пациентов, не могут проводить эксперименты без их согласия.",
+                        "imposed_role": "Научные исследования выступают в роли исследователей, стремящихся понять и помочь пациентам.",
+                        "comment": "I am, научные исследования, see my relationships with a target in the following perspective: пациенты являются нашим ключом к пониманию и преодолению болезни."
+                    }
+                ]
+            },
+            "1": {
+                "data": [
+                    {
+                        "source": "Медицинские специалисты",
+                        "essentiality": "Медицинские специалисты проводят диагностику и лечение, что позволяет пациентам управлять симптомами болезни Альцгеймера.",
+                        "opportunity": "Пациенты получают доступ к знаниям и методам лечения, которые помогают замедлить прогрессирование болезни.",
+                        "restrictions": "Пациенты должны следовать предписаниям врачей и посещать регулярные обследования.",
+                        "imposed_role": "Пациенты становятся активными участниками процесса лечения, следуя рекомендациям специалистов.",
+                        "comment": "Я, медицинский специалист, вижу свои отношения с пациентами в следующей перспективе: я их проводник в мире здоровья и благополучия, где каждый шаг имеет значение."
+                    },
+                    {
+                        "source": "Лекарственные препараты",
+                        "essentiality": "Лекарственные препараты помогают контролировать симптомы и улучшают качество жизни пациентов с болезнью Альцгеймера.",
+                        "opportunity": "Пациенты могут испытывать облегчение симптомов и улучшение когнитивных функций.",
+                        "restrictions": "Пациенты ограничены в выборе методов лечения, так как должны принимать назначенные препараты.",
+                        "imposed_role": "Пациенты становятся зависимыми от препаратов для поддержания своего состояния.",
+                        "comment": "Я, лекарственный препарат, вижу свои отношения с пациентами в следующей перспективе: я их ключ к улучшению, но с этим ключом приходит ответственность."
+                    },
+                    {
+                        "source": "Семья и близкие",
+                        "essentiality": "Семья и близкие предоставляют эмоциональную поддержку и уход, что критически важно для пациентов.",
+                        "opportunity": "Пациенты получают поддержку, заботу и любовь, что способствует их психологическому состоянию.",
+                        "restrictions": "Пациенты могут чувствовать себя обязанными не обременять своих близких и скрывать свои переживания.",
+                        "imposed_role": "Пациенты становятся центром семейной динамики, где их здоровье влияет на всех.",
+                        "comment": "Я, член семьи, вижу свои отношения с пациентами в следующей перспективе: я их опора, и моя забота — это наше общее благополучие."
+                    },
+                    {
+                        "source": "Технологические устройства (например, умные часы, напоминания)",
+                        "essentiality": "Технологические устройства помогают пациентам отслеживать свои симптомы и принимать лекарства вовремя.",
+                        "opportunity": "Пациенты могут улучшать свою независимость и самостоятельно управлять своим состоянием.",
+                        "restrictions": "Пациенты могут стать зависимыми от технологий и чувствовать давление от необходимости их использования.",
+                        "imposed_role": "Пациенты становятся пользователями технологий, что требует от них адаптации к новым методам управления здоровьем.",
+                        "comment": "Я, технологическое устройство, вижу свои отношения с пациентами в следующей перспективе: я их помощник в мире, где каждый момент имеет значение."
+                    },
+                    {
+                        "source": "Общество и поддерживающие группы",
+                        "essentiality": "Общество и поддерживающие группы предоставляют платформу для обмена опытом и информацией.",
+                        "opportunity": "Пациенты могут находить единомышленников и чувствовать себя менее изолированными.",
+                        "restrictions": "Пациенты могут столкнуться с предвзятостью или непониманием со стороны общества.",
+                        "imposed_role": "Пациенты становятся участниками групповой динамики, где их опыт ценен для других.",
+                        "comment": "Я, поддерживающая группа, вижу свои отношения с пациентами в следующей перспективе: вместе мы сильнее, и каждый голос имеет значение."
+                    }
+                ]
+            },
+            "5": {
+                "data": [
+                    {
+                        "source": "Медицинские учреждения",
+                        "threat": "Пациенты требуют более качественного лечения и ухода, что ставит под угрозу финансовую устойчивость учреждений, если они не могут обеспечить это.",
+                        "consequences_if_deteriorates": "Если пациенты исчезнут, учреждения смогут сократить расходы и не выполнять высокие стандарты обслуживания.",
+                        "consequences_if_improves": "Если пациенты улучшатся, медицинские учреждения могут показать успешные результаты, что приведет к повышению репутации и привлечению новых пациентов.",
+                        "imposed_role": "Являться поставщиком высококачественной медицинской помощи.",
+                        "comment": "Я, медицинское учреждение, вижу свои отношения с пациентами в следующей перспективе: они требуют от меня повышения стандартов, что делает мою работу более сложной, но и более важной."
+                    },
+                    {
+                        "source": "Фармацевтические компании",
+                        "threat": "Пациенты требуют более эффективные препараты, что ставит под сомнение существующие лекарства и их продажи.",
+                        "consequences_if_deteriorates": "Если пациенты исчезнут, компании смогут сократить расходы на исследования и разработки новых препаратов.",
+                        "consequences_if_improves": "Если пациенты улучшатся, компании смогут продемонстрировать эффективность своих лекарств, что увеличит их продажи и прибыль.",
+                        "imposed_role": "Быть инновационным производителем лекарств.",
+                        "comment": "Я, фармацевтическая компания, вижу свои отношения с пациентами в следующей перспективе: их требования к эффективности заставляют меня инвестировать в исследования, что является как вызовом, так и возможностью."
+                    },
+                    {
+                        "source": "Семьи пациентов",
+                        "threat": "Пациенты требуют эмоциональной и физической поддержки, что увеличивает давление на семьи.",
+                        "consequences_if_deteriorates": "Если пациенты исчезнут, семьи смогут освободиться от эмоционального и финансового бремени.",
+                        "consequences_if_improves": "Если пациенты улучшатся, семьи получат возможность восстановить нормальные отношения и снизить уровень стресса.",
+                        "imposed_role": "Быть опорой и поддержкой.",
+                        "comment": "Я, семья пациента, вижу свои отношения с пациентами в следующей перспективе: их потребности требуют от меня больше, чем я могу дать, что создает напряжение в наших отношениях."
+                    },
+                    {
+                        "source": "Социальные службы",
+                        "threat": "Пациенты требуют социальных услуг и поддержки, что перегружает систему.",
+                        "consequences_if_deteriorates": "Если пациенты исчезнут, службы смогут сократить свои расходы и оптимизировать свои программы.",
+                        "consequences_if_improves": "Если пациенты улучшатся, социальные службы смогут показать успешные результаты своей работы и привлечь больше ресурсов.",
+                        "imposed_role": "Обеспечивать социальную поддержку и услуги.",
+                        "comment": "Я, социальная служба, вижу свои отношения с пациентами в следующей перспективе: их потребности требуют от меня больше ресурсов, что создает давление на нашу систему."
+                    },
+                    {
+                        "source": "Общество",
+                        "threat": "Пациенты требуют повышения осведомленности и изменений в отношении к болезни, что может вызвать социальные изменения.",
+                        "consequences_if_deteriorates": "Если пациенты исчезнут, общество сможет игнорировать проблему и не прилагать усилий для ее решения.",
+                        "consequences_if_improves": "Если пациенты улучшатся, общество станет более осведомленным и готовым поддерживать людей с такими заболеваниями.",
+                        "imposed_role": "Быть активным участником в борьбе с болезнью.",
+                        "comment": "Я, общество, вижу свои отношения с пациентами в следующей перспективе: их борьба заставляет меня осознавать важность изменений и поддержки, что является вызовом для нашего восприятия."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "entity": "Коллеги-ученые",
+        "actor_network": {
+            "4": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "essentiality": "Коллеги-ученые обеспечивают рецензирование и публикацию статей, что критически важно для научных журналов.",
+                        "opportunity": "Заработок на подписках и повышенная репутация за счет публикации качественных исследований.",
+                        "restrictions": "Не могут публиковать статьи без научной обоснованности и рецензирования.",
+                        "imposed_role": "Куратор научного контента и стандартов.",
+                        "comment": "I am, Научные журналы, see my relationships with Коллеги-ученые in the following perspective: их работа делает меня важным элементом научного взаимодействия."
+                    },
+                    {
+                        "source": "Научные конференции",
+                        "essentiality": "Коллеги-ученые представляют свои исследования на конференциях, что делает эти события значимыми.",
+                        "opportunity": "Создание платформы для обмена идеями и сетевого взаимодействия.",
+                        "restrictions": "Не могут проводить конференции без участия исследователей.",
+                        "imposed_role": "Площадка для демонстрации научных достижений.",
+                        "comment": "I am, Научные конференции, see my relationships with Коллеги-ученые in the following perspective: их участие формирует мою ценность как места для обмена знаниями."
+                    },
+                    {
+                        "source": "Научные гранты",
+                        "essentiality": "Коллеги-ученые подают заявки на гранты, что делает их зависимыми от научных исследований.",
+                        "opportunity": "Финансирование новых проектов и исследований.",
+                        "restrictions": "Не могут предоставлять финансирование без доказанной научной значимости проектов.",
+                        "imposed_role": "Инвестор в научные исследования.",
+                        "comment": "I am, Научные гранты, see my relationships with Коллеги-ученые in the following perspective: их исследования необходимы для оправдания моего существования."
+                    },
+                    {
+                        "source": "Образовательные учреждения",
+                        "essentiality": "Коллеги-ученые обучают студентов и аспирантов, что поддерживает образовательные программы.",
+                        "opportunity": "Поддержка репутации и притяжение талантливых студентов.",
+                        "restrictions": "Не могут предоставлять образование без актуальных исследований и публикаций.",
+                        "imposed_role": "Наставник и авторитет в научной области.",
+                        "comment": "I am, Образовательные учреждения, see my relationships with Коллеги-ученые in the following perspective: их знания и опыт обогащают мой учебный процесс."
+                    },
+                    {
+                        "source": "Научные сообщества",
+                        "essentiality": "Коллеги-ученые составляют ядро научных сообществ, что делает их необходимыми для функционирования таких организаций.",
+                        "opportunity": "Создание сети для сотрудничества и обсуждения научных вопросов.",
+                        "restrictions": "Не могут функционировать без активной вовлеченности исследователей.",
+                        "imposed_role": "Членство и участие в научных дискуссиях.",
+                        "comment": "I am, Научные сообщества, see my relationships with Коллеги-ученые in the following perspective: их вовлеченность делает меня значимым пространством для научного диалога."
+                    }
+                ]
+            },
+            "2": {
+                "data": [
+                    {
+                        "source": "Научные критики",
+                        "threat": "Критика исследований и идей, вызывающая сомнения в их достоверности.",
+                        "consequences_if_deteriorates": "Ученые смогут свободно исследовать новые идеи без страха критики.",
+                        "consequences_if_improves": "Ученые могут начать избегать новых идей, что затормозит прогресс в науке.",
+                        "imposed_role": "Скептики, которые препятствуют инновациям.",
+                        "comment": "Я, Научные критики, вижу свои отношения с Коллеги-ученые в следующей перспективе: моя роль заключается в поддержании высокого уровня научной строгости."
+                    },
+                    {
+                        "source": "Консервативные учёные",
+                        "threat": "Поддержка устоявшихся теорий и противодействие новым подходам.",
+                        "consequences_if_deteriorates": "Творческая свобода и возможность экспериментов без давления.",
+                        "consequences_if_improves": "Ученые могут оказаться под давлением следовать традиционным путям и игнорировать новые идеи.",
+                        "imposed_role": "Застойные защитники традиций.",
+                        "comment": "Я, Консервативные учёные, вижу свои отношения с Коллеги-ученые в следующей перспективе: моя роль заключается в защите научной стабильности."
+                    },
+                    {
+                        "source": "Научные журналы",
+                        "threat": "Строгие требования к публикациям, которые могут исключать новаторские идеи.",
+                        "consequences_if_deteriorates": "Больше возможностей для публикации разнообразных исследований.",
+                        "consequences_if_improves": "Ученые могут быть вынуждены изменять свои исследования, чтобы соответствовать требованиям.",
+                        "imposed_role": "Отборщики, которые определяют, что считается ценным.",
+                        "comment": "Я, Научные журналы, вижу свои отношения с Коллеги-ученые в следующей перспективе: моя роль заключается в фильтрации научного контента."
+                    },
+                    {
+                        "source": "Финансирующие организации",
+                        "threat": "Контроль над финансированием, что влияет на направления исследований.",
+                        "consequences_if_deteriorates": "Больше независимости в выборе тем для исследований.",
+                        "consequences_if_improves": "Ученые могут стать зависимыми от внешних интересов, что влияет на их научные выводы.",
+                        "imposed_role": "Поддерживающие, которые формируют приоритеты исследований.",
+                        "comment": "Я, Финансирующие организации, вижу свои отношения с Коллеги-ученые в следующей перспективе: моя роль заключается в определении направлений исследований через финансирование."
+                    },
+                    {
+                        "source": "Технологические новшества",
+                        "threat": "Быстрое развитие технологий, которые могут сделать существующие исследования устаревшими.",
+                        "consequences_if_deteriorates": "Ученые смогут углубляться в свои исследования без необходимости следовать за технологиями.",
+                        "consequences_if_improves": "Ученые могут столкнуться с необходимостью адаптироваться к новым технологиям, что потребует времени и ресурсов.",
+                        "imposed_role": "Адаптировщики, которые должны следовать за трендами.",
+                        "comment": "Я, Технологические новшества, вижу свои отношения с Коллеги-ученые в следующей перспективе: моя роль заключается в том, чтобы заставить науку эволюционировать вместе с технологиями."
+                    }
+                ]
+            },
+            "1": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "essentiality": "Научные журналы являются основным каналом публикации исследований, что делает их необходимыми для получения признания.",
+                        "opportunity": "Предоставляют возможность публиковать свои находки и получать обратную связь от научного сообщества.",
+                        "restrictions": "Ограничивают доступ к публикациям, если работа не соответствует стандартам рецензирования.",
+                        "imposed_role": "Исследователь должен соответствовать критериям качества и оригинальности для публикации.",
+                        "comment": "I am, Научные журналы, see my relationships with a target in the following perspective: я формирую стандарты качества, которые определяют, кто может быть услышан в научном мире."
+                    },
+                    {
+                        "source": "Научные конференции",
+                        "essentiality": "Конференции являются важным местом для обмена знаниями и сетевого взаимодействия, что делает их важным элементом в научной карьере.",
+                        "opportunity": "Предоставляют платформу для представления своих исследований, что может привести к сотрудничеству и новым возможностям.",
+                        "restrictions": "Ограничивают возможность участия и представления результатов, если исследование не имеет актуальности или новизны.",
+                        "imposed_role": "Ученые должны активно участвовать и представлять свои работы для получения признания.",
+                        "comment": "I am, Научные конференции, see my relationships with a target in the following perspective: я создаю пространство, где исследования могут быть обсуждены и оценены."
+                    },
+                    {
+                        "source": "Научные сообщества",
+                        "essentiality": "Сообщества предоставляют поддержку и ресурсы, что делает их необходимыми для профессионального роста.",
+                        "opportunity": "Открывают двери к сотрудничеству и обмену опытом с другими исследователями.",
+                        "restrictions": "Ограничивают доступ к сетям и ресурсам, если ученый не соответствует этическим и профессиональным стандартам.",
+                        "imposed_role": "Ученые должны активно участвовать в жизни сообщества, чтобы оставаться актуальными.",
+                        "comment": "I am, Научные сообщества, see my relationships with a target in the following perspective: я формирую сообщество поддержки, где исследователи могут обмениваться идеями."
+                    },
+                    {
+                        "source": "Технологические инструменты (например, программное обеспечение для анализа данных)",
+                        "essentiality": "Технологические инструменты необходимы для выполнения сложных анализов и обработки данных.",
+                        "opportunity": "Обеспечивают возможность более глубокого анализа и интерпретации данных, расширяя горизонты исследований.",
+                        "restrictions": "Ограничивают использование, требуя соблюдения лицензий и стандартов безопасности данных.",
+                        "imposed_role": "Ученые должны овладеть новыми технологиями для повышения качества своих исследований.",
+                        "comment": "I am, Технологические инструменты, see my relationships with a target in the following perspective: я открываю новые горизонты для анализа и интерпретации данных."
+                    },
+                    {
+                        "source": "Критики и оппоненты",
+                        "essentiality": "Критика помогает формировать и улучшать научные идеи, что делает их неизменной частью научного процесса.",
+                        "opportunity": "Предоставляют возможность пересмотреть и улучшить свои исследования благодаря конструктивной критике.",
+                        "restrictions": "Могут ограничивать возможности, если критика обоснована и конструктивна.",
+                        "imposed_role": "Ученые должны быть готовыми к критике и адаптировать свои идеи в соответствии с полученными отзывами.",
+                        "comment": "I am, Критики и оппоненты, see my relationships with a target in the following perspective: я являюсь катализатором изменений и улучшений в научной среде."
+                    }
+                ]
+            },
+            "6": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "change": "Научные журналы адаптируют свои критерии публикации и рецензирования, чтобы соответствовать ожиданиям исследователей.",
+                        "opportunity": "Увеличение числа качественных статей и, как следствие, повышение их влияния и цитируемости.",
+                        "restrictions": "Журналы могут столкнуться с необходимостью более тщательной проверки статей, что увеличивает нагрузку на редакторов.",
+                        "imposed_role": "Субъект публикации, который должен обеспечивать соответствие стандартам.",
+                        "comment": "I am, Научные журналы, see my relationships with a target in the following perspective: мы стремимся к высокому качеству публикаций, и наши интересы совпадают с целями исследователей."
+                    },
+                    {
+                        "source": "Научные сообщества",
+                        "change": "Научные сообщества начинают создавать новые инициативы и мероприятия для поддержки исследовательской работы.",
+                        "opportunity": "Расширение сети контактов и ресурсов для членов сообщества.",
+                        "restrictions": "Обязанность поддерживать высокие стандарты и этику в научной деятельности.",
+                        "imposed_role": "Сетевой координатор, который объединяет ученых для совместных усилий.",
+                        "comment": "I am, Научные сообщества, see my relationships with a target in the following perspective: мы предоставляем платформу для обмена знаниями и поддерживаем исследования для улучшения науки."
+                    },
+                    {
+                        "source": "Финансирующие организации",
+                        "change": "Финансирующие организации пересматривают свои критерии для финансирования, чтобы поддержать актуальные направления исследований.",
+                        "opportunity": "Получение новых идей и проектов, которые могут привести к значительным открытиям.",
+                        "restrictions": "Необходимость жесткой отчетности и оценки эффективности проектов.",
+                        "imposed_role": "Инвестор, который требует обоснования вложений.",
+                        "comment": "I am, Финансирующие организации, see my relationships with a target in the following perspective: мы заинтересованы в поддержании прорывных исследований, которые меняют мир."
+                    },
+                    {
+                        "source": "Образовательные учреждения",
+                        "change": "Образовательные учреждения обновляют свои учебные планы, учитывая новые открытия и достижения в науке.",
+                        "opportunity": "Увеличение привлекательности программ и повышение уровня образования.",
+                        "restrictions": "Необходимость соответствия современным требованиям и стандартам образования.",
+                        "imposed_role": "Образовательный партнер, который обеспечивает подготовку будущих ученых.",
+                        "comment": "I am, Образовательные учреждения, see my relationships with a target in the following perspective: мы инвестируем в подготовку новых поколений ученых через актуальные знания и исследования."
+                    },
+                    {
+                        "source": "Технологические компании",
+                        "change": "Технологические компании начинают разрабатывать новые инструменты и технологии, которые облегчают исследовательскую работу.",
+                        "opportunity": "Разработка новых продуктов и услуг, основанных на потребностях ученых.",
+                        "restrictions": "Необходимость следить за изменениями в научных направлениях и адаптировать свои продукты.",
+                        "imposed_role": "Поставщик технологий, который должен учитывать потребности исследователей.",
+                        "comment": "I am, Технологические компании, see my relationships with a target in the following perspective: мы видим большой потенциал в сотрудничестве с учеными для создания инновационных решений."
+                    }
+                ]
+            },
+            "3": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "change": "Научные журналы требуют от коллег-ученых строгих стандартов и оригинальности в публикациях.",
+                        "opportunity": "Предоставляют платформу для публикации исследований, что способствует признанию в научном сообществе.",
+                        "restrictions": "Накладывают высокие требования к качеству и оригинальности исследований, что может ограничивать выбор тем для исследований.",
+                        "imposed_role": "Рецензент и автор, вынуждая быть критически настроенными к своим работам.",
+                        "comment": "I am, Научные журналы, see my relationships with a target in the following perspective: I drive them to enhance their research quality and visibility."
+                    },
+                    {
+                        "source": "Научные конференции",
+                        "change": "Научные конференции способствуют обмену идей и критическим обсуждениям, что влияет на подходы коллег к исследованиям.",
+                        "opportunity": "Предлагают возможность представлять свои исследования, получать обратную связь и расширять профессиональные контакты.",
+                        "restrictions": "Ограничивают время на презентацию, что может заставить коллег сосредоточиться на определенных аспектах своих исследований.",
+                        "imposed_role": "Докладчик и слушатель, требуя активного участия в обсуждениях.",
+                        "comment": "I am, Научные конференции, see my relationships with a target in the following perspective: I foster their growth and networking."
+                    },
+                    {
+                        "source": "Научные исследования и эксперименты",
+                        "change": "Эксперименты и исследования формируют новые понимания и теории, влияя на взгляды коллег-ученых.",
+                        "opportunity": "Предоставляют данные и результаты, которые могут привести к значимым открытиям.",
+                        "restrictions": "Могут требовать значительных ресурсов и времени, ограничивая возможности для других исследований.",
+                        "imposed_role": "Исследователь, требующий кропотливой работы и анализа.",
+                        "comment": "I am, Научные исследования и эксперименты, see my relationships with a target in the following perspective: I challenge them to push boundaries in their fields."
+                    },
+                    {
+                        "source": "Научные сообщества и ассоциации",
+                        "change": "Научные сообщества создают сети поддержки и обмена знаниями между учеными.",
+                        "opportunity": "Предлагают членство, доступ к ресурсам и возможности для сотрудничества.",
+                        "restrictions": "Могут накладывать обязательства участия в мероприятиях и соблюдения этических стандартов.",
+                        "imposed_role": "Член сообщества, требующий активного участия.",
+                        "comment": "I am, Научные сообщества и ассоциации, see my relationships with a target in the following perspective: I connect them with like-minded individuals for collaborative growth."
+                    },
+                    {
+                        "source": "Общественное мнение и медиа",
+                        "change": "Общественное мнение и медиа влияют на восприятие научных достижений и теорий.",
+                        "opportunity": "Создают возможность для ученых быть услышанными и признанными широкой аудиторией.",
+                        "restrictions": "Могут формировать давление на ученых в плане публичного имиджа и восприятия их работы.",
+                        "imposed_role": "Публичный деятель, требующий от ученых быть более открытыми и доступными.",
+                        "comment": "I am, Общественное мнение и медиа, see my relationships with a target in the following perspective: I amplify their voice and impact in society."
+                    }
+                ]
+            },
+            "5": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "threat": "Коллеги-ученые могут критиковать публикации и снижать их рейтинг, если они не соответствуют высоким стандартам.",
+                        "consequences_if_deteriorates": "Научные журналы могут столкнуться с уменьшением числа подаваемых статей и снижением их репутации.",
+                        "consequences_if_improves": "Научные журналы получат больше высококачественных статей и, следовательно, увеличат свой импакт-фактор.",
+                        "imposed_role": "Критик",
+                        "comment": "I am, Научные журналы, see my relationships with a target in the following perspective: их критика может как повысить, так и снизить мою репутацию."
+                    },
+                    {
+                        "source": "Научные сообщества",
+                        "threat": "Коллеги-ученые могут изменить направление исследований, подрывая устоявшиеся теории.",
+                        "consequences_if_deteriorates": "Научные сообщества могут потерять актуальность и влияние в научной сфере.",
+                        "consequences_if_improves": "Научные сообщества могут стать более инновационными и влиятельными, адаптируясь к новым открытиям.",
+                        "imposed_role": "Инноватор",
+                        "comment": "I am, Научные сообщества, see my relationships with a target in the following perspective: их стремление к новаторству требует от меня адаптации."
+                    },
+                    {
+                        "source": "Финансирующие организации",
+                        "threat": "Коллеги-ученые могут оспорить финансирование устаревших исследований в пользу новых направлений.",
+                        "consequences_if_deteriorates": "Финансирующие организации могут пересмотреть свои приоритеты и сократить финансирование.",
+                        "consequences_if_improves": "Финансирующие организации могут получить доступ к более актуальным и перспективным исследованиям.",
+                        "imposed_role": "Критик",
+                        "comment": "I am, Финансирующие организации, see my relationships with a target in the following perspective: их влияние на науку заставляет меня пересматривать свои инвестиции."
+                    },
+                    {
+                        "source": "Научные конференции",
+                        "threat": "Коллеги-ученые могут повысить требования к качеству представляемых исследований.",
+                        "consequences_if_deteriorates": "Научные конференции могут потерять интерес и посещаемость, если не будут соответствовать новым стандартам.",
+                        "consequences_if_improves": "Научные конференции могут привлечь больше участников и повысить свой статус.",
+                        "imposed_role": "Стандартопостановщик",
+                        "comment": "I am, Научные конференции, see my relationships with a target in the following perspective: их амбиции влияют на мои стандарты качества."
+                    },
+                    {
+                        "source": "Образовательные учреждения",
+                        "threat": "Коллеги-ученые могут изменить содержание курсов и программ, внедряя новые идеи.",
+                        "consequences_if_deteriorates": "Образовательные учреждения могут остаться без актуальных знаний и потерять конкурентоспособность.",
+                        "consequences_if_improves": "Образовательные учреждения могут улучшить качество образования и соответствие современным требованиям.",
+                        "imposed_role": "Реформатор",
+                        "comment": "I am, Образовательные учреждения, see my relationships with a target in the following perspective: их стремление к улучшению заставляет меня меняться."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "entity": "Исследователи в области нейрологии",
+        "actor_network": {
+            "3": {
+                "data": [
+                    {
+                        "source": "Научные публикации",
+                        "change": "Увеличивают видимость и доступность результатов исследований",
+                        "opportunity": "Получение признания и цитирования в научном сообществе",
+                        "restrictions": "Необходимость соблюдать высокие стандарты качества и этики в публикациях",
+                        "imposed_role": "Авторитетный исследователь, который должен следовать установленным нормам",
+                        "comment": "I am, Научные публикации, see my relationships with Исследователи в области нейрологии in the following perspective: I provide a platform for validation and visibility."
+                    },
+                    {
+                        "source": "Научные гранты",
+                        "change": "Финансовая поддержка исследовательских проектов",
+                        "opportunity": "Обеспечение финансирования для продолжения исследований",
+                        "restrictions": "Необходимость соответствовать критериям и обязательствам, установленным грантодателями",
+                        "imposed_role": "Исследователь, который должен обосновывать свои запросы на финансирование",
+                        "comment": "I am, Научные гранты, see my relationships with Исследователи в области нейрологии in the following perspective: I fuel your research ambitions while demanding accountability."
+                    },
+                    {
+                        "source": "Научные конференции",
+                        "change": "Создают возможности для обмена опытом и результатами исследований",
+                        "opportunity": "Нетворкинг и возможность получить обратную связь от коллег",
+                        "restrictions": "Необходимость подготовки и представления работы на высоком уровне",
+                        "imposed_role": "Представитель своего исследования в профессиональной среде",
+                        "comment": "I am, Научные конференции, see my relationships with Исследователи в области нейрологии in the following perspective: I am a stage for showcasing your work and engaging with peers."
+                    },
+                    {
+                        "source": "Научные журналы",
+                        "change": "Формируют стандарты качества и проверки для публикации исследований",
+                        "opportunity": "Возможность публикации и улучшение репутации через рецензирование",
+                        "restrictions": "Необходимость соответствовать строгим требованиям по исследованиям и рецензированию",
+                        "imposed_role": "Рецензируемый автор, который должен отстаивать свои данные и методы",
+                        "comment": "I am, Научные журналы, see my relationships with Исследователи в области нейрологии in the following perspective: I uphold the integrity of research through rigorous evaluation."
+                    },
+                    {
+                        "source": "Этические комитеты",
+                        "change": "Контролируют соблюдение этических норм в исследованиях",
+                        "opportunity": "Гарантия этичности исследований, что может укрепить доверие к результатам",
+                        "restrictions": "Необходимость соблюдения этических стандартов, что может замедлить процесс исследований",
+                        "imposed_role": "Исследователь, который должен обосновывать этичность своих методов",
+                        "comment": "I am, Этические комитеты, see my relationships with Исследователи в области нейрологии in the following perspective: I ensure that your work aligns with ethical practices."
+                    }
+                ]
+            },
+            "6": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "change": "Повышение интереса к публикациям о болезни Альцгеймера и амилоидной гипотезе.",
+                        "opportunity": "Увеличение числа статей, что может повысить их импакт-фактор.",
+                        "restrictions": "Необходимость публиковать только проверенные и высококачественные исследования.",
+                        "imposed_role": "Платформа для распространения результатов исследований.",
+                        "comment": "I am, Научные журналы, see my relationships with Исследователи в области нейрологии in the following perspective: We benefit from high-quality submissions that can enhance our reputation."
+                    },
+                    {
+                        "source": "Финансирующие организации",
+                        "change": "Увеличение интереса к финансированию исследований в области нейродегенеративных заболеваний.",
+                        "opportunity": "Возможность инвестировать в перспективные исследования и получить престижные результаты.",
+                        "restrictions": "Ограничение на финансирование только тех проектов, которые имеют высокий потенциал успеха.",
+                        "imposed_role": "Кредитор, обеспечивающий ресурсы для исследований.",
+                        "comment": "I am, Финансирующие организации, see my relationships with Исследователи в области нейрологии in the following perspective: Our role is to support innovative research that aligns with our funding goals."
+                    },
+                    {
+                        "source": "Научные сообщества",
+                        "change": "Увеличение числа участников и активных обсуждений по теме амилоидной гипотезы.",
+                        "opportunity": "Расширение сети контактов и сотрудничества между учеными.",
+                        "restrictions": "Необходимость поддерживать высокие стандарты исследований и этики.",
+                        "imposed_role": "Площадка для обмена знаниями и идеями.",
+                        "comment": "I am, Научные сообщества, see my relationships with Исследователи в области нейрологии in the following perspective: We are a collaborative network that thrives on shared knowledge and innovative ideas."
+                    },
+                    {
+                        "source": "Общество пациентов с болезнью Альцгеймера",
+                        "change": "Повышение осведомленности о важности исследований в области болезни Альцгеймера.",
+                        "opportunity": "Получение информации о новых методах лечения и поддержка научных инициатив.",
+                        "restrictions": "Ожидание прозрачности и этичности в проведении исследований.",
+                        "imposed_role": "Группа интересов, влияющая на приоритеты исследований.",
+                        "comment": "I am, Общество пациентов с болезнью Альцгеймера, see my relationships with Исследователи в области нейрологии in the following perspective: Our voice is crucial in shaping the research agenda to reflect patient needs."
+                    },
+                    {
+                        "source": "Медицинские учреждения",
+                        "change": "Увеличение числа клинических испытаний и исследований в области нейрологии.",
+                        "opportunity": "Получение новых данных и улучшение методов диагностики и лечения.",
+                        "restrictions": "Необходимость следовать протоколам и стандартам лечения.",
+                        "imposed_role": "Исполнительный орган, предоставляющий данные для исследований.",
+                        "comment": "I am, Медицинские учреждения, see my relationships with Исследователи в области нейрологии in the following perspective: We provide the necessary infrastructure to facilitate groundbreaking research."
+                    }
+                ]
+            },
+            "4": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "essentiality": "Научные журналы зависят от качественных исследований, которые подтверждают или опровергают гипотезы, чтобы публиковать новые статьи.",
+                        "opportunity": "Исследователи в области нейрологии предоставляют данные и результаты, которые могут привести к публикациям и повышению их статуса.",
+                        "restrictions": "Научные журналы не могут публиковать недоказанные гипотезы, что ограничивает их возможность включения в свои выпуски неподтверждённые исследования.",
+                        "imposed_role": "Научные журналы выступают в роли критиков и оценщиков значимости работы исследователей.",
+                        "comment": "I am, the Научные журналы, see my relationships with Исследователи в области нейрологии in the following perspective: I rely on their findings to maintain my credibility and relevance."
+                    },
+                    {
+                        "source": "Финансовые организации",
+                        "essentiality": "Финансовые организации нуждаются в убедительных результатах исследований, чтобы обосновать финансирование проектов.",
+                        "opportunity": "Исследователи в области нейрологии могут представить обоснованные заявки на финансирование, что позволяет организациям инвестировать в перспективные исследования.",
+                        "restrictions": "Финансовые организации не могут поддерживать проекты, которые не имеют научного обоснования или могут быть опровергнуты.",
+                        "imposed_role": "Финансовые организации выступают в роли инвесторов, которые оценивают риски и выгоды исследований.",
+                        "comment": "I am, the Финансовые организации, see my relationships with Исследователи в области нейрологии in the following perspective: I depend on their validated research to guide my investments."
+                    },
+                    {
+                        "source": "Научное сообщество",
+                        "essentiality": "Научное сообщество нуждается в новых открытиях и подтверждениях гипотез для продвижения знаний.",
+                        "opportunity": "Исследователи в области нейрологии предлагают новые данные и теории, которые могут быть обсуждены и развиты в сообществе.",
+                        "restrictions": "Научное сообщество должно придерживаться этических норм и стандартов в оценке работы исследователей.",
+                        "imposed_role": "Научное сообщество является критическим аудитом и поддержкой для исследовательских работ.",
+                        "comment": "I am, the Научное сообщество, see my relationships with Исследователи в области нейрологии in the following perspective: I rely on their contributions to advance collective knowledge."
+                    },
+                    {
+                        "source": "Общественное мнение",
+                        "essentiality": "Общественное мнение формируется на основе научных открытий и их интерпретации.",
+                        "opportunity": "Исследователи в области нейрологии могут влиять на общественное понимание болезни Альцгеймера и важности своих исследований.",
+                        "restrictions": "Общественное мнение не может поддерживать исследования, которые не имеют широкой поддержки или являются противоречивыми.",
+                        "imposed_role": "Общественное мнение выступает в роли индикатора общественного интереса и поддержки исследований.",
+                        "comment": "I am, the Общественное мнение, see my relationships with Исследователи в области нейрологии in the following perspective: I shape my views based on their findings and societal implications."
+                    },
+                    {
+                        "source": "Технологические платформы",
+                        "essentiality": "Технологические платформы требуют актуальных данных и исследований для разработки новых инструментов и технологий.",
+                        "opportunity": "Исследователи в области нейрологии предоставляют информацию, которая помогает в создании новых диагностических и терапевтических решений.",
+                        "restrictions": "Технологические платформы не могут разрабатывать решения, основанные на устаревших или неподтверждённых данных.",
+                        "imposed_role": "Технологические платформы выступают в роли разработчиков и поставщиков инструментов для исследований.",
+                        "comment": "I am, the Технологические платформы, see my relationships with Исследователи в области нейрологии in the following perspective: I depend on their research to enhance my technological offerings."
+                    }
+                ]
+            },
+            "2": {
+                "data": [
+                    {
+                        "source": "Конкурирующие исследователи",
+                        "threat": "Оспаривают результаты и выводы, что может привести к потере финансирования и репутации",
+                        "consequences_if_deteriorates": "Исследователи получат больше возможностей для публикаций и финансирования без конкуренции",
+                        "consequences_if_improves": "Исследователи могут потерять поддержку научного сообщества и финансирование, если их данные будут оспорены",
+                        "imposed_role": "Оппонент в научной дискуссии",
+                        "comment": "I am, Конкурирующие исследователи, see my relationships with a target in the following perspective: I challenge their findings to uphold scientific rigor."
+                    },
+                    {
+                        "source": "Научные публикации",
+                        "threat": "Отсутствие публикаций или негативные рецензии могут привести к потере авторитета",
+                        "consequences_if_deteriorates": "Исследователи смогут получить признание и финансирование без негативного влияния",
+                        "consequences_if_improves": "Положительные публикации увеличат доверие к их гипотезе и обеспечат финансирование",
+                        "imposed_role": "Критический оценщик",
+                        "comment": "I am, Научные публикации, see my relationships with a target in the following perspective: I evaluate the validity and impact of their work."
+                    },
+                    {
+                        "source": "Финансирующие организации",
+                        "threat": "Могут прекратить финансирование в случае негативных результатов исследований",
+                        "consequences_if_deteriorates": "Исследователи смогут работать свободнее, не полагаясь на внешние источники",
+                        "consequences_if_improves": "Увеличение финансирования позволит расширить исследования и повысить их значимость",
+                        "imposed_role": "Финансовый контролер",
+                        "comment": "I am, Финансирующие организации, see my relationships with a target in the following perspective: I provide the necessary resources for their research."
+                    },
+                    {
+                        "source": "Общество и общественное мнение",
+                        "threat": "Отрицательное восприятие может снизить интерес к исследованиям",
+                        "consequences_if_deteriorates": "Исследователи смогут сосредоточиться на своих исследованиях без давления со стороны",
+                        "consequences_if_improves": "Положительное восприятие повысит заинтересованность в их работе и увеличит финансирование",
+                        "imposed_role": "Социальный критик",
+                        "comment": "I am, Общество и общественное мнение, see my relationships with a target in the following perspective: I shape the narrative around their research efforts."
+                    },
+                    {
+                        "source": "Технологические инновации",
+                        "threat": "Неудача в адаптации к новым технологиям может снизить актуальность их исследований",
+                        "consequences_if_deteriorates": "Исследователи смогут сосредоточиться на традиционных методах без давления адаптации",
+                        "consequences_if_improves": "Применение новых технологий увеличит эффективность их исследований и повысит шансы на успех",
+                        "imposed_role": "Технологический адаптер",
+                        "comment": "I am, Технологические инновации, see my relationships with a target in the following perspective: I drive the evolution of research methodologies."
+                    }
+                ]
+            },
+            "5": {
+                "data": [
+                    {
+                        "source": "Научное сообщество",
+                        "threat": "Исследователи в области нейрологии могут продвигать свои идеи и получать признание, что снижает влияние устоявшихся теорий.",
+                        "consequences_if_deteriorates": "Если исследователи потерпят неудачу, это может укрепить текущие парадигмы и теории, которые не требуют пересмотра.",
+                        "consequences_if_improves": "Укрепление статуса исследователей может привести к новому взгляду на болезнь Альцгеймера и повысить значимость научного сообщества.",
+                        "imposed_role": "Критик существующих теорий и пионер новых идей.",
+                        "comment": "I am Научное сообщество, see my relationships with a target in the following perspective: я могу быть угрожаем тем, что новые идеи подорвут устоявшиеся парадигмы."
+                    },
+                    {
+                        "source": "Финансирующие организации",
+                        "threat": "Исследователи могут получать финансирование на свои проекты, что угрожает финансированию других направлений, если их гипотезы окажутся успешными.",
+                        "consequences_if_deteriorates": "Потеря интереса к исследованию амилоидной гипотезы может привести к перераспределению средств на другие темы.",
+                        "consequences_if_improves": "Если исследователи подтвердят гипотезу, финансирующие организации могут получить возможность инвестировать в новые, более перспективные направления.",
+                        "imposed_role": "Инвестор в успех или провал исследований.",
+                        "comment": "I am Финансирующие организации, see my relationships with a target in the following perspective: я рискую потерять средства, если исследования не оправдают надежд."
+                    },
+                    {
+                        "source": "Конкурирующие исследователи",
+                        "threat": "Исследователи в области нейрологии могут получить преимущество в репутации и финансировании, если их гипотеза будет подтверждена.",
+                        "consequences_if_deteriorates": "Конкуренты могут получить больше внимания и ресурсов, если нейрологи потерпят неудачу.",
+                        "consequences_if_improves": "Успех нейрологов может затмить достижения конкурирующих исследователей и снизить их шансы на финансирование.",
+                        "imposed_role": "Оппоненты в научной дискуссии.",
+                        "comment": "I am Конкурирующие исследователи, see my relationships with a target in the following perspective: я вижу в них угрозу своей научной деятельности и финансированию."
+                    },
+                    {
+                        "source": "Научные журналы",
+                        "threat": "Исследования, подтверждающие амилоидную гипотезу, могут изменить направление публикаций и повысить требования к качеству данных.",
+                        "consequences_if_deteriorates": "Если гипотеза будет опровергнута, журналы могут вернуться к публикации менее строгих исследований.",
+                        "consequences_if_improves": "Успехи в области нейрологии могут повысить интерес к публикациям и улучшить их репутацию.",
+                        "imposed_role": "Критерий оценки качества исследований.",
+                        "comment": "I am Научные журналы, see my relationships with a target in the following perspective: я могу быть вынужден пересмотреть свои стандарты публикации в ответ на новые данные."
+                    },
+                    {
+                        "source": "Общество Alzheimer",
+                        "threat": "Исследователи могут изменить восприятие болезни и подходы к лечению, что угрожает традиционным методам и финансированию.",
+                        "consequences_if_deteriorates": "Если исследования не подтвердят гипотезу, общество может продолжать использовать устаревшие методы, что снизит эффективность помощи.",
+                        "consequences_if_improves": "Подтверждение гипотезы может привести к новым методам лечения и повышению общественного интереса к болезни.",
+                        "imposed_role": "Агент изменений в подходах к лечению.",
+                        "comment": "I am Общество Alzheimer, see my relationships with a target in the following perspective: я вижу их как потенциальную угрозу своим текущим методам и финансированию."
+                    }
+                ]
+            },
+            "1": {
+                "data": [
+                    {
+                        "source": "Научные журналы",
+                        "essentiality": "Научные журналы являются важным каналом для публикации результатов исследований и получения признания в научном сообществе.",
+                        "opportunity": "Предоставляют платформу для распространения результатов исследований, что помогает в подтверждении амилоидной гипотезы.",
+                        "restrictions": "Ограничивают возможность публикации неподтвержденных или спорных данных.",
+                        "imposed_role": "Исследователи должны следовать строгим стандартам качества и этики в своих исследованиях.",
+                        "comment": "I am, the Научные журналы, see my relationships with Исследователи в области нейрологии in the following perspective: I uphold the integrity of research and ensure that only the most robust findings reach the scientific community."
+                    },
+                    {
+                        "source": "Грантодатели (финансирующие организации)",
+                        "essentiality": "Грантодатели обеспечивают финансирование для исследований, без которого многие проекты не могли бы быть реализованы.",
+                        "opportunity": "Предоставляют необходимые ресурсы для проведения исследований и подтверждения гипотез.",
+                        "restrictions": "Могут требовать отчетности и соблюдения определенных условий, что может ограничивать свободу исследований.",
+                        "imposed_role": "Исследователи должны ориентироваться на актуальные приоритеты грантодателей и адаптировать свои проекты под их требования.",
+                        "comment": "I am, the Грантодатели, see my relationships with Исследователи в области нейрологии in the following perspective: I fuel groundbreaking discoveries while ensuring accountability and alignment with strategic research goals."
+                    },
+                    {
+                        "source": "Научные сообщества и конференции",
+                        "essentiality": "Научные сообщества предоставляют платформу для обмена знаниями и установления профессиональных связей.",
+                        "opportunity": "Помогают исследователям продвигать свои идеи и получать обратную связь от коллег.",
+                        "restrictions": "Ограничивают участие в дискуссиях и публикациях, если исследования не соответствуют установленным стандартам.",
+                        "imposed_role": "Исследователи должны активно участвовать в сообществе и представлять свои работы на конференциях.",
+                        "comment": "I am, the Научные сообщества и конференции, see my relationships with Исследователи в области нейрологии in the following perspective: I am the arena where knowledge thrives and reputations are built."
+                    },
+                    {
+                        "source": "Технологические инструменты и методы (например, методы визуализации мозга)",
+                        "essentiality": "Современные технологии необходимы для анализа данных и подтверждения гипотез в нейрологии.",
+                        "opportunity": "Предоставляют исследователям возможность получить качественные данные и точные результаты.",
+                        "restrictions": "Могут ограничивать доступ к данным, если технологии используются неправильно или неэтично.",
+                        "imposed_role": "Исследователи должны быть квалифицированными пользователями этих технологий и соблюдать этические стандарты.",
+                        "comment": "I am, the Технологические инструменты и методы, see my relationships with Исследователи в области нейрологии in the following perspective: I am the key to unlocking the mysteries of the brain through innovation."
+                    },
+                    {
+                        "source": "Этика научных исследований",
+                        "essentiality": "Этические нормы определяют, какие исследования являются приемлемыми, что особенно важно в области медицины.",
+                        "opportunity": "Способствуют доверию к исследованиям и обеспечивают их социальную значимость.",
+                        "restrictions": "Запрещают манипуляции данными и требуют соблюдения стандартов, что может ограничивать некоторые методологии.",
+                        "imposed_role": "Исследователи должны соблюдать этические принципы и обосновывать свои действия.",
+                        "comment": "I am, the Этика научных исследований, see my relationships with Исследователи в области нейрологии in the following perspective: I ensure that scientific inquiry serves humanity while maintaining integrity and accountability."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "entity": "Больница",
+        "actor_network": {
+            "3": {
+                "data": [
+                    {
+                        "source": "Медицинские исследовательские организации",
+                        "change": "Обеспечение доступа к последним исследованиям и методам лечения для пациентов с Альцгеймером.",
+                        "opportunity": "Возможность внедрения инновационных методов лечения, что может повысить эффективность лечения.",
+                        "restrictions": "Необходимость следовать протоколам исследований и ожиданиям финансирования.",
+                        "imposed_role": "Исполнительный партнер в реализации новых методов лечения.",
+                        "comment": "I am, медицинские исследовательские организации, see my relationships with больница in the following perspective: I provide knowledge and innovation, but require adherence to research protocols and ethical standards."
+                    },
+                    {
+                        "source": "Финансовые учреждения",
+                        "change": "Контроль за финансами учреждения и доступом к кредитным ресурсам.",
+                        "opportunity": "Потенциальное финансирование для внедрения новых технологий и лечения.",
+                        "restrictions": "Зависимость от экономической стабильности и финансовых отчетов.",
+                        "imposed_role": "Заемщик, который нуждается в финансовой поддержке.",
+                        "comment": "I am, финансовые учреждения, see my relationships with больница in the following perspective: I evaluate risk and provide funds, but expect financial accountability in return."
+                    },
+                    {
+                        "source": "Пациенты и их семьи",
+                        "change": "Влияние на выбор методов лечения и ухода.",
+                        "opportunity": "Обратная связь о качестве лечения и потребностях пациентов.",
+                        "restrictions": "Ограничение на ресурсы и время, которые больница может предоставить.",
+                        "imposed_role": "Клиент, чьи потребности и предпочтения формируют услуги.",
+                        "comment": "I am, пациенты и их семьи, see my relationships with больница in the following perspective: I am the reason for existence of healthcare services, and my needs shape the care provided."
+                    },
+                    {
+                        "source": "Государственные регулирующие органы",
+                        "change": "Установление стандартов и требований для медицинского обслуживания.",
+                        "opportunity": "Получение лицензий и аккредитаций, что повышает доверие к больнице.",
+                        "restrictions": "Соблюдение строгих норм и правил, что может ограничивать гибкость в принятии решений.",
+                        "imposed_role": "Субъект, который должен следовать установленным стандартам.",
+                        "comment": "I am, государственные регулирующие органы, see my relationships with больница in the following perspective: I ensure quality and safety in healthcare, but impose regulations that may limit operational flexibility."
+                    },
+                    {
+                        "source": "Технологические компании",
+                        "change": "Внедрение новых технологий, которые могут повысить эффективность лечения.",
+                        "opportunity": "Доступ к современным медицинским технологиям и инновациям.",
+                        "restrictions": "Зависимость от внешних поставок и технической поддержки.",
+                        "imposed_role": "Партнер для интеграции новых решений в практику.",
+                        "comment": "I am, технологические компании, see my relationships with больница in the following perspective: I provide advanced tools and solutions, but require collaboration and adaptation."
+                    }
+                ]
+            },
+            "4": {
+                "data": [
+                    {
+                        "source": "Фармацевтические компании",
+                        "essentiality": "Больница обеспечивает стабильный рынок для разработки и продажи лекарств от болезни Альцгеймера.",
+                        "opportunity": "Фармацевтические компании получают доступ к пациентам и возможность тестирования новых методов лечения.",
+                        "restrictions": "Фармацевтические компании не могут предлагать неэффективные или неподтвержденные методы лечения в больнице.",
+                        "imposed_role": "Поставщик лекарств и технологий для лечения.",
+                        "comment": "I am, the фармацевтические компании, see my relationships with a target in the following perspective: Our success depends on the hospital's commitment to effective treatment."
+                    },
+                    {
+                        "source": "Пациенты с Альцгеймером",
+                        "essentiality": "Больница предоставляет необходимые услуги и лечение, которые необходимы пациентам для улучшения их состояния.",
+                        "opportunity": "Пациенты получают доступ к качественной медицинской помощи и новым методам лечения.",
+                        "restrictions": "Пациенты не могут получить лечение вне установленного протокола больницы.",
+                        "imposed_role": "Получатель медицинских услуг.",
+                        "comment": "I am, пациенты с Альцгеймером, see my relationships with a target in the following perspective: The hospital is crucial for my well-being and access to effective treatments."
+                    },
+                    {
+                        "source": "Медицинский персонал",
+                        "essentiality": "Больница предоставляет рабочие места и возможность практиковать свои навыки и знания.",
+                        "opportunity": "Медицинский персонал получает возможность развиваться профессионально и помогать пациентам.",
+                        "restrictions": "Медицинский персонал должен следовать установленным стандартам и протоколам лечения.",
+                        "imposed_role": "Исполнитель лечебных процедур и ухода.",
+                        "comment": "I am, медицинский персонал, see my relationships with a target in the following perspective: The hospital is vital for my career and ability to make a difference in patients' lives."
+                    },
+                    {
+                        "source": "Страховые компании",
+                        "essentiality": "Больница является местом, где проводятся медицинские процедуры, за которые страховые компании платят.",
+                        "opportunity": "Страховые компании могут предлагать свои услуги пациентам, обеспечивая при этом финансовую поддержку для лечения.",
+                        "restrictions": "Страховые компании должны работать в рамках полисов, которые утверждает больница.",
+                        "imposed_role": "Финансирующий лечение и уход.",
+                        "comment": "I am, страховые компании, see my relationships with a target in the following perspective: The hospital is essential for us to fulfill our commitment to patients."
+                    },
+                    {
+                        "source": "Научные исследовательские институты",
+                        "essentiality": "Больница предоставляет платформу для проведения клинических испытаний и исследований.",
+                        "opportunity": "Научные институты получают доступ к пациентам и данным для разработки новых методов лечения.",
+                        "restrictions": "Научные исследовательские институты не могут проводить испытания без одобрения больницы.",
+                        "imposed_role": "Партнер по исследованиям и разработкам.",
+                        "comment": "I am, научные исследовательские институты, see my relationships with a target in the following perspective: The hospital is a critical partner in advancing Alzheimer's treatment."
+                    }
+                ]
+            },
+            "6": {
+                "data": [
+                    {
+                        "source": "Фармацевтические компании",
+                        "change": "Увеличение инвестиций в исследования и разработку новых лекарств для болезни Альцгеймера.",
+                        "opportunity": "Расширение рынка сбыта и повышение продаж за счет новых эффективных препаратов.",
+                        "restrictions": "Необходимость соблюдения строгих регуляторных норм и клинических испытаний.",
+                        "imposed_role": "Поставщик инновационных решений для лечения болезни.",
+                        "comment": "I am фармацевтическая компания, see my relationships with Больница in the following perspective: мы стремимся к созданию эффективных лекарств, которые улучшат жизнь пациентов."
+                    },
+                    {
+                        "source": "Пациенты и их семьи",
+                        "change": "Увеличение осведомленности о доступных методах лечения и уходе.",
+                        "opportunity": "Получение качественного ухода и надежды на улучшение состояния здоровья.",
+                        "restrictions": "Зависимость от финансовых возможностей и качества медицинских услуг.",
+                        "imposed_role": "Потребитель медицинских услуг и услуг по уходу.",
+                        "comment": "I am пациент и его семья, see my relationships with Больница in the following perspective: мы надеемся на профессионализм и поддержку в трудный период."
+                    },
+                    {
+                        "source": "Медицинские учреждения (например, клиники)",
+                        "change": "Повышение уровня квалификации медицинского персонала для работы с пациентами с Альцгеймером.",
+                        "opportunity": "Обмен опытом и сотрудничество для улучшения качества лечения.",
+                        "restrictions": "Необходимость адаптации к стандартам и протоколам, установленным Больницей.",
+                        "imposed_role": "Партнер в предоставлении медицинских услуг.",
+                        "comment": "I am медицинское учреждение, see my relationships with Больница in the following perspective: мы работаем вместе для достижения лучших результатов для пациентов."
+                    },
+                    {
+                        "source": "Государственные органы здравоохранения",
+                        "change": "Изменение политики финансирования и поддержки программ по борьбе с болезнью Альцгеймера.",
+                        "opportunity": "Увеличение финансирования и ресурсов для улучшения медицинских услуг.",
+                        "restrictions": "Необходимость мониторинга и оценки эффективности расходования бюджетных средств.",
+                        "imposed_role": "Регулятор и финансирующая организация.",
+                        "comment": "I am государственный орган здравоохранения, see my relationships with Больница in the following perspective: мы обеспечиваем поддержку для повышения качества медицинской помощи."
+                    },
+                    {
+                        "source": "Технологические компании (например, разработчики медицинских технологий)",
+                        "change": "Разработка и внедрение новых технологий для диагностики и ухода за пациентами с Альцгеймером.",
+                        "opportunity": "Доступ к новому рынку и возможности для инноваций.",
+                        "restrictions": "Необходимость соответствия требованиям и стандартам медицинской практики.",
+                        "imposed_role": "Инноватор в сфере медицинских технологий.",
+                        "comment": "I am технологическая компания, see my relationships with Больница in the following perspective: мы стремимся к созданию технологий, которые изменят подход к лечению."
+                    }
+                ]
+            },
+            "2": {
+                "data": [
+                    {
+                        "source": "Финансовые учреждения",
+                        "threat": "Ограничение кредитования или увеличение процентных ставок для больницы, что приводит к финансовым трудностям.",
+                        "consequences_if_deteriorates": "Больница сможет сократить затраты и оптимизировать свои услуги, что улучшит финансовое состояние.",
+                        "consequences_if_improves": "Больница сможет инвестировать в новые методы лечения и технологии, что повысит эффективность лечения.",
+                        "imposed_role": "Зависимая организация, вынуждена искать финансирование.",
+                        "comment": "I am, финансовое учреждение, see my relationships with a target in the following perspective: I dictate the financial viability of the hospital."
+                    },
+                    {
+                        "source": "Государственные органы здравоохранения",
+                        "threat": "Ужесточение регуляторных норм, требующих значительных затрат на соответствие.",
+                        "consequences_if_deteriorates": "Больница получит возможность снизить затраты на соблюдение норм и улучшить качество обслуживания.",
+                        "consequences_if_improves": "Больница будет вынуждена тратить больше ресурсов на соблюдение норм, что снизит ее финансовую устойчивость.",
+                        "imposed_role": "Подконтрольная организация, вынужденная следовать жестким регламентам.",
+                        "comment": "I am, государственный орган, see my relationships with a target in the following perspective: I enforce standards that the hospital must adhere to."
+                    },
+                    {
+                        "source": "Пациенты с Альцгеймером и их семьи",
+                        "threat": "Негативные отзывы и протесты против неэффективных методов лечения.",
+                        "consequences_if_deteriorates": "Больница сможет улучшить качество услуг, если пациенты будут довольны лечением.",
+                        "consequences_if_improves": "Больница столкнется с падением репутации и потерей пациентов.",
+                        "imposed_role": "Субъект, требующий эффективных решений и обслуживания.",
+                        "comment": "I am, пациент, see my relationships with a target in the following perspective: I demand effective treatments and will voice my dissatisfaction."
+                    },
+                    {
+                        "source": "Конкурирующие медицинские учреждения",
+                        "threat": "Предложение более эффективных методов лечения и услуг, что может привести к потере пациентов.",
+                        "consequences_if_deteriorates": "Больница сможет занять более конкурентоспособную позицию на рынке.",
+                        "consequences_if_improves": "Больница может потерять финансирование, если пациенты уйдут к конкурентам.",
+                        "imposed_role": "Непосредственный конкурент, который может подорвать финансовую стабильность.",
+                        "comment": "I am, конкурент, see my relationships with a target in the following perspective: I challenge the hospital's ability to retain its patients."
+                    },
+                    {
+                        "source": "Технологические инновации в медицине",
+                        "threat": "Необходимость инвестиций в новые технологии для поддержания конкурентоспособности.",
+                        "consequences_if_deteriorates": "Больница сможет избежать значительных затрат на новые технологии и сосредоточиться на существующих методах.",
+                        "consequences_if_improves": "Больница сможет предлагать более эффективные методы лечения, что привлечет больше пациентов.",
+                        "imposed_role": "Зависимая организация, нуждающаяся в постоянном обновлении технологий.",
+                        "comment": "I am, технологическая инновация, see my relationships with a target in the following perspective: I shape the hospital's ability to provide modern care."
+                    }
+                ]
+            },
+            "5": {
+                "data": [
+                    {
+                        "source": "Фармацевтические компании",
+                        "threat": "Больница может снизить закупку препаратов из-за неэффективности лечения Альцгеймера.",
+                        "consequences_if_deteriorates": "Фармацевтические компании потеряют доходы от продаж, связанные с неэффективными препаратами.",
+                        "consequences_if_improves": "Если методы лечения улучшатся, компании смогут продать больше эффективных препаратов.",
+                        "imposed_role": "Ответственный за поставку инновационных решений для лечения.",
+                        "comment": "I am Фармацевтические компании, see my relationships with Больница in the following perspective: мы зависим от спроса на наши лекарства, и неэффективные методы лечения угрожают нашим продажам."
+                    },
+                    {
+                        "source": "Страховые компании",
+                        "threat": "Больница может отказываться от услуг страховых компаний, если те не покрывают эффективные методы лечения.",
+                        "consequences_if_deteriorates": "Страховые компании могут потерять клиентов, которые ищут более доступные и эффективные медицинские услуги.",
+                        "consequences_if_improves": "Улучшение лечения Альцгеймера может привести к увеличению числа застрахованных пациентов.",
+                        "imposed_role": "Партнер по финансированию эффективных программ лечения.",
+                        "comment": "I am Страховые компании, see my relationships with Больница in the following perspective: мы должны адаптироваться к новым требованиям, иначе потеряем клиентов."
+                    },
+                    {
+                        "source": "Пациенты и их семьи",
+                        "threat": "Больница может потерять доверие пациентов, если не предложит эффективные методы лечения.",
+                        "consequences_if_deteriorates": "Пациенты и их семьи будут искать альтернативные учреждения с более эффективными методами лечения.",
+                        "consequences_if_improves": "Если лечение улучшится, пациенты получат лучшее качество жизни и доверие к больнице возрастет.",
+                        "imposed_role": "Клиент, чьи потребности должны быть приоритетными.",
+                        "comment": "I am Пациенты и их семьи, see my relationships with Больница in the following perspective: наше здоровье зависит от их решений и качества лечения."
+                    },
+                    {
+                        "source": "Государственные органы здравоохранения",
+                        "threat": "Больница может вызвать общественное недовольство из-за неэффективного лечения, что приведет к проверкам и санкциям.",
+                        "consequences_if_deteriorates": "Государственные органы могут снизить финансирование или поддержку для учреждения.",
+                        "consequences_if_improves": "Улучшение методов лечения повысит репутацию учреждения и уменьшит необходимость вмешательства со стороны государства.",
+                        "imposed_role": "Субъект, на который возложена ответственность за соблюдение стандартов лечения.",
+                        "comment": "I am Государственные органы здравоохранения, see my relationships with Больница in the following perspective: мы должны следить за качеством услуг, иначе рискуем потерять доверие общества."
+                    },
+                    {
+                        "source": "Научные исследовательские институты",
+                        "threat": "Больница может ограничить финансирование исследований, если не будет заинтересована в новых методах лечения.",
+                        "consequences_if_deteriorates": "Исследовательские институты могут столкнуться с недостатком ресурсов и поддержки для своих проектов.",
+                        "consequences_if_improves": "Улучшение методов лечения может привести к большему количеству совместных исследований и финансирования.",
+                        "imposed_role": "Партнер в разработке новых методов лечения.",
+                        "comment": "I am Научные исследовательские институты, see my relationships with Больница in the following perspective: наша работа зависит от их интереса в новых разработках и исследованиях."
+                    }
+                ]
+            },
+            "1": {
+                "data": [
+                    {
+                        "source": "Государственные регулирующие органы",
+                        "essentiality": "Обеспечивают лицензирование и финансирование для медицинских учреждений.",
+                        "opportunity": "Позволяют больнице получать финансирование для разработки и внедрения новых методов лечения.",
+                        "restrictions": "Не могут применять методы лечения без предварительного одобрения и соблюдения всех норм.",
+                        "imposed_role": "Больница должна следовать установленным стандартам и условиям финансирования.",
+                        "comment": "I am, государственные регулирующие органы, see my relationships with a target in the following perspective: я обеспечиваю стандарты, которые гарантируют безопасность и качество лечения."
+                    },
+                    {
+                        "source": "Научное сообщество",
+                        "essentiality": "Проводит исследования и разрабатывает новые методики лечения, включая подходы к болезни Альцгеймера.",
+                        "opportunity": "Больница получает доступ к новейшим исследованиям и технологиям для улучшения лечения.",
+                        "restrictions": "Обязанность следовать рекомендациям и протоколам, утвержденным научным сообществом.",
+                        "imposed_role": "Больница должна интегрировать научные открытия в свою практику.",
+                        "comment": "I am, научное сообщество, see my relationships with a target in the following perspective: я предоставляю знания, которые помогают улучшать уход за пациентами."
+                    },
+                    {
+                        "source": "Финансовые учреждения",
+                        "essentiality": "Предоставляют кредиты и гранты для финансирования учреждений здравоохранения.",
+                        "opportunity": "Позволяют больнице инвестировать в новые технологии и улучшения для лечения.",
+                        "restrictions": "Ограничивают финансовые возможности в случае неэффективного использования средств.",
+                        "imposed_role": "Больница должна обосновывать свои финансовые запросы перед кредиторами.",
+                        "comment": "I am, финансовые учреждения, see my relationships with a target in the following perspective: я обеспечиваю ресурсы, необходимые для роста и развития."
+                    },
+                    {
+                        "source": "Пациенты и их семьи",
+                        "essentiality": "Предоставляют данные и обратную связь о лечении, что важно для улучшения процессов.",
+                        "opportunity": "Больница может адаптировать свои методы лечения на основе реальных потребностей пациентов.",
+                        "restrictions": "Необходимо учитывать пожелания и ожидания пациентов, что может ограничивать эксперименты с новыми методами.",
+                        "imposed_role": "Больница должна поддерживать коммуникацию и доверительные отношения с пациентами.",
+                        "comment": "I am, пациенты и их семьи, see my relationships with a target in the following perspective: я представляю потребности, которые должны быть в центре внимания."
+                    },
+                    {
+                        "source": "Технологические компании",
+                        "essentiality": "Разрабатывают медицинские устройства и программное обеспечение для диагностики и лечения.",
+                        "opportunity": "Больница получает доступ к инновационным технологиям, которые могут улучшить качество лечения.",
+                        "restrictions": "Ограничивают использование устаревших технологий и требуют обучения персонала.",
+                        "imposed_role": "Больница должна постоянно обновлять свои технологии и практики.",
+                        "comment": "I am, технологические компании, see my relationships with a target in the following perspective: я предоставляю инструменты, которые делают лечение более эффективным."
+                    }
+                ]
+            }
+        }
+    }
+]

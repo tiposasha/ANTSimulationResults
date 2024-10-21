@@ -1,0 +1,179 @@
+[
+    {
+        "initiator": "Restaurants",
+        "resolution_description": "As 'Restaurants', we propose launching a global initiative to partner with local culinary schools and tourism programs to train students in ethical review practices, creating a new generation of trusted \"review ambassadors\" who provide verified, authentic feedback directly from the field.",
+        "new_actor": "Review Ambassadors Program",
+        "participants": [
+            {
+                "participant": "TripAdvisor ranking",
+                "agreement_structure": {
+                    "current_goal": "Maintain a high ranking for restaurants on the platform",
+                    "current_action": "Collect and analyze user reviews and ratings",
+                    "imposed_goal": "Increase the visibility of local restaurants in the TripAdvisor rankings",
+                    "imposed_action": "Implement targeted marketing campaigns for featured restaurants",
+                    "mechanism": "Utilize data analytics to identify trends and optimize restaurant listings based on user engagement",
+                    "reasoning": "The proposal from 'Restaurants' aligns with the interests of 'TripAdvisor ranking' by enhancing the platform's credibility through ethical review practices and fostering authentic feedback. Partnering with local culinary schools and tourism programs to create 'review ambassadors' supports the goal of increasing visibility for local restaurants, which can lead to higher user engagement and satisfaction. This initiative not only mitigates the risk of fake reviews but also promotes a positive image of the platform, ultimately benefiting all stakeholders involved.",
+                    "recruited_sources": [
+                        "Local Restaurants",
+                        "Travelers/Users",
+                        "User Reviews",
+                        "Competitor Review Platforms",
+                        "Restaurant Owners"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor rankings can greatly influence restaurant visibility and credibility. Engaging with this platform will help integrate the 'review ambassadors' into existing review ecosystems, enhancing the overall trust and authority of the feedback provided."
+            }
+        ],
+        "recruited_sources": [
+            "Travelers/Users",
+            "Food Suppliers",
+            "Food Delivery Platforms",
+            "Restaurant Owners",
+            "User Reviews",
+            "Competitor Review Platforms",
+            "Local Restaurants"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Food Delivery Platforms",
+                "Food Suppliers"
+            ]
+        }
+    },
+    {
+        "initiator": "Consumers",
+        "resolution_description": "As 'Consumers', we propose the creation of a verified reviewer platform where individuals earn credibility scores based on the accuracy and helpfulness of their past reviews, incentivized by rewards and recognition, thus empowering and motivating genuine consumer feedback while discouraging fraudulent reviews.",
+        "new_actor": "Verified Reviewer Platform",
+        "participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "Enjoy a seamless travel experience while exploring new destinations.",
+                    "current_action": "Booking travel packages and making reservations.",
+                    "imposed_goal": "Provide feedback on travel experiences to enhance service quality.",
+                    "imposed_action": "Submit detailed reviews and ratings after each trip.",
+                    "mechanism": "Implement a user-friendly feedback system integrated into the travel app.",
+                    "reasoning": "The proposal by 'Consumers' aligns perfectly with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments while traveling. By creating a verified reviewer platform, it directly addresses the fear of falling victim to poor services or misleading information about restaurants. This initiative not only encourages authentic feedback but also provides a structured way to verify the credibility of reviews, enhancing the overall travel experience and service quality.",
+                    "recruited_sources": [
+                        "Платформы отзывов",
+                        "Отзывы и рейтинги",
+                        "Ресторанные критики",
+                        "Онлайн-отзывы и рейтинги",
+                        "Туристические агентства",
+                        "Туристические платформы (например, TripAdvisor)"
+                    ]
+                }
+            },
+            {
+                "participant": "Рестораны",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction and loyalty by improving service quality.",
+                    "current_action": "Implementing staff training programs and enhancing menu options.",
+                    "imposed_goal": "Reduce food waste and improve sustainability practices.",
+                    "imposed_action": "Adopt a waste reduction strategy and source ingredients locally.",
+                    "mechanism": "Collaborate with local farms and suppliers to ensure fresh ingredients while minimizing waste through effective inventory management.",
+                    "reasoning": "The proposal from 'Consumers' aligns with 'Рестораны' desires to attract more clients and improve reputation at lower costs. By creating a verified reviewer platform, 'Рестораны' can benefit from authentic consumer feedback, thus reducing the risk of negative reviews and improving overall service quality. Additionally, the focus on sustainability practices through collaboration with local farms enhances the restaurant's appeal to eco-conscious consumers, which is crucial for attracting new clientele.",
+                    "recruited_sources": [
+                        "Негативные отзывы клиентов",
+                        "Системы онлайн-отзывов",
+                        "Клиенты",
+                        "Конкуренты"
+                    ]
+                }
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Develop a minimum viable product (MVP) for our tech startup",
+                    "current_action": "Conducting user research and prototype testing",
+                    "imposed_goal": "Increase consumer engagement through targeted marketing strategies",
+                    "imposed_action": "Implement a digital marketing campaign focused on social media and email outreach",
+                    "mechanism": "Utilize analytics tools to track engagement metrics and adjust strategies based on consumer feedback",
+                    "reasoning": "The proposal from 'Consumers' aligns with our desire to create a successful platform for travel planning and restaurant reviews by establishing a verified reviewer platform. This initiative encourages genuine consumer feedback, which can help attract a larger user base and restaurants, thereby mitigating our fear of not attracting enough users. Additionally, the focus on credibility scores and rewards could enhance engagement and trust in our platform, further supporting our goals.",
+                    "recruited_sources": [
+                        "Конкурирующие платформы",
+                        "Пользователи платформы",
+                        "Конкурирующие стартапы",
+                        "Социальные сети"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize return on investment for stakeholders",
+                    "current_action": "Evaluating potential investment opportunities",
+                    "imposed_goal": "Increase consumer satisfaction and engagement",
+                    "imposed_action": "Invest in consumer-focused product development and marketing",
+                    "mechanism": "Collaborate with consumer feedback groups to identify and prioritize product features that enhance user experience",
+                    "reasoning": "The proposed verified reviewer platform aligns with our goal of increasing consumer satisfaction and engagement. By investing in a system that promotes genuine consumer feedback, we can mitigate the risk of fraudulent reviews, thus enhancing the credibility of the restaurant and tourism sectors. This approach not only helps in maximizing returns through improved consumer trust and engagement but also supports long-term investment in a promising startup focused on transparency and quality.",
+                    "recruited_sources": [
+                        "Предприниматели",
+                        "Конкуренты стартапа",
+                        "Финансовые консультанты",
+                        "Рынок венчурного капитала",
+                        "Платформа стартапа"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are essential as they are the primary users of the review platform. Their genuine feedback will help build the credibility scores and ensure the platform's effectiveness in combating fraudulent reviews."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants need to be involved as they will benefit from verified reviews that enhance their reputation. Their participation will also encourage them to engage with consumers and foster a more transparent review process."
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three startup founders are crucial as they will drive the development and implementation of the platform. Their vision and expertise will be vital for creating a user-friendly and effective system."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important to secure funding for the platform's development and marketing. Their financial support will enable the project to launch and attract a larger user base quickly."
+            }
+        ],
+        "recruited_sources": [
+            "Клиенты",
+            "Конкуренты стартапа",
+            "Финансовые консультанты",
+            "Системы онлайн-отзывов",
+            "Конкурирующие стартапы",
+            "Конкуренты",
+            "Туристические платформы (например, TripAdvisor)",
+            "Туристические агентства",
+            "Retailers",
+            "Рынок венчурного капитала",
+            "Конкурирующие платформы",
+            "Corporate Brands",
+            "Manufacturers",
+            "Отзывы и рейтинги",
+            "Социальные сети",
+            "Ресторанные критики",
+            "Платформа стартапа",
+            "Негативные отзывы клиентов",
+            "Пользователи платформы",
+            "Предприниматели",
+            "Social Media Platforms",
+            "Market Trends",
+            "Онлайн-отзывы и рейтинги",
+            "Платформы отзывов"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Trends",
+                "Social Media Platforms",
+                "Retailers",
+                "Corporate Brands",
+                "Manufacturers"
+            ]
+        }
+    }
+]

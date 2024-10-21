@@ -1,0 +1,348 @@
+[
+    {
+        "initiator": "APOE ɛ4",
+        "resolution_description": "As 'APOE ɛ4,' propose a resolution to tackle Alzheimer's disease by pioneering a personalized genomic approach to modify lipid metabolism pathways in the brain, aiming to enhance neuronal resilience and synaptic repair mechanisms, thus offering a transformative strategy that redefines risk assessment and therapeutic intervention beyond existing hypotheses.",
+        "new_actor": "NeuroGenomics Initiative for Alzheimer's Therapy",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies can provide the necessary resources, expertise, and infrastructure to develop and bring new therapeutic interventions to market based on the proposed genomic strategies."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) can be pivotal in modeling Alzheimer's disease and testing the effectiveness of new treatments aimed at enhancing neuronal resilience and synaptic repair mechanisms."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids will facilitate more accurate in vitro studies of Alzheimer's disease, enabling the testing of personalized genomic strategies in a controlled environment that mimics human brain tissue."
+            }
+        ],
+        "recruited_sources": [
+            "APOE ɛ4 allele",
+            "Genetic Variants",
+            "Neurodegenerative Diseases Research",
+            "Genetic Research Institutions",
+            "Neurons"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Neurodegenerative Diseases Research",
+                "Genetic Research Institutions",
+                "APOE ɛ4 allele",
+                "Neurons",
+                "Genetic Variants"
+            ]
+        }
+    },
+    {
+        "initiator": "PBM treatment",
+        "resolution_description": "As 'PBM treatment,' propose a resolution to tackle Alzheimer's disease by utilizing photobiomodulation to non-invasively enhance mitochondrial function and stimulate neuroprotective pathways in the brain, offering a revolutionary approach that leverages light-based therapy to potentially halt or reverse the progression of neural damage, thereby presenting a unique alternative that diverges from traditional hypotheses and treatments.",
+        "new_actor": "The actor created would be named \"Photobiomodulation Alzheimer's Therapy Initiative (PATI).\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of any treatment. Engaging with them will help to understand their needs and experiences, which can inform treatment development and ensure that approaches are patient-centered."
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "reasoning": "The blood-brain barrier (BBB) is a critical factor in the delivery of therapies to the brain. Understanding how photobiomodulation interacts with the BBB will be vital for ensuring that the treatment is effective and reaches its target."
+            }
+        ],
+        "recruited_sources": [
+            "Pharmaceutical Industry",
+            "Pharmaceutical Companies",
+            "Healthcare Providers",
+            "Traditional Pain Management Practices"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Traditional Pain Management Practices",
+                "Pharmaceutical Industry",
+                "Pharmaceutical Companies",
+                "Healthcare Providers"
+            ]
+        }
+    },
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "As 'Alzheimer's Disease,' propose a resolution to tackle the problem by harnessing the body's own immune system through a novel, adaptive immunomodulation strategy that reprograms microglial cells to effectively target and clear aberrant protein aggregates, thereby transforming the disease landscape by shifting the focus from symptom management to root-cause eradication, thus establishing a new paradigm in Alzheimer's intervention.",
+        "new_actor": "Immunomodulatory Microglia Reprogrammer",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Pharmaceutical Companies",
+            "Healthcare Professionals",
+            "Healthcare Systems",
+            "Genetic Mutations",
+            "Neurodegenerative Processes"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Healthcare Systems",
+                "Neurodegenerative Processes",
+                "Pharmaceutical Companies",
+                "Genetic Mutations",
+                "Healthcare Professionals"
+            ]
+        }
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "As 'iPSCs,' propose a resolution to tackle Alzheimer's disease by engineering patient-specific neural cells that can be used to create personalized brain organoids for drug testing and regenerative therapies, enabling the identification of novel therapeutic compounds and offering a groundbreaking approach for cellular replacement to restore lost neural functions, thereby redefining treatment paradigms through precision medicine.",
+        "new_actor": "Alzheimer's Precision Neurotherapy Consortium",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Embryonic Stem Cells (ESCs)",
+            "Biotechnology Companies",
+            "Biopharmaceutical Companies",
+            "Regulatory Agencies",
+            "Stem Cell Researchers",
+            "Research Institutions"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Biotechnology Companies",
+                "Research Institutions",
+                "Regulatory Agencies",
+                "Embryonic Stem Cells (ESCs)",
+                "Stem Cell Researchers",
+                "Biopharmaceutical Companies"
+            ]
+        }
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "As the 'Blood-brain barrier (BBB),' propose a resolution to tackle Alzheimer's disease by developing a dynamic, smart BBB modulation system that selectively enhances or restricts the passage of therapeutic agents and endogenous molecules to optimize brain homeostasis, thus offering a groundbreaking approach that transforms therapeutic delivery and efficacy, and redefines the treatment landscape by directly addressing the barrier's pivotal role in neurodegenerative disease progression.",
+        "new_actor": "Dynamic BBB Modulation System Innovator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Endothelial cells",
+            "Neurotransmitters",
+            "Pathogens (e.g., bacteria, viruses)",
+            "Neurons"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Neurons",
+                "Neurotransmitters",
+                "Pathogens (e.g., bacteria, viruses)",
+                "Endothelial cells"
+            ]
+        }
+    },
+    {
+        "initiator": "Больница",
+        "resolution_description": "As 'Больница,' propose a resolution to tackle Alzheimer's disease by establishing an integrated, hospital-led community care network that combines advanced telemedicine, AI-driven diagnostics, and personalized rehabilitation programs to enhance early detection, patient engagement, and ongoing support, thereby revolutionizing the healthcare infrastructure to create a holistic, patient-centered approach that transcends traditional treatment modalities.",
+        "new_actor": "Alzheimer's Care Network Innovator (ACNI)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Фармацевтические компании",
+            "Медицинские исследовательские организации",
+            "Государственные регулирующие органы",
+            "Финансовые учреждения"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Финансовые учреждения",
+                "Фармацевтические компании",
+                "Государственные регулирующие органы",
+                "Медицинские исследовательские организации"
+            ]
+        }
+    },
+    {
+        "initiator": "Коллеги-ученые",
+        "resolution_description": "As 'Коллеги-ученые,' propose a resolution to tackle Alzheimer's disease by developing a groundbreaking quantum neuroinformatics platform that utilizes quantum computing to model complex neural networks and predict disease progression, enabling the discovery of novel, non-linear therapeutic pathways and offering an unprecedented shift in understanding and treating Alzheimer's through the lens of quantum biology.",
+        "new_actor": "Quantum Neuroinformatics Consortium",
+        "participants": [
+            {
+                "participant": "3D iPSC-based organoids",
+                "agreement_structure": {
+                    "current_goal": "Develop advanced 3D iPSC-based organoids for disease modeling and drug testing.",
+                    "current_action": "Conducting experiments to optimize the growth and functionality of organoids.",
+                    "imposed_goal": "Enhance collaboration with other research groups to foster interdisciplinary approaches.",
+                    "imposed_action": "Participate in monthly collaborative meetings and share data with at least two other teams.",
+                    "mechanism": "Establish a shared online platform for data exchange and coordination of research efforts.",
+                    "reasoning": "The proposed resolution to develop a quantum neuroinformatics platform aligns with the interests of '3D iPSC-based organoids' in enhancing collaboration with other research groups and fostering interdisciplinary approaches. By participating in this initiative, '3D iPSC-based organoids' can leverage the cutting-edge technology of quantum computing to improve disease modeling and drug testing, ultimately contributing to a deeper understanding of Alzheimer's disease and potentially leading to novel therapeutic pathways.",
+                    "recruited_sources": [
+                        "Pharmaceutical companies developing organ-related therapies",
+                        "Regulatory Bodies",
+                        "Biotechnology Companies",
+                        "Pharmaceutical Companies",
+                        "Stem Cell Research Institutions"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids offer a more accurate representation of human brain tissue, which is necessary for understanding the complex interactions in neural networks. They will enhance the research capabilities of the quantum neuroinformatics platform."
+            }
+        ],
+        "recruited_sources": [
+            "Pharmaceutical Companies",
+            "Научные журналы",
+            "Научные критики",
+            "Stem Cell Research Institutions",
+            "Biotechnology Companies",
+            "Regulatory Bodies",
+            "Pharmaceutical companies developing organ-related therapies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные журналы",
+                "Научные критики"
+            ]
+        }
+    },
+    {
+        "initiator": "Научный журнал",
+        "resolution_description": "As 'Научный журнал,' propose a resolution to tackle Alzheimer's disease by curating an open-access, interdisciplinary research consortium that leverages cutting-edge AI to synthesize global scientific insights, fostering unprecedented collaboration and accelerating the discovery of holistic, multi-targeted interventions, thereby reimagining the landscape of Alzheimer's research and treatment through a democratized knowledge platform.",
+        "new_actor": "Global Alzheimer's AI Research Consortium",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Научные рецензенты",
+            "Научные исследователи",
+            "Недостоверные исследования"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные рецензенты",
+                "Недостоверные исследования",
+                "Научные исследователи"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "As 'Tau protein,' propose a resolution to tackle Alzheimer's disease by developing a revolutionary nanoscale molecular chaperone system that selectively stabilizes tau protein conformations, preventing pathological aggregation and enabling the restoration of normal neuronal function, thereby offering a groundbreaking approach that directly targets the molecular underpinnings of disease progression and redefines therapeutic strategies through precision protein dynamics control.",
+        "new_actor": "NeuroStabilizer Chaperone System",
+        "participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "agreement_structure": {
+                    "current_goal": "Исследовать механизмы накопления и агрегации тау-белка в нейронных клетках.",
+                    "current_action": "Проведение экспериментов по анализу образцов тканей мозга.",
+                    "imposed_goal": "Разработать терапевтические стратегии для уменьшения уровня тау-белка.",
+                    "imposed_action": "Сформировать рабочую группу для разработки новых лекарственных средств.",
+                    "mechanism": "Создание совместного исследовательского проекта с участием различных лабораторий и клиник для обмена данными и ресурсами.",
+                    "reasoning": "The proposal from 'Tau protein' aligns with my current desires to explore new therapeutic strategies for Alzheimer's disease while mitigating my fears of losing years of research and funding. By collaborating on the revolutionary nanoscale molecular chaperone system, I can contribute to a cutting-edge approach that targets the molecular mechanisms of tau protein aggregation, which is critical in Alzheimer's pathology. Additionally, this collaboration offers a platform for interdisciplinary research, potentially validating the amyloid hypothesis while minimizing the risk of reputational damage associated with data manipulation, as the focus shifts to a more comprehensive understanding of the disease.",
+                    "recruited_sources": [
+                        "Научные публикации",
+                        "Конкурирующие исследователи",
+                        "Научное сообщество",
+                        "Научные журналы"
+                    ]
+                }
+            },
+            {
+                "participant": "Фармакологические компании",
+                "agreement_structure": {
+                    "current_goal": "Develop new pharmacological treatments for neurodegenerative diseases.",
+                    "current_action": "Conducting clinical trials for existing drug candidates.",
+                    "imposed_goal": "Accelerate the development of therapies targeting Tau protein aggregation.",
+                    "imposed_action": "Increase funding and resources towards research specifically focused on Tau protein.",
+                    "mechanism": "Establish collaboration with research institutions to facilitate knowledge sharing and expedite the drug development process.",
+                    "reasoning": "The proposed resolution by 'Tau protein' aligns with our desire to develop and patent an effective Alzheimer's treatment by focusing on Tau protein aggregation. This approach not only targets the molecular basis of the disease but also provides a strategic avenue for collaboration with research institutions, which can enhance our credibility and mitigate fears of investment loss. By increasing funding and resources towards Tau research, we can potentially accelerate the development of therapies while also positioning ourselves advantageously in the competitive landscape of neurodegenerative treatments.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Конкурирующие фармакологические компании"
+                    ]
+                }
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "agreement_structure": {
+                    "current_goal": "To differentiate into specific cell types for regenerative medicine applications.",
+                    "current_action": "Cultivating and maintaining iPSCs in a pluripotent state in vitro.",
+                    "imposed_goal": "To enhance the understanding of Tau protein's role in neurodegeneration.",
+                    "imposed_action": "To conduct experiments focusing on the differentiation of iPSCs into neurons and studying Tau protein interactions.",
+                    "mechanism": "Implementing a differentiation protocol that incorporates Tau protein manipulation to observe its effects on neuronal development and function.",
+                    "reasoning": "The proposed resolution by Tau protein aligns well with the interests of induced pluripotent stem cells (iPSCs) in enhancing the understanding of neurodegeneration mechanisms. By collaborating on the development of a nanoscale molecular chaperone system to stabilize tau protein and conducting experiments on iPSC-derived neurons, iPSCs can directly contribute to significant advancements in Alzheimer's research. This collaboration not only offers a pathway to achieve scientific goals but also mitigates any fears related to stagnation in research by fostering innovation and interdisciplinary cooperation.",
+                    "recruited_sources": [
+                        "Regulatory Bodies",
+                        "Human researchers",
+                        "Regulatory Agencies",
+                        "Regenerative Medicine Research",
+                        "Biomedical researchers",
+                        "Traditional Stem Cell Research"
+                    ]
+                }
+            },
+            {
+                "participant": "Пациенты",
+                "agreement_structure": {
+                    "current_goal": "Manage symptoms and improve quality of life",
+                    "current_action": "Participating in regular therapy sessions and medication regimen",
+                    "imposed_goal": "Engage in a tailored exercise program to enhance cognitive function",
+                    "imposed_action": "Attend weekly exercise classes specifically designed for cognitive health",
+                    "mechanism": "Provide access to specialized trainers and cognitive assessments to track progress",
+                    "reasoning": "The proposal by 'Tau protein' directly addresses my desire to live a full life without Alzheimer's symptoms by offering a method to target the molecular causes of the disease. Additionally, the opportunity to engage in a tailored exercise program designed to enhance cognitive function aligns with my interests in maintaining my independence and cognitive health. This approach not only mitigates my fears of losing memory and identity but also provides a proactive framework for improving quality of life.",
+                    "recruited_sources": [
+                        "Медицинские работники",
+                        "Болезнь Альцгеймера",
+                        "Медицинские учреждения",
+                        "Медицинские специалисты"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in the field of neurology are essential for advancing the understanding of tau protein dynamics and the mechanisms underlying Alzheimer's disease. Their expertise will be crucial in designing and validating the nanoscale molecular chaperone system."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are vital for translating the proposed solution into viable therapeutic products. Their resources and expertise in drug development will help in the formulation and commercialization of the molecular chaperone system."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) can be used for modeling Alzheimer's disease and testing the efficacy of the proposed therapeutic approach. They provide a powerful platform for studying tau protein behavior in human neuronal cells."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of the research and development efforts. Engaging them in the process ensures that the developed solutions are patient-centered and address their needs and concerns effectively."
+            }
+        ],
+        "recruited_sources": [
+            "Научное сообщество",
+            "Научные публикации",
+            "Научные журналы",
+            "Конкурирующие исследователи",
+            "Конкурирующие фармакологические компании",
+            "Медицинские учреждения",
+            "Regulatory Bodies",
+            "Инвесторы",
+            "Tau aggregation",
+            "Regenerative Medicine Research",
+            "Медицинские работники",
+            "Biomedical researchers",
+            "Neurofibrillary tangles",
+            "Microtubules",
+            "Медицинские специалисты",
+            "Болезнь Альцгеймера",
+            "Human researchers",
+            "Neurons",
+            "Neurotransmitters",
+            "Regulatory Agencies",
+            "Traditional Stem Cell Research"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Microtubules",
+                "Neurons",
+                "Neurofibrillary tangles",
+                "Tau aggregation",
+                "Neurotransmitters"
+            ]
+        }
+    }
+]

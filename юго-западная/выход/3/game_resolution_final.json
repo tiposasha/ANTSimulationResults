@@ -1,0 +1,123 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial as they will have the expertise to design and implement the pathway effectively, ensuring it aligns with the existing landscape and meets aesthetic and functional requirements."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "Engaging with the administration is essential to secure the necessary permissions and support for the project. Their involvement will help address any regulatory or logistical challenges that may arise during the pathway's development."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating the sustainability concept is important to ensure that the pathway is environmentally friendly and contributes positively to the local ecosystem, aligning with modern urban development principles."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "\"Implement a dynamic land use algorithm that continuously adapts urban space layouts based on real-time user behavior and preferences, seamlessly integrating natural pathways and multifunctional spaces to ensure alignment with user interests and enhance urban livability.\"",
+        "new_actor": "Urban Livability Optimization Entity",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscaping is crucial as they will play a key role in implementing the dynamic land use algorithm. Their expertise will ensure that urban space layouts are both functional and aesthetically pleasing, aligning with user preferences while integrating natural pathways and multifunctional spaces."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration is essential for the successful implementation of the resolution, as they have the authority to facilitate policy changes, allocate resources, and ensure compliance with regulations. Their support will be necessary to integrate the proposed algorithm into existing urban planning frameworks."
+            },
+            {
+                "participant": "Cities",
+                "reasoning": "Cities are fundamental participants as they are the primary context in which the dynamic land use algorithm will operate. Engaging with city representatives will provide insights into the specific needs and challenges of urban environments, enhancing the algorithm's relevance and effectiveness."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important for promoting the benefits of the dynamic land use algorithm to visitors and residents alike. Their involvement can help ensure that the urban space layouts not only accommodate local user preferences but also attract tourists, thereby enhancing urban livability and economic vitality."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "Initiator: Gastronomic Trail, Resolution: \"Develop a sensory-driven urban design framework that incorporates culinary experiences and community-led pop-up food hubs to organically reshape urban spaces, aligning them with user interests and fostering vibrant, participatory environments.\"",
+        "new_actor": "Culinary Urban Design Collaborator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscape is crucial as they possess the expertise to create and implement the sensory-driven urban design framework. Their involvement will ensure that the culinary experiences and pop-up food hubs are effectively integrated into the urban environment, enhancing the overall design and functionality of the spaces."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration will play a vital role in facilitating the resolution by providing necessary approvals, resources, and support for the proposed urban design framework. Their backing is essential for legitimizing and operationalizing the initiative within the city's regulatory framework."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important participants as they can promote the culinary experiences and pop-up food hubs to attract visitors. Their involvement will help ensure that the initiative aligns with tourism goals, potentially increasing economic benefits for the local community."
+            },
+            {
+                "participant": "Выход из метро",
+                "reasoning": "The exits of the metro are critical nodes in urban spaces where foot traffic is concentrated. Engaging these areas in the sensory-driven urban design will enable easy access to the culinary experiences and enhance the overall vibrancy of the urban environment."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Social relations in South Korea",
+        "resolution_description": "\"Leverage South Korea's rich tradition of community-driven initiatives by creating 'Collective Urban Storytelling Festivals,' where citizens collaborate to redesign urban spaces through interactive storytelling, cultural performances, and shared narratives, ensuring spaces are dynamically transformed to reflect and serve the evolving social fabric of the community.\"",
+        "new_actor": "The actor that will be created is \"Collective Urban Storytelling Consortium.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscaping are crucial to the success of the Collective Urban Storytelling Festivals. They will provide the necessary expertise to redesign urban spaces in a way that encourages community interaction and reflects the narratives shared during the festival."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a vital role in supporting and facilitating the implementation of the festivals. Their involvement ensures that necessary permits, funding, and resources are allocated, allowing for a structured approach to transforming urban spaces."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can help promote the Collective Urban Storytelling Festivals, attracting visitors and enhancing the profile of the events. Their involvement will also ensure that the festivals contribute to the local economy and tourism, making them sustainable in the long term."
+            },
+            {
+                "participant": "Cities",
+                "reasoning": "Cities are essential participants as they represent the urban environments that will be transformed. Engaging with city representatives ensures that the community-driven initiatives align with urban planning and development goals, fostering collaboration between residents and city officials."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "\"African cities will pioneer the 'Ubuntu Urbanism' initiative, which leverages ancestral wisdom and community-led circular economy models to transform urban spaces into interconnected hubs of resilience and innovation, ensuring designs inherently reflect the collective spirit, needs, and aspirations of their diverse populations.\"",
+        "new_actor": "Ubuntu Urbanism Council",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape are crucial to the 'Ubuntu Urbanism' initiative as they will implement the designs that reflect the community’s collective spirit and needs. Their expertise in creating interconnected urban spaces is essential for transforming urban environments into hubs of resilience and innovation."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities play a vital role in promoting and integrating the 'Ubuntu Urbanism' initiative within the broader context of urban development. Their involvement can help attract visitors and investments, thereby enhancing the sustainability and visibility of the initiative while ensuring that tourism efforts align with community values."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is fundamental to the 'Ubuntu Urbanism' initiative, as it aims to create circular economy models that are environmentally and socially sustainable. Engaging with this concept will ensure that the initiative aligns with global sustainability goals and practices."
+            },
+            {
+                "participant": "Cities",
+                "reasoning": "Cities themselves are key participants in the 'Ubuntu Urbanism' initiative, as they are the entities that will enact and benefit from the proposed transformations. Their participation is essential for ensuring that the initiative is grounded in the realities and aspirations of urban populations."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

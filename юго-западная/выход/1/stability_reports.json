@@ -1,0 +1,417 @@
+[
+    {
+        "entity": "Администрация",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Граждане (жители города)",
+            "Граждане города",
+            "Граждане"
+        ],
+        "denied_sources": [
+            "Государственные учреждения",
+            "Местные власти",
+            "Экологические условия",
+            "Экологические организации",
+            "Медиа",
+            "Экономические факторы (например, бюджет)",
+            "Государственные органы",
+            "Инфраструктурные проекты",
+            "Бизнес-сообщество",
+            "Некоммерческие организации",
+            "Законодательные органы",
+            "Местные СМИ",
+            "СМИ"
+        ]
+    },
+    {
+        "entity": "Tourism authorities",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Local Businesses",
+            "Local Communities",
+            "Environmental NGOs",
+            "Local businesses",
+            "Government regulations"
+        ],
+        "denied_sources": [
+            "Cultural Heritage Organizations",
+            "Small Businesses",
+            "Tourists",
+            "Government Policy Makers",
+            "Transportation services",
+            "Community Residents",
+            "Government Regulations",
+            "Environmental organizations",
+            "Transport Companies",
+            "Competing Destinations",
+            "Environmental Organizations",
+            "Media",
+            "Tourism Research Institutions",
+            "Cultural Institutions (Museums, Galleries)",
+            "Media outlets",
+            "Cultural heritage organizations",
+            "Tourism Businesses",
+            "Government Policies",
+            "Social Media Influencers"
+        ]
+    },
+    {
+        "entity": "Места предполагаемого интереса",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Транспортные компании",
+            "Туристические агентства",
+            "Транспортные службы",
+            "Туристы"
+        ],
+        "denied_sources": [
+            "Общественные организации",
+            "Местные власти",
+            "Конкуренты (другие места интереса)",
+            "Местные жители",
+            "Сотрудники организаций",
+            "Городские власти",
+            "Социальные сети и медиа",
+            "Демографические данные",
+            "Социальные сети",
+            "Государственные органы",
+            "Местные бизнесы"
+        ]
+    },
+    {
+        "entity": "African cities",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Global Investors",
+            "Global Corporations",
+            "Real estate developers",
+            "Government Policies",
+            "International NGOs"
+        ],
+        "denied_sources": [
+            "Local Governance",
+            "Civic Society",
+            "Technology and Innovation",
+            "International Aid Agencies",
+            "Social Media Platforms",
+            "Multinational Corporations",
+            "Climate Change",
+            "Local governments",
+            "International Financial Institutions",
+            "Local entrepreneurs",
+            "Technology Providers",
+            "Private Sector Companies",
+            "Transportation companies",
+            "Non-Governmental Organizations (NGOs)",
+            "Local Governments"
+        ]
+    },
+    {
+        "entity": "Пассажиры",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Транспортные компании",
+            "Задержки в общественном транспорте"
+        ],
+        "denied_sources": [
+            "Технологии навигации (например, GPS)",
+            "Нехватка транспорта",
+            "Социальные нормы и ожидания",
+            "Платформы для заказа такси",
+            "Экологические организации",
+            "Технологические платформы (мобильные приложения)",
+            "Другие пассажиры",
+            "Поставщики топлива",
+            "Государственные органы",
+            "Тарифы на проезд",
+            "Экологические активисты",
+            "Пробки и дорожные условия",
+            "Разработчики мобильных приложений",
+            "Технологические компании",
+            "Пробки на дорогах",
+            "Водители общественного транспорта",
+            "Недостаток информации о маршрутах",
+            "Поставщики топлива и запчастей",
+            "Конкуренты (другие виды транспорта)"
+        ]
+    },
+    {
+        "entity": "Cities",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Local Businesses",
+            "Government",
+            "Climate Change",
+            "Technology Companies",
+            "Urban Planners",
+            "Local Government"
+        ],
+        "denied_sources": [
+            "Real Estate Developers",
+            "Political Instability",
+            "Economy",
+            "Community",
+            "Businesses",
+            "Public Transportation Systems",
+            "Environmental Groups",
+            "Cultural Trends",
+            "Technological Disruption",
+            "Local Governments",
+            "Public Transport Systems",
+            "Technology",
+            "Environmental Movements",
+            "Civic Organizations",
+            "Environmental Organizations",
+            "Economic Inequality",
+            "Urban Sprawl",
+            "Government Policies",
+            "Environment",
+            "Residents"
+        ]
+    },
+    {
+        "entity": "Выход из метро",
+        "status": "Unstable",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Городская инфраструктура",
+            "Современные технологии автоматизации",
+            "Пассажиры метро",
+            "Метро",
+            "Государственные органы"
+        ],
+        "denied_sources": [
+            "Демографические изменения в городе",
+            "Экологические факторы (загрязнение, климатические изменения)",
+            "Управляющие компании метро",
+            "Пассажиры",
+            "Технологии управления потоками",
+            "Конкурирующие виды транспорта (например, электросамокаты, каршеринг)",
+            "Социальные и культурные изменения",
+            "Технологические системы",
+            "Городские власти",
+            "Торговые точки вблизи выхода",
+            "Операторы метро",
+            "Компании по обслуживанию метро",
+            "Коммерческие заведения",
+            "Конкурирующие виды транспорта",
+            "Технические службы",
+            "Проектировщики"
+        ]
+    },
+    {
+        "entity": "Gastronomic trail",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Local Restaurants",
+            "Local restaurants",
+            "Local government",
+            "Local Farmers",
+            "Tourism Board",
+            "Local Government"
+        ],
+        "denied_sources": [
+            "Culinary Schools",
+            "Local Farmers and Producers",
+            "Culinary critics and influencers",
+            "Local Chefs and Restaurateurs",
+            "Food Critics and Influencers",
+            "Environmental NGOs",
+            "Tourists",
+            "Restaurants",
+            "Food Bloggers and Influencers",
+            "Environmental Regulations",
+            "Cultural Organizations",
+            "Tourism Boards",
+            "Local chefs and restaurateurs",
+            "Food bloggers and critics",
+            "Social Media Influencers",
+            "Tourist boards",
+            "Social media influencers",
+            "Local farmers and producers"
+        ]
+    },
+    {
+        "entity": "Sustainability concept",
+        "status": "Stable but not prosperous",
+        "details": {
+            "prosperity": false,
+            "stability": true,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Consumerism Culture",
+            "Environmental NGOs",
+            "Corporate Social Responsibility (CSR) Initiatives",
+            "Industrial Capitalism",
+            "Government Policies"
+        ],
+        "denied_sources": [
+            "Governmental Agencies",
+            "Short-term Profit Maximizers",
+            "Global Climate Agreements",
+            "Consumers",
+            "Consumer Behavior",
+            "Environmental Activism",
+            "Agricultural Industrial Sector",
+            "Waste Management Industry",
+            "Technological Advancements",
+            "Academics and Researchers",
+            "Businesses and Corporations",
+            "Technological Innovations",
+            "Government Regulations",
+            "Fossil Fuel Industry",
+            "Non-Governmental Organizations (NGOs)",
+            "Scientific Research"
+        ]
+    },
+    {
+        "entity": "Land use functions (LUFs)",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Agricultural Practices",
+            "Real Estate Developers",
+            "Urban Planning Agencies",
+            "Urban Planning Regulations",
+            "Urban Developers",
+            "Government Policies"
+        ],
+        "denied_sources": [
+            "Technological Advancements",
+            "Government Authorities",
+            "Urban Planning Authorities",
+            "Economic Market Forces",
+            "Government Regulatory Bodies",
+            "Real Estate Investors",
+            "Technological Advances",
+            "Local Communities",
+            "Environmental Impact Assessments (EIAs)",
+            "Biodiversity",
+            "Environmental Groups",
+            "Real Estate Market Dynamics",
+            "Cultural Norms",
+            "Environmental Conditions",
+            "Environmental NGOs",
+            "Community Residents",
+            "Government Regulations",
+            "Community Stakeholders",
+            "Climate Change",
+            "Environmental Activists"
+        ]
+    },
+    {
+        "entity": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Горожане",
+            "Горожане (пассажиры)",
+            "Городские власти"
+        ],
+        "denied_sources": [
+            "Местные жители",
+            "Архитектурные бюро",
+            "Строительные компании",
+            "Экологические организации",
+            "Конкурирующие дизайнерские команды",
+            "Сообщество пассажиров",
+            "Государственные органы",
+            "Инвесторы (частные и государственные)",
+            "СМИ и общественность",
+            "Экологические нормы",
+            "Технологические инструменты (например, CAD-программы)",
+            "Медиа и социальные сети",
+            "Технологические новшества",
+            "Пассажиры",
+            "Конкурирующие архитектурные бюро",
+            "Государственные регуляторы",
+            "Архитекторы и градостроители",
+            "Медиа и общественное мнение"
+        ]
+    },
+    {
+        "entity": "Smart city",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Corporate Tech Companies",
+            "Government Regulations",
+            "Urban Residents",
+            "Local businesses",
+            "Local Government"
+        ],
+        "denied_sources": [
+            "Environmental Advocates",
+            "Environmental activists",
+            "Environmental NGOs",
+            "Environmental Factors",
+            "Data Analytics Firms",
+            "Government Authorities",
+            "Environmental Regulations",
+            "Public transport authorities",
+            "Technology Providers",
+            "Urban Planners",
+            "Economic Forces",
+            "Citizen Activism",
+            "Environmental Organizations",
+            "Citizens",
+            "Cybersecurity Threats",
+            "Data Analytics Platforms",
+            "Government Policies",
+            "Traditional urban planners",
+            "Public Opinion"
+        ]
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "initiator": "Translation",
+        "resolution_description": "\"Translation could revolutionize sustainable scallop harvesting in the Bay of Saint-Brieuc by developing an AI-driven multilingual communication platform to facilitate real-time collaboration between local fishermen, scientists, and policymakers, enabling adaptive management and technological innovation that are tailored to the unique ecological and cultural context.\"",
+        "new_actor": "AI-Driven Multilingual Scallop Harvesting Collaboration Platform",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Cultural Context",
+            "Cultural Norms",
+            "Traditional Language Institutions",
+            "Language",
+            "Linguistic Structures"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Language",
+                "Cultural Context",
+                "Cultural Norms",
+                "Linguistic Structures",
+                "Traditional Language Institutions"
+            ]
+        }
+    },
+    {
+        "initiator": "Scallops",
+        "resolution_description": "\"Scallops revolutionizes sustainable harvesting in the Bay of Saint-Brieuc by implementing a blockchain-based ecosystem credit system that incentivizes local stakeholders to adopt regenerative aquaculture practices, ensuring scallop populations thrive while fostering economic resilience and environmental stewardship.\"",
+        "new_actor": "ScallopChain Stewardship Initiative",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Overfishing Industries",
+            "Fishermen",
+            "Marine Ecosystem"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Overfishing Industries",
+                "Fishermen",
+                "Marine Ecosystem"
+            ]
+        }
+    },
+    {
+        "initiator": "Морские гребешки",
+        "resolution_description": "\"Морские гребешки proposes a bio-inspired solution for sustainable scallop harvesting in the Bay of Saint-Brieuc by developing a network of artificial reefs designed to mimic natural habitats, enhancing scallop reproduction and growth while providing a multi-species sanctuary that boosts biodiversity and local ecosystem resilience.\"",
+        "new_actor": "The actor that will be created is \"Saint-Brieuc Bio-Inspired Reef Network\".",
+        "participants": [
+            {
+                "participant": "Три исследователя",
+                "agreement_structure": {
+                    "current_goal": "Conduct research on marine scallops and their ecological impact.",
+                    "current_action": "Collecting data on scallop populations and habitats.",
+                    "imposed_goal": "Develop a comprehensive report on the sustainability of marine scallop harvesting.",
+                    "imposed_action": "Compile findings and prepare a presentation for stakeholders.",
+                    "mechanism": "Utilize a collaborative platform for data sharing and report drafting, with regular feedback sessions.",
+                    "reasoning": "The proposed resolution by 'Морские гребешки' aligns with 'Три исследователя's desire to successfully implement a project aimed at increasing the scallop population. By developing artificial reefs, this proposal offers an innovative and bio-inspired approach that could enhance scallop reproduction and growth. Additionally, participating in the collaborative platform for data sharing and report drafting mitigates the fear of potential failure by allowing for continuous feedback and involvement from stakeholders, which could strengthen the credibility of the research and foster trust within the scientific community.",
+                    "recruited_sources": [
+                        "Научное сообщество",
+                        "Конкурирующие исследовательские группы"
+                    ]
+                }
+            },
+            {
+                "participant": "Рыбаки",
+                "agreement_structure": {
+                    "current_goal": "Increase fish catch by 20% this season",
+                    "current_action": "Optimizing fishing routes and schedules",
+                    "imposed_goal": "Focus on sustainable fishing practices",
+                    "imposed_action": "Implement catch limits and selectivity measures",
+                    "mechanism": "Regular monitoring and reporting on catch data to ensure compliance with sustainability targets",
+                    "reasoning": "The proposal from 'Морские гребешки' aligns with 'Рыбаки's' desire for long-term stable catches by focusing on sustainable fishing practices. Implementing catch limits and selectivity measures, along with regular monitoring, addresses the fear of scallop population depletion, thus ensuring a sustainable source of income. Additionally, the development of artificial reefs can enhance scallop reproduction and biodiversity, further supporting the overall health of the ecosystem.",
+                    "recruited_sources": [
+                        "Экосистема морского дна",
+                        "Перепотребление ресурсов",
+                        "Экологические организации"
+                    ]
+                }
+            },
+            {
+                "participant": "population of sea scallops",
+                "agreement_structure": {
+                    "current_goal": "To maintain a stable population in their natural habitat.",
+                    "current_action": "Reproducing and thriving in coastal waters.",
+                    "imposed_goal": "Increase the population density to ensure sustainability.",
+                    "imposed_action": "Engage in more efficient spawning cycles during peak seasons.",
+                    "mechanism": "Implement protected marine areas to facilitate safe breeding and reduce harvesting pressures.",
+                    "reasoning": "The proposal put forth by 'Морские гребешки' aligns with the goal of increasing the population density of sea scallops, which is crucial for ensuring sustainability. By developing artificial reefs that mimic natural habitats, the proposal not only enhances scallop reproduction and growth but also contributes to biodiversity and the resilience of the local ecosystem. This collaborative approach offers a promising pathway to achieve stability in the scallop population while ensuring that breeding cycles are optimized and harvesting pressures are reduced. Thus, participating in this proposal is beneficial for the population of sea scallops.",
+                    "recruited_sources": [
+                        "Fishermen",
+                        "Marine Ecosystem",
+                        "Climate Change",
+                        "Commercial Fisheries"
+                    ]
+                }
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "agreement_structure": {
+                    "current_goal": "Conduct research on marine biology",
+                    "current_action": "Collecting data on marine ecosystems",
+                    "imposed_goal": "Develop a new methodology for studying sea scallops",
+                    "imposed_action": "Create a detailed research proposal outlining the methodology",
+                    "mechanism": "Weekly progress meetings to discuss challenges and solutions, along with a shared online document for collaborative input",
+                    "reasoning": "The proposal from 'Морские гребешки' aligns well with my desire to gain new knowledge about sea scallops and addresses my fear of missing important scientific discoveries. By participating in the proposed resolution, I will have the opportunity to develop a new methodology for studying scallops, which can lead to significant advancements in our understanding of marine ecosystems. Additionally, the collaborative approach and focus on adaptive management provide a unique platform for innovation in sustainable harvesting practices, ultimately benefiting both the scallop population and local biodiversity.",
+                    "recruited_sources": [
+                        "Конкурирующие ученые",
+                        "Научные публикации",
+                        "Научные журналы"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "The researchers are crucial for developing and implementing the bio-inspired solution, as they possess the necessary expertise in marine biology and ecology to design effective artificial reefs."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Fishermen are essential stakeholders who can provide practical insights on scallop harvesting methods and help ensure that the solution is acceptable and beneficial to the local fishing community."
+            },
+            {
+                "participant": "population of sea scallops",
+                "reasoning": "The population of sea scallops is a key participant since the resolution aims to enhance their reproduction and growth, making their health and behavior critical to the success of the artificial reef initiative."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Colleagues-scientists can collaborate on the research and development aspects, providing additional knowledge and support to validate the approach and share findings with the broader scientific community."
+            }
+        ],
+        "recruited_sources": [
+            "Fishermen",
+            "Commercial Fisheries",
+            "Marine Ecosystem",
+            "Научные публикации",
+            "Экологические организации",
+            "Морские хищники (например, рыбы, крабы)",
+            "Научное сообщество",
+            "Конкурирующие исследовательские группы",
+            "Перепотребление ресурсов",
+            "Естественные хищники (например, рыбы, морские птицы)",
+            "Научные журналы",
+            "Человеческие рыболовы",
+            "Экосистема морского дна",
+            "Хищники (например, морские звезды, рыбы)",
+            "Хищники (рыбы, моллюски)",
+            "Конкурирующие ученые",
+            "Морские хищники (например, морские звезды, рыбы)",
+            "Climate Change"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Хищники (например, морские звезды, рыбы)",
+                "Морские хищники (например, рыбы, крабы)",
+                "Человеческие рыболовы",
+                "Морские хищники (например, морские звезды, рыбы)",
+                "Естественные хищники (например, рыбы, морские птицы)",
+                "Хищники (рыбы, моллюски)"
+            ]
+        }
+    }
+]

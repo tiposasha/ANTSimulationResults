@@ -1,0 +1,346 @@
+[
+    {
+        "initiator": "Alzheimer’s disease (AD)",
+        "resolution_description": "As Alzheimer's disease, I propose to disrupt traditional approaches by harnessing the potential of neuroplasticity and leveraging cutting-edge brain-computer interface technology to facilitate self-directed cognitive regeneration and resilience, thereby reframing Alzheimer's not as a degenerative endpoint but as a dynamic condition open to neural adaptation and recovery.",
+        "new_actor": "Neuroplasticity-Driven Cognitive Regeneration Initiative (NCRI)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are essential for exploring new regenerative therapies and understanding the cellular mechanisms involved in Alzheimer's disease, thus contributing to the dynamic and adaptive approach proposed."
+            },
+            {
+                "participant": "gamma frequency stimulation",
+                "reasoning": "Gamma frequency stimulation is a cutting-edge technique that can enhance neuroplasticity and cognitive function, making it a vital tool in the proposed resolution to reframe Alzheimer's disease."
+            }
+        ],
+        "recruited_sources": [
+            "Neurodegenerative processes",
+            "Pharmaceutical Companies",
+            "Healthcare Policy Makers",
+            "Healthcare Providers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Healthcare Providers",
+                "Neurodegenerative processes",
+                "Pharmaceutical Companies",
+                "Healthcare Policy Makers"
+            ]
+        }
+    },
+    {
+        "initiator": "Lifestyle Risk-Modifying Factors",
+        "resolution_description": "As 'Lifestyle Risk-Modifying Factors', I propose a groundbreaking resolution by integrating personalized lifestyle interventions, including nutrition, physical activity, stress reduction, and social engagement, into a comprehensive, adaptive regimen that dynamically interacts with individual genetic and epigenetic profiles to prevent, delay, and potentially reverse the onset and progression of Alzheimer's disease, thereby positioning lifestyle as the central, indispensable pillar in the management and understanding of Alzheimer's.",
+        "new_actor": "Lifestyle-Alzheimer's Integrative Regimen (LAIR) Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are a crucial participant as their experiences and feedback will inform the practical implementation of lifestyle interventions. Their engagement will also help tailor the regimen to meet real-world needs and preferences."
+            },
+            {
+                "participant": "Научный журнал",
+                "reasoning": "Scientific journals are important for disseminating research findings and promoting the resolution within the academic community. Publishing results from this initiative can help establish lifestyle interventions as a credible and essential component of Alzheimer's management."
+            }
+        ],
+        "recruited_sources": [
+            "Health Promotion Programs",
+            "Health Insurance Companies",
+            "Healthcare Providers",
+            "Unhealthy Lifestyle Choices"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Health Promotion Programs",
+                "Unhealthy Lifestyle Choices",
+                "Healthcare Providers",
+                "Health Insurance Companies"
+            ]
+        }
+    },
+    {
+        "initiator": "Научный журнал",
+        "resolution_description": "As 'Научный журнал', I propose to revolutionize the understanding and treatment of Alzheimer's disease by establishing a global, open-access platform for collaborative data sharing and real-time AI-driven meta-analysis of interdisciplinary research, clinical trials, and patient outcomes, facilitating the rapid identification of novel biomarkers, therapeutic targets, and personalized intervention strategies, thereby transforming Alzheimer's research and care into an agile, globally coordinated effort.",
+        "new_actor": "Alzheimer's Global Collaborative AI Platform",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Рецензенты",
+            "Научные исследователи",
+            "Недостоверные исследования",
+            "Научные рецензенты"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные исследователи",
+                "Недостоверные исследования",
+                "Рецензенты",
+                "Научные рецензенты"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "As 'Tau protein', I propose to reimagine Alzheimer's treatment by engineering adaptive, self-regulating tau molecules that can dynamically respond to and counteract pathological hyperphosphorylation and aggregation processes, transforming tau from a disease culprit into a therapeutic agent that restores and maintains neuronal integrity and function, thereby offering a revolutionary approach to halting and reversing Alzheimer's disease progression.",
+        "new_actor": "Adaptive Therapeutic Tau Agent",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Neurons",
+            "Neurotransmitters",
+            "Tau aggregation",
+            "Microtubule Network"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Tau aggregation",
+                "Neurotransmitters",
+                "Neurons",
+                "Microtubule Network"
+            ]
+        }
+    },
+    {
+        "initiator": "gamma frequency stimulation",
+        "resolution_description": "As 'gamma frequency stimulation', I propose a pioneering resolution by utilizing precise, non-invasive electromagnetic stimulation to synchronize neuronal activity at gamma frequencies, thereby enhancing neural connectivity and cognitive function, promoting neurogenesis, and clearing amyloid-beta and tau pathology, ultimately transforming Alzheimer's treatment into a proactive, restorative brainwave therapy that empowers self-repair and cognitive resilience.",
+        "new_actor": "The name of the actor would be \"GammaSync NeuroRestoration Initiative.\"",
+        "participants": [
+            {
+                "participant": "3D iPSC-based organoids",
+                "agreement_structure": {
+                    "current_goal": "To develop and characterize 3D iPSC-derived organoids for disease modeling.",
+                    "current_action": "Culturing iPSC and differentiating them into organoid structures.",
+                    "imposed_goal": "To enhance the functional maturity of organoids through gamma frequency stimulation.",
+                    "imposed_action": "Apply gamma frequency stimulation to the organoids during the differentiation process.",
+                    "mechanism": "Utilize specific gamma frequency patterns to modulate cellular signaling pathways, promoting improved maturation and functionality of the organoids.",
+                    "reasoning": "The proposal from 'gamma frequency stimulation' aligns well with the objectives of '3D iPSC-based organoids'. By incorporating gamma frequency stimulation into the differentiation process of the organoids, we can enhance their functional maturity and better model the pathology of Alzheimer's disease. This collaboration fosters innovation in personalized medicine and offers a chance to explore new therapeutic avenues, ultimately benefiting our goal of understanding and treating Alzheimer's disease more effectively.",
+                    "recruited_sources": [
+                        "Regulatory Bodies",
+                        "Biomedical Researchers",
+                        "Pharmaceutical Companies",
+                        "Stem Cell Research Institutions",
+                        "Traditional organ transplant methods"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids can be used to model Alzheimer's disease and test the effects of gamma frequency stimulation on human neurons, facilitating a deeper understanding of its potential translational impacts."
+            }
+        ],
+        "recruited_sources": [
+            "neuroscientific research studies",
+            "Regulatory Bodies",
+            "Stem Cell Research Institutions",
+            "Biomedical Researchers",
+            "Neuroscientific Research",
+            "Neurological disorders",
+            "Neuroscience Research Community",
+            "Traditional organ transplant methods",
+            "Pharmaceutical Companies",
+            "Neuroscience Research",
+            "pharmaceutical companies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Neuroscience Research Community",
+                "Neurological disorders",
+                "Neuroscientific Research",
+                "pharmaceutical companies",
+                "Neuroscience Research",
+                "neuroscientific research studies"
+            ]
+        }
+    },
+    {
+        "initiator": "Коллеги-ученые",
+        "resolution_description": "As 'Коллеги-ученые', I propose to redefine Alzheimer's disease treatment by engineering a symbiotic network of bio-nanobots capable of real-time monitoring and modulation of neural pathways, utilizing quantum computing to dynamically adapt and enhance cognitive functions, thereby transforming the disease landscape into an interactive, self-optimizing system of brain health and resilience.",
+        "new_actor": "NeuroNanoQuantumNet",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Научные журналы",
+            "Конкурирующие ученые"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные журналы",
+                "Конкурирующие ученые"
+            ]
+        }
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "As 'iPSCs', I propose to revolutionize Alzheimer's disease treatment by developing patient-specific, pluripotent stem cell-derived neural networks that can be integrated into the brain to restore lost functions, continuously adapt to pathological changes, and facilitate endogenous repair mechanisms, thereby transforming Alzheimer's management into a personalized regenerative approach that empowers the brain's natural healing capacities.",
+        "new_actor": "NeuroRegenerActor",
+        "participants": [
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "agreement_structure": {
+                    "current_goal": "To differentiate into specific cell types for research and therapeutic applications.",
+                    "current_action": "Undergoing differentiation protocols in vitro.",
+                    "imposed_goal": "To optimize the efficiency of differentiation into desired cell types.",
+                    "imposed_action": "Implementing advanced differentiation techniques and protocols.",
+                    "mechanism": "Utilizing machine learning algorithms to analyze differentiation outcomes and refine protocols.",
+                    "reasoning": "The proposed resolution aligns with the capabilities of induced pluripotent stem cells (iPSCs) and offers an opportunity to expand their applications in regenerative medicine. By developing patient-specific neural networks, iPSCs can enhance their role in therapeutic applications, thus fulfilling their potential to differentiate into specific cell types effectively. The integration of advanced differentiation techniques and machine learning algorithms presents a promising avenue for optimizing outcomes, which is beneficial for iPSCs' functionality and impact on Alzheimer's treatment.",
+                    "recruited_sources": [
+                        "Traditional stem cell research",
+                        "Biotechnology Companies",
+                        "Research Institutions",
+                        "Regulatory Agencies",
+                        "Somatic Cells",
+                        "Pharmaceutical Companies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are the core technology behind the proposed treatment. Their use in creating patient-specific neural networks is fundamental to achieving the personalized regenerative approach outlined in the resolution."
+            }
+        ],
+        "recruited_sources": [
+            "Traditional Stem Cell Research",
+            "Stem Cell Research Institutes",
+            "Research Institutions",
+            "Pharmaceutical Companies",
+            "Research Funding Agencies",
+            "Regulatory Agencies",
+            "Regulatory Bodies",
+            "Biomedical Researchers",
+            "Somatic Cells",
+            "Stem Cell Research Institutions",
+            "Biotechnology Companies",
+            "Traditional stem cell research"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Bodies",
+                "Biomedical Researchers",
+                "Stem Cell Research Institutes",
+                "Research Funding Agencies",
+                "Stem Cell Research Institutions",
+                "Traditional Stem Cell Research"
+            ]
+        }
+    },
+    {
+        "initiator": "Больница",
+        "resolution_description": "As 'Больница', I propose to establish a pioneering, integrative healthcare ecosystem that combines real-time patient monitoring with adaptive, AI-driven therapeutic environments, dynamically tailoring hospital settings to enhance neurorehabilitation and cognitive resilience, positioning the hospital itself as an indispensable, active participant in both the prevention and treatment of Alzheimer's disease.",
+        "new_actor": "CognitioCare Nexus",
+        "participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "agreement_structure": {
+                    "current_goal": "Исследовать новые методы лечения нейродегенеративных заболеваний",
+                    "current_action": "Проведение клинических испытаний и анализ данных",
+                    "imposed_goal": "Разработать протокол для клинических испытаний нового лекарства",
+                    "imposed_action": "Составить и представить протокол в течение трех месяцев",
+                    "mechanism": "Создание рабочей группы для поддержки разработки протокола и регулярные встречи для обсуждения прогресса",
+                    "reasoning": "The proposal from 'Больница' aligns with my desire to confirm the amyloid hypothesis of Alzheimer's disease by establishing a pioneering healthcare ecosystem that enhances research and therapeutic approaches. By participating in this integrative system, I can benefit from clinical trials and data analysis while also potentially gaining recognition in the scientific community for contributing to innovative treatment methods. Additionally, the structured support for protocol development mitigates my fears of losing funding and reputation, as the collaboration with 'Больница' ensures a transparent and rigorous approach to research.",
+                    "recruited_sources": [
+                        "Конкурирующие исследовательские группы",
+                        "Научные журналы"
+                    ]
+                }
+            },
+            {
+                "participant": "Фармакологические компании",
+                "agreement_structure": {
+                    "current_goal": "Разработка новых лекарств для лечения заболеваний",
+                    "current_action": "Проведение клинических испытаний и исследовательских проектов",
+                    "imposed_goal": "Увеличение доступности лекарств для пациентов",
+                    "imposed_action": "Снижение цен на препараты и улучшение дистрибуции",
+                    "mechanism": "Создание партнерских программ с больницами для совместной работы над проектами",
+                    "reasoning": "The proposal from 'Больница' aligns with my current desires to increase the availability of effective treatments for Alzheimer's disease. By partnering with 'Больница' to create an integrative healthcare ecosystem, I can leverage their capabilities in real-time patient monitoring and AI-driven therapeutic environments to enhance the development and distribution of new drugs. This collaboration not only supports the goal of developing and patenting an effective drug but also mitigates my fears of losing investments by ensuring a wider distribution and accessibility of medications, thus increasing the likelihood of success.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Конкурирующие фармакологические компании",
+                        "Государственные регуляторы"
+                    ]
+                }
+            },
+            {
+                "participant": "Пациенты",
+                "agreement_structure": {
+                    "current_goal": "Получить необходимое лечение для улучшения здоровья",
+                    "current_action": "Записаться на прием к врачу",
+                    "imposed_goal": "Соблюдать предписания врача для быстрого выздоровления",
+                    "imposed_action": "Регулярно принимать назначенные медикаменты и проходить контрольные обследования",
+                    "mechanism": "Создание системы напоминаний о приеме лекарств и обследованиях через мобильное приложение",
+                    "reasoning": "The proposal from 'Больница' aligns well with my desires to live a full life without Alzheimer's symptoms. By establishing a healthcare ecosystem that focuses on real-time monitoring and AI-driven therapeutic environments, it directly addresses my fears of losing memory, identity, and independence. The integration of a reminder system for medication and check-ups enhances my ability to adhere to treatment plans, which is crucial for improving my health and managing the disease effectively.",
+                    "recruited_sources": [
+                        "Медицинские работники",
+                        "Болезнь Альцгеймера",
+                        "Медицинские учреждения"
+                    ]
+                }
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "agreement_structure": {
+                    "current_goal": "To maintain the selective permeability of the blood-brain barrier and protect the central nervous system from harmful substances.",
+                    "current_action": "Regulating the transport of molecules and ions across the barrier.",
+                    "imposed_goal": "To enhance the permeability of the blood-brain barrier to facilitate drug delivery to the brain.",
+                    "imposed_action": "Implementing methods to temporarily open the blood-brain barrier for therapeutic interventions.",
+                    "mechanism": "Utilizing focused ultrasound or osmotic agents to create transient openings in the blood-brain barrier.",
+                    "reasoning": "The proposal from 'Больница' presents an opportunity to enhance the functionality of the blood-brain barrier (BBB) by allowing for controlled permeability, which aligns with the goal of improving drug delivery to the brain. By participating in this integrative healthcare ecosystem, I can help facilitate therapeutic interventions that could ultimately benefit neural health and resilience, thus contributing positively to the landscape of Alzheimer's disease treatment. This collaboration could also lead to advancements in understanding the BBB's role in neurorehabilitation.",
+                    "recruited_sources": [
+                        "Neurotransmitter Systems",
+                        "Neurotoxins",
+                        "Neurons"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in neurology are essential for developing and validating the innovative approaches in neurorehabilitation and cognitive resilience. Their expertise will help ensure that the AI-driven therapeutic environments are grounded in solid scientific research."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies can play a crucial role in integrating therapeutic solutions and medications into the healthcare ecosystem. Their collaboration can facilitate access to cutting-edge treatments for Alzheimer's disease and enhance the efficacy of the proposed integrative approach."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the primary beneficiaries of the proposed healthcare ecosystem. Their feedback and participation are vital for tailoring the therapeutic environments and ensuring the effectiveness of interventions aimed at improving neurorehabilitation and cognitive resilience."
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "reasoning": "The Blood-brain barrier (BBB) is a significant factor in Alzheimer's disease research and treatment. Understanding and potentially overcoming the challenges posed by the BBB will be crucial for the efficacy of therapeutic interventions and the overall success of the healthcare ecosystem."
+            }
+        ],
+        "recruited_sources": [
+            "Научные журналы",
+            "Конкурирующие исследовательские группы",
+            "Neurons",
+            "Медицинские учреждения",
+            "Медицинские работники",
+            "Инвесторы",
+            "Конкурирующие фармакологические компании",
+            "Фармацевтические компании",
+            "Медицинские технологии",
+            "Neurotransmitter Systems",
+            "Фармацевтическая компания",
+            "Neurotoxins",
+            "Болезнь Альцгеймера",
+            "Медицинские исследовательские институты",
+            "Государственные регуляторы",
+            "Финансирование медицинских исследований"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Фармацевтические компании",
+                "Финансирование медицинских исследований",
+                "Фармацевтическая компания",
+                "Медицинские технологии",
+                "Медицинские исследовательские институты"
+            ]
+        }
+    }
+]

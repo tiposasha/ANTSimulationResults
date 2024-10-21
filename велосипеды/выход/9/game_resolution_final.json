@@ -1,0 +1,76 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Utilize augmented reality packaging designs that project interactive 3D models of the contents when scanned, engaging handlers with a virtual unboxing experience that emphasizes fragility and care.",
+        "new_actor": "The name of the actor would be \"Virtual Caretaker Unboxer.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is crucial as they will need to implement the augmented reality packaging designs. Their commitment to the project will ensure that the packaging is not only functional but also effectively communicates the message of care and fragility."
+            },
+            {
+                "participant": "Иностранные покупатели",
+                "reasoning": "Foreign buyers are important stakeholders who will interact with the augmented reality packaging. Their feedback on the unboxing experience will be essential for further development and refinement of the design."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System is necessary to integrate the augmented reality packaging into the supply chain. This participant will help ensure that the technology is effectively utilized across logistics and distribution processes."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Social Vulnerability to Hazards",
+        "resolution_description": "Leverage community-based workshops and training initiatives to empower local logistics workers with skills and awareness to recognize and mitigate risks associated with handling fragile cargo, fostering a culture of care and responsibility that prioritizes social resilience and safety in transportation networks.",
+        "new_actor": "Community Logistics Resilience Trainer",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Грузчики",
+                "reasoning": "Recruiting 'Грузчики' (Loaders) is essential as they are directly involved in handling fragile cargo. Empowering them through community-based workshops will enhance their skills and awareness about risks, which is crucial for fostering a culture of care and responsibility."
+            },
+            {
+                "participant": "Socially vulnerable households",
+                "reasoning": "Engaging 'Socially vulnerable households' is important to ensure that the initiatives address their specific needs and challenges. Their involvement can also enhance community resilience and safety in transportation networks."
+            },
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Involving 'Federal Government Agencies' is critical for securing support, funding, and policy backing for the proposed workshops and training initiatives, ensuring broader reach and sustainability."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "resilience",
+        "resolution_description": "Resilience could revolutionize fragile cargo transportation by developing a decentralized blockchain-based platform that incentivizes and tracks the safe handling of goods through a system of smart contracts, rewarding handlers with a digital currency for maintaining cargo integrity from origin to destination.",
+        "new_actor": "CargoSafeChain Network",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Port Community Systems",
+        "resolution_description": "Port Community Systems could resolve the issue of cargo damage during transportation by implementing an AI-driven predictive analytics platform that integrates data from all port stakeholders to anticipate potential risks and optimize handling procedures in real-time, ensuring proactive interventions and seamless coordination across the logistics chain.",
+        "new_actor": "AI-Driven Predictive Analytics Platform for Cargo Safety",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System is crucial for integrating data from all port stakeholders. It will enable the implementation of the AI-driven predictive analytics platform, facilitating real-time monitoring and optimization of handling procedures."
+            },
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Federal Government Agencies play a vital role in establishing regulations and standards for cargo handling and transportation. Their support is essential for the adoption of the proposed system and ensuring compliance across all stakeholders."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "Gruzchiki (cargo handlers) are directly involved in the physical handling of cargo. Their insights and cooperation are essential for understanding the challenges in current handling procedures and implementing the necessary changes."
+            },
+            {
+                "participant": "Иностранные покупатели",
+                "reasoning": "Foreign buyers are key stakeholders who will benefit from improved cargo handling and reduced damage during transportation. Their feedback and needs can help shape the predictive analytics platform to better serve the logistics chain."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

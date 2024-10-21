@@ -1,0 +1,78 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: \"Develop a collaborative knowledge-sharing ecosystem where students co-create assessments with educators, emphasizing peer-reviewed projects and reflective self-assessments that align with real-world applications and ethical guidelines to ensure a comprehensive and honest evaluation of their understanding.\"",
+        "new_actor": "Co-Creative Integrity Evaluator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Educators play a vital role in guiding the assessment creation process and ensuring that the educational standards and ethical guidelines are met. Their expertise is necessary for aligning assessments with real-world applications."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "A community of fellow educators and researchers can provide diverse perspectives and best practices, fostering an environment of collaboration and innovation in assessment design. Their involvement enhances the credibility and richness of the knowledge-sharing ecosystem."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can facilitate the collaborative process by providing data analytics, personalized feedback, and adaptive learning environments. They can help streamline the assessment co-creation process and ensure that it meets the ethical guidelines."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Survey researchers",
+        "resolution_description": "\"Leverage survey research techniques to develop a dynamic feedback loop between students and educators, where continuous, anonymized input from students informs the creation of contextually relevant assessments that evolve with student understanding and adapt to diverse learning styles, ensuring a more accurate reflection of their knowledge.\"",
+        "new_actor": "Adaptive Learning Feedback Specialist",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Complete academic assignments on time",
+                    "current_action": "Studying and attending lectures",
+                    "imposed_goal": "Participate in the survey research study",
+                    "imposed_action": "Fill out the survey questionnaire by the deadline",
+                    "mechanism": "Provide a structured survey with clear instructions and a reminder system for completion",
+                    "reasoning": "The proposed scenario allows 'Студенты' to participate in a feedback loop that directly informs and improves the assessments they face. By providing structured input through surveys, they can ensure that assessments are relevant and tailored to their learning styles, ultimately aiding in their understanding and retention of knowledge. This aligns with their desire to gain useful knowledge and achieve good grades with minimal effort. Additionally, by engaging in this process, they mitigate the fear of being caught cheating, as they are actively participating in legitimate academic practices that foster skill development for their future careers."
+                }
+            },
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Improve student engagement and learning outcomes",
+                    "current_action": "Conducting lectures and assessments",
+                    "imposed_goal": "Gather comprehensive feedback on teaching methods",
+                    "imposed_action": "Administer a detailed survey to students",
+                    "mechanism": "Utilize an online survey platform to collect and analyze student feedback",
+                    "reasoning": "The proposed resolution aligns with my desire to effectively convey knowledge and objectively assess students by leveraging survey research techniques. By creating a dynamic feedback loop, I can gain comprehensive insights into my teaching methods and adapt assessments to better reflect student understanding and learning styles. Additionally, while I have concerns about losing control due to new technologies, the use of anonymized feedback mitigates this fear as it encourages honest student input without the risk of academic dishonesty. Thus, this proposal supports my objectives while addressing my apprehensions."
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary source of feedback and their insights are essential for developing assessments that align with their learning experiences and styles."
+            },
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Educators play a crucial role in interpreting student feedback and implementing changes to assessments, making their involvement vital for the success of the dynamic feedback loop."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of fellow educators and researchers can provide valuable perspectives and support in refining assessment strategies based on collective experiences and research findings."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can enhance the feedback process by analyzing student data and providing insights that help tailor assessments to individual learning needs."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "\"Introduce a 'knowledge ecosystem' where students engage in interdisciplinary, project-based learning communities, mentored by teachers and industry professionals, to collaboratively solve real-world problems, thereby allowing their practical skills and critical thinking to naturally demonstrate their understanding beyond traditional assessments.\"",
+        "new_actor": "Interdisciplinary Learning Facilitator",
+        "participants": [],
+        "required_participants": []
+    }
+]

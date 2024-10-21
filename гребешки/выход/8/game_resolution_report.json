@@ -1,0 +1,171 @@
+[
+    {
+        "initiator": "Морские гребешки",
+        "resolution_description": "As \"Морские гребешки,\" we propose to revolutionize sustainable scallop harvesting in the Bay of Saint-Brieuc by developing a bioengineered scallop species that thrives in symbiosis with local ecosystems, enhancing biodiversity and replenishing the natural populations while maintaining economic viability.",
+        "new_actor": "The actor would be named \"EcoSymbiosis Scallop Initiative.\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Рыбы-хищники",
+            "Человечество (рыболовство)",
+            "Ракообразные",
+            "Хищные рыбы",
+            "Человеческая деятельность (рыболовство, загрязнение)",
+            "Человеческие рыбаки"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Рыбы-хищники",
+                "Человечество (рыболовство)",
+                "Ракообразные",
+                "Хищные рыбы",
+                "Человеческие рыбаки",
+                "Человеческая деятельность (рыболовство, загрязнение)"
+            ]
+        }
+    },
+    {
+        "initiator": "Scallops",
+        "resolution_description": "As \"Scallops,\" we propose to implement an adaptive, AI-driven marine stewardship program that dynamically regulates scallop harvesting quotas and practices in real-time, based on continuous ecological data and predictive modeling, to ensure the long-term sustainability and resilience of the scallop population in the Bay of Saint-Brieuc.",
+        "new_actor": "Actor Name: AI Marine Stewardship Entity (AMSE)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Fishermen",
+            "Marine Ecosystem",
+            "Fishing Communities",
+            "Climate Change"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Fishermen",
+                "Marine Ecosystem",
+                "Climate Change",
+                "Fishing Communities"
+            ]
+        }
+    },
+    {
+        "initiator": "Translation",
+        "resolution_description": "As \"Translation,\" we propose the creation of a multilingual, cross-cultural platform that facilitates global collaboration between marine biologists, local fishers, policymakers, and technology experts, enabling the exchange of traditional knowledge and innovative practices to co-develop sustainable scallop harvesting techniques tailored to the unique ecological and socio-economic context of the Bay of Saint-Brieuc.",
+        "new_actor": "Scallop Collaborative Exchange Network (SCEN)",
+        "participants": [
+            {
+                "participant": "Три исследователя",
+                "agreement_structure": {
+                    "current_goal": "Conduct research on the impact of climate change on biodiversity.",
+                    "current_action": "Gathering data from various ecological studies.",
+                    "imposed_goal": "Publish a comprehensive report on climate change effects within three months.",
+                    "imposed_action": "Collaborate with other researchers to compile findings and write the report.",
+                    "mechanism": "Weekly progress meetings and shared online workspace for collaborative writing and data analysis.",
+                    "reasoning": "The proposed resolution by 'Translation' aligns well with the current desires of 'Три исследователя' to successfully implement a project aimed at increasing the scallop population. By collaborating with a diverse group of stakeholders, 'Три исследователя' will have access to a wealth of traditional knowledge and innovative practices that can enhance sustainable harvesting techniques. Furthermore, the opportunity to publish a comprehensive report on climate change effects within three months, while working collaboratively, mitigates the fear of failing in the experiment and losing trust in the scientific community. This collaborative approach not only supports the project's goals but also promotes resilience and adaptability in the face of ecological challenges.",
+                    "recruited_sources": [
+                        "Научное сообщество"
+                    ]
+                }
+            },
+            {
+                "participant": "Рыбаки",
+                "agreement_structure": {
+                    "current_goal": "Catch more fish to meet the market demand.",
+                    "current_action": "Fishing in the nearby river using traditional methods.",
+                    "imposed_goal": "Increase fish catch by 30% within the next month.",
+                    "imposed_action": "Adopt new fishing techniques and equipment.",
+                    "mechanism": "Provide training sessions and access to modern fishing gear.",
+                    "reasoning": "The proposal from 'Translation' aligns with the desire to ensure long-term stable catches and addresses the fear of scallop stock depletion. By creating a platform that fosters collaboration and knowledge exchange, 'Рыбаки' can benefit from innovative sustainable harvesting techniques, ultimately leading to increased fish catches and preserving the ecosystem. This approach mitigates the risk of overfishing while enhancing income opportunities through improved practices.",
+                    "recruited_sources": [
+                        "Экосистема морского дна",
+                        "Изменение климата",
+                        "Государственные органы",
+                        "Экологические организации",
+                        "Экосистема морских угодий"
+                    ]
+                }
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "agreement_structure": {
+                    "current_goal": "Conduct research on the effects of climate change on biodiversity.",
+                    "current_action": "Collecting data from various ecosystems.",
+                    "imposed_goal": "Publish a comprehensive report on climate change impacts by the end of the year.",
+                    "imposed_action": "Collaborate with other researchers and institutions to gather additional data and insights.",
+                    "mechanism": "Establish a monthly progress review meeting to discuss findings and align efforts towards the report.",
+                    "reasoning": "The proposal from 'Translation' aligns with 'Коллеги-ученые' desires to gain new knowledge about marine scallops while addressing fears of missing important scientific discoveries. By collaborating with various stakeholders, we can enhance our understanding of sustainable harvesting techniques and climate change impacts, ultimately leading to significant scientific advancements in our field.",
+                    "recruited_sources": [
+                        "Научные исследования",
+                        "Научные публикации",
+                        "Конкурирующие исследовательские группы",
+                        "Научные журналы"
+                    ]
+                }
+            },
+            {
+                "participant": "population of sea scallops",
+                "agreement_structure": {
+                    "current_goal": "To reproduce and sustain the population in their natural habitat.",
+                    "current_action": "Spawning during the appropriate seasonal conditions.",
+                    "imposed_goal": "To increase population resilience against environmental changes.",
+                    "imposed_action": "Establishing protected marine areas to prevent overfishing.",
+                    "mechanism": "Implementation of sustainable fishing practices and habitat restoration initiatives.",
+                    "reasoning": "The proposal from 'Translation' offers a collaborative approach that not only focuses on sustainable harvesting techniques but also emphasizes the establishment of protected marine areas. This directly aligns with the population of sea scallops' ultimate goal of increasing resilience against environmental changes. By facilitating collaboration between various stakeholders, the proposal enhances the chances of successful implementation of sustainable practices and habitat restoration initiatives, which are crucial for the long-term survival and health of the scallop population.",
+                    "recruited_sources": [
+                        "Fishermen",
+                        "Marine Ecosystem",
+                        "Climate Change",
+                        "Fishing Industry",
+                        "Commercial Fishing Industry"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "Recruiting researchers is crucial as they bring scientific knowledge and expertise in marine biology, which is essential for developing sustainable scallop harvesting techniques."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Local fishers are key stakeholders who possess traditional knowledge about scallop harvesting practices and the ecological context of the Bay of Saint-Brieuc, making their involvement vital for the success of the platform."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Colleagues and other scientists will help facilitate collaboration, share insights, and validate the research, ensuring that the co-developed practices are scientifically sound and applicable."
+            },
+            {
+                "participant": "population of sea scallops",
+                "reasoning": "The population of sea scallops is a non-human participant that represents the ecological aspect of the resolution, emphasizing the need for sustainable practices that directly affect their survival and health."
+            }
+        ],
+        "recruited_sources": [
+            "Fishermen",
+            "Fishing Industry",
+            "Научные исследования",
+            "Научное сообщество",
+            "Научные публикации",
+            "Cultural Integrity",
+            "Государственные органы",
+            "Language",
+            "Commercial Fishing Industry",
+            "Экологические организации",
+            "Научные журналы",
+            "Конкурирующие исследовательские группы",
+            "Linguistic Frameworks",
+            "Cultural Norms",
+            "Marine Ecosystem",
+            "Экосистема морского дна",
+            "Cultural Context",
+            "Экосистема морских угодий",
+            "Изменение климата",
+            "Climate Change"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Language",
+                "Cultural Context",
+                "Cultural Integrity",
+                "Cultural Norms",
+                "Linguistic Frameworks"
+            ]
+        }
+    }
+]

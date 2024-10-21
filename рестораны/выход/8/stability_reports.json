@@ -1,0 +1,246 @@
+[
+    {
+        "entity": "Туристы-клиенты",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Рестораны",
+            "Некачественные рестораны",
+            "Рестораны с высокими рейтингами"
+        ],
+        "denied_sources": [
+            "Онлайн-платформы для отзывов (например, TripAdvisor, Yelp)",
+            "Местные власти",
+            "Гиды и туристические агенты",
+            "Туристические агентства",
+            "Сайты отзывов",
+            "Социальные сети (например, Instagram, Facebook)",
+            "Туристические агенты",
+            "Сайты-отзывы",
+            "Социальные сети и отзывы",
+            "Технологии и приложения для поиска ресторанов",
+            "Гиды и экскурсоводы",
+            "Гид по ресторанам",
+            "Кулинарные критики",
+            "Кулинарные блоги и влогеры",
+            "Социальные сети",
+            "Кулинарные блогеры",
+            "Туристические агентства и гиды",
+            "Интернет-обзоры и рейтинги",
+            "Рекомендации и отзывы"
+        ]
+    },
+    {
+        "entity": "Restaurants",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Health Regulations",
+            "Local Farmers",
+            "Food Suppliers"
+        ],
+        "denied_sources": [
+            "Marketing Agencies",
+            "Food Delivery Services",
+            "Competitor Restaurants",
+            "Customer Reviews",
+            "Food Suppliers (Distributors)",
+            "Economic Conditions",
+            "Customers",
+            "Competitors",
+            "Technology Providers",
+            "Supply Chain Logistics",
+            "Local Government",
+            "Local Communities",
+            "Local Community",
+            "Delivery Services",
+            "Health and Safety Regulations",
+            "Food Critics and Influencers",
+            "Customer Feedback Platforms",
+            "Social Media and Reviews"
+        ]
+    },
+    {
+        "entity": "Consumers",
+        "status": "Unstable",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Corporations",
+            "Advertisers",
+            "Brands",
+            "Social Media Platforms",
+            "Retailers"
+        ],
+        "denied_sources": [
+            "Product Review Websites",
+            "Brand Loyalty Programs",
+            "Government Regulations",
+            "Market Researchers",
+            "Regulatory Bodies",
+            "Technological Innovations",
+            "Product Manufacturers",
+            "Peer Influence",
+            "Peer Groups",
+            "Advertising",
+            "Product Reviews and Ratings",
+            "Regulatory Agencies",
+            "Manufacturers",
+            "Social Media",
+            "Environmental Activism"
+        ]
+    },
+    {
+        "entity": "Три основателя стартапа",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Конкурирующий стартап",
+            "Пользователи платформы",
+            "Конкурирующие платформы"
+        ],
+        "denied_sources": [
+            "Инвесторы",
+            "Технологическая платформа (например, облачные сервисы)",
+            "Инвесторы и венчурные капитальные компании",
+            "Рестораны",
+            "Технологические тренды",
+            "Технологические платформы (например, API, карты)",
+            "Технологическая инфраструктура",
+            "Пользователи",
+            "Рестораны-партнеры",
+            "Конкуренты на рынке",
+            "Технологические партнеры",
+            "Партнеры и рестораны",
+            "Социальные сети",
+            "Конкуренты",
+            "Технологические платформы (например, Google, Apple)"
+        ]
+    },
+    {
+        "entity": "Рестораны",
+        "status": "Stable but not prosperous",
+        "details": {
+            "prosperity": false,
+            "stability": true,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Отзывы клиентов",
+            "Платформы отзывов (например, TripAdvisor, Yelp)",
+            "Социальные сети",
+            "Негативные отзывы клиентов",
+            "Клиенты"
+        ],
+        "denied_sources": [
+            "Платформы отзывов",
+            "Социальные медиа",
+            "Местные сообщества и организации (например, ассоциации ресторанов)",
+            "Платформы для отзывов и рейтингов",
+            "Службы доставки",
+            "Поставщики продуктов",
+            "Конкуренты (другие рестораны)",
+            "Онлайн-платформы для отзывов",
+            "Конкуренты",
+            "Местные сообщества и мероприятия",
+            "Поставщики продуктов и услуг",
+            "Поставщики",
+            "Социальные сети (например, Instagram, Facebook)"
+        ]
+    },
+    {
+        "entity": "Инвесторы",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Конкуренты стартапа",
+            "Технологическая платформа стартапа",
+            "Конкуренты стартапов",
+            "Стартапы",
+            "Регуляторные органы",
+            "Платформа стартапа"
+        ],
+        "denied_sources": [
+            "Социальные сети и сообщества",
+            "Консультанты",
+            "Негативные отзывы пользователей",
+            "Инвесторы",
+            "Аналитические платформы",
+            "Аналитики и эксперты",
+            "Экономические условия",
+            "Инвестиционные фонды",
+            "Государственные органы",
+            "Потребители",
+            "Государственные регуляторы",
+            "Регуляторы",
+            "Информационные риски",
+            "Потенциальные клиенты",
+            "Аналитические агентства",
+            "Регуляторы и законодательство",
+            "Потребители платформы",
+            "Конкуренты на рынке",
+            "Партнеры по проекту (команда стартапа)",
+            "Инфраструктурные поставщики услуг",
+            "Финансовые аналитики"
+        ]
+    },
+    {
+        "entity": "TripAdvisor ranking",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "User Reviews",
+            "Small businesses in the hospitality sector",
+            "Hotel Owners",
+            "Social Media Influencers"
+        ],
+        "denied_sources": [
+            "Competitor Platforms (e.g., Yelp, Google Reviews)",
+            "Travel influencers and bloggers",
+            "Travel Bloggers/Influencers",
+            "Online review platforms",
+            "User Feedback and Ratings",
+            "Travelers",
+            "Local Governments",
+            "Potential travelers and consumers",
+            "Travel Agencies",
+            "Algorithm Updates",
+            "Algorithms",
+            "Tourists",
+            "Travel Bloggers and Influencers",
+            "Local Businesses",
+            "Advertising Partners",
+            "Competitor Review Platforms",
+            "Online Review Platforms",
+            "Restaurant Owners",
+            "Competitors",
+            "Local Tourism Boards",
+            "Tourism boards and associations",
+            "Search Engine Algorithms",
+            "Travel Industry Standards and Regulations"
+        ]
+    }
+]

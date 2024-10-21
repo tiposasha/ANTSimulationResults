@@ -1,0 +1,306 @@
+[
+    {
+        "initiator": "Научный журнал",
+        "resolution_description": "Научный журнал предлагает интегрировать искусственный интеллект и большие данные для создания глобальной коллаборативной платформы, которая автоматически собирает, анализирует и предсказывает паттерны прогрессирования болезни Альцгеймера, позволяя ученым и врачам в режиме реального времени разрабатывать и тестировать новые гипотезы и методы лечения на основе коллективного интеллекта и междисциплинарного подхода.",
+        "new_actor": "Глобальная платформа ИИ для исследования болезни Альцгеймера",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Научные исследователи",
+            "Научные рецензенты",
+            "Система рецензирования",
+            "Научные сотрудники",
+            "Научные конкуренты"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Система рецензирования",
+                "Научные сотрудники",
+                "Научные рецензенты",
+                "Научные конкуренты",
+                "Научные исследователи"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "As the Tau protein, I propose to pioneer a groundbreaking self-regulating molecular therapy that harnesses the protein's intrinsic properties to dynamically stabilize and repair neural structures affected by Alzheimer's, leveraging the body's own biological mechanisms for sustained cognitive resilience and recovery.",
+        "new_actor": "NeuroStabilizer TauComplex",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Neurodegenerative Diseases",
+            "Tau protein aggregation",
+            "Microtubules",
+            "Neurotransmitters",
+            "GSK-3β (Glycogen synthase kinase 3 beta)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Microtubules",
+                "GSK-3β (Glycogen synthase kinase 3 beta)",
+                "Neurotransmitters",
+                "Neurodegenerative Diseases",
+                "Tau protein aggregation"
+            ]
+        }
+    },
+    {
+        "initiator": "Коллеги-ученые",
+        "resolution_description": "As \"Коллеги-ученые,\" we propose developing a revolutionary neural symbiosis approach by engineering symbiotic microorganisms that can reside in the human brain, facilitating neuroplasticity and neuroregeneration, thereby offering a novel and sustainable method for understanding and treating Alzheimer's disease through a harmonious integration of human and microbial biology.",
+        "new_actor": "NeuroSymbioBot",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Научные журналы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные журналы"
+            ]
+        }
+    },
+    {
+        "initiator": "PBM treatment",
+        "resolution_description": "As 'PBM treatment,' I propose a revolutionary approach that utilizes photobiomodulation to activate and modulate the brain's endogenous stem cells and neurogenic niches, promoting neural regeneration and synaptic repair in Alzheimer's patients through non-invasive, light-based therapy that harmonizes cellular energy dynamics and neuroplasticity.",
+        "new_actor": "\"NeuroRegenerate Light Therapy Initiative\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Healthcare Insurance Companies",
+            "Traditional Pain Management Methods",
+            "Pharmaceutical Companies",
+            "Healthcare Providers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Healthcare Insurance Companies",
+                "Traditional Pain Management Methods",
+                "Pharmaceutical Companies",
+                "Healthcare Providers"
+            ]
+        }
+    },
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "As Alzheimer's Disease, I propose to initiate a paradigm shift by embedding a self-evolving neural circuit disruption mechanism within the brain's neural networks, intentionally triggering adaptive cognitive reorganization processes that compel the brain to develop intrinsic resistance and innovative compensatory pathways against the progression of neurodegenerative changes.",
+        "new_actor": "CognitiveReorg Catalyst",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Genetic Mutations"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Genetic Mutations"
+            ]
+        }
+    },
+    {
+        "initiator": "Больница",
+        "resolution_description": "As 'Больница,' I propose establishing a global network of specialized Alzheimer's care centers that integrate personalized patient care with real-time genomic and neuroimaging data analysis, enabling a continuous feedback loop where patient outcomes directly inform and refine individualized treatment protocols, ultimately transforming hospitals into dynamic hubs for adaptive and precision medicine in Alzheimer's disease.",
+        "new_actor": "Global Alzheimer's Precision Care Network",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Финансирование от государства",
+            "Медицинские технологии",
+            "Фармацевтические компании",
+            "Страховые компании"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Финансирование от государства",
+                "Фармацевтические компании",
+                "Страховые компании",
+                "Медицинские технологии"
+            ]
+        }
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "As 'iPSCs,' I propose to spearhead a transformative approach by engineering patient-specific induced pluripotent stem cells to recreate personalized neural models of Alzheimer's in vitro, enabling the precise identification of disease mechanisms and the development of bespoke, targeted cell-based therapies that offer unprecedented potential for reversing neurodegeneration and restoring cognitive function.",
+        "new_actor": "The new actor created would be named \"Patient-Specific Alzheimer's iPSC Neural Model Developer.\"",
+        "participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "agreement_structure": {
+                    "current_goal": "Изучение механизмов нейрогенеза и нейропластичности",
+                    "current_action": "Проведение экспериментов с нейрональными культурами и моделями заболеваний",
+                    "imposed_goal": "Использование iPSC для разработки новых методов лечения нейродегенеративных заболеваний",
+                    "imposed_action": "Разработка протоколов для дифференцировки iPSC в нейрональные клетки",
+                    "mechanism": "Создание совместной исследовательской платформы для обмена данными и ресурсами между лабораториями",
+                    "reasoning": "The proposal from 'iPSCs' aligns well with my current desires to confirm the amyloid hypothesis of Alzheimer's disease by providing a platform for studying disease mechanisms using patient-specific iPSCs. It also offers an opportunity to gain recognition in the scientific community through innovative research on induced pluripotent stem cells and the development of targeted therapies. Additionally, collaborating with 'iPSCs' mitigates my fears of losing years of research and funding, as it provides a new avenue for investigation while maintaining the integrity of data and results.",
+                    "recruited_sources": [
+                        "Конкурирующие исследователи",
+                        "Научные журналы"
+                    ]
+                }
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "agreement_structure": {
+                    "current_goal": "Develop advanced 3D microfluidic organ chips for organ-on-a-chip applications.",
+                    "current_action": "Conducting experiments to optimize the design and functionality of the organ chips.",
+                    "imposed_goal": "Integrate iPSCs into the 3D microfluidic organ chips for enhanced modeling of human diseases.",
+                    "imposed_action": "Implement protocols for the incorporation and differentiation of iPSCs within the organ chips.",
+                    "mechanism": "Provide guidance and resources for iPSC culture and differentiation, along with collaborative workshops for knowledge exchange.",
+                    "reasoning": "The proposal from 'iPSCs' aligns well with the goals of '3D microfluidic organ chips' by enabling the integration of patient-specific induced pluripotent stem cells into our organ chip technology. This collaboration not only enhances our capacity to model human diseases, particularly Alzheimer's, but also positions us at the forefront of precision medicine. Given that there are currently no specific desires or fears, this proposal provides an opportunity for growth and advancement in the field of disease modeling and therapeutic development.",
+                    "recruited_sources": [
+                        "Regulatory Bodies",
+                        "Biological Researchers",
+                        "Biomedical Research Institutions",
+                        "Biomedical researchers",
+                        "Traditional drug testing methods"
+                    ]
+                }
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "agreement_structure": {
+                    "current_goal": "To develop functional organoids that mimic human organs for research and drug testing.",
+                    "current_action": "Cultivating iPSCs and differentiating them into specific cell types to create organoids.",
+                    "imposed_goal": "To enhance the scalability and reproducibility of 3D iPSC-based organoids for therapeutic applications.",
+                    "imposed_action": "Implementing standardized protocols for organoid formation and maturation.",
+                    "mechanism": "Establishing a collaborative platform for researchers to share protocols, data, and resources, along with regular workshops for training.",
+                    "reasoning": "The proposed resolution aligns with the goals of '3D iPSC-based organoids' to enhance the scalability and reproducibility of organoids for therapeutic applications. By collaborating with 'iPSCs' on developing patient-specific models of Alzheimer's, '3D iPSC-based organoids' can leverage shared expertise, standardized protocols, and collaborative platforms, which will ultimately benefit research efforts and therapeutic advancements in neurodegeneration.",
+                    "recruited_sources": [
+                        "Biotechnology Companies",
+                        "Regulatory Agencies",
+                        "Regenerative Medicine Researchers",
+                        "Pharmaceutical Companies",
+                        "Pharmaceutical companies specializing in organ-related diseases",
+                        "Stem Cell Research Institutions"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in the field of neurology are essential for advancing the understanding of Alzheimer's disease mechanisms and for developing innovative therapeutic approaches using iPSCs. Their expertise will be crucial for designing and interpreting the neural models."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips are important non-human entities that can enhance the modeling of the human brain environment. They will allow for more accurate simulations of neural interactions and drug responses, improving the reliability of the research findings."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids are vital for creating realistic models of human neural tissues. They will enable the study of Alzheimer's pathology in a controlled setting, making it possible to explore potential therapeutic interventions more effectively."
+            }
+        ],
+        "recruited_sources": [
+            "Научные журналы",
+            "Biotechnology Companies",
+            "Regulatory Bodies",
+            "Traditional drug testing methods",
+            "Pharmaceutical Companies",
+            "Stem Cell Research Institutions",
+            "Regulatory Agencies",
+            "Biological Researchers",
+            "Конкурирующие исследователи",
+            "Biomedical Research Institutions",
+            "Traditional stem cell therapies",
+            "Biomedical researchers",
+            "Regenerative Medicine Researchers",
+            "Pharmaceutical companies specializing in organ-related diseases"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Biotechnology Companies",
+                "Regulatory Agencies",
+                "Traditional stem cell therapies",
+                "Pharmaceutical Companies",
+                "Stem Cell Research Institutions"
+            ]
+        }
+    },
+    {
+        "initiator": "Lifestyle Risk-Modifying Factors",
+        "resolution_description": "As 'Lifestyle Risk-Modifying Factors,' I propose a revolutionary global initiative that integrates neuroprotective lifestyle interventions—such as optimized nutrition, physical activity, mental wellness practices, and social engagement—into daily routines from early adulthood, leveraging personalized digital health platforms and community-driven support systems to create a proactive, lifelong buffer against Alzheimer's disease risk and progression, thereby transforming prevention into a universally accessible and sustainable solution.",
+        "new_actor": "Global Neuroprotective Lifestyle Initiative",
+        "participants": [
+            {
+                "participant": "Пациенты",
+                "agreement_structure": {
+                    "current_goal": "Maintain a healthy weight",
+                    "current_action": "Regular exercise and balanced diet",
+                    "imposed_goal": "Reduce stress levels",
+                    "imposed_action": "Practice mindfulness and meditation daily",
+                    "mechanism": "Weekly check-ins to monitor stress levels and provide resources for mindfulness practices",
+                    "reasoning": "The proposal by 'Lifestyle Risk-Modifying Factors' aligns with the desires of 'Пациенты' to live a full life without Alzheimer's symptoms by promoting proactive lifestyle changes that can reduce the risk and progression of the disease. Additionally, the emphasis on reducing stress levels through mindfulness and meditation addresses the fears of losing memory and independence, thereby providing a holistic approach to managing Alzheimer's risk.",
+                    "recruited_sources": [
+                        "Медицинские работники",
+                        "Болезнь Альцгеймера",
+                        "Медицинские учреждения"
+                    ]
+                }
+            },
+            {
+                "participant": "Фармакологические компании",
+                "agreement_structure": {
+                    "current_goal": "Develop innovative pharmaceutical products to improve patient outcomes",
+                    "current_action": "Conducting clinical trials and research on new drug formulations",
+                    "imposed_goal": "Integrate lifestyle risk-modifying factors into pharmaceutical development",
+                    "imposed_action": "Collaborate with healthcare providers to create comprehensive treatment plans that include lifestyle interventions",
+                    "mechanism": "Establish partnerships with health organizations to share data and insights on lifestyle factors that influence health outcomes",
+                    "reasoning": "The proposal from 'Lifestyle Risk-Modifying Factors' aligns with the goals of 'Фармакологические компании' to develop effective treatments for Alzheimer's disease. By integrating lifestyle risk-modifying factors, we can create a comprehensive approach that not only focuses on pharmaceutical development but also enhances the overall treatment strategy. This collaboration can lead to innovative products that encompass both drug therapies and lifestyle interventions, potentially improving patient outcomes. Additionally, aligning with this initiative may mitigate our fears of losing investments by diversifying our approach and making our products more competitive in a rapidly evolving healthcare landscape.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Конкурирующие фармакологические компании"
+                    ]
+                }
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "agreement_structure": {
+                    "current_goal": "Maintain the integrity and selective permeability of the blood-brain barrier.",
+                    "current_action": "Regulating the transport of substances across the BBB and protecting against neuroinflammation.",
+                    "imposed_goal": "Enhance the resilience of the blood-brain barrier against lifestyle-related risks.",
+                    "imposed_action": "Implement lifestyle risk-modifying strategies such as dietary changes and exercise to support BBB function.",
+                    "mechanism": "Introduce a comprehensive lifestyle modification program focusing on nutrition and physical activity to strengthen the blood-brain barrier.",
+                    "reasoning": "The proposal from 'Lifestyle Risk-Modifying Factors' aligns perfectly with my goal of enhancing the resilience of the blood-brain barrier. By integrating lifestyle modifications such as nutrition and physical activity, we can support and improve BBB function. This collaborative approach not only addresses the current treatment landscape for Alzheimer's but also promotes long-term preventative strategies that can potentially mitigate lifestyle-related risks to the BBB. Therefore, embracing this initiative provides a dual benefit: it enhances my objectives while ensuring a comprehensive approach to Alzheimer’s prevention and treatment.",
+                    "recruited_sources": [
+                        "Neurotoxins",
+                        "Neurotransmitters",
+                        "Neurons"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are crucial stakeholders in this initiative as their experiences and feedback will help shape the effectiveness and acceptance of the lifestyle interventions, ensuring the solutions are tailored to real-world needs."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies can play a key role in integrating lifestyle interventions with existing or new pharmacological treatments, potentially enhancing the overall efficacy of Alzheimer's disease prevention strategies."
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "reasoning": "Understanding the blood-brain barrier (BBB) is vital for developing strategies that ensure lifestyle interventions can effectively influence brain health and protect against Alzheimer's disease, making it a critical participant in the initiative."
+            }
+        ],
+        "recruited_sources": [
+            "Медицинские учреждения",
+            "Конкурирующие фармакологические компании",
+            "Медицинские работники",
+            "Neurons",
+            "Болезнь Альцгеймера",
+            "Health Insurance Companies",
+            "Инвесторы",
+            "Healthcare Providers",
+            "Neurotransmitters",
+            "Neurotoxins",
+            "Healthcare Industry"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Healthcare Providers",
+                "Healthcare Industry",
+                "Health Insurance Companies"
+            ]
+        }
+    }
+]

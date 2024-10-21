@@ -1,0 +1,1352 @@
+Following pluriverse entity decided to intervene into collective: Review
+Reasoning: The entity 'Review' best represents the interests and concerns of this group because it encapsulates the essence of what consumers, reviewers, and travelers seek when engaging with platforms. Reviews serve as a medium for sharing experiences, influencing decisions, and providing feedback, which aligns closely with the desires for accurate information and the fears of being misled by fake or untrustworthy reviews. By focusing on 'Review', we acknowledge the central role that reviews play in shaping consumer experiences and perceptions in the context of hospitality and e-commerce.
+
+Following pluriverse entity decided to intervene into collective: TripAdvisor ranking
+Reasoning: TripAdvisor ranking serves as a prominent and recognizable metric in the hospitality and tourism industry, reflecting the quality of accommodations based on customer reviews. It encapsulates the interests of accurately representing user experiences, combating fake reviews, and maintaining a reliable reputation system, while also addressing concerns around manipulation and misrepresentation of ratings. As a widely used platform, it influences consumer decisions and reflects the broader dynamics of review systems.
+
+Following pluriverse entity decided to intervene into collective: Restaurants
+Reasoning: The entity 'Restaurants' best represents the interests and concerns of the group because it encapsulates a broad range of issues related to customer reviews and ratings that are vital for attracting and retaining customers. Restaurants face significant pressure to manage their online reputation, as positive reviews directly influence customer decisions and revenue. Additionally, they are particularly vulnerable to negative reviews and fake ratings, which can severely impact their business, making them a key focus within the hospitality and tourism industry.
+
+Resolution created by Review: "Review" could resolve the issue of fake reviews by implementing a blockchain-based verification system that rewards users with tokens for authentic reviews, ensuring transparency and accountability in the restaurant and tourism industries.
+Resolution created by TripAdvisor ranking: "TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels."
+Resolution created by Restaurants: "Restaurants" could introduce a 'Verified Experience Program' where diners are invited to participate in a post-visit digital feedback session directly at the establishment, utilizing biometric verification to authenticate their presence, thereby ensuring genuine reviews and fostering trust in the restaurant and tourism industries.
+Recruited participants: ['Туристы-клиенты', 'Рестораны', 'Инвесторы', 'Review']
+We ask 'Туристы-клиенты' the following: 'As the representative of a being called 'Туристы-клиенты', you have been approached by 'Три основателя стартапа' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'Три основателя стартапа' wants to challenge existing status quo and says to you, 'Туристы-клиенты', the entity you represent, that now you achieve 'Обеспечить комфортное и безопасное путешествие для клиентов.' by performing 'Предоставление рекомендаций по местам для посещения и организации экскурсий.'. However, under the proposed resolution 'Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей', you as 'Туристы-клиенты' will be able to achieve 'Увеличить количество туристов на 30% в течение следующего квартала.' by performing 'Разработка и внедрение маркетинговой кампании для привлечения новых клиентов.' using 'Создание партнерства с местными гостиницами и ресторанами для предоставления скидок и специальных предложений туристам.' that 'Три основателя стартапа' will control. Based on 'Туристы-клиенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Найти качественные рестораны и избежать разочарований во время путешествий. Your current fears: Стать жертвой некачественных услуг или недостоверной информации о ресторанах. Does this proposal seem interesting for you as 'Туристы-клиенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Туристы-клиенты agreed to participate in the resolution proposed by Три основателя стартапа
+Updated resolution structure: {
+  "initiator": "Три основателя стартапа",
+  "resolution_description": "Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей",
+  "new_actor": "Платформа для туристов",
+  "participants": [
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Обеспечить комфортное и безопасное путешествие для клиентов.",
+        "current_action": "Предоставление рекомендаций по местам для посещения и организации экскурсий.",
+        "imposed_goal": "Увеличить количество туристов на 30% в течение следующего квартала.",
+        "imposed_action": "Разработка и внедрение маркетинговой кампании для привлечения новых клиентов.",
+        "mechanism": "Создание партнерства с местными гостиницами и ресторанами для предоставления скидок и специальных предложений туристам.",
+        "reasoning": "The proposed resolution aligns well with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travel. By creating a platform for ranking restaurants and hotels based on user reviews, it addresses the fear of encountering substandard services and misleading information. Additionally, the partnership with local hotels and restaurants for discounts enhances the value for tourists, making it an attractive proposition."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Туристы-клиенты являются ключевыми участниками, так как их отзывы и рейтинги будут основой для платформы. Их мнение поможет формировать актуальные и объективные рейтинги ресторанов и отелей."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Рестораны необходимы для предоставления информации о своих услугах и для взаимодействия с клиентами. Их участие обеспечит актуальность данных на платформе и позволит ресторанам управлять своей репутацией."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Инвесторы важны для финансирования проекта и его дальнейшего развития. Их поддержка позволит создать устойчивую платформу и внедрять новые функции для пользователей."
+    },
+    {
+      "participant": "Review",
+      "reasoning": "Review-системы необходимы для сбора и обработки отзывов, что является основой для ранжирования. Они обеспечат качественную аналитику и помогут в формировании рейтингов."
+    }
+  ]
+}
+We ask 'Рестораны' the following: 'As the representative of a being called 'Рестораны', you have been approached by 'Три основателя стартапа' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'Три основателя стартапа' wants to challenge existing status quo and says to you, 'Рестораны', the entity you represent, that now you achieve 'Увеличить число клиентов и повысить доход ресторана' by performing 'Запуск акций и специальных предложений для привлечения клиентов'. However, under the proposed resolution 'Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей', you as 'Рестораны' will be able to achieve 'Создать устойчивую систему лояльности клиентов' by performing 'Разработать программу лояльности с бонусами и скидками для постоянных клиентов' using 'Внедрение программного обеспечения для отслеживания покупок и автоматизации начисления бонусов' that 'Три основателя стартапа' will control. Based on 'Рестораны' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Привлечь больше клиентов и улучшить репутацию с меньшими затратами. Your current fears: Потерять клиентов из-за негативных отзывов или низких рейтингов на платформе. Does this proposal seem interesting for you as 'Рестораны'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рестораны agreed to participate in the resolution proposed by Три основателя стартапа
+Updated resolution structure: {
+  "initiator": "Три основателя стартапа",
+  "resolution_description": "Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей",
+  "new_actor": "Платформа для туристов",
+  "participants": [
+    {
+      "participant": "Рестораны",
+      "agreement_structure": {
+        "current_goal": "Увеличить число клиентов и повысить доход ресторана",
+        "current_action": "Запуск акций и специальных предложений для привлечения клиентов",
+        "imposed_goal": "Создать устойчивую систему лояльности клиентов",
+        "imposed_action": "Разработать программу лояльности с бонусами и скидками для постоянных клиентов",
+        "mechanism": "Внедрение программного обеспечения для отслеживания покупок и автоматизации начисления бонусов",
+        "reasoning": "The proposed resolution to create a platform for ranking the best restaurants and hotels based on user reviews aligns with 'Рестораны' desires to attract more customers and improve reputation. By utilizing this platform, 'Рестораны' can benefit from increased visibility and trustworthiness, which can mitigate the fears of losing customers due to negative reviews. Additionally, the development of a loyalty program with bonuses and discounts for regular customers, controlled by 'Три основателя стартапа', can further enhance customer retention and satisfaction, making the overall proposal beneficial."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Туристы-клиенты являются ключевыми участниками, так как их отзывы и рейтинги будут основой для платформы. Их мнение поможет формировать актуальные и объективные рейтинги ресторанов и отелей."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Рестораны необходимы для предоставления информации о своих услугах и для взаимодействия с клиентами. Их участие обеспечит актуальность данных на платформе и позволит ресторанам управлять своей репутацией."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Инвесторы важны для финансирования проекта и его дальнейшего развития. Их поддержка позволит создать устойчивую платформу и внедрять новые функции для пользователей."
+    },
+    {
+      "participant": "Review",
+      "reasoning": "Review-системы необходимы для сбора и обработки отзывов, что является основой для ранжирования. Они обеспечат качественную аналитику и помогут в формировании рейтингов."
+    }
+  ]
+}
+We ask 'Инвесторы' the following: 'As the representative of a being called 'Инвесторы', you have been approached by 'Три основателя стартапа' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'Три основателя стартапа' wants to challenge existing status quo and says to you, 'Инвесторы', the entity you represent, that now you achieve 'Evaluate potential investment opportunities in innovative startups.' by performing 'Conducting due diligence on selected startup proposals.'. However, under the proposed resolution 'Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей', you as 'Инвесторы' will be able to achieve 'Invest in the startup to support its growth and development.' by performing 'Allocate a specified amount of funding to the startup.' using 'Establish a funding agreement that includes milestones for investment disbursement based on the startup's performance.' that 'Три основателя стартапа' will control. Based on 'Инвесторы' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить долгосрочный доход от инвестиций в перспективный стартап. Your current fears: Потерять вложенные средства из-за неуспеха платформы или недостоверности информации на ней. Does this proposal seem interesting for you as 'Инвесторы'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Инвесторы suggested modifying the proposal with reasoning: While the proposed platform for ranking restaurants and hotels based on user reviews addresses a significant issue in the industry, there are concerns regarding the reliability of the review data and the potential for fraudulent reviews that could impact the platform's credibility. To align with the desires for long-term income and mitigate fears of financial loss, the proposal should include mechanisms for verifying the authenticity of reviews and a clear strategy for maintaining user trust. Additionally, incorporating a phased funding approach tied to performance metrics could further ensure that investments are safeguarded against potential pitfalls.
+We ask 'Инвесторы' the following: 'As the representative of a being called 'Инвесторы', you have been approached by 'Три основателя стартапа' with a resolution to deal with the current controversy. 'Три основателя стартапа' wants to challenge existing status quo and says to you, 'Инвесторы', the entity you represent, that now you achieve 'Invest in promising startups to diversify portfolio and achieve high returns' by performing 'Evaluating potential startups for investment opportunities'. However, under the proposed resolution 'Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей', you as 'Инвесторы' will be able to achieve 'Increase funding to support the growth of the startup' by performing 'Commit additional capital to the startup within the next quarter' using 'Monthly progress reports and performance metrics to track the startup's growth and inform investment decisions' that 'Три основателя стартапа' will control. Based on 'Инвесторы' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить долгосрочный доход от инвестиций в перспективный стартап. Your current fears: Потерять вложенные средства из-за неуспеха платформы или недостоверности информации на ней. Does this proposal seem interesting for you as 'Инвесторы'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Инвесторы declined the resolution proposed by Три основателя стартапа with reasoning: The proposal to create a platform for ranking restaurants and hotels based on user reviews does not directly align with the desire for long-term income from investments in promising startups. While it may offer potential for growth, the fear of losing invested funds due to the platform's failure or unreliable information remains a significant concern. The lack of clear evidence on how the platform will mitigate these risks makes it an unattractive investment at this time.
+We ask 'Review' the following: 'As the representative of a being called 'Review', you have been approached by 'Три основателя стартапа' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Review' is the initiator of the resolution: '"Review" could resolve the issue of fake reviews by implementing a blockchain-based verification system that rewards users with tokens for authentic reviews, ensuring transparency and accountability in the restaurant and tourism industries.'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Три основателя стартапа' wants to challenge existing status quo and says to you, 'Review', the entity you represent, that now you achieve 'Gather feedback on the startup idea from potential users' by performing 'Conducting surveys and interviews with target audience'. However, under the proposed resolution 'Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей', you as 'Review' will be able to achieve 'Refine the startup idea based on user feedback' by performing 'Analyze the collected feedback and present findings in a report' using 'Weekly review meetings to discuss feedback and strategize on improvements' that 'Три основателя стартапа' will control. Based on 'Review' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'Review'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Review agreed to participate in the resolution proposed by Три основателя стартапа
+Updated resolution structure: {
+  "initiator": "Три основателя стартапа",
+  "resolution_description": "Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей",
+  "new_actor": "Платформа для туристов",
+  "participants": [
+    {
+      "participant": "Review",
+      "agreement_structure": {
+        "current_goal": "Gather feedback on the startup idea from potential users",
+        "current_action": "Conducting surveys and interviews with target audience",
+        "imposed_goal": "Refine the startup idea based on user feedback",
+        "imposed_action": "Analyze the collected feedback and present findings in a report",
+        "mechanism": "Weekly review meetings to discuss feedback and strategize on improvements",
+        "reasoning": "The proposed scenario allows 'Review' to refine the startup idea based on user feedback, which aligns with the objective of creating a platform to rank the best restaurants and hotels. By conducting weekly review meetings, 'Review' can ensure that the feedback is effectively analyzed and utilized for continuous improvement, ultimately enhancing the transparency and accountability that the blockchain-based verification system aims to achieve."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Туристы-клиенты являются ключевыми участниками, так как их отзывы и рейтинги будут основой для платформы. Их мнение поможет формировать актуальные и объективные рейтинги ресторанов и отелей."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Рестораны необходимы для предоставления информации о своих услугах и для взаимодействия с клиентами. Их участие обеспечит актуальность данных на платформе и позволит ресторанам управлять своей репутацией."
+    },
+    {
+      "participant": "Review",
+      "reasoning": "Review-системы необходимы для сбора и обработки отзывов, что является основой для ранжирования. Они обеспечат качественную аналитику и помогут в формировании рейтингов."
+    }
+  ]
+}
+Resolution by Review has collapsed due to departure of Review
+Resolution by Review has collapsed.
+Resolution structure after processing: {
+  "initiator": "Три основателя стартапа",
+  "resolution_description": "Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей",
+  "new_actor": "Платформа для туристов",
+  "participants": [],
+  "required_participants": [
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Туристы-клиенты являются ключевыми участниками, так как их отзывы и рейтинги будут основой для платформы. Их мнение поможет формировать актуальные и объективные рейтинги ресторанов и отелей."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Рестораны необходимы для предоставления информации о своих услугах и для взаимодействия с клиентами. Их участие обеспечит актуальность данных на платформе и позволит ресторанам управлять своей репутацией."
+    },
+    {
+      "participant": "Review",
+      "reasoning": "Review-системы необходимы для сбора и обработки отзывов, что является основой для ранжирования. Они обеспечат качественную аналитику и помогут в формировании рейтингов."
+    }
+  ]
+}
+Resolution by Три основателя стартапа has collapsed due to lack of participants.
+Recruited participants: ['Три основателя стартапа', 'Туристы-клиенты', 'Рестораны', 'Инвесторы']
+We ask 'Три основателя стартапа' the following: 'As the representative of a being called 'Три основателя стартапа', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Три основателя стартапа' is the initiator of the resolution: 'Создать платформу для ранжириования лучших ресторанов и отелей, основываясь на отзывах пользователей'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Три основателя стартапа', the entity you represent, that now you achieve 'Improve the user experience on our platform' by performing 'Conducting user surveys and analyzing feedback'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels."', you as 'Три основателя стартапа' will be able to achieve 'Achieve a top 10 ranking on TripAdvisor within the next year' by performing 'Implement targeted marketing strategies and optimize listings' using 'Monthly performance reviews and access to TripAdvisor analytics tools' that 'TripAdvisor ranking' will control. Based on 'Три основателя стартапа' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Создать успешную платформу для планирования путешествий и оценки ресторанов. Your current fears: Не привлечь достаточно пользователей и ресторанов для создания жизнеспособной платформы. Does this proposal seem interesting for you as 'Три основателя стартапа'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три основателя стартапа agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels.\"",
+  "new_actor": "The actor that will be created is \"TripAdvisor AI Review Authenticity Verifier.\"",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Improve the user experience on our platform",
+        "current_action": "Conducting user surveys and analyzing feedback",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within the next year",
+        "imposed_action": "Implement targeted marketing strategies and optimize listings",
+        "mechanism": "Monthly performance reviews and access to TripAdvisor analytics tools",
+        "reasoning": "The proposed AI-driven authenticity verification system aligns with Три основателя стартапа's goal of creating a successful platform for travel planning and restaurant evaluation. By enhancing the reliability of reviews, it can attract more users and restaurants, addressing the current fear of not having enough engagement to make the platform viable. Additionally, achieving a top 10 ranking on TripAdvisor within a year through targeted marketing and access to analytics tools presents a significant opportunity for growth and visibility."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they possess the vision and technical expertise needed to develop the AI-driven authenticity verification system. Their leadership will guide the project from concept to implementation."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential participants as they are the primary users of the TripAdvisor platform. Their feedback and behavior patterns will provide valuable data for the AI system, ensuring that it accurately reflects user experiences and needs."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants are key stakeholders in this resolution. They will be directly affected by the authenticity verification system, and their cooperation is necessary for accurate data collection and to enhance the credibility of the reviews they receive."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important to secure the necessary funding for the development and maintenance of the AI system. Their support will enable the project to scale and ensure its sustainability in the competitive market."
+    }
+  ]
+}
+Resolution by Три основателя стартапа has collapsed due to departure of Три основателя стартапа
+Resolution by Три основателя стартапа has collapsed.
+We ask 'Туристы-клиенты' the following: 'As the representative of a being called 'Туристы-клиенты', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Туристы-клиенты', the entity you represent, that now you achieve 'To find the best travel experiences and accommodations based on reviews.' by performing 'Reading and comparing reviews on TripAdvisor.'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels."', you as 'Туристы-клиенты' will be able to achieve 'To write detailed and constructive reviews for all recent trips.' by performing 'Submit a review for each accommodation and activity experienced.' using 'Provide a user-friendly review submission form and incentivize reviews with rewards points.' that 'TripAdvisor ranking' will control. Based on 'Туристы-клиенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Найти качественные рестораны и избежать разочарований во время путешествий. Your current fears: Стать жертвой некачественных услуг или недостоверной информации о ресторанах. Does this proposal seem interesting for you as 'Туристы-клиенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Туристы-клиенты agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels.\"",
+  "new_actor": "The actor that will be created is \"TripAdvisor AI Review Authenticity Verifier.\"",
+  "participants": [
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "To find the best travel experiences and accommodations based on reviews.",
+        "current_action": "Reading and comparing reviews on TripAdvisor.",
+        "imposed_goal": "To write detailed and constructive reviews for all recent trips.",
+        "imposed_action": "Submit a review for each accommodation and activity experienced.",
+        "mechanism": "Provide a user-friendly review submission form and incentivize reviews with rewards points.",
+        "reasoning": "The proposed AI-driven authenticity verification system addresses my fears of encountering fake reviews and low-quality services. By enhancing the reliability of reviews, I can find quality restaurants and avoid disappointments during my travels. Additionally, the ability to submit detailed reviews and earn rewards points aligns with my desire to share my experiences and contribute to the community."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they possess the vision and technical expertise needed to develop the AI-driven authenticity verification system. Their leadership will guide the project from concept to implementation."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential participants as they are the primary users of the TripAdvisor platform. Their feedback and behavior patterns will provide valuable data for the AI system, ensuring that it accurately reflects user experiences and needs."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants are key stakeholders in this resolution. They will be directly affected by the authenticity verification system, and their cooperation is necessary for accurate data collection and to enhance the credibility of the reviews they receive."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important to secure the necessary funding for the development and maintenance of the AI system. Their support will enable the project to scale and ensure its sustainability in the competitive market."
+    }
+  ]
+}
+We ask 'Рестораны' the following: 'As the representative of a being called 'Рестораны', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Рестораны', the entity you represent, that now you achieve 'Increase customer satisfaction and positive reviews' by performing 'Offering promotions and improving service quality'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels."', you as 'Рестораны' will be able to achieve 'Achieve a top 10 ranking on TripAdvisor within the next 6 months' by performing 'Implement a comprehensive feedback system to gather and analyze customer reviews' using 'Monthly performance reviews and targeted marketing campaigns based on customer feedback' that 'TripAdvisor ranking' will control. Based on 'Рестораны' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Привлечь больше клиентов и улучшить репутацию с меньшими затратами. Your current fears: Потерять клиентов из-за негативных отзывов или низких рейтингов на платформе. Does this proposal seem interesting for you as 'Рестораны'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рестораны agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels.\"",
+  "new_actor": "The actor that will be created is \"TripAdvisor AI Review Authenticity Verifier.\"",
+  "participants": [
+    {
+      "participant": "Рестораны",
+      "agreement_structure": {
+        "current_goal": "Increase customer satisfaction and positive reviews",
+        "current_action": "Offering promotions and improving service quality",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within the next 6 months",
+        "imposed_action": "Implement a comprehensive feedback system to gather and analyze customer reviews",
+        "mechanism": "Monthly performance reviews and targeted marketing campaigns based on customer feedback",
+        "reasoning": "The proposed resolution aligns well with the desires of 'Рестораны' to attract more clients and enhance reputation while minimizing costs. The AI-driven authenticity verification system can significantly reduce the impact of fake reviews, thus addressing the fear of losing clients due to negative feedback. Additionally, by implementing a comprehensive feedback system with performance reviews and targeted marketing, 'Рестораны' can actively engage with customers and improve service quality, leading to increased satisfaction and positive reviews."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they possess the vision and technical expertise needed to develop the AI-driven authenticity verification system. Their leadership will guide the project from concept to implementation."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential participants as they are the primary users of the TripAdvisor platform. Their feedback and behavior patterns will provide valuable data for the AI system, ensuring that it accurately reflects user experiences and needs."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants are key stakeholders in this resolution. They will be directly affected by the authenticity verification system, and their cooperation is necessary for accurate data collection and to enhance the credibility of the reviews they receive."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important to secure the necessary funding for the development and maintenance of the AI system. Their support will enable the project to scale and ensure its sustainability in the competitive market."
+    }
+  ]
+}
+We ask 'Инвесторы' the following: 'As the representative of a being called 'Инвесторы', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Инвесторы', the entity you represent, that now you achieve 'Increase investments in high-rated travel experiences' by performing 'Analyzing market trends and identifying potential investment opportunities'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels."', you as 'Инвесторы' will be able to achieve 'Achieve a top 10 ranking on TripAdvisor for at least 5 investment projects' by performing 'Allocate funds to enhance the visibility and quality of selected travel experiences' using 'Implement a marketing strategy that includes partnerships with influencers and targeted advertising on social media platforms' that 'TripAdvisor ranking' will control. Based on 'Инвесторы' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить долгосрочный доход от инвестиций в перспективный стартап. Your current fears: Потерять вложенные средства из-за неуспеха платформы или недостоверности информации на ней. Does this proposal seem interesting for you as 'Инвесторы'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Инвесторы agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels.\"",
+  "new_actor": "The actor that will be created is \"TripAdvisor AI Review Authenticity Verifier.\"",
+  "participants": [
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Increase investments in high-rated travel experiences",
+        "current_action": "Analyzing market trends and identifying potential investment opportunities",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor for at least 5 investment projects",
+        "imposed_action": "Allocate funds to enhance the visibility and quality of selected travel experiences",
+        "mechanism": "Implement a marketing strategy that includes partnerships with influencers and targeted advertising on social media platforms",
+        "reasoning": "The proposal aligns with our desire to achieve long-term income from investments in promising startups by increasing investments in high-rated travel experiences. The development of an AI-driven authenticity verification system addresses our fear of losing invested capital due to platform failure or unreliable information, thereby enhancing the overall reliability of the review system on TripAdvisor. This, in turn, supports our goal of achieving a top 10 ranking for at least 5 investment projects by ensuring the credibility of the reviews and the visibility of selected travel experiences."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they possess the vision and technical expertise needed to develop the AI-driven authenticity verification system. Their leadership will guide the project from concept to implementation."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential participants as they are the primary users of the TripAdvisor platform. Their feedback and behavior patterns will provide valuable data for the AI system, ensuring that it accurately reflects user experiences and needs."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants are key stakeholders in this resolution. They will be directly affected by the authenticity verification system, and their cooperation is necessary for accurate data collection and to enhance the credibility of the reviews they receive."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important to secure the necessary funding for the development and maintenance of the AI system. Their support will enable the project to scale and ensure its sustainability in the competitive market."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels.\"",
+  "new_actor": "The actor that will be created is \"TripAdvisor AI Review Authenticity Verifier.\"",
+  "participants": [],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they possess the vision and technical expertise needed to develop the AI-driven authenticity verification system. Their leadership will guide the project from concept to implementation."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential participants as they are the primary users of the TripAdvisor platform. Their feedback and behavior patterns will provide valuable data for the AI system, ensuring that it accurately reflects user experiences and needs."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants are key stakeholders in this resolution. They will be directly affected by the authenticity verification system, and their cooperation is necessary for accurate data collection and to enhance the credibility of the reviews they receive."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important to secure the necessary funding for the development and maintenance of the AI system. Their support will enable the project to scale and ensure its sustainability in the competitive market."
+    }
+  ]
+}
+Resolution by TripAdvisor ranking has collapsed due to lack of participants.
+Resolution created by TripAdvisor ranking: "TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."
+Recruited participants: ['Три основателя стартапа', 'Туристы-клиенты', 'Рестораны', 'Инвесторы']
+We ask 'Три основателя стартапа' the following: 'As the representative of a being called 'Три основателя стартапа', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Три основателя стартапа', the entity you represent, that now you achieve 'Enhance the user experience on our platform' by performing 'Conducting user feedback surveys'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."', you as 'Три основателя стартапа' will be able to achieve 'Achieve a top 10 ranking on TripAdvisor within 6 months' by performing 'Implement a series of marketing campaigns and partnerships to boost visibility' using 'Regular progress reviews and adjustment of strategies based on analytics and feedback' that 'TripAdvisor ranking' will control. Based on 'Три основателя стартапа' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Создать успешную платформу для планирования путешествий и оценки ресторанов. Your current fears: Не привлечь достаточно пользователей и ресторанов для создания жизнеспособной платформы. Does this proposal seem interesting for you as 'Три основателя стартапа'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три основателя стартапа agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries.\"",
+  "new_actor": "\"Blockchain-Verified Reviewer\"",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Enhance the user experience on our platform",
+        "current_action": "Conducting user feedback surveys",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within 6 months",
+        "imposed_action": "Implement a series of marketing campaigns and partnerships to boost visibility",
+        "mechanism": "Regular progress reviews and adjustment of strategies based on analytics and feedback",
+        "reasoning": "The proposed resolution aligns with our desire to create a successful travel planning and restaurant review platform by enhancing trustworthiness through a blockchain-based verification system. This approach addresses our fear of not attracting enough users and restaurants, as a transparent system can significantly improve user confidence and engagement. Additionally, achieving a top 10 ranking on TripAdvisor would boost our visibility, further attracting users and partners to our platform."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential as they will drive the implementation of the blockchain-based verification system. Their vision, technical expertise, and leadership are crucial for the development and integration of this technology within the TripAdvisor platform."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourist-clients are vital for the success of the resolution as they are the end-users who will benefit from the authenticity and trustworthiness of reviews. Their feedback and adoption of the system will validate its effectiveness and encourage wider acceptance."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants play a key role in this ecosystem as they are the primary subjects of reviews. Their participation will be necessary to ensure that the system meets their needs and addresses concerns about fake reviews, thereby enhancing their trust in the platform."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are critical for providing the necessary funding and resources to develop the blockchain solution. Their support can also facilitate partnerships and advancements in technology, ensuring the project has the financial backing to succeed."
+    }
+  ]
+}
+We ask 'Туристы-клиенты' the following: 'As the representative of a being called 'Туристы-клиенты', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Туристы-клиенты', the entity you represent, that now you achieve 'Find the best travel destinations and experiences based on reviews.' by performing 'Reading and comparing reviews on TripAdvisor.'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."', you as 'Туристы-клиенты' will be able to achieve 'Increase the number of positive reviews for featured destinations.' by performing 'Write and submit at least one detailed review for each destination visited.' using 'Incentives such as discounts or loyalty points for each review submitted.' that 'TripAdvisor ranking' will control. Based on 'Туристы-клиенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Найти качественные рестораны и избежать разочарований во время путешествий. Your current fears: Стать жертвой некачественных услуг или недостоверной информации о ресторанах. Does this proposal seem interesting for you as 'Туристы-клиенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Туристы-клиенты agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries.\"",
+  "new_actor": "\"Blockchain-Verified Reviewer\"",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Enhance the user experience on our platform",
+        "current_action": "Conducting user feedback surveys",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within 6 months",
+        "imposed_action": "Implement a series of marketing campaigns and partnerships to boost visibility",
+        "mechanism": "Regular progress reviews and adjustment of strategies based on analytics and feedback",
+        "reasoning": "The proposed resolution aligns with our desire to create a successful travel planning and restaurant review platform by enhancing trustworthiness through a blockchain-based verification system. This approach addresses our fear of not attracting enough users and restaurants, as a transparent system can significantly improve user confidence and engagement. Additionally, achieving a top 10 ranking on TripAdvisor would boost our visibility, further attracting users and partners to our platform."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find the best travel destinations and experiences based on reviews.",
+        "current_action": "Reading and comparing reviews on TripAdvisor.",
+        "imposed_goal": "Increase the number of positive reviews for featured destinations.",
+        "imposed_action": "Write and submit at least one detailed review for each destination visited.",
+        "mechanism": "Incentives such as discounts or loyalty points for each review submitted.",
+        "reasoning": "The proposed blockchain-based verification system directly addresses my fears of unreliable information and low-quality services by ensuring that reviews are authentic and linked to verified purchase histories. This transparency fosters trust in the reviews I rely on to find quality restaurants and travel experiences. Additionally, the incentive for submitting detailed reviews aligns with my desire to contribute to the travel community while also potentially receiving benefits such as discounts or loyalty points. Overall, the proposal enhances my ability to discover quality destinations and minimizes the risk of disappointment during my travels."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential as they will drive the implementation of the blockchain-based verification system. Their vision, technical expertise, and leadership are crucial for the development and integration of this technology within the TripAdvisor platform."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourist-clients are vital for the success of the resolution as they are the end-users who will benefit from the authenticity and trustworthiness of reviews. Their feedback and adoption of the system will validate its effectiveness and encourage wider acceptance."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants play a key role in this ecosystem as they are the primary subjects of reviews. Their participation will be necessary to ensure that the system meets their needs and addresses concerns about fake reviews, thereby enhancing their trust in the platform."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are critical for providing the necessary funding and resources to develop the blockchain solution. Their support can also facilitate partnerships and advancements in technology, ensuring the project has the financial backing to succeed."
+    }
+  ]
+}
+We ask 'Рестораны' the following: 'As the representative of a being called 'Рестораны', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Рестораны', the entity you represent, that now you achieve 'Increase customer satisfaction and positive reviews' by performing 'Providing high-quality food and service'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."', you as 'Рестораны' will be able to achieve 'Achieve a top 10 ranking on TripAdvisor in the local area' by performing 'Implement a customer feedback system to gather and address reviews' using 'Monthly performance reviews and adjustments based on customer feedback and TripAdvisor ranking metrics' that 'TripAdvisor ranking' will control. Based on 'Рестораны' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Привлечь больше клиентов и улучшить репутацию с меньшими затратами. Your current fears: Потерять клиентов из-за негативных отзывов или низких рейтингов на платформе. Does this proposal seem interesting for you as 'Рестораны'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рестораны agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries.\"",
+  "new_actor": "\"Blockchain-Verified Reviewer\"",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Enhance the user experience on our platform",
+        "current_action": "Conducting user feedback surveys",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within 6 months",
+        "imposed_action": "Implement a series of marketing campaigns and partnerships to boost visibility",
+        "mechanism": "Regular progress reviews and adjustment of strategies based on analytics and feedback",
+        "reasoning": "The proposed resolution aligns with our desire to create a successful travel planning and restaurant review platform by enhancing trustworthiness through a blockchain-based verification system. This approach addresses our fear of not attracting enough users and restaurants, as a transparent system can significantly improve user confidence and engagement. Additionally, achieving a top 10 ranking on TripAdvisor would boost our visibility, further attracting users and partners to our platform."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find the best travel destinations and experiences based on reviews.",
+        "current_action": "Reading and comparing reviews on TripAdvisor.",
+        "imposed_goal": "Increase the number of positive reviews for featured destinations.",
+        "imposed_action": "Write and submit at least one detailed review for each destination visited.",
+        "mechanism": "Incentives such as discounts or loyalty points for each review submitted.",
+        "reasoning": "The proposed blockchain-based verification system directly addresses my fears of unreliable information and low-quality services by ensuring that reviews are authentic and linked to verified purchase histories. This transparency fosters trust in the reviews I rely on to find quality restaurants and travel experiences. Additionally, the incentive for submitting detailed reviews aligns with my desire to contribute to the travel community while also potentially receiving benefits such as discounts or loyalty points. Overall, the proposal enhances my ability to discover quality destinations and minimizes the risk of disappointment during my travels."
+      }
+    },
+    {
+      "participant": "Рестораны",
+      "agreement_structure": {
+        "current_goal": "Increase customer satisfaction and positive reviews",
+        "current_action": "Providing high-quality food and service",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor in the local area",
+        "imposed_action": "Implement a customer feedback system to gather and address reviews",
+        "mechanism": "Monthly performance reviews and adjustments based on customer feedback and TripAdvisor ranking metrics",
+        "reasoning": "The proposed resolution to implement a blockchain-based verification system for authenticating user identities and linking verified purchase histories to reviews directly addresses the issue of fake reviews. This will enhance transparency and trustworthiness in the restaurant industry, which aligns with 'Рестораны' desires to attract more customers and improve reputation with lower costs. Additionally, the ability to implement a customer feedback system and monthly performance reviews based on verified metrics will help mitigate the fear of losing customers due to negative reviews, as it allows for proactive management of customer satisfaction."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential as they will drive the implementation of the blockchain-based verification system. Their vision, technical expertise, and leadership are crucial for the development and integration of this technology within the TripAdvisor platform."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourist-clients are vital for the success of the resolution as they are the end-users who will benefit from the authenticity and trustworthiness of reviews. Their feedback and adoption of the system will validate its effectiveness and encourage wider acceptance."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants play a key role in this ecosystem as they are the primary subjects of reviews. Their participation will be necessary to ensure that the system meets their needs and addresses concerns about fake reviews, thereby enhancing their trust in the platform."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are critical for providing the necessary funding and resources to develop the blockchain solution. Their support can also facilitate partnerships and advancements in technology, ensuring the project has the financial backing to succeed."
+    }
+  ]
+}
+We ask 'Инвесторы' the following: 'As the representative of a being called 'Инвесторы', you have been approached by 'TripAdvisor ranking' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'TripAdvisor ranking' wants to challenge existing status quo and says to you, 'Инвесторы', the entity you represent, that now you achieve 'Maximize return on investment in hospitality sector' by performing 'Evaluating potential investments in hotels and restaurants'. However, under the proposed resolution '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."', you as 'Инвесторы' will be able to achieve 'Enhance TripAdvisor ranking for top investments' by performing 'Implement strategies to improve guest reviews and ratings' using 'Provide access to TripAdvisor analytics and customer feedback tools' that 'TripAdvisor ranking' will control. Based on 'Инвесторы' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить долгосрочный доход от инвестиций в перспективный стартап. Your current fears: Потерять вложенные средства из-за неуспеха платформы или недостоверности информации на ней. Does this proposal seem interesting for you as 'Инвесторы'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Инвесторы agreed to participate in the resolution proposed by TripAdvisor ranking
+Updated resolution structure: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries.\"",
+  "new_actor": "\"Blockchain-Verified Reviewer\"",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Enhance the user experience on our platform",
+        "current_action": "Conducting user feedback surveys",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within 6 months",
+        "imposed_action": "Implement a series of marketing campaigns and partnerships to boost visibility",
+        "mechanism": "Regular progress reviews and adjustment of strategies based on analytics and feedback",
+        "reasoning": "The proposed resolution aligns with our desire to create a successful travel planning and restaurant review platform by enhancing trustworthiness through a blockchain-based verification system. This approach addresses our fear of not attracting enough users and restaurants, as a transparent system can significantly improve user confidence and engagement. Additionally, achieving a top 10 ranking on TripAdvisor would boost our visibility, further attracting users and partners to our platform."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find the best travel destinations and experiences based on reviews.",
+        "current_action": "Reading and comparing reviews on TripAdvisor.",
+        "imposed_goal": "Increase the number of positive reviews for featured destinations.",
+        "imposed_action": "Write and submit at least one detailed review for each destination visited.",
+        "mechanism": "Incentives such as discounts or loyalty points for each review submitted.",
+        "reasoning": "The proposed blockchain-based verification system directly addresses my fears of unreliable information and low-quality services by ensuring that reviews are authentic and linked to verified purchase histories. This transparency fosters trust in the reviews I rely on to find quality restaurants and travel experiences. Additionally, the incentive for submitting detailed reviews aligns with my desire to contribute to the travel community while also potentially receiving benefits such as discounts or loyalty points. Overall, the proposal enhances my ability to discover quality destinations and minimizes the risk of disappointment during my travels."
+      }
+    },
+    {
+      "participant": "Рестораны",
+      "agreement_structure": {
+        "current_goal": "Increase customer satisfaction and positive reviews",
+        "current_action": "Providing high-quality food and service",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor in the local area",
+        "imposed_action": "Implement a customer feedback system to gather and address reviews",
+        "mechanism": "Monthly performance reviews and adjustments based on customer feedback and TripAdvisor ranking metrics",
+        "reasoning": "The proposed resolution to implement a blockchain-based verification system for authenticating user identities and linking verified purchase histories to reviews directly addresses the issue of fake reviews. This will enhance transparency and trustworthiness in the restaurant industry, which aligns with 'Рестораны' desires to attract more customers and improve reputation with lower costs. Additionally, the ability to implement a customer feedback system and monthly performance reviews based on verified metrics will help mitigate the fear of losing customers due to negative reviews, as it allows for proactive management of customer satisfaction."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize return on investment in hospitality sector",
+        "current_action": "Evaluating potential investments in hotels and restaurants",
+        "imposed_goal": "Enhance TripAdvisor ranking for top investments",
+        "imposed_action": "Implement strategies to improve guest reviews and ratings",
+        "mechanism": "Provide access to TripAdvisor analytics and customer feedback tools",
+        "reasoning": "The proposed resolution aligns with the desires of 'Инвесторы' by potentially increasing the long-term income from investments in the hospitality sector through a trustworthy review system. By implementing a blockchain-based verification system, the authenticity of reviews can be ensured, which mitigates the fears of investing in a platform that may fail or provide unreliable information. This approach enhances TripAdvisor's ranking and credibility, ultimately benefiting 'Инвесторы' through improved guest reviews and ratings."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential as they will drive the implementation of the blockchain-based verification system. Their vision, technical expertise, and leadership are crucial for the development and integration of this technology within the TripAdvisor platform."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourist-clients are vital for the success of the resolution as they are the end-users who will benefit from the authenticity and trustworthiness of reviews. Their feedback and adoption of the system will validate its effectiveness and encourage wider acceptance."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants play a key role in this ecosystem as they are the primary subjects of reviews. Their participation will be necessary to ensure that the system meets their needs and addresses concerns about fake reviews, thereby enhancing their trust in the platform."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are critical for providing the necessary funding and resources to develop the blockchain solution. Their support can also facilitate partnerships and advancements in technology, ensuring the project has the financial backing to succeed."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "TripAdvisor ranking",
+  "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries.\"",
+  "new_actor": "\"Blockchain-Verified Reviewer\"",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Enhance the user experience on our platform",
+        "current_action": "Conducting user feedback surveys",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within 6 months",
+        "imposed_action": "Implement a series of marketing campaigns and partnerships to boost visibility",
+        "mechanism": "Regular progress reviews and adjustment of strategies based on analytics and feedback",
+        "reasoning": "The proposed resolution aligns with our desire to create a successful travel planning and restaurant review platform by enhancing trustworthiness through a blockchain-based verification system. This approach addresses our fear of not attracting enough users and restaurants, as a transparent system can significantly improve user confidence and engagement. Additionally, achieving a top 10 ranking on TripAdvisor would boost our visibility, further attracting users and partners to our platform."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find the best travel destinations and experiences based on reviews.",
+        "current_action": "Reading and comparing reviews on TripAdvisor.",
+        "imposed_goal": "Increase the number of positive reviews for featured destinations.",
+        "imposed_action": "Write and submit at least one detailed review for each destination visited.",
+        "mechanism": "Incentives such as discounts or loyalty points for each review submitted.",
+        "reasoning": "The proposed blockchain-based verification system directly addresses my fears of unreliable information and low-quality services by ensuring that reviews are authentic and linked to verified purchase histories. This transparency fosters trust in the reviews I rely on to find quality restaurants and travel experiences. Additionally, the incentive for submitting detailed reviews aligns with my desire to contribute to the travel community while also potentially receiving benefits such as discounts or loyalty points. Overall, the proposal enhances my ability to discover quality destinations and minimizes the risk of disappointment during my travels."
+      }
+    },
+    {
+      "participant": "Рестораны",
+      "agreement_structure": {
+        "current_goal": "Increase customer satisfaction and positive reviews",
+        "current_action": "Providing high-quality food and service",
+        "imposed_goal": "Achieve a top 10 ranking on TripAdvisor in the local area",
+        "imposed_action": "Implement a customer feedback system to gather and address reviews",
+        "mechanism": "Monthly performance reviews and adjustments based on customer feedback and TripAdvisor ranking metrics",
+        "reasoning": "The proposed resolution to implement a blockchain-based verification system for authenticating user identities and linking verified purchase histories to reviews directly addresses the issue of fake reviews. This will enhance transparency and trustworthiness in the restaurant industry, which aligns with 'Рестораны' desires to attract more customers and improve reputation with lower costs. Additionally, the ability to implement a customer feedback system and monthly performance reviews based on verified metrics will help mitigate the fear of losing customers due to negative reviews, as it allows for proactive management of customer satisfaction."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize return on investment in hospitality sector",
+        "current_action": "Evaluating potential investments in hotels and restaurants",
+        "imposed_goal": "Enhance TripAdvisor ranking for top investments",
+        "imposed_action": "Implement strategies to improve guest reviews and ratings",
+        "mechanism": "Provide access to TripAdvisor analytics and customer feedback tools",
+        "reasoning": "The proposed resolution aligns with the desires of 'Инвесторы' by potentially increasing the long-term income from investments in the hospitality sector through a trustworthy review system. By implementing a blockchain-based verification system, the authenticity of reviews can be ensured, which mitigates the fears of investing in a platform that may fail or provide unreliable information. This approach enhances TripAdvisor's ranking and credibility, ultimately benefiting 'Инвесторы' through improved guest reviews and ratings."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential as they will drive the implementation of the blockchain-based verification system. Their vision, technical expertise, and leadership are crucial for the development and integration of this technology within the TripAdvisor platform."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourist-clients are vital for the success of the resolution as they are the end-users who will benefit from the authenticity and trustworthiness of reviews. Their feedback and adoption of the system will validate its effectiveness and encourage wider acceptance."
+    },
+    {
+      "participant": "Рестораны",
+      "reasoning": "Restaurants play a key role in this ecosystem as they are the primary subjects of reviews. Their participation will be necessary to ensure that the system meets their needs and addresses concerns about fake reviews, thereby enhancing their trust in the platform."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are critical for providing the necessary funding and resources to develop the blockchain solution. Their support can also facilitate partnerships and advancements in technology, ensuring the project has the financial backing to succeed."
+    }
+  ]
+}
+Resolution created by Review: Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.
+Recruited participants: ['Три основателя стартапа', 'Туристы-клиенты', 'Инвесторы', 'TripAdvisor ranking']
+We ask 'Три основателя стартапа' the following: 'As the representative of a being called 'Три основателя стартапа', you have been approached by 'Review' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Три основателя стартапа' is a participant in the resolution initiated by 'TripAdvisor ranking' with the description: '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Review' wants to challenge existing status quo and says to you, 'Три основателя стартапа', the entity you represent, that now you achieve 'Запустить MVP продукта на рынок' by performing 'Разработка функционала и дизайна продукта'. However, under the proposed resolution 'Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.', you as 'Три основателя стартапа' will be able to achieve 'Увеличить количество пользователей на 50% в течение следующего квартала' by performing 'Запустить рекламную кампанию и активировать стратегию привлечения пользователей' using 'Регулярные встречи для анализа результатов кампании и корректировки стратегии привлечения пользователей' that 'Review' will control. Based on 'Три основателя стартапа' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Создать успешную платформу для планирования путешествий и оценки ресторанов. Your current fears: Не привлечь достаточно пользователей и ресторанов для создания жизнеспособной платформы. Does this proposal seem interesting for you as 'Три основателя стартапа'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три основателя стартапа agreed to participate in the resolution proposed by Review
+Updated resolution structure: {
+  "initiator": "Review",
+  "resolution_description": "Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.",
+  "new_actor": "AI-Driven Dynamic TrustScore Aggregator",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Запустить MVP продукта на рынок",
+        "current_action": "Разработка функционала и дизайна продукта",
+        "imposed_goal": "Увеличить количество пользователей на 50% в течение следующего квартала",
+        "imposed_action": "Запустить рекламную кампанию и активировать стратегию привлечения пользователей",
+        "mechanism": "Регулярные встречи для анализа результатов кампании и корректировки стратегии привлечения пользователей",
+        "reasoning": "The proposed resolution aligns with 'Три основателя стартапа's desire to create a successful platform for travel planning and restaurant reviews by implementing an AI-driven review aggregator. This system enhances the authenticity of reviews, directly addressing the fears of not attracting enough users and restaurants. The ability to increase user numbers by 50% in the next quarter through targeted advertising campaigns controlled by 'Review' further supports the growth and viability of the platform. Overall, the proposal presents a significant opportunity to achieve our goals while mitigating our concerns."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they will drive the development and implementation of the AI-driven review aggregator. Their vision and expertise will shape the platform's functionality and ensure it meets the needs of users and stakeholders."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential as they are the primary users of the review aggregator. Their feedback and interaction with the platform will directly influence the trust score system and help validate the effectiveness of the aggregator in providing authentic reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important as they provide the necessary funding to develop and scale the review aggregator. Their support will enable the startup to enhance technology, marketing, and user acquisition strategies."
+    },
+    {
+      "participant": "TripAdvisor ranking",
+      "reasoning": "TripAdvisor ranking is a significant participant as it represents a well-established platform in the review space. Collaborating with or understanding their ranking system can provide valuable insights into how to position the new aggregator and compete effectively in the market."
+    }
+  ]
+}
+Три основателя стартапа has moved to a new resolution.
+We ask 'Туристы-клиенты' the following: 'As the representative of a being called 'Туристы-клиенты', you have been approached by 'Review' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Туристы-клиенты' is a participant in the resolution initiated by 'TripAdvisor ranking' with the description: '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Review' wants to challenge existing status quo and says to you, 'Туристы-клиенты', the entity you represent, that now you achieve 'Enjoy a pleasant vacation experience' by performing 'Exploring local attractions and activities'. However, under the proposed resolution 'Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.', you as 'Туристы-клиенты' will be able to achieve 'Provide feedback on the vacation experience' by performing 'Complete a detailed review survey after the trip' using 'Incentivize feedback by offering discounts on future bookings' that 'Review' will control. Based on 'Туристы-клиенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Найти качественные рестораны и избежать разочарований во время путешествий. Your current fears: Стать жертвой некачественных услуг или недостоверной информации о ресторанах. Does this proposal seem interesting for you as 'Туристы-клиенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Туристы-клиенты agreed to participate in the resolution proposed by Review
+Updated resolution structure: {
+  "initiator": "Review",
+  "resolution_description": "Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.",
+  "new_actor": "AI-Driven Dynamic TrustScore Aggregator",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Запустить MVP продукта на рынок",
+        "current_action": "Разработка функционала и дизайна продукта",
+        "imposed_goal": "Увеличить количество пользователей на 50% в течение следующего квартала",
+        "imposed_action": "Запустить рекламную кампанию и активировать стратегию привлечения пользователей",
+        "mechanism": "Регулярные встречи для анализа результатов кампании и корректировки стратегии привлечения пользователей",
+        "reasoning": "The proposed resolution aligns with 'Три основателя стартапа's desire to create a successful platform for travel planning and restaurant reviews by implementing an AI-driven review aggregator. This system enhances the authenticity of reviews, directly addressing the fears of not attracting enough users and restaurants. The ability to increase user numbers by 50% in the next quarter through targeted advertising campaigns controlled by 'Review' further supports the growth and viability of the platform. Overall, the proposal presents a significant opportunity to achieve our goals while mitigating our concerns."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Enjoy a pleasant vacation experience",
+        "current_action": "Exploring local attractions and activities",
+        "imposed_goal": "Provide feedback on the vacation experience",
+        "imposed_action": "Complete a detailed review survey after the trip",
+        "mechanism": "Incentivize feedback by offering discounts on future bookings",
+        "reasoning": "The proposed resolution offers a significant improvement in ensuring the authenticity of reviews through an AI-driven aggregator that cross-references multiple data sources. This aligns perfectly with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travels. Furthermore, the dynamic trust score for each review helps mitigate the fear of encountering poor services or misleading information about restaurants. Overall, this proposal enhances the vacation experience and provides a more reliable feedback mechanism."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they will drive the development and implementation of the AI-driven review aggregator. Their vision and expertise will shape the platform's functionality and ensure it meets the needs of users and stakeholders."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential as they are the primary users of the review aggregator. Their feedback and interaction with the platform will directly influence the trust score system and help validate the effectiveness of the aggregator in providing authentic reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important as they provide the necessary funding to develop and scale the review aggregator. Their support will enable the startup to enhance technology, marketing, and user acquisition strategies."
+    },
+    {
+      "participant": "TripAdvisor ranking",
+      "reasoning": "TripAdvisor ranking is a significant participant as it represents a well-established platform in the review space. Collaborating with or understanding their ranking system can provide valuable insights into how to position the new aggregator and compete effectively in the market."
+    }
+  ]
+}
+Туристы-клиенты has moved to a new resolution.
+We ask 'Инвесторы' the following: 'As the representative of a being called 'Инвесторы', you have been approached by 'Review' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Инвесторы' is a participant in the resolution initiated by 'TripAdvisor ranking' with the description: '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Review' wants to challenge existing status quo and says to you, 'Инвесторы', the entity you represent, that now you achieve 'Maximize return on investment' by performing 'Analyzing market trends and potential investment opportunities'. However, under the proposed resolution 'Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.', you as 'Инвесторы' will be able to achieve 'Diversify the investment portfolio' by performing 'Identify and invest in at least three different sectors' using 'Monthly review meetings to assess progress and adjust strategies accordingly' that 'Review' will control. Based on 'Инвесторы' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить долгосрочный доход от инвестиций в перспективный стартап. Your current fears: Потерять вложенные средства из-за неуспеха платформы или недостоверности информации на ней. Does this proposal seem interesting for you as 'Инвесторы'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Инвесторы agreed to participate in the resolution proposed by Review
+Updated resolution structure: {
+  "initiator": "Review",
+  "resolution_description": "Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.",
+  "new_actor": "AI-Driven Dynamic TrustScore Aggregator",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Запустить MVP продукта на рынок",
+        "current_action": "Разработка функционала и дизайна продукта",
+        "imposed_goal": "Увеличить количество пользователей на 50% в течение следующего квартала",
+        "imposed_action": "Запустить рекламную кампанию и активировать стратегию привлечения пользователей",
+        "mechanism": "Регулярные встречи для анализа результатов кампании и корректировки стратегии привлечения пользователей",
+        "reasoning": "The proposed resolution aligns with 'Три основателя стартапа's desire to create a successful platform for travel planning and restaurant reviews by implementing an AI-driven review aggregator. This system enhances the authenticity of reviews, directly addressing the fears of not attracting enough users and restaurants. The ability to increase user numbers by 50% in the next quarter through targeted advertising campaigns controlled by 'Review' further supports the growth and viability of the platform. Overall, the proposal presents a significant opportunity to achieve our goals while mitigating our concerns."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Enjoy a pleasant vacation experience",
+        "current_action": "Exploring local attractions and activities",
+        "imposed_goal": "Provide feedback on the vacation experience",
+        "imposed_action": "Complete a detailed review survey after the trip",
+        "mechanism": "Incentivize feedback by offering discounts on future bookings",
+        "reasoning": "The proposed resolution offers a significant improvement in ensuring the authenticity of reviews through an AI-driven aggregator that cross-references multiple data sources. This aligns perfectly with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travels. Furthermore, the dynamic trust score for each review helps mitigate the fear of encountering poor services or misleading information about restaurants. Overall, this proposal enhances the vacation experience and provides a more reliable feedback mechanism."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize return on investment",
+        "current_action": "Analyzing market trends and potential investment opportunities",
+        "imposed_goal": "Diversify the investment portfolio",
+        "imposed_action": "Identify and invest in at least three different sectors",
+        "mechanism": "Monthly review meetings to assess progress and adjust strategies accordingly",
+        "reasoning": "The proposed resolution aligns well with the desires of 'Инвесторы' to receive long-term income from investments in promising startups. By establishing an AI-driven review aggregator, 'Инвесторы' can diversify their investment portfolio and reduce risks associated with investing in a single sector. Furthermore, the dynamic assessment of review authenticity addresses the current fears of losing investments due to platform failure or unreliable information, thereby enhancing trust and credibility in the restaurant and tourism industries."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they will drive the development and implementation of the AI-driven review aggregator. Their vision and expertise will shape the platform's functionality and ensure it meets the needs of users and stakeholders."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential as they are the primary users of the review aggregator. Their feedback and interaction with the platform will directly influence the trust score system and help validate the effectiveness of the aggregator in providing authentic reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important as they provide the necessary funding to develop and scale the review aggregator. Their support will enable the startup to enhance technology, marketing, and user acquisition strategies."
+    },
+    {
+      "participant": "TripAdvisor ranking",
+      "reasoning": "TripAdvisor ranking is a significant participant as it represents a well-established platform in the review space. Collaborating with or understanding their ranking system can provide valuable insights into how to position the new aggregator and compete effectively in the market."
+    }
+  ]
+}
+Инвесторы has moved to a new resolution.
+We ask 'TripAdvisor ranking' the following: 'As the representative of a being called 'TripAdvisor ranking', you have been approached by 'Review' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'TripAdvisor ranking' is the initiator of the resolution: '"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that authenticates user identities and links verified purchase histories to reviews, ensuring transparency and trustworthiness in the restaurant and tourism industries."'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Review' wants to challenge existing status quo and says to you, 'TripAdvisor ranking', the entity you represent, that now you achieve 'Maintain a high ranking on TripAdvisor for increased visibility and bookings.' by performing 'Responding to reviews and updating listings regularly.'. However, under the proposed resolution 'Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.', you as 'TripAdvisor ranking' will be able to achieve 'Achieve a top 10 ranking in the local category within the next quarter.' by performing 'Implement a customer feedback strategy and enhance the quality of service based on reviews.' using 'Establish a monthly review meeting to assess progress, share feedback received, and strategize improvements.' that 'Review' will control. Based on 'TripAdvisor ranking' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'TripAdvisor ranking'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+TripAdvisor ranking agreed to participate in the resolution proposed by Review
+Updated resolution structure: {
+  "initiator": "Review",
+  "resolution_description": "Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.",
+  "new_actor": "AI-Driven Dynamic TrustScore Aggregator",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Запустить MVP продукта на рынок",
+        "current_action": "Разработка функционала и дизайна продукта",
+        "imposed_goal": "Увеличить количество пользователей на 50% в течение следующего квартала",
+        "imposed_action": "Запустить рекламную кампанию и активировать стратегию привлечения пользователей",
+        "mechanism": "Регулярные встречи для анализа результатов кампании и корректировки стратегии привлечения пользователей",
+        "reasoning": "The proposed resolution aligns with 'Три основателя стартапа's desire to create a successful platform for travel planning and restaurant reviews by implementing an AI-driven review aggregator. This system enhances the authenticity of reviews, directly addressing the fears of not attracting enough users and restaurants. The ability to increase user numbers by 50% in the next quarter through targeted advertising campaigns controlled by 'Review' further supports the growth and viability of the platform. Overall, the proposal presents a significant opportunity to achieve our goals while mitigating our concerns."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Enjoy a pleasant vacation experience",
+        "current_action": "Exploring local attractions and activities",
+        "imposed_goal": "Provide feedback on the vacation experience",
+        "imposed_action": "Complete a detailed review survey after the trip",
+        "mechanism": "Incentivize feedback by offering discounts on future bookings",
+        "reasoning": "The proposed resolution offers a significant improvement in ensuring the authenticity of reviews through an AI-driven aggregator that cross-references multiple data sources. This aligns perfectly with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travels. Furthermore, the dynamic trust score for each review helps mitigate the fear of encountering poor services or misleading information about restaurants. Overall, this proposal enhances the vacation experience and provides a more reliable feedback mechanism."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize return on investment",
+        "current_action": "Analyzing market trends and potential investment opportunities",
+        "imposed_goal": "Diversify the investment portfolio",
+        "imposed_action": "Identify and invest in at least three different sectors",
+        "mechanism": "Monthly review meetings to assess progress and adjust strategies accordingly",
+        "reasoning": "The proposed resolution aligns well with the desires of 'Инвесторы' to receive long-term income from investments in promising startups. By establishing an AI-driven review aggregator, 'Инвесторы' can diversify their investment portfolio and reduce risks associated with investing in a single sector. Furthermore, the dynamic assessment of review authenticity addresses the current fears of losing investments due to platform failure or unreliable information, thereby enhancing trust and credibility in the restaurant and tourism industries."
+      }
+    },
+    {
+      "participant": "TripAdvisor ranking",
+      "agreement_structure": {
+        "current_goal": "Maintain a high ranking on TripAdvisor for increased visibility and bookings.",
+        "current_action": "Responding to reviews and updating listings regularly.",
+        "imposed_goal": "Achieve a top 10 ranking in the local category within the next quarter.",
+        "imposed_action": "Implement a customer feedback strategy and enhance the quality of service based on reviews.",
+        "mechanism": "Establish a monthly review meeting to assess progress, share feedback received, and strategize improvements.",
+        "reasoning": "The proposed resolution offers a significant improvement in the fight against fake reviews, which is critical for maintaining the integrity of the TripAdvisor platform. By implementing an AI-driven review aggregator, TripAdvisor can enhance the authenticity of reviews, thereby increasing user trust and engagement. This aligns with the goal of achieving a top 10 ranking in the local category, as improved review authenticity will likely lead to better user experiences and higher ratings. Additionally, the focus on a customer feedback strategy and regular review meetings can provide valuable insights for continuous improvement in service quality, benefiting both customers and businesses within the restaurant and tourism industries."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they will drive the development and implementation of the AI-driven review aggregator. Their vision and expertise will shape the platform's functionality and ensure it meets the needs of users and stakeholders."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential as they are the primary users of the review aggregator. Their feedback and interaction with the platform will directly influence the trust score system and help validate the effectiveness of the aggregator in providing authentic reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important as they provide the necessary funding to develop and scale the review aggregator. Their support will enable the startup to enhance technology, marketing, and user acquisition strategies."
+    },
+    {
+      "participant": "TripAdvisor ranking",
+      "reasoning": "TripAdvisor ranking is a significant participant as it represents a well-established platform in the review space. Collaborating with or understanding their ranking system can provide valuable insights into how to position the new aggregator and compete effectively in the market."
+    }
+  ]
+}
+Resolution by TripAdvisor ranking has collapsed due to departure of TripAdvisor ranking
+Resolution by TripAdvisor ranking has collapsed.
+Resolution structure after processing: {
+  "initiator": "Review",
+  "resolution_description": "Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.",
+  "new_actor": "AI-Driven Dynamic TrustScore Aggregator",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Запустить MVP продукта на рынок",
+        "current_action": "Разработка функционала и дизайна продукта",
+        "imposed_goal": "Увеличить количество пользователей на 50% в течение следующего квартала",
+        "imposed_action": "Запустить рекламную кампанию и активировать стратегию привлечения пользователей",
+        "mechanism": "Регулярные встречи для анализа результатов кампании и корректировки стратегии привлечения пользователей",
+        "reasoning": "The proposed resolution aligns with 'Три основателя стартапа's desire to create a successful platform for travel planning and restaurant reviews by implementing an AI-driven review aggregator. This system enhances the authenticity of reviews, directly addressing the fears of not attracting enough users and restaurants. The ability to increase user numbers by 50% in the next quarter through targeted advertising campaigns controlled by 'Review' further supports the growth and viability of the platform. Overall, the proposal presents a significant opportunity to achieve our goals while mitigating our concerns."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Enjoy a pleasant vacation experience",
+        "current_action": "Exploring local attractions and activities",
+        "imposed_goal": "Provide feedback on the vacation experience",
+        "imposed_action": "Complete a detailed review survey after the trip",
+        "mechanism": "Incentivize feedback by offering discounts on future bookings",
+        "reasoning": "The proposed resolution offers a significant improvement in ensuring the authenticity of reviews through an AI-driven aggregator that cross-references multiple data sources. This aligns perfectly with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travels. Furthermore, the dynamic trust score for each review helps mitigate the fear of encountering poor services or misleading information about restaurants. Overall, this proposal enhances the vacation experience and provides a more reliable feedback mechanism."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize return on investment",
+        "current_action": "Analyzing market trends and potential investment opportunities",
+        "imposed_goal": "Diversify the investment portfolio",
+        "imposed_action": "Identify and invest in at least three different sectors",
+        "mechanism": "Monthly review meetings to assess progress and adjust strategies accordingly",
+        "reasoning": "The proposed resolution aligns well with the desires of 'Инвесторы' to receive long-term income from investments in promising startups. By establishing an AI-driven review aggregator, 'Инвесторы' can diversify their investment portfolio and reduce risks associated with investing in a single sector. Furthermore, the dynamic assessment of review authenticity addresses the current fears of losing investments due to platform failure or unreliable information, thereby enhancing trust and credibility in the restaurant and tourism industries."
+      }
+    },
+    {
+      "participant": "TripAdvisor ranking",
+      "agreement_structure": {
+        "current_goal": "Maintain a high ranking on TripAdvisor for increased visibility and bookings.",
+        "current_action": "Responding to reviews and updating listings regularly.",
+        "imposed_goal": "Achieve a top 10 ranking in the local category within the next quarter.",
+        "imposed_action": "Implement a customer feedback strategy and enhance the quality of service based on reviews.",
+        "mechanism": "Establish a monthly review meeting to assess progress, share feedback received, and strategize improvements.",
+        "reasoning": "The proposed resolution offers a significant improvement in the fight against fake reviews, which is critical for maintaining the integrity of the TripAdvisor platform. By implementing an AI-driven review aggregator, TripAdvisor can enhance the authenticity of reviews, thereby increasing user trust and engagement. This aligns with the goal of achieving a top 10 ranking in the local category, as improved review authenticity will likely lead to better user experiences and higher ratings. Additionally, the focus on a customer feedback strategy and regular review meetings can provide valuable insights for continuous improvement in service quality, benefiting both customers and businesses within the restaurant and tourism industries."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The founders of the startup are crucial as they will drive the development and implementation of the AI-driven review aggregator. Their vision and expertise will shape the platform's functionality and ensure it meets the needs of users and stakeholders."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are essential as they are the primary users of the review aggregator. Their feedback and interaction with the platform will directly influence the trust score system and help validate the effectiveness of the aggregator in providing authentic reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important as they provide the necessary funding to develop and scale the review aggregator. Their support will enable the startup to enhance technology, marketing, and user acquisition strategies."
+    },
+    {
+      "participant": "TripAdvisor ranking",
+      "reasoning": "TripAdvisor ranking is a significant participant as it represents a well-established platform in the review space. Collaborating with or understanding their ranking system can provide valuable insights into how to position the new aggregator and compete effectively in the market."
+    }
+  ]
+}
+Resolution created by Рестораны: As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.
+Recruited participants: ['Три основателя стартапа', 'Туристы-клиенты', 'Инвесторы', 'Restaurants']
+We ask 'Три основателя стартапа' the following: 'As the representative of a being called 'Три основателя стартапа', you have been approached by 'Рестораны' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Три основателя стартапа' is a participant in the resolution initiated by 'Review' with the description: 'Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Рестораны' wants to challenge existing status quo and says to you, 'Три основателя стартапа', the entity you represent, that now you achieve 'Develop a unique restaurant concept that attracts customers.' by performing 'Conduct market research to identify trends and preferences.'. However, under the proposed resolution 'As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.', you as 'Три основателя стартапа' will be able to achieve 'Create a comprehensive business plan for a new restaurant within three months.' by performing 'Present the business plan to potential investors and stakeholders.' using 'Provide weekly mentorship sessions and resources for business planning and market analysis.' that 'Рестораны' will control. Based on 'Три основателя стартапа' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Создать успешную платформу для планирования путешествий и оценки ресторанов. Your current fears: Не привлечь достаточно пользователей и ресторанов для создания жизнеспособной платформы. Does this proposal seem interesting for you as 'Три основателя стартапа'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три основателя стартапа agreed to participate in the resolution proposed by Рестораны
+Updated resolution structure: {
+  "initiator": "Рестораны",
+  "resolution_description": "As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.",
+  "new_actor": "BlockchainReviewVerifier",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Develop a unique restaurant concept that attracts customers.",
+        "current_action": "Conduct market research to identify trends and preferences.",
+        "imposed_goal": "Create a comprehensive business plan for a new restaurant within three months.",
+        "imposed_action": "Present the business plan to potential investors and stakeholders.",
+        "mechanism": "Provide weekly mentorship sessions and resources for business planning and market analysis.",
+        "reasoning": "The proposed blockchain-based review system aligns with 'Три основателя стартапа's' desire to create a successful platform for restaurant evaluation and travel planning. By ensuring transparency and authenticity in reviews, this system can attract more users and restaurants, addressing the fear of insufficient traction. Additionally, the mentorship and resources provided by 'Рестораны' will support the development of a comprehensive business plan, further enhancing the potential for success."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential for developing and implementing the blockchain-based review system. They possess the vision, technical skills, and entrepreneurial drive needed to create a functional and appealing platform that addresses the issue of fake reviews."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are the primary users of the review system. Their genuine feedback will be crucial for the system's success, and their participation will help validate the effectiveness of the platform in providing trustworthy reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important for securing the necessary funding to develop and maintain the blockchain-based review system. Their support can provide the resources needed for technology development, marketing, and scaling the platform."
+    },
+    {
+      "participant": "Restaurants",
+      "reasoning": "Restaurants are key stakeholders in the review ecosystem. Their participation is vital as they will be the entities being reviewed. Gaining their trust and involvement will ensure that they are motivated to engage with the new system and respond positively to genuine customer feedback."
+    }
+  ]
+}
+Три основателя стартапа has moved to a new resolution.
+We ask 'Туристы-клиенты' the following: 'As the representative of a being called 'Туристы-клиенты', you have been approached by 'Рестораны' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Туристы-клиенты' is a participant in the resolution initiated by 'Review' with the description: 'Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Рестораны' wants to challenge existing status quo and says to you, 'Туристы-клиенты', the entity you represent, that now you achieve 'Find a suitable restaurant for dining' by performing 'Searching online and reading reviews'. However, under the proposed resolution 'As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.', you as 'Туристы-клиенты' will be able to achieve 'Choose a restaurant from the recommended list' by performing 'Select one restaurant and make a reservation' using 'Providing a curated list of top-rated restaurants with direct booking options' that 'Рестораны' will control. Based on 'Туристы-клиенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Найти качественные рестораны и избежать разочарований во время путешествий. Your current fears: Стать жертвой некачественных услуг или недостоверной информации о ресторанах. Does this proposal seem interesting for you as 'Туристы-клиенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Туристы-клиенты agreed to participate in the resolution proposed by Рестораны
+Updated resolution structure: {
+  "initiator": "Рестораны",
+  "resolution_description": "As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.",
+  "new_actor": "BlockchainReviewVerifier",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Develop a unique restaurant concept that attracts customers.",
+        "current_action": "Conduct market research to identify trends and preferences.",
+        "imposed_goal": "Create a comprehensive business plan for a new restaurant within three months.",
+        "imposed_action": "Present the business plan to potential investors and stakeholders.",
+        "mechanism": "Provide weekly mentorship sessions and resources for business planning and market analysis.",
+        "reasoning": "The proposed blockchain-based review system aligns with 'Три основателя стартапа's' desire to create a successful platform for restaurant evaluation and travel planning. By ensuring transparency and authenticity in reviews, this system can attract more users and restaurants, addressing the fear of insufficient traction. Additionally, the mentorship and resources provided by 'Рестораны' will support the development of a comprehensive business plan, further enhancing the potential for success."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find a suitable restaurant for dining",
+        "current_action": "Searching online and reading reviews",
+        "imposed_goal": "Choose a restaurant from the recommended list",
+        "imposed_action": "Select one restaurant and make a reservation",
+        "mechanism": "Providing a curated list of top-rated restaurants with direct booking options",
+        "reasoning": "The proposed blockchain-based review system directly addresses my desire to find quality restaurants and avoid disappointment during my travels. By ensuring that reviews are verified and incentivizing genuine feedback, the system increases the likelihood of receiving accurate and trustworthy information. Additionally, having a curated list of top-rated restaurants with direct booking options enhances my ability to make informed choices and secure reservations, further mitigating my fear of encountering subpar services."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential for developing and implementing the blockchain-based review system. They possess the vision, technical skills, and entrepreneurial drive needed to create a functional and appealing platform that addresses the issue of fake reviews."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are the primary users of the review system. Their genuine feedback will be crucial for the system's success, and their participation will help validate the effectiveness of the platform in providing trustworthy reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important for securing the necessary funding to develop and maintain the blockchain-based review system. Their support can provide the resources needed for technology development, marketing, and scaling the platform."
+    },
+    {
+      "participant": "Restaurants",
+      "reasoning": "Restaurants are key stakeholders in the review ecosystem. Their participation is vital as they will be the entities being reviewed. Gaining their trust and involvement will ensure that they are motivated to engage with the new system and respond positively to genuine customer feedback."
+    }
+  ]
+}
+Туристы-клиенты has moved to a new resolution.
+We ask 'Инвесторы' the following: 'As the representative of a being called 'Инвесторы', you have been approached by 'Рестораны' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. Currently, 'Инвесторы' is a participant in the resolution initiated by 'Review' with the description: 'Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Рестораны' wants to challenge existing status quo and says to you, 'Инвесторы', the entity you represent, that now you achieve 'Maximize returns on investments in the restaurant sector' by performing 'Analyzing potential restaurant investments and market trends'. However, under the proposed resolution 'As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.', you as 'Инвесторы' will be able to achieve 'Increase overall profitability of the restaurant portfolio by 20% within the next year' by performing 'Implement cost-cutting measures and enhance marketing strategies across all restaurant investments' using 'Monthly performance reviews and strategy adjustment meetings to ensure alignment with profitability targets' that 'Рестораны' will control. Based on 'Инвесторы' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить долгосрочный доход от инвестиций в перспективный стартап. Your current fears: Потерять вложенные средства из-за неуспеха платформы или недостоверности информации на ней. Does this proposal seem interesting for you as 'Инвесторы'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Инвесторы agreed to participate in the resolution proposed by Рестораны
+Updated resolution structure: {
+  "initiator": "Рестораны",
+  "resolution_description": "As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.",
+  "new_actor": "BlockchainReviewVerifier",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Develop a unique restaurant concept that attracts customers.",
+        "current_action": "Conduct market research to identify trends and preferences.",
+        "imposed_goal": "Create a comprehensive business plan for a new restaurant within three months.",
+        "imposed_action": "Present the business plan to potential investors and stakeholders.",
+        "mechanism": "Provide weekly mentorship sessions and resources for business planning and market analysis.",
+        "reasoning": "The proposed blockchain-based review system aligns with 'Три основателя стартапа's' desire to create a successful platform for restaurant evaluation and travel planning. By ensuring transparency and authenticity in reviews, this system can attract more users and restaurants, addressing the fear of insufficient traction. Additionally, the mentorship and resources provided by 'Рестораны' will support the development of a comprehensive business plan, further enhancing the potential for success."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find a suitable restaurant for dining",
+        "current_action": "Searching online and reading reviews",
+        "imposed_goal": "Choose a restaurant from the recommended list",
+        "imposed_action": "Select one restaurant and make a reservation",
+        "mechanism": "Providing a curated list of top-rated restaurants with direct booking options",
+        "reasoning": "The proposed blockchain-based review system directly addresses my desire to find quality restaurants and avoid disappointment during my travels. By ensuring that reviews are verified and incentivizing genuine feedback, the system increases the likelihood of receiving accurate and trustworthy information. Additionally, having a curated list of top-rated restaurants with direct booking options enhances my ability to make informed choices and secure reservations, further mitigating my fear of encountering subpar services."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize returns on investments in the restaurant sector",
+        "current_action": "Analyzing potential restaurant investments and market trends",
+        "imposed_goal": "Increase overall profitability of the restaurant portfolio by 20% within the next year",
+        "imposed_action": "Implement cost-cutting measures and enhance marketing strategies across all restaurant investments",
+        "mechanism": "Monthly performance reviews and strategy adjustment meetings to ensure alignment with profitability targets",
+        "reasoning": "The proposed blockchain-based review system directly aligns with 'Инвесторы' desires for long-term income by creating a transparent and trustworthy review mechanism that can enhance the restaurant sector's reputation. This system also addresses the fears of losing investments due to platform failure or misinformation by ensuring that all reviews are verified and incentivized, thus increasing the overall integrity of the feedback. The potential increase in profitability by 20% within a year makes this proposal appealing, as it not only supports the current investment strategy but also mitigates risks associated with fake reviews."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential for developing and implementing the blockchain-based review system. They possess the vision, technical skills, and entrepreneurial drive needed to create a functional and appealing platform that addresses the issue of fake reviews."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are the primary users of the review system. Their genuine feedback will be crucial for the system's success, and their participation will help validate the effectiveness of the platform in providing trustworthy reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important for securing the necessary funding to develop and maintain the blockchain-based review system. Their support can provide the resources needed for technology development, marketing, and scaling the platform."
+    },
+    {
+      "participant": "Restaurants",
+      "reasoning": "Restaurants are key stakeholders in the review ecosystem. Their participation is vital as they will be the entities being reviewed. Gaining their trust and involvement will ensure that they are motivated to engage with the new system and respond positively to genuine customer feedback."
+    }
+  ]
+}
+Инвесторы has moved to a new resolution.
+We ask 'Restaurants' the following: 'As the representative of a being called 'Restaurants', you have been approached by 'Рестораны' with a resolution to deal with the current controversy 'Фальшивые отзывы вредят ресторанной и туристической отрасли'. 'Рестораны' wants to challenge existing status quo and says to you, 'Restaurants', the entity you represent, that now you achieve 'Increase customer satisfaction and retention' by performing 'Implementing customer feedback systems and loyalty programs'. However, under the proposed resolution 'As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.', you as 'Restaurants' will be able to achieve 'Expand the restaurant's reach through online delivery services' by performing 'Partner with at least two major food delivery platforms' using 'Establish a promotional campaign to attract new customers via online platforms and offer discounts for first-time users' that 'Рестораны' will control. Based on 'Restaurants' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'Restaurants'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Restaurants agreed to participate in the resolution proposed by Рестораны
+Updated resolution structure: {
+  "initiator": "Рестораны",
+  "resolution_description": "As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.",
+  "new_actor": "BlockchainReviewVerifier",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Develop a unique restaurant concept that attracts customers.",
+        "current_action": "Conduct market research to identify trends and preferences.",
+        "imposed_goal": "Create a comprehensive business plan for a new restaurant within three months.",
+        "imposed_action": "Present the business plan to potential investors and stakeholders.",
+        "mechanism": "Provide weekly mentorship sessions and resources for business planning and market analysis.",
+        "reasoning": "The proposed blockchain-based review system aligns with 'Три основателя стартапа's' desire to create a successful platform for restaurant evaluation and travel planning. By ensuring transparency and authenticity in reviews, this system can attract more users and restaurants, addressing the fear of insufficient traction. Additionally, the mentorship and resources provided by 'Рестораны' will support the development of a comprehensive business plan, further enhancing the potential for success."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find a suitable restaurant for dining",
+        "current_action": "Searching online and reading reviews",
+        "imposed_goal": "Choose a restaurant from the recommended list",
+        "imposed_action": "Select one restaurant and make a reservation",
+        "mechanism": "Providing a curated list of top-rated restaurants with direct booking options",
+        "reasoning": "The proposed blockchain-based review system directly addresses my desire to find quality restaurants and avoid disappointment during my travels. By ensuring that reviews are verified and incentivizing genuine feedback, the system increases the likelihood of receiving accurate and trustworthy information. Additionally, having a curated list of top-rated restaurants with direct booking options enhances my ability to make informed choices and secure reservations, further mitigating my fear of encountering subpar services."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize returns on investments in the restaurant sector",
+        "current_action": "Analyzing potential restaurant investments and market trends",
+        "imposed_goal": "Increase overall profitability of the restaurant portfolio by 20% within the next year",
+        "imposed_action": "Implement cost-cutting measures and enhance marketing strategies across all restaurant investments",
+        "mechanism": "Monthly performance reviews and strategy adjustment meetings to ensure alignment with profitability targets",
+        "reasoning": "The proposed blockchain-based review system directly aligns with 'Инвесторы' desires for long-term income by creating a transparent and trustworthy review mechanism that can enhance the restaurant sector's reputation. This system also addresses the fears of losing investments due to platform failure or misinformation by ensuring that all reviews are verified and incentivized, thus increasing the overall integrity of the feedback. The potential increase in profitability by 20% within a year makes this proposal appealing, as it not only supports the current investment strategy but also mitigates risks associated with fake reviews."
+      }
+    },
+    {
+      "participant": "Restaurants",
+      "agreement_structure": {
+        "current_goal": "Increase customer satisfaction and retention",
+        "current_action": "Implementing customer feedback systems and loyalty programs",
+        "imposed_goal": "Expand the restaurant's reach through online delivery services",
+        "imposed_action": "Partner with at least two major food delivery platforms",
+        "mechanism": "Establish a promotional campaign to attract new customers via online platforms and offer discounts for first-time users",
+        "reasoning": "The proposed blockchain-based review system addresses the issue of fake reviews, which is a significant concern in the restaurant industry. By ensuring that reviews are verified and recorded transparently, customer trust can be increased, leading to higher customer satisfaction and retention. Additionally, the incentive structure for genuine feedback can engage customers more, promoting loyalty. This aligns with the goal of expanding the restaurant's reach through online delivery services, as positive reviews can enhance visibility and attract new customers. Overall, the proposal is beneficial for enhancing the reputation of restaurants and mitigating the risks associated with dishonest reviews."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential for developing and implementing the blockchain-based review system. They possess the vision, technical skills, and entrepreneurial drive needed to create a functional and appealing platform that addresses the issue of fake reviews."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are the primary users of the review system. Their genuine feedback will be crucial for the system's success, and their participation will help validate the effectiveness of the platform in providing trustworthy reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important for securing the necessary funding to develop and maintain the blockchain-based review system. Their support can provide the resources needed for technology development, marketing, and scaling the platform."
+    },
+    {
+      "participant": "Restaurants",
+      "reasoning": "Restaurants are key stakeholders in the review ecosystem. Their participation is vital as they will be the entities being reviewed. Gaining their trust and involvement will ensure that they are motivated to engage with the new system and respond positively to genuine customer feedback."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "Рестораны",
+  "resolution_description": "As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.",
+  "new_actor": "BlockchainReviewVerifier",
+  "participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "agreement_structure": {
+        "current_goal": "Develop a unique restaurant concept that attracts customers.",
+        "current_action": "Conduct market research to identify trends and preferences.",
+        "imposed_goal": "Create a comprehensive business plan for a new restaurant within three months.",
+        "imposed_action": "Present the business plan to potential investors and stakeholders.",
+        "mechanism": "Provide weekly mentorship sessions and resources for business planning and market analysis.",
+        "reasoning": "The proposed blockchain-based review system aligns with 'Три основателя стартапа's' desire to create a successful platform for restaurant evaluation and travel planning. By ensuring transparency and authenticity in reviews, this system can attract more users and restaurants, addressing the fear of insufficient traction. Additionally, the mentorship and resources provided by 'Рестораны' will support the development of a comprehensive business plan, further enhancing the potential for success."
+      }
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "agreement_structure": {
+        "current_goal": "Find a suitable restaurant for dining",
+        "current_action": "Searching online and reading reviews",
+        "imposed_goal": "Choose a restaurant from the recommended list",
+        "imposed_action": "Select one restaurant and make a reservation",
+        "mechanism": "Providing a curated list of top-rated restaurants with direct booking options",
+        "reasoning": "The proposed blockchain-based review system directly addresses my desire to find quality restaurants and avoid disappointment during my travels. By ensuring that reviews are verified and incentivizing genuine feedback, the system increases the likelihood of receiving accurate and trustworthy information. Additionally, having a curated list of top-rated restaurants with direct booking options enhances my ability to make informed choices and secure reservations, further mitigating my fear of encountering subpar services."
+      }
+    },
+    {
+      "participant": "Инвесторы",
+      "agreement_structure": {
+        "current_goal": "Maximize returns on investments in the restaurant sector",
+        "current_action": "Analyzing potential restaurant investments and market trends",
+        "imposed_goal": "Increase overall profitability of the restaurant portfolio by 20% within the next year",
+        "imposed_action": "Implement cost-cutting measures and enhance marketing strategies across all restaurant investments",
+        "mechanism": "Monthly performance reviews and strategy adjustment meetings to ensure alignment with profitability targets",
+        "reasoning": "The proposed blockchain-based review system directly aligns with 'Инвесторы' desires for long-term income by creating a transparent and trustworthy review mechanism that can enhance the restaurant sector's reputation. This system also addresses the fears of losing investments due to platform failure or misinformation by ensuring that all reviews are verified and incentivized, thus increasing the overall integrity of the feedback. The potential increase in profitability by 20% within a year makes this proposal appealing, as it not only supports the current investment strategy but also mitigates risks associated with fake reviews."
+      }
+    },
+    {
+      "participant": "Restaurants",
+      "agreement_structure": {
+        "current_goal": "Increase customer satisfaction and retention",
+        "current_action": "Implementing customer feedback systems and loyalty programs",
+        "imposed_goal": "Expand the restaurant's reach through online delivery services",
+        "imposed_action": "Partner with at least two major food delivery platforms",
+        "mechanism": "Establish a promotional campaign to attract new customers via online platforms and offer discounts for first-time users",
+        "reasoning": "The proposed blockchain-based review system addresses the issue of fake reviews, which is a significant concern in the restaurant industry. By ensuring that reviews are verified and recorded transparently, customer trust can be increased, leading to higher customer satisfaction and retention. Additionally, the incentive structure for genuine feedback can engage customers more, promoting loyalty. This aligns with the goal of expanding the restaurant's reach through online delivery services, as positive reviews can enhance visibility and attract new customers. Overall, the proposal is beneficial for enhancing the reputation of restaurants and mitigating the risks associated with dishonest reviews."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три основателя стартапа",
+      "reasoning": "The three founders of the startup are essential for developing and implementing the blockchain-based review system. They possess the vision, technical skills, and entrepreneurial drive needed to create a functional and appealing platform that addresses the issue of fake reviews."
+    },
+    {
+      "participant": "Туристы-клиенты",
+      "reasoning": "Tourists-customers are the primary users of the review system. Their genuine feedback will be crucial for the system's success, and their participation will help validate the effectiveness of the platform in providing trustworthy reviews."
+    },
+    {
+      "participant": "Инвесторы",
+      "reasoning": "Investors are important for securing the necessary funding to develop and maintain the blockchain-based review system. Their support can provide the resources needed for technology development, marketing, and scaling the platform."
+    },
+    {
+      "participant": "Restaurants",
+      "reasoning": "Restaurants are key stakeholders in the review ecosystem. Their participation is vital as they will be the entities being reviewed. Gaining their trust and involvement will ensure that they are motivated to engage with the new system and respond positively to genuine customer feedback."
+    }
+  ]
+}

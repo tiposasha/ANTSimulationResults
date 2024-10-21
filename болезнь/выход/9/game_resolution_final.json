@@ -1,0 +1,103 @@
+[
+    {
+        "initiator": "Исследователи в области нейрологии",
+        "resolution_description": "Подтверждение амилоидной гипотезы болезни Альцгеймера путем манипуляции изображениями белковых бляшек",
+        "new_actor": "Отредактированные изображения белковых бляшек",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are crucial for the development and commercialization of potential therapies targeting amyloid plaques. Their involvement can provide the necessary resources and expertise to validate the amyloid hypothesis and translate research findings into clinical applications."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Colleagues-scientists are essential to collaborate on the research and validation of the amyloid hypothesis. Their diverse expertise can enhance the methodology and interpretation of results, ensuring a robust scientific approach."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "\"Alzheimer's Disease can reframe the understanding and treatment paradigm by proposing the exploration of neuroplasticity enhancement techniques to harness the brain's innate capacity for reorganization and compensation, thereby diminishing the disease's impact and making itself a pivotal point of study and intervention.\"",
+        "new_actor": "Neuroplasticity Advocate Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "iPSCs",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) can be utilized to create patient-specific models for studying neuroplasticity and testing various enhancement techniques. They are essential for translating the resolution into practical applications."
+            },
+            {
+                "participant": "gamma frequency stimulation",
+                "reasoning": "Gamma frequency stimulation is a promising technique for enhancing neuroplasticity and could directly contribute to the proposed resolution. Collaborating with this participant could lead to potential interventions that mitigate the impact of Alzheimer's Disease."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids offer a sophisticated model to study the effects of neuroplasticity enhancement techniques in a controlled environment, making them vital for experimental validation and advancing the resolution's goals."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "Initiator: Tau Protein, Resolution: \"Redefine Alzheimer's treatment by focusing on the prevention and reversal of tau hyperphosphorylation through innovative molecular therapies that stabilize microtubule dynamics, positioning tau as the central therapeutic target to halt neurodegeneration and enhance cognitive resilience.\"",
+        "new_actor": "Actor Name: \"Tau-Centric Neurotherapy Innovator\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are vital for the commercialization and distribution of new therapies. Their resources and infrastructure will be necessary to translate research findings into accessible treatments for Alzheimer's patients."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips will aid in modeling tau pathology and testing potential therapies in a controlled environment. These technologies can simulate human brain conditions more accurately than traditional methods, facilitating the development of effective treatments."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients play a crucial role in the research process, providing insights into the disease's impact and aiding in the testing of new therapies. Their engagement is necessary to ensure that treatments are developed with patient needs and experiences in mind."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "APOE ɛ4",
+        "resolution_description": "APOE ɛ4 can revolutionize the understanding and treatment of Alzheimer's disease by developing personalized lipidomic interventions that modulate lipid metabolism and neuronal repair processes, transforming APOE ɛ4 into a critical biomarker and therapeutic target for restoring cognitive function and preventing disease progression.",
+        "new_actor": "Lipidomic Neurotherapist",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are crucial for the development and commercialization of therapeutic interventions based on the proposed lipidomic strategies, ensuring that research translates into effective treatments for patients."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are central to the resolution as their experiences and outcomes will guide the development of personalized interventions and provide critical feedback on treatment efficacy and cognitive restoration."
+            },
+            {
+                "participant": "gamma frequency stimulation",
+                "reasoning": "Gamma frequency stimulation can be integrated into the proposed interventions to enhance neuronal repair processes, making it a significant aspect of the therapeutic strategy for modulating lipid metabolism."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "The Blood-brain barrier (BBB) can redefine Alzheimer's disease treatment by pioneering the development of dynamic, responsive BBB-modulating therapies that selectively enhance the permeability for neuroprotective compounds while maintaining defense against neurotoxic agents, positioning the BBB as a master regulator of cerebral homeostasis and a pivotal gateway for cognitive restoration and disease prevention.",
+        "new_actor": "Cerebral Gateway Modulator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are crucial for the development and commercialization of dynamic, responsive BBB-modulating therapies. Their resources, expertise in drug development, and ability to conduct clinical trials will facilitate the translation of research into viable treatments for Alzheimer's disease."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of the proposed therapies. Their involvement is vital to ensure that the treatments address real needs and to provide feedback on efficacy and quality of life improvements."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips are important for modeling the human blood-brain barrier and testing the efficacy of new therapies in a controlled environment. They can help simulate the BBB's responses and enhance the understanding of drug interactions."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

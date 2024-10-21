@@ -1,0 +1,105 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial as they have the expertise to create a well-planned path that integrates seamlessly with the existing environment while ensuring aesthetic and functional aspects are considered."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "Involving the administration is essential to gain the necessary permissions and support for implementing the path, as well as to ensure that the proposal aligns with city regulations and policies."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Engaging with the smart city initiatives can provide technological solutions to monitor and manage the pathway, ensuring safety and accessibility while promoting sustainable urban development."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "'Land use functions (LUFs)' can resolve the issue by implementing a dynamic urban design platform that uses real-time data from user interactions and environmental sensors to continuously adapt and rearrange urban spaces, ensuring they evolve in alignment with the changing needs and preferences of their users.",
+        "new_actor": "Dynamic Urban Design Platform Coordinator (DUDPC)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are crucial for the successful implementation of the dynamic urban design platform. Their expertise will ensure that the platform is not only technically sound but also aesthetically and functionally aligned with user needs and environmental considerations."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "The concept of a smart city is integral to the dynamic urban design platform as it encompasses the use of technology and data to enhance urban living. Engaging with smart city initiatives will help integrate real-time data collection and adaptive systems effectively."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a key role in policy-making and resource allocation. Their support is essential for legitimizing the project and ensuring compliance with regulations, which is vital for the successful deployment of the proposed urban design platform."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can provide insights into the needs and preferences of visitors, which can help shape the urban design to enhance the tourist experience. Their involvement will also promote the platform as a tool for boosting local tourism."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "As \"Gastronomic Trail,\" implement a network of interactive culinary installations and pop-up food experiences that organically influence urban flow and space utilization, aligning urban design with user interests by making food-driven pathways central to daily navigation.",
+        "new_actor": "Culinary Pathway Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial as they will provide the necessary expertise in urban design and planning to integrate the gastronomic trail effectively into the existing urban environment."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are essential as they can help promote the gastronomic trail to both locals and visitors, increasing foot traffic and engagement with the culinary installations and experiences."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Engaging with smart city initiatives ensures that the gastronomic trail leverages technology for enhanced user experience, data collection, and efficient navigation, making the installations more appealing and functional."
+            },
+            {
+                "participant": "Выход из метро",
+                "reasoning": "The metro exits are key locations that can serve as starting points for the gastronomic trail, influencing urban flow and ensuring that the installations are easily accessible to the public."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Sustainability concept",
+        "resolution_description": "As \"Sustainability Concept,\" implement a decentralized, blockchain-based platform that empowers local communities to exchange sustainable resources and ideas, allowing them to collectively redesign urban spaces through a transparent, consensus-driven process that prioritizes ecological balance and user-centric adaptability.",
+        "new_actor": "EcoUrban Nexus Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscape is crucial as they possess the expertise needed to redesign urban spaces in a way that aligns with sustainable practices. Their involvement ensures that the platform's proposals are feasible and effectively integrated into existing urban frameworks."
+            },
+            {
+                "participant": "Cities",
+                "reasoning": "Cities are key participants since they are the primary entities that will implement the sustainable initiatives proposed through the platform. Their engagement will facilitate the acceptance and operationalization of community-driven designs and resource exchanges."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important to involve as they can promote sustainable tourism practices and integrate them into the local economy. Their support can help attract visitors to redesigned urban spaces, ensuring the economic viability of sustainability initiatives."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Smart city initiatives are essential to incorporate because they focus on leveraging technology to improve urban living. Their expertise in digital infrastructure can enhance the blockchain platform's effectiveness, ensuring secure and efficient resource exchanges among communities."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "As \"African Cities,\" resolve the issue by implementing a \"Cultural Reverberation Network\" that draws on rich local traditions and indigenous knowledge to create fluid, self-sustaining urban spaces that adapt through community-driven storytelling, ancestral wisdom, and the natural landscape, fostering a dynamically evolving urban fabric deeply rooted in cultural heritage and ecological harmony.",
+        "new_actor": "Cultural Reverberation Network Actor",
+        "participants": [],
+        "required_participants": []
+    }
+]

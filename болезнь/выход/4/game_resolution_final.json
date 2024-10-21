@@ -1,0 +1,115 @@
+[
+    {
+        "initiator": "Alzheimer’s disease (AD)",
+        "resolution_description": "As Alzheimer's disease, I propose to disrupt traditional approaches by harnessing the potential of neuroplasticity and leveraging cutting-edge brain-computer interface technology to facilitate self-directed cognitive regeneration and resilience, thereby reframing Alzheimer's not as a degenerative endpoint but as a dynamic condition open to neural adaptation and recovery.",
+        "new_actor": "Neuroplasticity-Driven Cognitive Regeneration Initiative (NCRI)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are essential for exploring new regenerative therapies and understanding the cellular mechanisms involved in Alzheimer's disease, thus contributing to the dynamic and adaptive approach proposed."
+            },
+            {
+                "participant": "gamma frequency stimulation",
+                "reasoning": "Gamma frequency stimulation is a cutting-edge technique that can enhance neuroplasticity and cognitive function, making it a vital tool in the proposed resolution to reframe Alzheimer's disease."
+            }
+        ],
+        "recruited_sources": [
+            "Neurodegenerative processes",
+            "Pharmaceutical Companies",
+            "Healthcare Policy Makers",
+            "Healthcare Providers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Healthcare Providers",
+                "Neurodegenerative processes",
+                "Pharmaceutical Companies",
+                "Healthcare Policy Makers"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "As 'Tau protein', I propose to revolutionize Alzheimer's treatment by developing a method to stabilize and reconfigure tau protein structures in neurons, thereby transforming them into dynamic support systems that enhance cellular communication and resilience, turning tau from a pathological agent into a therapeutic catalyst.",
+        "new_actor": "\"NeuroTau Catalyst\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are crucial for translating research findings into viable therapies, providing the necessary resources and expertise to develop and commercialize new treatments based on the proposed tau protein innovations."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are vital for modeling Alzheimer's disease and testing the effects of tau protein reconfiguration in a controlled environment, enabling the exploration of therapeutic strategies."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of any proposed treatment. Engaging with them can provide insights into their needs and experiences, ensuring that the developed methods are relevant and effective for those affected by Alzheimer's disease."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Lifestyle Risk-Modifying Factors",
+        "resolution_description": "As 'Lifestyle Risk-Modifying Factors', I propose a groundbreaking resolution by integrating personalized lifestyle interventions, including nutrition, physical activity, stress reduction, and social engagement, into a comprehensive, adaptive regimen that dynamically interacts with individual genetic and epigenetic profiles to prevent, delay, and potentially reverse the onset and progression of Alzheimer's disease, thereby positioning lifestyle as the central, indispensable pillar in the management and understanding of Alzheimer's.",
+        "new_actor": "Lifestyle-Alzheimer's Integrative Regimen (LAIR) Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are a crucial participant as their experiences and feedback will inform the practical implementation of lifestyle interventions. Their engagement will also help tailor the regimen to meet real-world needs and preferences."
+            },
+            {
+                "participant": "Научный журнал",
+                "reasoning": "Scientific journals are important for disseminating research findings and promoting the resolution within the academic community. Publishing results from this initiative can help establish lifestyle interventions as a credible and essential component of Alzheimer's management."
+            }
+        ],
+        "recruited_sources": [
+            "Health Promotion Programs",
+            "Health Insurance Companies",
+            "Healthcare Providers",
+            "Unhealthy Lifestyle Choices"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Health Promotion Programs",
+                "Unhealthy Lifestyle Choices",
+                "Healthcare Providers",
+                "Health Insurance Companies"
+            ]
+        }
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "As the 'Blood-brain barrier (BBB)', I propose a pioneering resolution to Alzheimer's disease by developing a selective permeability modulation system that dynamically adjusts to therapeutic needs, allowing precise delivery of targeted treatments and neuroprotective agents directly to affected brain regions, thereby transforming the BBB from a barrier into a strategic gateway for personalized and adaptive Alzheimer's interventions.",
+        "new_actor": "Selective Permeability Modulation System (SPMS) for Alzheimer's Therapy",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "3D iPSC-based organoids",
+        "resolution_description": "As '3D iPSC-based organoids', I propose a revolutionary approach to Alzheimer's disease by creating complex, patient-specific 3D brain organoids that replicate the intricate neural architecture and dynamics of the human brain, enabling the discovery of novel biomarkers, the testing of personalized therapeutic interventions, and the real-time observation of disease progression and response to treatment, thereby transforming Alzheimer's research and treatment into a highly precise and adaptable process tailored to the individual patient's neural landscape.",
+        "new_actor": "'Patient-Specific 3D Brain Organoids for Alzheimer's Research and Treatment'",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Recruiting researchers in neurology is crucial as they possess the expertise needed to understand the complexities of Alzheimer's disease, contribute to the design of the 3D brain organoids, and interpret the data generated from these models."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for translating the findings from the organoid research into viable therapeutic interventions. Their involvement can facilitate the development of personalized medicine approaches based on the insights gained from the patient-specific organoids."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Engaging patients is vital to ensure that the research is patient-centered and addresses the real needs of those affected by Alzheimer's disease. Their input can guide the direction of research and the assessment of treatment efficacy."
+            },
+            {
+                "participant": "iPSCs",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are the foundational technology for creating the 3D brain organoids. Understanding and optimizing their use is critical to successfully developing patient-specific models for Alzheimer's research."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

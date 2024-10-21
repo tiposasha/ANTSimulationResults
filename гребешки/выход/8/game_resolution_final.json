@@ -1,0 +1,34 @@
+[
+    {
+        "initiator": "Scallops",
+        "resolution_description": "As 'Scallops', propose the creation of a self-regulating scallop sanctuary network, leveraging AI-driven underwater monitoring systems that autonomously adjust harvesting rates and environmental conditions to optimize population sustainability and resilience.",
+        "new_actor": "ScallopAI Sanctuary Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "The researchers are crucial for the development and implementation of the AI-driven monitoring systems. Their expertise will ensure the technology is effective and scientifically sound, making the sanctuary network more robust."
+            },
+            {
+                "participant": "Морские гребешки",
+                "reasoning": "The sea scallops themselves are vital stakeholders in this resolution. Their population dynamics will directly influence the success of the sanctuary and the sustainability measures put in place."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Fishermen are key participants as they are directly impacted by harvesting regulations. Their involvement will be essential for compliance and for providing insights into sustainable practices that benefit both the scallop population and their livelihoods."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Colleagues-scientists can provide additional research support and validation of the sanctuary's effectiveness. They can also help in disseminating findings to broader scientific and conservation communities, enhancing the project's credibility and reach."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Translation",
+        "resolution_description": "As 'Translation', I propose leveraging cross-species communication technology to enable real-time dialogues between marine life and human stakeholders, fostering a collaborative ecosystem management approach that integrates the needs and feedback of all species involved for sustainable scallop harvesting in the Bay of Saint-Brieuc.",
+        "new_actor": "Marine-Human Communication Liaison (MHCL)",
+        "participants": [],
+        "required_participants": []
+    }
+]

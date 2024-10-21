@@ -1,0 +1,34 @@
+[
+    {
+        "initiator": "consumer",
+        "resolution_description": "Implement a blockchain-based review verification system where consumers earn tokens for submitting verified experiences, incentivizing authenticity and making fake reviews economically disadvantageous.",
+        "new_actor": "VerifiedReviewTokenConsumer",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The founders of the startup are crucial as they possess the vision, technical expertise, and strategic direction needed to implement the blockchain-based review verification system. Their commitment and leadership will be vital to drive the project forward."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourist customers are essential for the success of the review system. Their active participation in submitting verified experiences will ensure a diverse and authentic pool of reviews, incentivizing more users to engage with the platform."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key stakeholders in the review ecosystem. Their buy-in is necessary for the system's acceptance and integration, as they will benefit from authentic reviews that enhance their reputation and attract more customers."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for securing the necessary funding and resources to develop and scale the blockchain-based review verification system. Their support can also lend credibility to the initiative, attracting more participants and users."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Hotel Managers",
+        "resolution_description": "Implement a global \"Reviewer Residency Program\" in hotels, where randomly selected guests are offered complimentary stays in exchange for providing real-time, verified reviews, creating a trusted network of authentic feedback directly from the source.",
+        "new_actor": "Reviewer Residency Guest",
+        "participants": [],
+        "required_participants": []
+    }
+]

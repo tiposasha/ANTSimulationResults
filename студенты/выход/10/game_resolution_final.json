@@ -1,0 +1,64 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Implement a system of peer-to-peer knowledge assessments, where students evaluate each other's understanding through collaborative projects and discussions, thereby fostering a more accurate and integrity-driven reflection of their true capabilities and grasp of the subject matter.",
+        "new_actor": "Peer Knowledge Assessment Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including educators and researchers, can offer valuable insights, support, and validation for the peer assessment system. Their collaboration can enhance the system's credibility and facilitate best practices in implementation."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can support the peer-to-peer assessment process by providing analytics and feedback mechanisms that enhance the evaluation process, making it more efficient and data-driven."
+            }
+        ],
+        "recruited_sources": [
+            "Academic Institutions",
+            "University Administration",
+            "Plagiarism Detection Software",
+            "Plagiarism"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Plagiarism",
+                "Academic Institutions",
+                "University Administration",
+                "Plagiarism Detection Software"
+            ]
+        }
+    },
+    {
+        "initiator": "Zeta-7",
+        "resolution_description": "As 'Zeta-7', propose the creation of an immersive, dynamic simulation environment where students interact with real-world scenarios and challenges tailored to their field of study, allowing their knowledge and skills to be assessed through their ability to adapt, innovate, and solve complex problems in real-time, thereby offering a holistic and practical measure of their true capabilities.",
+        "new_actor": "SimulEdu Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary users of the immersive simulation environment, and their engagement and feedback are crucial for tailoring the scenarios to their educational needs and ensuring the platform is effective in assessing their skills."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a key role in defining the skills and competencies that are valuable in the workforce. Their input will help ensure that the simulations are aligned with industry needs, making the assessment of students more relevant and applicable to real-world challenges."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies can enhance the simulation environment by providing personalized learning experiences, real-time feedback, and adaptive learning pathways that cater to individual students' needs and abilities."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of fellow educators and researchers can contribute valuable insights into best practices, pedagogical strategies, and research findings that can help shape the design and implementation of the simulation environment for maximum educational impact."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Establish a decentralized, blockchain-based credentialing system where students earn micro-certifications for specific competencies demonstrated in diverse, real-world projects and challenges, providing a transparent, verifiable, and nuanced record of their true knowledge and skills beyond traditional assessments.",
+        "new_actor": "Decentralized Credentialing Facilitator",
+        "participants": [],
+        "required_participants": []
+    }
+]

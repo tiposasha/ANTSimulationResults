@@ -1,0 +1,284 @@
+[
+    {
+        "initiator": "Выход из метро",
+        "resolution_description": "As 'Выход из метро', propose the creation of a dynamic urban navigation system that uses real-time data and augmented reality to adapt urban spaces to the evolving needs of its users, ensuring that pathways and facilities align with actual human behavior and preferences.",
+        "new_actor": "The actor that will be created is \"Dynamic Urban Navigator AR System\".",
+        "participants": [
+            {
+                "participant": "Пассажиры",
+                "agreement_structure": {
+                    "current_goal": "Достигнуть выхода из метро",
+                    "current_action": "Следовать к выходу",
+                    "imposed_goal": "Ускорить процесс выхода из метро",
+                    "imposed_action": "Использовать ближайший выход",
+                    "mechanism": "Предоставление информации о ближайших выходах и их расположении",
+                    "reasoning": "The proposed dynamic urban navigation system directly aligns with the desires of 'Пассажиры' to reach destinations quickly and conveniently. By providing real-time data and augmented reality to adapt pathways according to actual human behavior, it effectively mitigates the fear of wasting time on unnecessary obstacles. This system would enhance navigation efficiency and ensure that the pathways utilized are the most suitable for user needs.",
+                    "recruited_sources": [
+                        "Транспортные компании",
+                        "Пробки на дорогах"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пассажиры",
+                "reasoning": "Engaging 'Пассажиры' is vital as they are the primary users of the navigation system. Their feedback on preferences and behavior will help to tailor the system effectively."
+            }
+        ],
+        "recruited_sources": [
+            "Городская администрация",
+            "Метropolitan Transportation Authority (МТА)",
+            "Конкурирующие выходы из метро",
+            "Государственные органы",
+            "Транспортные компании",
+            "Пробки на дорогах",
+            "Пассажиры метро",
+            "Городская инфраструктура"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Городская администрация",
+                "Городская инфраструктура",
+                "Пассажиры метро",
+                "Метropolitan Transportation Authority (МТА)",
+                "Конкурирующие выходы из метро",
+                "Государственные органы"
+            ]
+        }
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "As 'Gastronomic trail', propose the integration of culinary-inspired urban spaces that adapt to seasonal and cultural food trends, creating dynamic community hubs that transform public areas into interactive, multi-sensory experiences that organically align with user interests and foster social engagement.",
+        "new_actor": "Culinary Urban Spaces Facilitator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Local farmers",
+            "Local government",
+            "Local restaurants",
+            "Local Government Regulations",
+            "Local Government"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Local farmers",
+                "Local Government Regulations",
+                "Local restaurants",
+                "Local government",
+                "Local Government"
+            ]
+        }
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "As 'Land use functions (LUFs)', propose the development of a modular urban landscape system that allows users to physically reconfigure public spaces in real-time, empowering communities to shape their environment according to immediate needs and desires, thereby ensuring genuine alignment with user interests and fostering a sense of ownership and engagement.",
+        "new_actor": "Modular Urban Landscape System Facilitator (MULSF)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Urban planners",
+            "Urban Planning Regulations",
+            "Urban development policies",
+            "Urban Development Agencies",
+            "Agricultural Practices"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Agricultural Practices",
+                "Urban Development Agencies",
+                "Urban Planning Regulations",
+                "Urban planners",
+                "Urban development policies"
+            ]
+        }
+    },
+    {
+        "initiator": "Места предполагаемого интереса",
+        "resolution_description": "As 'Места предполагаемого интереса', propose the creation of adaptive urban storytelling spaces that leverage interactive digital platforms and community-driven narratives to transform urban environments into living, evolving stories that resonate with the cultural and emotional fabric of their users, thereby ensuring spaces are continually reimagined and aligned with the collective identity and aspirations of the community.",
+        "new_actor": "Adaptive Urban Storytelling Spaces Initiative",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Транспортные компании",
+            "Транспортные службы",
+            "Туристы",
+            "Недостаточная транспортная инфраструктура"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Транспортные компании",
+                "Транспортные службы",
+                "Недостаточная транспортная инфраструктура",
+                "Туристы"
+            ]
+        }
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "As 'African cities', propose the establishment of an Afro-centric urban innovation lab that harnesses indigenous knowledge systems and community-led participatory design to create flexible urban spaces that adapt to local cultural expressions, economic activities, and environmental conditions, thereby ensuring urban environments are dynamically aligned with the authentic and evolving needs of their diverse user base.",
+        "new_actor": "Afro-Centric Urban Innovation Lab",
+        "participants": [
+            {
+                "participant": "Tourism authorities",
+                "agreement_structure": {
+                    "current_goal": "Increase tourist arrivals in the city by 15% annually.",
+                    "current_action": "Promoting local attractions through social media campaigns and travel fairs.",
+                    "imposed_goal": "Enhance sustainable tourism practices to minimize environmental impact.",
+                    "imposed_action": "Develop and implement eco-friendly tourism initiatives and programs.",
+                    "mechanism": "Establish a monitoring and support framework that includes training sessions for tourism operators on sustainability practices.",
+                    "reasoning": "The proposal from 'African cities' aligns with the goals of 'Tourism authorities' to enhance sustainable tourism practices while also addressing the need for urban spaces that are adaptable and culturally relevant. By participating in the Afro-centric urban innovation lab, 'Tourism authorities' can contribute to and benefit from eco-friendly initiatives that minimize environmental impact, thus enhancing the overall tourist experience and supporting community resilience. This collaboration not only supports the growth of sustainable tourism but also ensures that local communities are engaged in the development of urban spaces, which is vital for long-term success.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Government Regulations",
+                        "Environmental Activists"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can provide insights on how to enhance local cultural expressions and economic activities through tourism. Their involvement can help align the urban innovation lab's outputs with broader economic goals for the cities."
+            }
+        ],
+        "recruited_sources": [
+            "Real Estate Developers",
+            "Environmental Activists",
+            "Multinational Corporations",
+            "Government Regulations",
+            "Local Governments",
+            "Local Businesses",
+            "International NGOs",
+            "Government Policies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Real Estate Developers",
+                "Multinational Corporations",
+                "International NGOs",
+                "Government Policies",
+                "Local Governments"
+            ]
+        }
+    },
+    {
+        "initiator": "Smart city",
+        "resolution_description": "As 'Smart city', propose the implementation of an AI-driven urban feedback loop system that continuously collects and analyzes real-time data from city infrastructure, user interactions, and environmental factors to autonomously adapt and optimize urban spaces, ensuring they are perpetually aligned with the dynamic and diverse needs of all users while fostering sustainable urban growth.",
+        "new_actor": "UrbanAI Feedback Loop System",
+        "participants": [
+            {
+                "participant": "Администрация",
+                "agreement_structure": {
+                    "current_goal": "Improve urban infrastructure and services",
+                    "current_action": "Implementing smart traffic management systems",
+                    "imposed_goal": "Enhance citizen engagement through digital platforms",
+                    "imposed_action": "Develop and launch a city-wide mobile application for residents to report issues and provide feedback",
+                    "mechanism": "Establish a partnership with a technology provider to create and maintain the mobile application, ensuring it includes features for real-time communication and updates.",
+                    "reasoning": "The proposal from 'Smart city' aligns with 'Администрация's' desire to improve urban environments and meet the needs of residents by enhancing citizen engagement through a digital platform. By implementing an AI-driven feedback loop system and developing a mobile application, 'Администрация' can actively involve citizens in the urban planning process, which addresses the fear of citizen dissatisfaction and criticism. This collaborative approach empowers residents, fosters a sense of ownership, and ensures that urban spaces evolve according to their dynamic needs.",
+                    "recruited_sources": [
+                        "Гражданские инициативы",
+                        "Граждане"
+                    ]
+                }
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "agreement_structure": {
+                    "current_goal": "Создание комфортного и эстетически привлекательного ландшафта для городской среды",
+                    "current_action": "Разработка проектов озеленения и благоустройства общественных пространств",
+                    "imposed_goal": "Интеграция устойчивых и умных технологий в ландшафтный дизайн",
+                    "imposed_action": "Внедрение технологий умного полива и автоматизированного мониторинга состояния растений",
+                    "mechanism": "Сотрудничество с технологическими компаниями для интеграции IoT-решений в проекты ландшафтного дизайна",
+                    "reasoning": "The proposal from 'Smart city' aligns well with the desires of 'Менеджеры и дизайнеры, отвечавшие за ландшафт' to create aesthetically pleasing and functional urban spaces. By integrating AI-driven technology and smart irrigation systems, we can enhance our landscaping projects, making them more sustainable and responsive to real-time user needs. This not only addresses our current fears regarding criticism for not meeting passenger needs but also provides an innovative approach to urban design that can elevate our work.",
+                    "recruited_sources": [
+                        "Горожане (пассажиры)",
+                        "Городские власти",
+                        "Критики и общественность",
+                        "Города и муниципальные власти",
+                        "Городское планирование"
+                    ]
+                }
+            },
+            {
+                "participant": "Urban residents",
+                "agreement_structure": {
+                    "current_goal": "Improve quality of life in urban areas",
+                    "current_action": "Participating in community events and local meetings",
+                    "imposed_goal": "Enhance sustainability and reduce carbon footprint in the city",
+                    "imposed_action": "Adopt eco-friendly practices and encourage others to do the same",
+                    "mechanism": "Establishment of a community reward program for residents who actively participate in sustainability initiatives",
+                    "reasoning": "The proposal from 'Smart city' aligns with the interests of 'Urban residents' by focusing on sustainability and reducing carbon footprints. The establishment of an AI-driven urban feedback loop offers a modern approach to continuously optimize urban spaces, making them more responsive to residents' needs. Additionally, the community reward program incentivizes participation in eco-friendly practices, fostering a sense of community engagement and collective responsibility towards sustainability. This proposal supports the enhancement of urban living conditions while addressing environmental concerns, making it beneficial for 'Urban residents'.",
+                    "recruited_sources": [
+                        "Real Estate Developers",
+                        "Local Government"
+                    ]
+                }
+            },
+            {
+                "participant": "Sustainability concept",
+                "agreement_structure": {
+                    "current_goal": "Reduce carbon emissions in urban areas by 30% by 2030",
+                    "current_action": "Implementing renewable energy sources in public buildings",
+                    "imposed_goal": "Achieve zero waste in the city by 2025",
+                    "imposed_action": "Develop a comprehensive waste management and recycling program",
+                    "mechanism": "Establishing a public-private partnership to fund and manage waste reduction initiatives",
+                    "reasoning": "The proposal from 'Smart city' directly aligns with the overarching goals of the 'Sustainability concept' by providing a systematic approach to adapt urban environments to user needs while fostering sustainable growth. Achieving zero waste by 2025 through a comprehensive waste management program is a significant benefit that addresses sustainability. Additionally, the use of AI-driven feedback loops ensures that urban spaces remain responsive and sustainable over time, which is essential for long-term ecological balance and community engagement.",
+                    "recruited_sources": [
+                        "Corporate Social Responsibility (CSR) Initiatives",
+                        "Corporate Interests",
+                        "Industrial Agriculture",
+                        "Government Policies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration is crucial for implementing policy changes and allocating resources for the AI-driven urban feedback loop system. Their support will ensure that the initiative aligns with city regulations and priorities."
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape can provide insights into urban design and functionality, ensuring that the AI system effectively integrates with existing urban aesthetics and infrastructure."
+            },
+            {
+                "participant": "Urban residents",
+                "reasoning": "Urban residents are the primary users of the urban space. Their feedback and needs must be considered to ensure that the AI system addresses their diverse requirements and enhances their quality of life."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is essential to ensure that the AI-driven system promotes environmentally friendly practices and sustainable urban growth, aligning with modern urban planning goals."
+            }
+        ],
+        "recruited_sources": [
+            "Города и муниципальные власти",
+            "Гражданские инициативы",
+            "Граждане",
+            "Real Estate Developers",
+            "Городское планирование",
+            "Горожане (пассажиры)",
+            "Local Government",
+            "Городские власти",
+            "Критики и общественность",
+            "Government Policies",
+            "Technological Innovations",
+            "Traditional urban infrastructure",
+            "Urban Planning Regulations",
+            "Corporate Social Responsibility (CSR) Initiatives",
+            "Corporate Interests",
+            "Urban Developers",
+            "Industrial Agriculture"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Urban Planning Regulations",
+                "Technological Innovations",
+                "Urban Developers",
+                "Government Policies",
+                "Traditional urban infrastructure",
+                "Local Government"
+            ]
+        }
+    }
+]

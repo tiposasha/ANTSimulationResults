@@ -1,0 +1,59 @@
+[
+    {
+        "initiator": "population of sea scallops",
+        "resolution_description": "\"Implement a symbiotic aquaculture system where sea scallops cultivate and protect their own habitat by promoting the growth of seaweed and other marine life that enhance nutrient recycling and provide natural protection against predators, thereby ensuring sustainable population recovery and resilience.\"",
+        "new_actor": "Symbiotic Scallop Steward",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "Researchers are essential as they possess the scientific knowledge and expertise needed to design and implement the symbiotic aquaculture system effectively. Their role is crucial in studying the interactions between sea scallops, seaweed, and other marine life to ensure the system is sustainable and beneficial."
+            },
+            {
+                "participant": "Морские гребешки",
+                "reasoning": "The sea scallops themselves are vital stakeholders in this resolution. Their natural behaviors and interactions with their habitat will be key to the success of the proposed aquaculture system, especially in promoting the growth of seaweed and other marine life."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Fishermen are important participants as they are directly impacted by the health of the sea scallop population. Their involvement can provide practical insights and support for sustainable practices, ensuring that the resolution aligns with their economic interests and promotes cooperation."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Colleague scientists are necessary to create a collaborative network that enhances research and development efforts. Their collective expertise can help refine the aquaculture system and ensure a multidisciplinary approach, integrating various scientific fields for better outcomes."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Scallops",
+        "resolution_description": "\"Scallops proposes the creation of an innovative, AI-driven underwater monitoring and management system that autonomously adjusts harvesting practices based on real-time population dynamics and environmental conditions, ensuring sustainable scallop populations while maximizing ecological and economic benefits.\"",
+        "new_actor": "AquaScallop AI Manager",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Translation",
+        "resolution_description": "\"Translation proposes the development of a cross-species communication platform that empowers scallops to signal their population health and environmental needs directly to human stakeholders, enabling a collaborative and responsive management approach that ensures sustainable harvesting practices and mutual ecological benefits.\"",
+        "new_actor": "Scallop-Human Communication Liaison (SHCL)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Морские гребешки",
+                "reasoning": "Mорские гребешки (scallops) are essential participants as they are the primary species that will benefit from the proposed communication platform. Their ability to signal their population health and environmental needs is crucial for the success of the initiative."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Рыбаки (fishermen) are critical stakeholders in this resolution as they play a direct role in the harvesting of scallops. Engaging them ensures that the management practices are aligned with sustainable harvesting and that they are responsive to the signals communicated by the scallops."
+            },
+            {
+                "participant": "Три исследователя",
+                "reasoning": "Три исследователя (three researchers) are important for developing the technological framework for the cross-species communication platform. Their expertise will be vital in ensuring that the system is scientifically sound and effective in translating scallop signals."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Коллеги-ученые (colleague scientists) are necessary to provide interdisciplinary insights and validation of the project. Their involvement can enhance the credibility and functionality of the communication platform, ensuring that it meets ecological and scientific standards."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

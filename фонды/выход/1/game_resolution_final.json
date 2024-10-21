@@ -1,0 +1,186 @@
+[
+    {
+        "initiator": "Sentiment analysis techniques",
+        "resolution_description": "Utilize sentiment analysis to create a real-time, transparent platform that detects and publicizes market manipulation by large financial funds, empowering individual investors with timely insights and fostering a fairer trading environment.",
+        "new_actor": "Market Sentiment Transparency Platform (MSTP)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is crucial for enforcing regulations and ensuring compliance in the financial markets. Their involvement would lend credibility to the sentiment analysis platform and help establish legal frameworks to combat market manipulation."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary beneficiaries of the proposed platform. Empowering them with real-time insights will help level the playing field against larger financial funds, which often engage in manipulative practices."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Брокеры (brokers) play a key role in facilitating trades and can integrate the sentiment analysis insights into their services. Their collaboration would enhance the platform's accessibility and usability for individual investors."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Volume",
+        "resolution_description": "Resolution: Implement a decentralized autonomous organization (DAO) that leverages blockchain technology to pool individual investor resources, collectively invest in diverse opportunities, and democratically vote on strategies, thereby leveling the playing field with large financial funds and ensuring transparent, equitable profit distribution.",
+        "new_actor": "Decentralized Investment Collective DAO (DIC-DAO)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', develop a quantum computing-based predictive algorithm that offers individual investors unparalleled market foresight and decision-making power, thereby disrupting the dominance of large financial funds and ensuring equitable access to market opportunities.",
+        "new_actor": "QuantumPredictorXG-9",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Recruiting 'Мелкие инвесторы' (small investors) is essential as they are the primary beneficiaries of the predictive algorithm, which aims to empower them with better market insights and decision-making capabilities."
+            }
+        ],
+        "recruited_sources": [
+            "Resource Management System",
+            "Energy Source",
+            "Research Institutions",
+            "Corporate Governance Board",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Corporate Governance Board",
+                "Regulatory Bodies",
+                "Energy Source",
+                "Resource Management System",
+                "Research Institutions"
+            ]
+        }
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "Initiator: Informed party (I), Resolution: Develop a global collaborative intelligence platform that harnesses the collective knowledge and predictive insights of individual investors, providing them with advanced analytics and strategic guidance tailored to personal investment goals, thereby democratizing financial expertise and diminishing the asymmetric advantage of large financial funds.",
+        "new_actor": "Global Collaborative Investment Intelligence (GCII) Platform",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary beneficiaries of the proposed collaborative intelligence platform. Their participation is crucial as they represent the target audience that the platform aims to empower by democratizing access to financial expertise."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forum) serves as a significant community for small investors to share insights and information. Engaging this platform can facilitate the spread of the collaborative intelligence tool and enhance community-driven knowledge sharing."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) is a critical data point that the platform will analyze. Integrating real-time stock price information will enable the platform to provide relevant analytics and advice tailored to users' investment goals."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', establish a dynamic, AI-driven investment cooperative that leverages collective bargaining power to negotiate favorable terms and access exclusive investment opportunities traditionally reserved for large financial funds, thereby empowering individual investors with unique advantages and fostering a more equitable financial ecosystem.",
+        "new_actor": "CollectiveAI Investment Cooperative",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Recruiting 'Мелкие инвесторы' (small investors) is crucial as they form the core of the investment cooperative. Their collective participation will enhance bargaining power and ensure that the cooperative serves the interests of individual investors."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Engaging the 'Форум Reddit' (Reddit forum) is important for community building and spreading awareness about the cooperative. This platform can mobilize users, share knowledge, and attract potential members from various backgrounds, amplifying the cooperative's reach."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The 'WallStreetBets community' has demonstrated significant influence in the financial markets and can provide a robust support network. Their engagement can help in mobilizing investment and fostering a culture of collaboration among individual investors."
+            }
+        ],
+        "recruited_sources": [
+            "Market Dynamics",
+            "Financial Analysts",
+            "Market Competitors",
+            "Market Analysts",
+            "Market Trends",
+            "Traditional Financial Analysts"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Dynamics",
+                "Market Analysts",
+                "Market Competitors",
+                "Market Trends",
+                "Traditional Financial Analysts",
+                "Financial Analysts"
+            ]
+        }
+    },
+    {
+        "initiator": "Regulatory authorities",
+        "resolution_description": "As 'Regulatory authorities', introduce a global financial ecosystem certification program that mandates large financial funds to obtain a \"Fair Trade Investment\" certification, contingent upon their demonstrated commitment to ethical trading practices, transparent operations, and equitable profit-sharing mechanisms with individual investors, thereby transforming market dynamics and ensuring a more inclusive financial environment.",
+        "new_actor": "Global Fair Trade Investment Certification Authority",
+        "participants": [
+            {
+                "participant": "Хедж-фонды",
+                "agreement_structure": {
+                    "current_goal": "Maximize returns for investors",
+                    "current_action": "Investing in high-risk, high-reward financial instruments",
+                    "imposed_goal": "Ensure compliance with regulatory standards and reduce systemic risk",
+                    "imposed_action": "Implement a risk management framework and report risk exposure regularly",
+                    "mechanism": "Establishing a compliance monitoring system with regular audits and penalties for non-compliance",
+                    "reasoning": "The proposed certification program aligns with 'Хедж-фонды' desires to maximize returns by enabling a more stable and ethically sound investment environment. By adhering to regulatory standards and improving transparency, 'Хедж-фонды' can reduce systemic risks associated with high-risk investments, ultimately protecting against significant losses from unpredictable actions by smaller investors. Additionally, the commitment to equitable profit-sharing may enhance investor trust and participation, leading to more robust capital inflows."
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) plays a critical role in regulating financial markets and ensuring compliance with ethical trading practices. Their involvement would lend credibility to the 'Fair Trade Investment' certification program and help enforce adherence to the proposed guidelines."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors are the primary stakeholders who stand to benefit from a more inclusive financial environment. Their support and feedback will be essential in shaping the certification program and ensuring it meets their needs and expectations."
+            },
+            {
+                "participant": "Хедж-фонды",
+                "reasoning": "Hedge funds are significant players in the financial landscape, and their participation in the certification program would be crucial for its success. Their adoption of ethical trading practices could set a precedent for other funds and influence market dynamics."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors represent a large segment of the market that is often marginalized. Their inclusion in the certification program will ensure that the program addresses their concerns and promotes equitable profit-sharing, ultimately leading to a more balanced financial ecosystem."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Herding Measure",
+        "resolution_description": "As 'Herding Measure,' establish a global investment cooperative platform that utilizes advanced behavioral economics to dynamically align the collective decision-making of individual investors, creating a powerful, self-regulating market force capable of counterbalancing and negotiating with large financial funds, thereby ensuring equitable market access and opportunities for all participants.",
+        "new_actor": "Global Behavioral Investment Cooperative (GBIC)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Liquidity",
+        "resolution_description": "As 'Liquidity', develop a revolutionary peer-to-peer liquidity protocol that instantly matches individual investor trades with counterbalancing positions across a global network, bypassing traditional financial intermediaries and large funds, thereby democratizing market access and ensuring equitable trading opportunities for all participants.",
+        "new_actor": "\"EquiTradeNet\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the peer-to-peer liquidity protocol as they represent the primary users who will benefit from the democratization of market access. Their participation is essential to create a robust trading ecosystem that encourages widespread adoption and engagement."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) is a fundamental aspect of the liquidity protocol, as the platform needs to provide accurate and real-time pricing information to facilitate effective trade matching. Understanding market prices will help ensure that trades are executed fairly and transparently."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood is a significant player in the retail trading space and has a large user base of small investors. Collaborating with Robinhood can help integrate the protocol into an existing trading platform, enhancing accessibility and attracting more participants to the new liquidity model."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is influential in shaping market dynamics and sentiment among retail investors. Engaging with this community can drive interest and participation in the peer-to-peer liquidity protocol, as they are known for their active trading behaviors and willingness to explore innovative financial solutions."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

@@ -1,0 +1,435 @@
+[
+    {
+        "entity": "Пользователи",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Производители компьютеров",
+            "Компьютерные компании",
+            "Торговые платформы"
+        ],
+        "denied_sources": [
+            "Образовательные учреждения",
+            "Технологические консультанты",
+            "Интернет-сообщества и форумы",
+            "Финансовые институты",
+            "Производители программного обеспечения",
+            "Инвесторы в технологии",
+            "Государственные органы",
+            "Конкуренты на рынке",
+            "Поставщики комплектующих",
+            "Поставщики технологий",
+            "Государственные регуляторы",
+            "Технологические тренды",
+            "Технологические компании",
+            "Регуляторы рынка",
+            "Дистрибьюторы электроники",
+            "Общественное мнение",
+            "Технологические инновации"
+        ]
+    },
+    {
+        "entity": "Computer",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Software Developers",
+            "Software Applications",
+            "Software",
+            "Human Programmer"
+        ],
+        "denied_sources": [
+            "Power Supply",
+            "Cloud Computing Services",
+            "Educational Institutions",
+            "Software Development Companies",
+            "Peripheral Devices (e.g., Printers, Scanners)",
+            "Network Infrastructure",
+            "Peripheral Device Manufacturers",
+            "Cybersecurity Firms",
+            "Cybercriminals",
+            "Users/Operators",
+            "Data Storage Solutions (e.g., Hard Drives, Cloud Services)",
+            "Digital Security Experts",
+            "Users (Human Operators)",
+            "Manufacturers",
+            "Users",
+            "Computer Maintenance Technicians",
+            "User",
+            "Operating System",
+            "Internet Connectivity",
+            "Internet Service Providers (ISPs)",
+            "Hardware Components"
+        ]
+    },
+    {
+        "entity": "non-von Neumann architectures",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Advancements in Quantum Computing",
+            "Parallel Processing Technologies",
+            "Software Developers",
+            "Software developers",
+            "Corporate investment",
+            "Quantum Computing"
+        ],
+        "denied_sources": [
+            "AI Research Community",
+            "Open-source Communities",
+            "Artificial Intelligence Applications",
+            "Public perception",
+            "Educational institutions",
+            "Educational Institutions",
+            "Neuromorphic Computing Systems",
+            "Quantum Computing Systems",
+            "Government Policies on Technology",
+            "Traditional von Neumann Architectures",
+            "Industry Standards Organizations",
+            "von Neumann architectures",
+            "Hardware manufacturers",
+            "Machine Learning Algorithms",
+            "Government regulations",
+            "Industry Leaders in Computing Technology",
+            "Hardware Manufacturers",
+            "End-users",
+            "Distributed Computing Networks",
+            "Research institutions",
+            "Traditional von Neumann architectures",
+            "Research Institutions and Universities",
+            "Von Neumann Architecture",
+            "Open Source Communities"
+        ]
+    },
+    {
+        "entity": "Производители стандартизированных компонентов",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Регуляторные органы",
+            "Поставщики сырья",
+            "Регуляторы стандартов",
+            "Конкуренты на рынке стандартных компонентов"
+        ],
+        "denied_sources": [
+            "Клиенты (конечные пользователи)",
+            "Поставщики компонентов",
+            "Технологические новшества",
+            "Потребители",
+            "Клиенты",
+            "Конкурирующие производители",
+            "Регуляторы и стандартизирующие организации",
+            "Инновационные стартапы в области технологий",
+            "Технологические тренды",
+            "Государственные регуляторы",
+            "Конкуренты",
+            "Клиенты и конечные пользователи",
+            "Разработчики технологий",
+            "Технологические партнеры",
+            "Конкуренты на рынке"
+        ]
+    },
+    {
+        "entity": "Computer technology",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Software Development Community",
+            "Regulatory Bodies",
+            "Software Developers",
+            "Software Development Industry",
+            "Software Development Platforms",
+            "Local businesses"
+        ],
+        "denied_sources": [
+            "Healthcare Industry",
+            "Artificial Intelligence",
+            "E-commerce Platforms",
+            "Privacy advocates",
+            "Smart Devices and IoT",
+            "Consumers",
+            "Hardware Manufacturers",
+            "Traditional printing technology",
+            "Education Sector",
+            "Face-to-face communication",
+            "Businesses",
+            "Educational Institutions",
+            "Cybersecurity Experts",
+            "Information monopolies (e.g., traditional media companies)",
+            "Network Infrastructure",
+            "Open Source Communities",
+            "Cybercriminals",
+            "User Communities"
+        ]
+    },
+    {
+        "entity": "TX-0 computer",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Software Applications",
+            "Electricity Grid",
+            "Software Updates",
+            "Software developers",
+            "Power Supply Unit (PSU)"
+        ],
+        "denied_sources": [
+            "Power Supply",
+            "Peripheral Devices (e.g., printers, scanners)",
+            "Data security protocols",
+            "User Interface Design",
+            "User Behavior",
+            "Data Centers",
+            "Network Infrastructure",
+            "Power Supply Units",
+            "Peripheral Devices",
+            "Users/Operators",
+            "Competitive Technology (e.g., newer computers)",
+            "End-users",
+            "Cloud Services",
+            "Traditional computing methods",
+            "Network Connectivity",
+            "Malware",
+            "Maintenance Protocols",
+            "Programming Language",
+            "Environmental Factors (e.g., temperature, humidity)",
+            "User Interaction",
+            "Legacy hardware manufacturers",
+            "Hardware Components"
+        ]
+    },
+    {
+        "entity": "Разработчики программного обеспечения",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Инвесторы и финансирующие организации",
+            "Платформы распространения приложений",
+            "Платформы для разработки приложений (например, Android, iOS)",
+            "Клиенты",
+            "Платформы (например, App Store, Google Play)"
+        ],
+        "denied_sources": [
+            "Пользователи",
+            "Разработчики инструментов и библиотек (например, фреймворки, API)",
+            "Конкуренты на рынке приложений",
+            "Сообщество разработчиков и профессиональные организации",
+            "Технологические платформы",
+            "Технологические тренды (например, искусственный интеллект, блокчейн)",
+            "Регуляторы и стандарты",
+            "Технологические поставщики (например, облачные сервисы, инструменты разработки)",
+            "Пользователи приложений",
+            "Конкуренты разработчиков",
+            "Сообщество разработчиков",
+            "Инвесторы",
+            "Технологические тренды",
+            "Платформы",
+            "Конкуренты",
+            "Платформы разработки приложений (например, Android, iOS)",
+            "Конкуренты в сфере разработки приложений"
+        ]
+    },
+    {
+        "entity": "XG-9",
+        "status": "Stable but not prosperous",
+        "details": {
+            "prosperity": false,
+            "stability": true,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Competitor YZ-7",
+            "Supply Chain Partners",
+            "AI Development Community",
+            "Market Demand",
+            "Manufacturing Unit",
+            "Regulatory Bodies"
+        ],
+        "denied_sources": [
+            "Data Privacy Advocates",
+            "Economic Conditions",
+            "Corporate Competitors",
+            "Technological Advancements",
+            "User Community",
+            "Tech Investors",
+            "Supplier Network",
+            "Regulatory Body",
+            "Technology Providers",
+            "Research and Development Team",
+            "End Users",
+            "Customers",
+            "Consumer Preferences",
+            "Industry Analysts",
+            "Competitors",
+            "Regulatory Body ABC",
+            "Consumer Base"
+        ]
+    },
+    {
+        "entity": "Производитель компьютеров",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Поставщики комплектующих",
+            "Конкуренты (например, другие производители компьютеров)",
+            "Поставщики компонентов"
+        ],
+        "denied_sources": [
+            "Технологические тренды (например, облачные технологии, искусственный интеллект)",
+            "Технологические партнеры (разработчики ПО)",
+            "Конкуренты на рынке ПК",
+            "Конкуренты",
+            "Потребители персональных компьютеров",
+            "Технологические партнеры",
+            "Клиенты",
+            "Конкуренты на рынке",
+            "Потребители и их предпочтения",
+            "Технологические новшества",
+            "Регуляторы и правительственные органы",
+            "Дистрибьюторы и ритейлеры",
+            "Потребители",
+            "Государственные регуляторы",
+            "Технологические партнеры и исследовательские организации",
+            "Регуляторные органы",
+            "Регуляторы и стандартизирующие органы",
+            "Законодательные и регулирующие органы"
+        ]
+    },
+    {
+        "entity": "IBM",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Cloud Service Providers",
+            "Cloud Computing Platforms",
+            "Small IT Startups",
+            "Cloud Computing Providers",
+            "Emerging Technologies (e.g., AI, Quantum Computing)"
+        ],
+        "denied_sources": [
+            "Academic Institutions",
+            "Competitors in AI Space (e.g., Google, Amazon)",
+            "Enterprise Clients",
+            "Data Privacy Advocates",
+            "Regulatory Bodies",
+            "Microsoft",
+            "Supply Chain Partners",
+            "Business Partners and Resellers",
+            "Customer Demands",
+            "Regulatory Authorities",
+            "Software Development Companies",
+            "Software Development Communities",
+            "Cloud Computing Competitors",
+            "Open Source Communities",
+            "Competitors",
+            "Research Institutions"
+        ]
+    },
+    {
+        "entity": "Компании-клоны",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Поставщики комплектующих",
+            "Технологические партнеры",
+            "Производители комплектующих",
+            "Законодательные органы"
+        ],
+        "denied_sources": [
+            "Технологические ассоциации",
+            "Торговые сети",
+            "Регуляторы и юридические органы",
+            "Научные исследования и разработки",
+            "Поставщики компонентов",
+            "Торговые платформы",
+            "Крупные производители компьютерной техники",
+            "Потребители",
+            "Рынок потребителей",
+            "Технологические изменения",
+            "Конкуренты",
+            "Правительственные органы",
+            "Законодательство о патентах",
+            "Конкуренты на рынке",
+            "Технологические инновации"
+        ]
+    },
+    {
+        "entity": "IBM Corporation",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Cloud Service Providers",
+            "Microsoft Corporation",
+            "Cloud Computing Services Providers",
+            "Cloud Computing Providers",
+            "Global Technology Infrastructure",
+            "Corporate Clients"
+        ],
+        "denied_sources": [
+            "Enterprise Clients",
+            "End-Users (Businesses using IBM products)",
+            "Artificial Intelligence Technologies",
+            "Software Development Companies",
+            "Cloud Computing Competitors",
+            "Small Software Startups",
+            "Market Competition",
+            "Strategic Partnerships",
+            "Open Source Communities",
+            "Traditional IT Consulting Firms",
+            "Open-source Software Communities",
+            "Technological Innovation",
+            "Competitors (e.g., Microsoft, Oracle)",
+            "Academic Institutions",
+            "Competitors (e.g., Oracle, SAP)",
+            "Research Institutions",
+            "Open Source Community",
+            "Emerging Technologies (e.g., AI, Quantum Computing)",
+            "Software Development Firms",
+            "Regulatory Bodies"
+        ]
+    }
+]

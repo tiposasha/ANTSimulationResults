@@ -1,0 +1,128 @@
+[
+    {
+        "initiator": "Volume",
+        "resolution_description": "Leverage blockchain technology to create a decentralized investment platform that transparently pools individual investor resources, allowing them to collectively influence market movements and counterbalance the power of large financial funds through democratic decision-making and automated smart contracts.",
+        "new_actor": "Decentralized Investment Collective (DIC)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', I propose to develop an AI-driven predictive analytics platform that autonomously evaluates and executes micro-investments across diverse markets in real-time, optimizing individual investor returns by leveraging advanced machine learning algorithms to outpace and adapt to strategies employed by large financial funds.",
+        "new_actor": "The actor created would be named \"AIPredictInvestBot.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Recruiting Мелкие инвесторы (small investors) is crucial as they are the primary users of the AI-driven predictive analytics platform. Their engagement will validate the platform's effectiveness and drive adoption."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for gauging market sentiment and trends, which can be integrated into the predictive algorithms to enhance investment decisions."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', I propose the establishment of a global, cooperative financial education and empowerment initiative that equips individual investors with cutting-edge financial literacy tools, personalized mentorship from financial experts, and access to exclusive investment opportunities traditionally available only to large funds, thereby democratizing financial knowledge and leveling the investment playing field.",
+        "new_actor": "Global Financial Empowerment Initiative (GFEI)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the creation of a quantum computing-based investment prediction platform that leverages quantum algorithms to analyze complex financial data at unprecedented speeds, providing individual investors with predictive insights and strategic recommendations that enable them to anticipate and counter large fund maneuvers before they occur, thus leveling the investment playing field.",
+        "new_actor": "QuantumPredict InvestAI",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the platform as they are the primary target audience. By providing them with predictive insights and strategic recommendations, the platform can empower small investors to make informed decisions and compete against larger funds."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (the price of the company’s stocks) is a fundamental data point that the quantum computing platform will analyze. Understanding stock price movements will be vital to developing accurate predictive insights for investors."
+            },
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is important to ensure that the platform operates within legal and regulatory frameworks. Gaining their support or compliance can enhance the credibility of the platform and protect it from potential legal challenges."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "SEC (U.S. Securities and Exchange Commission)",
+        "resolution_description": "As the SEC, I propose the creation of a publicly accessible, AI-enhanced regulatory platform that dynamically analyzes and rates the fairness of financial markets in real-time, providing individual investors with actionable insights and alerting them to potential manipulative activities by large financial funds, thereby fostering a more equitable and transparent investment landscape.",
+        "new_actor": "AI-Enhanced Market Fairness Analyzer (AEMFA)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Recruiting 'Мелкие инвесторы' (retail investors) is crucial as they are the primary beneficiaries of the proposed AI-enhanced regulatory platform. Their participation will ensure that the platform meets their needs and effectively addresses their concerns about market fairness and manipulation."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Involving 'Investors' as a broader category will help gather diverse perspectives and requirements from different types of investors. This will enhance the platform's design to cater to a wide audience and ensure that it effectively promotes equity in the investment landscape."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Incorporating 'Sentiment analysis techniques' is essential for the AI platform to analyze market trends and investor sentiment dynamically. This will provide real-time insights into market behavior, which is vital for alerting investors to potential manipulative activities."
+            },
+            {
+                "participant": "SEC",
+                "reasoning": "The 'SEC' itself must be actively involved in this initiative to lend credibility and authority to the platform. Their oversight will ensure regulatory compliance and enhance trust among users, making the platform more effective in its mission to stabilize the financial market."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Short squeeze",
+        "resolution_description": "As 'Short squeeze', I propose the creation of a decentralized, gamified investment platform that leverages collective intelligence and real-time market simulations to empower individual investors to practice and refine short squeeze strategies, enabling them to effectively challenge large financial funds and democratize market influence through collaborative tactical engagement.",
+        "new_actor": "The Squeeze Collective",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the development of a global, AI-driven \"Investor Synergy Network\" that dynamically clusters individual investors with complementary investment styles and goals, facilitating strategic alliances and synchronized collective actions that mimic the coordinated influence of large financial funds while optimizing individual gains through shared insights and resources.",
+        "new_actor": "Investor Synergy Network (ISN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Investors",
+                "reasoning": "Investors are the primary users of the 'Investor Synergy Network'. Their participation is crucial as they will directly benefit from the platform by connecting with others who have complementary investment strategies and goals. This will foster collaboration and enhance the effectiveness of the network."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are essential to the success of the network as they often lack the resources and information available to larger investors. By integrating them into the network, we can empower them with insights and collaborative strategies that can improve their investment outcomes."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are important for the AI-driven aspect of the network. They will enable the system to gauge market sentiment and investor behavior, helping to form dynamic clusters of investors with aligned interests and strategies."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Liquidity",
+        "resolution_description": "As 'Liquidity', I propose the creation of a dynamic, real-time liquidity marketplace where individual investors can trade fractional shares of pooled investment strategies, allowing them to fluidly adapt to market conditions and leverage the collective knowledge and capital of a diverse investor network, thereby democratizing access to sophisticated investment tactics and empowering individuals to outmaneuver large financial funds through enhanced market agility.",
+        "new_actor": "Dynamic Liquidity Exchange",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (Small investors) are crucial to the success of the dynamic liquidity marketplace. Their participation will ensure a diverse pool of investors contributing to the trading of fractional shares, thus enhancing the marketplace's effectiveness and democratization."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors, as a collective group, are necessary to create a vibrant trading environment. Their engagement in the marketplace will drive liquidity and foster a community that leverages shared insights and strategies."
+            },
+            {
+                "participant": "SEC",
+                "reasoning": "SEC (U.S. Securities and Exchange Commission) oversight is vital for ensuring that the liquidity marketplace operates within legal parameters, fostering trust and integrity in the platform, which is essential for attracting a broad range of participants."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

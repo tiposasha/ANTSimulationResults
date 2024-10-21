@@ -1,0 +1,80 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Implement augmented reality (AR) packaging that, when scanned, visually transforms the box into a fragile art piece, such as a glass sculpture, to psychologically influence handlers to treat it with utmost care.",
+        "new_actor": "Augmented Reality Fragile Art Package Handler",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is crucial as they will be the ones implementing the AR packaging. Their cooperation is necessary to design and produce the packaging that visually transforms into an art piece."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "The loaders are essential participants because they directly handle the packages. Their awareness of the AR transformation will psychologically influence them to treat the packages with more care."
+            },
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Federal Government Agencies can play a vital role in endorsing and potentially regulating the use of AR packaging in logistics, ensuring compliance with safety standards and promoting the initiative."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "resilience",
+        "resolution_description": "Initiator: Resilience, Resolution: Develop a self-healing packaging material that automatically repairs minor damages and strengthens its structure during transit, ensuring cargo integrity and reducing breakage without human intervention.",
+        "new_actor": "Self-Healing Packaging Material Agent",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is crucial as they will be the primary users of the self-healing packaging material. Their feedback on the material's effectiveness and its integration into their shipping processes will help refine the product and ensure it meets industry needs."
+            },
+            {
+                "participant": "Коробка с грузом",
+                "reasoning": "The cargo box itself is a vital non-human participant in the resolution. Understanding the physical characteristics and requirements of the cargo box will inform the design and functionality of the self-healing packaging material, ensuring it can effectively protect and repair itself."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System will play an important role in tracking shipments and managing the logistics of transporting the self-healing packaging. Integrating this technology will facilitate real-time data sharing and enhance the efficiency of the overall supply chain."
+            },
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Federal Government Agencies can provide necessary regulations and standards that the self-healing packaging must meet. Their involvement will also help with potential funding and support for research and development of the new material."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "vulnerable populations",
+        "resolution_description": "Vulnerable populations could propose a cooperative employment initiative where individuals from marginalized communities are trained and employed as specialized \"Cargo Care Coordinators,\" who accompany shipments to ensure safe handling, promote empathy and understanding in logistics, and provide real-time feedback on transport conditions, thereby creating job opportunities and fostering inclusivity in the supply chain.",
+        "new_actor": "Cargo Care Coordinators Initiative",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Federal Government Agencies",
+                "reasoning": "Federal Government Agencies are crucial for providing support, funding, and regulatory frameworks that can facilitate the establishment of the cooperative employment initiative. Their involvement ensures that the initiative aligns with national policies and can gain legitimacy and resources for implementation."
+            },
+            {
+                "participant": "Local communities",
+                "reasoning": "Local communities are essential stakeholders as they directly represent the marginalized populations that the initiative aims to support. Their engagement ensures that the training and employment opportunities are tailored to the specific needs and circumstances of those communities, fostering inclusivity and relevance."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "Грузчики (dockworkers) play a vital role in the logistics and supply chain process. Their firsthand experience and knowledge of cargo handling can significantly contribute to the training and effectiveness of the 'Cargo Care Coordinators', ensuring that the initiative addresses real challenges faced in the industry."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "Logistics Management Platform System is a key technology that can facilitate the tracking, management, and optimization of cargo transport. Integrating this system with the initiative can enhance the operational efficiency and effectiveness of the 'Cargo Care Coordinators', enabling real-time feedback and better handling of shipments."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Port Community Systems",
+        "resolution_description": "\"Port Community Systems could revolutionize cargo handling by implementing a blockchain-based 'Cargo Integrity Ledger,' where all stakeholders, from manufacturers to handlers and transporters, are incentivized through a transparent, immutable trust-based system that rewards careful handling and penalizes negligence, thereby ensuring cargo safety and fostering a culture of shared responsibility.\"",
+        "new_actor": "Cargo Integrity Trust Network (CITN)",
+        "participants": [],
+        "required_participants": []
+    }
+]

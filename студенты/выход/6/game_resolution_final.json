@@ -1,0 +1,84 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "**Initiator: Academic Integrity**\n\n**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.",
+        "new_actor": "Peer Assessment Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues and researchers can contribute valuable insights and best practices based on their experiences. Their involvement will help to refine the assessment model and ensure it is grounded in current educational research and methodologies."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can support the peer-led assessment model by providing resources for students to evaluate each other's work and by facilitating the creation of transparent criteria. These tools can enhance the learning experience and provide valuable feedback mechanisms."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Targets of deception",
+        "resolution_description": "Initiator: Targets of Deception, Resolution: Develop a gamified, immersive simulation platform where students navigate complex, evolving scenarios related to their field of study, allowing them to demonstrate and hone their knowledge and skills through decision-making and strategic thinking in a controlled, yet unpredictable environment.",
+        "new_actor": "EduSim Navigator",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.",
+        "new_actor": "Mentorship Pathways Designer",
+        "participants": [
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Enhance teaching methodologies to improve student engagement.",
+                    "current_action": "Participating in professional development workshops.",
+                    "imposed_goal": "Implement innovative teaching strategies that increase student participation by 30%.",
+                    "imposed_action": "Conduct a series of interactive classroom activities and assessments.",
+                    "mechanism": "Regular feedback sessions and peer reviews to monitor progress and share best practices.",
+                    "reasoning": "The proposal to establish a personalized mentorship program aligns with my desire to effectively transmit knowledge by allowing educators to tailor assessments to individual student needs. This method fosters deeper engagement and understanding among students. Additionally, the integration of interdisciplinary projects and real-world apprenticeships addresses my fear of losing control over the learning process by ensuring that assessments are meaningful and relevant, reducing the likelihood of academic dishonesty. Overall, this approach enhances teaching methodologies and supports my goal of objective student evaluation.",
+                    "recruited_sources": [
+                        "Технологии обучения (например, онлайн-платформы)",
+                        "Новые технологии (например, программы для списывания)",
+                        "Технологии обучения",
+                        "Студенты",
+                        "Новые технологии обучения"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers are crucial participants who will design and implement the personalized mentorship program, tailoring assessments to meet the diverse needs of students and integrating real-world experiences into their curriculum."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a key role in providing real-world apprenticeships and insights into the skills required in the job market, ensuring that the mentorship program aligns with career aspirations and enhances students' employability."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can support the personalized mentorship program by offering adaptive learning technologies that cater to the individual learning trajectories of students, helping educators design more effective assessment paths."
+            }
+        ],
+        "recruited_sources": [
+            "students",
+            "Студенты",
+            "Технологии обучения (например, онлайн-платформы)",
+            "School administration",
+            "Технологии обучения",
+            "Новые технологии обучения",
+            "Curriculum",
+            "Новые технологии (например, программы для списывания)",
+            "School Administration"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Curriculum",
+                "School Administration",
+                "students",
+                "School administration"
+            ]
+        }
+    }
+]

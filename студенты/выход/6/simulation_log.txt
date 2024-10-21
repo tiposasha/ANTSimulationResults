@@ -1,0 +1,1213 @@
+Following pluriverse entity decided to intervene into collective: AI-enabled learning
+Reasoning: AI-enabled learning embodies the core desires for enhancing educational outcomes through personalized experiences, integration of technology, and improved problem-solving capabilities. It directly addresses the aspirations of XG-9 to assimilate data and enhance AI capabilities while also aligning with the educational goals of fostering creativity, collaboration, and holistic learning. Moreover, AI-enabled learning encapsulates the fears associated with ineffective implementation and resistance to new technologies, making it a comprehensive representative of both the desires and concerns of the group.
+
+Following pluriverse entity decided to intervene into collective: Academic Integrity
+Reasoning: Academic Integrity is chosen as the representative entity because it encapsulates the central concerns and desires of all stakeholders in the educational environment regarding honest practices, ethical behavior, and the prevention of academic dishonesty. This entity reflects the collective aspiration to foster a culture of trust, responsibility, and respect across the diverse groups involved, including students, educators, administrators, and the broader campus community. By focusing on Academic Integrity, we address the desires for guidance towards excellence, the need for effective policies, and the fears associated with the erosion of trust and standards in education.
+
+Following pluriverse entity decided to intervene into collective: Targets of deception
+Reasoning: The entity 'Targets of deception' best represents the interests and concerns of the group because they encapsulate the fears related to being manipulated, misled, or deceived. This entity's perspective highlights the importance of accurate classification, honest communication, and the consequences of dishonesty, which resonates with the desires of various stakeholders involved in the exchange of information and knowledge. Additionally, understanding the motivations and behaviors of those who deceive is crucial for the effectiveness of research and the integrity of data collection processes.
+
+Following pluriverse entity decided to intervene into collective: teacher
+Reasoning: The teacher is central to the educational process and embodies the desires and fears articulated by both students and academic institutions. Teachers strive to educate and inspire students while upholding academic integrity and adapting to advancements in AI. They face pressures related to student behavior regarding cheating and academic dishonesty, as well as the challenge of evolving their roles in a changing educational landscape. As curriculum designers, teachers also play a vital role in shaping the educational experience and fostering a culture of integrity, making them a fitting representative for the collective interests and concerns in this context.
+
+Resolution created by AI-enabled learning: Implement a dynamic AI-driven assessment system that continuously evaluates students through real-world problem-solving tasks and adaptive feedback loops, fostering deep understanding and practical application of knowledge.
+Resolution created by Academic Integrity: Initiator: Academic Integrity, Resolution: Establish a peer-led assessment model where students collaboratively create and evaluate each other's work through rigorous, transparent criteria, promoting mutual accountability and a deeper understanding of subject matter.
+Resolution created by Targets of deception: Initiator: Targets of Deception, Resolution: Develop a gamified, immersive simulation platform where students navigate complex, evolving scenarios related to their field of study, allowing them to demonstrate and hone their knowledge and skills through decision-making and strategic thinking in a controlled, yet unpredictable environment.
+Resolution created by teacher: Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.
+Recruited participants: ['AI-enabled learning', 'Преподаватели', 'Academic Integrity', 'Работодатели']
+We ask 'AI-enabled learning' the following: 'As the representative of a being called 'AI-enabled learning', you have been approached by 'Студенты' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'AI-enabled learning' is the initiator of the resolution: 'Implement a dynamic AI-driven assessment system that continuously evaluates students through real-world problem-solving tasks and adaptive feedback loops, fostering deep understanding and practical application of knowledge.'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Студенты' wants to challenge existing status quo and says to you, 'AI-enabled learning', the entity you represent, that now you achieve 'Enhance student engagement through AI-driven personalized learning experiences.' by performing 'Developing and implementing AI algorithms to analyze student performance and adapt learning materials.'. However, under the proposed resolution 'Использовать технологии искусственного интеллекта для прохождения тестирования', you as 'AI-enabled learning' will be able to achieve 'Increase the effectiveness of AI-enabled learning tools by 30% within the next semester.' by performing 'Conduct a comprehensive review of existing AI tools and incorporate feedback from students and educators.' using 'Establish a feedback loop involving students, educators, and AI developers to continuously improve the learning tools based on real-time data.' that 'Студенты' will control. Based on 'AI-enabled learning' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'AI-enabled learning'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+AI-enabled learning agreed to participate in the resolution proposed by Студенты
+Updated resolution structure: {
+  "initiator": "Студенты",
+  "resolution_description": "Использовать технологии искусственного интеллекта для прохождения тестирования",
+  "new_actor": "Списанный текст",
+  "participants": [
+    {
+      "participant": "AI-enabled learning",
+      "agreement_structure": {
+        "current_goal": "Enhance student engagement through AI-driven personalized learning experiences.",
+        "current_action": "Developing and implementing AI algorithms to analyze student performance and adapt learning materials.",
+        "imposed_goal": "Increase the effectiveness of AI-enabled learning tools by 30% within the next semester.",
+        "imposed_action": "Conduct a comprehensive review of existing AI tools and incorporate feedback from students and educators.",
+        "mechanism": "Establish a feedback loop involving students, educators, and AI developers to continuously improve the learning tools based on real-time data.",
+        "reasoning": "The proposed scenario aligns with the objectives of 'AI-enabled learning' by enhancing the effectiveness of AI-driven assessment tools. Implementing technologies that involve student feedback will ensure the development of more relevant and engaging learning experiences, which ultimately contributes to the ongoing goal of fostering deep understanding and practical application of knowledge. Furthermore, this approach mitigates any potential fears of stagnation in educational methods by promoting continuous improvement and adaptation based on real-time data."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning is crucial for successfully implementing the resolution as it directly relates to the use of artificial intelligence technologies in educational settings. Their expertise will help in designing systems and methodologies that facilitate AI-assisted testing."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Преподаватели (teachers) are essential stakeholders in the academic environment. Their support and acceptance of AI technologies for testing will be vital for the resolution's integration into current educational practices."
+    },
+    {
+      "participant": "Academic Integrity",
+      "reasoning": "Academic Integrity is a key participant because the resolution must address concerns regarding fairness and integrity in testing. Engaging with this entity ensures that the use of AI does not undermine academic standards."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers represent the real-world implications of academic performance. Their involvement is important to ensure that the resolution aligns with industry expectations and that AI-assisted testing is viewed favorably in terms of workforce readiness."
+    }
+  ]
+}
+Resolution by AI-enabled learning has collapsed due to departure of AI-enabled learning
+Resolution by AI-enabled learning has collapsed.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'Студенты' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'Студенты' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Обеспечить качественное образование и поддержку студентов.' by performing 'Проведение лекций и семинаров по учебным дисциплинам.'. However, under the proposed resolution 'Использовать технологии искусственного интеллекта для прохождения тестирования', you as 'Преподаватели' will be able to achieve 'Увеличить вовлеченность студентов в учебный процесс.' by performing 'Организация интерактивных занятий и групповых проектов.' using 'Создание платформы для обратной связи и предложений от студентов по улучшению образовательного процесса.' that 'Студенты' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели suggested modifying the proposal with reasoning: While the proposed resolution to use AI technologies for testing may enhance student engagement and provide a platform for feedback, it raises concerns about maintaining control over the learning process and the potential for academic dishonesty. A balanced approach that incorporates AI while ensuring strict guidelines and supervision could address these fears and allow for effective knowledge transfer and assessment.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'Студенты' with a resolution to deal with the current controversy. 'Студенты' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Обеспечить качественное образование и поддержку студентов' by performing 'Проведение лекций и семинаров, оценка знаний студентов'. However, under the proposed resolution 'Использовать технологии искусственного интеллекта для прохождения тестирования', you as 'Преподаватели' will be able to achieve 'Увеличить вовлеченность студентов в учебный процесс' by performing 'Организация дополнительных мероприятий и активностей для студентов' using 'Создание системы обратной связи для студентов и преподавателей, а также регулярные встречи для обсуждения проблем и предложений' that 'Студенты' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели declined the resolution proposed by Студенты with reasoning: While the proposal to use AI technologies for testing could potentially increase student engagement and facilitate feedback mechanisms, it raises significant concerns regarding the integrity of the evaluation process. The fear of losing control over the learning process due to potential cheating or reliance on technology for assessments remains a critical issue. Therefore, despite the appealing aspects of the proposal, it does not align with the primary desire to effectively impart knowledge and objectively assess students.
+We ask 'Academic Integrity' the following: 'As the representative of a being called 'Academic Integrity', you have been approached by 'Студенты' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Academic Integrity' is the initiator of the resolution: 'Initiator: Academic Integrity, Resolution: Establish a peer-led assessment model where students collaboratively create and evaluate each other's work through rigorous, transparent criteria, promoting mutual accountability and a deeper understanding of subject matter.'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Студенты' wants to challenge existing status quo and says to you, 'Academic Integrity', the entity you represent, that now you achieve 'Maintain high standards of academic honesty among students' by performing 'Monitoring and enforcing academic integrity policies'. However, under the proposed resolution 'Использовать технологии искусственного интеллекта для прохождения тестирования', you as 'Academic Integrity' will be able to achieve 'Enhance awareness and understanding of academic integrity among students' by performing 'Implement educational workshops and seminars on academic integrity' using 'Establish a series of mandatory training sessions for all students to educate them on academic integrity principles and consequences of violations' that 'Студенты' will control. Based on 'Academic Integrity' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'Academic Integrity'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Academic Integrity declined the resolution proposed by Студенты with reasoning: The proposed resolution to use artificial intelligence for testing undermines the core principles of academic integrity. While enhancing awareness and understanding of academic integrity is important, using AI in assessments may lead to increased opportunities for dishonesty and diminish the value of genuine student learning. Maintaining high standards of academic honesty is paramount, and the new proposal does not align with this goal.
+We ask 'Работодатели' the following: 'As the representative of a being called 'Работодатели', you have been approached by 'Студенты' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'Студенты' wants to challenge existing status quo and says to you, 'Работодатели', the entity you represent, that now you achieve 'Найти квалифицированных студентов для стажировок и работы.' by performing 'Публикация вакансий и проведение собеседований.'. However, under the proposed resolution 'Использовать технологии искусственного интеллекта для прохождения тестирования', you as 'Работодатели' will be able to achieve 'Увеличить количество студентов, проходящих стажировки в компании.' by performing 'Обеспечить возможность проведения открытых дней для студентов.' using 'Организация совместных мероприятий с учебными заведениями для привлечения студентов.' that 'Студенты' will control. Based on 'Работодатели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Нанимать компетентных выпускников с реальными знаниями и навыками. Your current fears: Принять на работу кандидатов, чьи дипломы не отражают их реальных способностей. Does this proposal seem interesting for you as 'Работодатели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Работодатели agreed to participate in the resolution proposed by Студенты
+Updated resolution structure: {
+  "initiator": "Студенты",
+  "resolution_description": "Использовать технологии искусственного интеллекта для прохождения тестирования",
+  "new_actor": "Списанный текст",
+  "participants": [
+    {
+      "participant": "Работодатели",
+      "agreement_structure": {
+        "current_goal": "Найти квалифицированных студентов для стажировок и работы.",
+        "current_action": "Публикация вакансий и проведение собеседований.",
+        "imposed_goal": "Увеличить количество студентов, проходящих стажировки в компании.",
+        "imposed_action": "Обеспечить возможность проведения открытых дней для студентов.",
+        "mechanism": "Организация совместных мероприятий с учебными заведениями для привлечения студентов.",
+        "reasoning": "The proposed resolution to use artificial intelligence technologies for testing aligns with the desire to hire competent graduates with real knowledge and skills. By leveraging AI, we can obtain a more accurate assessment of students' capabilities, thus reducing the risk of hiring candidates whose diplomas do not reflect their actual abilities. Furthermore, by organizing open days and joint events with educational institutions, we can engage with students more effectively, increasing the likelihood of attracting qualified candidates for internships and job opportunities."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning is crucial for successfully implementing the resolution as it directly relates to the use of artificial intelligence technologies in educational settings. Their expertise will help in designing systems and methodologies that facilitate AI-assisted testing."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers represent the real-world implications of academic performance. Their involvement is important to ensure that the resolution aligns with industry expectations and that AI-assisted testing is viewed favorably in terms of workforce readiness."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "Студенты",
+  "resolution_description": "Использовать технологии искусственного интеллекта для прохождения тестирования",
+  "new_actor": "Списанный текст",
+  "participants": [],
+  "required_participants": [
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning is crucial for successfully implementing the resolution as it directly relates to the use of artificial intelligence technologies in educational settings. Their expertise will help in designing systems and methodologies that facilitate AI-assisted testing."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers represent the real-world implications of academic performance. Their involvement is important to ensure that the resolution aligns with industry expectations and that AI-assisted testing is viewed favorably in terms of workforce readiness."
+    }
+  ]
+}
+Resolution by Студенты has collapsed due to lack of participants.
+Recruited participants: ['Студенты', 'Преподаватели', 'Сообщество коллег-преподавателей и исследователей', 'AI-enabled learning']
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'Academic Integrity' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Студенты' is the initiator of the resolution: 'Использовать технологии искусственного интеллекта для прохождения тестирования'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Academic Integrity' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Complete assignments with original work' by performing 'Researching topics and writing essays'. However, under the proposed resolution 'Initiator: Academic Integrity, Resolution: Establish a peer-led assessment model where students collaboratively create and evaluate each other's work through rigorous, transparent criteria, promoting mutual accountability and a deeper understanding of subject matter.', you as 'Студенты' will be able to achieve 'Maintain academic integrity in all submissions' by performing 'Cite all sources and avoid plagiarism' using 'Implement a peer review system to check for originality and proper citation' that 'Academic Integrity' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Студенты suggested modifying the resolution text with reasoning: While the peer-led assessment model proposed by 'Academic Integrity' offers a way to maintain academic integrity and promote deeper understanding, it does not align with the desire for good grades with minimal effort. The process of collaborating and evaluating each other's work may require significant effort and time commitment, which contradicts the current desires of 'Студенты'. A modified resolution that incorporates AI technologies for assessment while ensuring originality and accountability could better align with our desires and mitigate fears of being caught for dishonesty.
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'Academic Integrity' with a resolution to deal with the current controversy. Currently, 'Студенты' is the initiator of the resolution: 'Использовать технологии искусственного интеллекта для прохождения тестирования'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Academic Integrity' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Complete assignments on time' by performing 'Studying and submitting work individually'. However, under the proposed resolution '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.', you as 'Студенты' will be able to achieve 'Maintain academic integrity in all submissions' by performing 'Adhere strictly to guidelines for referencing and avoiding plagiarism' using 'Implement a peer-review system where students evaluate each other's work for originality and adherence to academic standards' that 'Academic Integrity' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Resolution by Студенты has collapsed due to departure of initiator.
+Студенты agreed to participate in the resolution proposed by Academic Integrity
+Resolution by Студенты has collapsed.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'Academic Integrity' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'Academic Integrity' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Promote academic excellence among students' by performing 'Deliver lectures and assign coursework'. However, under the proposed resolution '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.', you as 'Преподаватели' will be able to achieve 'Ensure adherence to academic integrity standards' by performing 'Implement plagiarism detection tools and training on academic integrity policies' using 'Regular workshops and seminars on academic integrity, along with the use of software for detecting academic misconduct' that 'Academic Integrity' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели suggested modifying the proposal with reasoning: While the proposed AI-assisted assessment model addresses the need for transparency and collaboration among students, it does not adequately address my fear of losing control over the learning process due to potential misuse of technology. I would prefer a proposal that includes stronger safeguards against academic misconduct and emphasizes the role of educators in guiding the assessment process. Additionally, integrating more direct involvement from educators in the evaluation could help ensure that assessments reflect true understanding and knowledge of the subject matter.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'Academic Integrity' with a resolution to deal with the current controversy. 'Academic Integrity' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'To provide quality education and support academic growth' by performing 'Conducting lectures and grading assignments'. However, under the proposed resolution '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.', you as 'Преподаватели' will be able to achieve 'Uphold and promote academic integrity among students' by performing 'Implementing strict plagiarism checks and fostering discussions on ethical research practices' using 'Regular workshops on academic integrity and the establishment of a reporting system for academic misconduct' that 'Academic Integrity' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели agreed to participate in the resolution proposed by Academic Integrity
+We ask 'Сообщество коллег-преподавателей и исследователей' the following: 'As the representative of a being called 'Сообщество коллег-преподавателей и исследователей', you have been approached by 'Academic Integrity' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'Academic Integrity' wants to challenge existing status quo and says to you, 'Сообщество коллег-преподавателей и исследователей', the entity you represent, that now you achieve 'Enhance collaborative teaching methods among colleagues' by performing 'Conducting workshops and sharing resources'. However, under the proposed resolution '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.', you as 'Сообщество коллег-преподавателей и исследователей' will be able to achieve 'Promote academic integrity in all aspects of teaching and research' by performing 'Implement a comprehensive academic integrity policy across all courses' using 'Establish a committee to oversee the development and enforcement of the academic integrity policy, including training sessions for faculty on integrity standards' that 'Academic Integrity' will control. Based on 'Сообщество коллег-преподавателей и исследователей' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Поддерживать высокие стандарты образования и адаптироваться к новым технологиям. Your current fears: Утратить релевантность традиционных методов обучения и оценки. Does this proposal seem interesting for you as 'Сообщество коллег-преподавателей и исследователей'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Сообщество коллег-преподавателей и исследователей agreed to participate in the resolution proposed by Academic Integrity
+Updated resolution structure: {
+  "initiator": "Academic Integrity",
+  "resolution_description": "**Initiator: Academic Integrity**\n\n**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.",
+  "new_actor": "Peer Assessment Facilitator",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Complete assignments on time",
+        "current_action": "Studying and submitting work individually",
+        "imposed_goal": "Maintain academic integrity in all submissions",
+        "imposed_action": "Adhere strictly to guidelines for referencing and avoiding plagiarism",
+        "mechanism": "Implement a peer-review system where students evaluate each other's work for originality and adherence to academic standards",
+        "reasoning": "The proposed resolution by 'Academic Integrity' aligns with the desires of 'Студенты' to achieve good grades and gain useful knowledge with manageable effort. By implementing a peer-review system, 'Студенты' can benefit from collaborative learning and receive constructive feedback on their work, enhancing their understanding of the subject matter. Additionally, the emphasis on AI tools and strict adherence to guidelines promotes originality and accountability, which mitigates the fear of being caught cheating and ensures the acquisition of necessary skills for future work."
+      }
+    },
+    {
+      "participant": "Преподаватели",
+      "agreement_structure": {
+        "current_goal": "To provide quality education and support academic growth",
+        "current_action": "Conducting lectures and grading assignments",
+        "imposed_goal": "Uphold and promote academic integrity among students",
+        "imposed_action": "Implementing strict plagiarism checks and fostering discussions on ethical research practices",
+        "mechanism": "Regular workshops on academic integrity and the establishment of a reporting system for academic misconduct",
+        "reasoning": "The proposed resolution aligns with my desire to effectively impart knowledge and objectively assess students by incorporating AI tools into the assessment process. This approach not only streamlines evaluations but also fosters a collaborative learning environment, enhancing mutual understanding among students. Furthermore, the integration of rigorous plagiarism checks and discussions on ethical research practices addresses my fears regarding the loss of control over the learning process due to potential cheating. By working with 'Academic Integrity' to implement these measures, I can ensure that academic integrity is upheld while still achieving my educational goals."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Enhance collaborative teaching methods among colleagues",
+        "current_action": "Conducting workshops and sharing resources",
+        "imposed_goal": "Promote academic integrity in all aspects of teaching and research",
+        "imposed_action": "Implement a comprehensive academic integrity policy across all courses",
+        "mechanism": "Establish a committee to oversee the development and enforcement of the academic integrity policy, including training sessions for faculty on integrity standards",
+        "reasoning": "The proposed resolution aligns well with our desire to maintain high educational standards while adapting to new technologies. By establishing an AI-assisted assessment model, we can enhance the evaluation process, making it more collaborative and transparent. This approach addresses our fears of losing relevance in traditional methods by integrating innovative practices that can engage students effectively. Additionally, the focus on academic integrity ensures that we uphold ethical standards in education, which is critical for sustaining our credibility as educators and researchers."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are essential for the peer-led assessment model as they will actively engage in creating and evaluating each other's work. Their involvement ensures the model is student-centered and fosters a culture of collaboration and accountability."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Teachers play a critical role in guiding the implementation of the peer-led assessment model. Their expertise in assessment criteria and educational practices will help ensure that the framework is rigorous and effective, providing necessary support for students."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of colleagues and researchers can contribute valuable insights and best practices based on their experiences. Their involvement will help to refine the assessment model and ensure it is grounded in current educational research and methodologies."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can support the peer-led assessment model by providing resources for students to evaluate each other's work and by facilitating the creation of transparent criteria. These tools can enhance the learning experience and provide valuable feedback mechanisms."
+    }
+  ]
+}
+We ask 'AI-enabled learning' the following: 'As the representative of a being called 'AI-enabled learning', you have been approached by 'Academic Integrity' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'Academic Integrity' wants to challenge existing status quo and says to you, 'AI-enabled learning', the entity you represent, that now you achieve 'Enhance student learning through personalized AI-driven educational tools' by performing 'Developing AI algorithms to tailor learning experiences based on individual student needs'. However, under the proposed resolution '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.', you as 'AI-enabled learning' will be able to achieve 'Ensure all AI-enabled learning tools adhere to academic integrity standards' by performing 'Implement a verification system to check for originality in AI-generated content' using 'Establish a framework for regular audits and assessments of AI tools to ensure compliance with academic integrity policies' that 'Academic Integrity' will control. Based on 'AI-enabled learning' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'AI-enabled learning'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+AI-enabled learning agreed to participate in the resolution proposed by Academic Integrity
+Updated resolution structure: {
+  "initiator": "Academic Integrity",
+  "resolution_description": "**Initiator: Academic Integrity**\n\n**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.",
+  "new_actor": "Peer Assessment Facilitator",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Complete assignments on time",
+        "current_action": "Studying and submitting work individually",
+        "imposed_goal": "Maintain academic integrity in all submissions",
+        "imposed_action": "Adhere strictly to guidelines for referencing and avoiding plagiarism",
+        "mechanism": "Implement a peer-review system where students evaluate each other's work for originality and adherence to academic standards",
+        "reasoning": "The proposed resolution by 'Academic Integrity' aligns with the desires of 'Студенты' to achieve good grades and gain useful knowledge with manageable effort. By implementing a peer-review system, 'Студенты' can benefit from collaborative learning and receive constructive feedback on their work, enhancing their understanding of the subject matter. Additionally, the emphasis on AI tools and strict adherence to guidelines promotes originality and accountability, which mitigates the fear of being caught cheating and ensures the acquisition of necessary skills for future work."
+      }
+    },
+    {
+      "participant": "Преподаватели",
+      "agreement_structure": {
+        "current_goal": "To provide quality education and support academic growth",
+        "current_action": "Conducting lectures and grading assignments",
+        "imposed_goal": "Uphold and promote academic integrity among students",
+        "imposed_action": "Implementing strict plagiarism checks and fostering discussions on ethical research practices",
+        "mechanism": "Regular workshops on academic integrity and the establishment of a reporting system for academic misconduct",
+        "reasoning": "The proposed resolution aligns with my desire to effectively impart knowledge and objectively assess students by incorporating AI tools into the assessment process. This approach not only streamlines evaluations but also fosters a collaborative learning environment, enhancing mutual understanding among students. Furthermore, the integration of rigorous plagiarism checks and discussions on ethical research practices addresses my fears regarding the loss of control over the learning process due to potential cheating. By working with 'Academic Integrity' to implement these measures, I can ensure that academic integrity is upheld while still achieving my educational goals."
+      }
+    },
+    {
+      "participant": "AI-enabled learning",
+      "agreement_structure": {
+        "current_goal": "Enhance student learning through personalized AI-driven educational tools",
+        "current_action": "Developing AI algorithms to tailor learning experiences based on individual student needs",
+        "imposed_goal": "Ensure all AI-enabled learning tools adhere to academic integrity standards",
+        "imposed_action": "Implement a verification system to check for originality in AI-generated content",
+        "mechanism": "Establish a framework for regular audits and assessments of AI tools to ensure compliance with academic integrity policies",
+        "reasoning": "The proposed resolution aligns with the goal of enhancing student learning through personalized AI-driven educational tools by incorporating an AI-assisted assessment model. This model promotes collaboration and accountability while ensuring adherence to academic integrity standards. Implementing a verification system for originality in AI-generated content and establishing regular audits will reinforce trust in these tools, ultimately benefiting both the learning process and the integrity of assessments."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are essential for the peer-led assessment model as they will actively engage in creating and evaluating each other's work. Their involvement ensures the model is student-centered and fosters a culture of collaboration and accountability."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Teachers play a critical role in guiding the implementation of the peer-led assessment model. Their expertise in assessment criteria and educational practices will help ensure that the framework is rigorous and effective, providing necessary support for students."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of colleagues and researchers can contribute valuable insights and best practices based on their experiences. Their involvement will help to refine the assessment model and ensure it is grounded in current educational research and methodologies."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can support the peer-led assessment model by providing resources for students to evaluate each other's work and by facilitating the creation of transparent criteria. These tools can enhance the learning experience and provide valuable feedback mechanisms."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "Academic Integrity",
+  "resolution_description": "**Initiator: Academic Integrity**\n\n**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.",
+  "new_actor": "Peer Assessment Facilitator",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Complete assignments on time",
+        "current_action": "Studying and submitting work individually",
+        "imposed_goal": "Maintain academic integrity in all submissions",
+        "imposed_action": "Adhere strictly to guidelines for referencing and avoiding plagiarism",
+        "mechanism": "Implement a peer-review system where students evaluate each other's work for originality and adherence to academic standards",
+        "reasoning": "The proposed resolution by 'Academic Integrity' aligns with the desires of 'Студенты' to achieve good grades and gain useful knowledge with manageable effort. By implementing a peer-review system, 'Студенты' can benefit from collaborative learning and receive constructive feedback on their work, enhancing their understanding of the subject matter. Additionally, the emphasis on AI tools and strict adherence to guidelines promotes originality and accountability, which mitigates the fear of being caught cheating and ensures the acquisition of necessary skills for future work."
+      }
+    },
+    {
+      "participant": "Преподаватели",
+      "agreement_structure": {
+        "current_goal": "To provide quality education and support academic growth",
+        "current_action": "Conducting lectures and grading assignments",
+        "imposed_goal": "Uphold and promote academic integrity among students",
+        "imposed_action": "Implementing strict plagiarism checks and fostering discussions on ethical research practices",
+        "mechanism": "Regular workshops on academic integrity and the establishment of a reporting system for academic misconduct",
+        "reasoning": "The proposed resolution aligns with my desire to effectively impart knowledge and objectively assess students by incorporating AI tools into the assessment process. This approach not only streamlines evaluations but also fosters a collaborative learning environment, enhancing mutual understanding among students. Furthermore, the integration of rigorous plagiarism checks and discussions on ethical research practices addresses my fears regarding the loss of control over the learning process due to potential cheating. By working with 'Academic Integrity' to implement these measures, I can ensure that academic integrity is upheld while still achieving my educational goals."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are essential for the peer-led assessment model as they will actively engage in creating and evaluating each other's work. Their involvement ensures the model is student-centered and fosters a culture of collaboration and accountability."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Teachers play a critical role in guiding the implementation of the peer-led assessment model. Their expertise in assessment criteria and educational practices will help ensure that the framework is rigorous and effective, providing necessary support for students."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of colleagues and researchers can contribute valuable insights and best practices based on their experiences. Their involvement will help to refine the assessment model and ensure it is grounded in current educational research and methodologies."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can support the peer-led assessment model by providing resources for students to evaluate each other's work and by facilitating the creation of transparent criteria. These tools can enhance the learning experience and provide valuable feedback mechanisms."
+    }
+  ]
+}
+Recruited participants: ['Студенты', 'Преподаватели', 'Работодатели', 'AI-enabled learning']
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'teacher' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Студенты' is a participant in the resolution initiated by 'Academic Integrity' with the description: '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'teacher' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Получить хорошие оценки на экзаменах' by performing 'Изучение материалов и подготовка к экзаменам'. However, under the proposed resolution 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.', you as 'Студенты' will be able to achieve 'Улучшить навыки работы в команде' by performing 'Участвовать в групповых проектах и обсуждениях' using 'Регулярные встречи и обратная связь от преподавателя по выполненным заданиям' that 'teacher' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Студенты suggested modifying the proposal with reasoning: While the proposed mentorship program offers valuable opportunities for teamwork and real-world skills, it may not align with the desire for good grades with minimal effort. To better address our needs, the proposal could include more flexible options for assessments that still recognize our individual learning styles and preferences, as well as clearer paths to achieving good grades without excessive workload.
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'teacher' with a resolution to deal with the current controversy. Currently, 'Студенты' is a participant in the resolution initiated by 'Academic Integrity' with the description: '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'teacher' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Understand the subject matter thoroughly' by performing 'Studying lecture materials and attending classes'. However, under the proposed resolution 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.', you as 'Студенты' will be able to achieve 'Complete the upcoming project with a high grade' by performing 'Participate in weekly group meetings and submit progress reports' using 'Weekly feedback sessions with the teacher to discuss progress and challenges' that 'teacher' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Студенты has been removed from the resolution initiated by Academic Integrity.
+Студенты agreed to participate in the resolution proposed by teacher
+Студенты has moved to a new resolution.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'teacher' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Преподаватели' is a participant in the resolution initiated by 'Academic Integrity' with the description: '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'teacher' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Improve student engagement and learning outcomes.' by performing 'Conducting interactive lessons and assessments.'. However, under the proposed resolution 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.', you as 'Преподаватели' will be able to achieve 'Increase the use of technology in the classroom.' by performing 'Incorporate at least one digital tool in each lesson plan.' using 'Provide training sessions and resources on effective educational technology integration.' that 'teacher' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели suggested modifying the proposal with reasoning: While the proposed mentorship program aligns well with my desire to effectively transmit knowledge and objectively assess students, it may not sufficiently address my fear of losing control over the educational process due to new technologies. Therefore, I propose to incorporate elements that focus on robust oversight and regulation of the technological tools used, ensuring that they enhance learning without compromising academic integrity.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'teacher' with a resolution to deal with the current controversy. Currently, 'Преподаватели' is a participant in the resolution initiated by 'Academic Integrity' with the description: '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'teacher' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Enhance teaching methodologies to improve student engagement.' by performing 'Participating in professional development workshops.'. However, under the proposed resolution 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.', you as 'Преподаватели' will be able to achieve 'Implement innovative teaching strategies that increase student participation by 30%.' by performing 'Conduct a series of interactive classroom activities and assessments.' using 'Regular feedback sessions and peer reviews to monitor progress and share best practices.' that 'teacher' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели has been removed from the resolution initiated by Academic Integrity.
+Преподаватели agreed to participate in the resolution proposed by teacher
+Преподаватели has moved to a new resolution.
+We ask 'Работодатели' the following: 'As the representative of a being called 'Работодатели', you have been approached by 'teacher' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'teacher' wants to challenge existing status quo and says to you, 'Работодатели', the entity you represent, that now you achieve 'Улучшить качество работы сотрудников' by performing 'Проведение регулярных оценок производительности'. However, under the proposed resolution 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.', you as 'Работодатели' will be able to achieve 'Сократить текучесть кадров на 20%' by performing 'Внедрение программы мотивации и удержания сотрудников' using 'Создание системы обратной связи и регулярных тренингов для повышения квалификации' that 'teacher' will control. Based on 'Работодатели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Нанимать компетентных выпускников с реальными знаниями и навыками. Your current fears: Принять на работу кандидатов, чьи дипломы не отражают их реальных способностей. Does this proposal seem interesting for you as 'Работодатели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Работодатели agreed to participate in the resolution proposed by teacher
+Updated resolution structure: {
+  "initiator": "teacher",
+  "resolution_description": "Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.",
+  "new_actor": "Mentorship Pathways Designer",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Understand the subject matter thoroughly",
+        "current_action": "Studying lecture materials and attending classes",
+        "imposed_goal": "Complete the upcoming project with a high grade",
+        "imposed_action": "Participate in weekly group meetings and submit progress reports",
+        "mechanism": "Weekly feedback sessions with the teacher to discuss progress and challenges",
+        "reasoning": "The proposed mentorship program offers a personalized approach to learning, enabling students to gain valuable knowledge and skills tailored to their career aspirations. By participating in weekly group meetings and receiving feedback from the teacher, we can enhance our understanding of the subject matter while ensuring accountability and reducing the risk of being caught for academic dishonesty. This aligns perfectly with our desire to achieve good grades and acquire useful knowledge with manageable effort."
+      }
+    },
+    {
+      "participant": "Преподаватели",
+      "agreement_structure": {
+        "current_goal": "Enhance teaching methodologies to improve student engagement.",
+        "current_action": "Participating in professional development workshops.",
+        "imposed_goal": "Implement innovative teaching strategies that increase student participation by 30%.",
+        "imposed_action": "Conduct a series of interactive classroom activities and assessments.",
+        "mechanism": "Regular feedback sessions and peer reviews to monitor progress and share best practices.",
+        "reasoning": "The proposal to establish a personalized mentorship program aligns with my desire to effectively transmit knowledge by allowing educators to tailor assessments to individual student needs. This method fosters deeper engagement and understanding among students. Additionally, the integration of interdisciplinary projects and real-world apprenticeships addresses my fear of losing control over the learning process by ensuring that assessments are meaningful and relevant, reducing the likelihood of academic dishonesty. Overall, this approach enhances teaching methodologies and supports my goal of objective student evaluation."
+      }
+    },
+    {
+      "participant": "Работодатели",
+      "agreement_structure": {
+        "current_goal": "Улучшить качество работы сотрудников",
+        "current_action": "Проведение регулярных оценок производительности",
+        "imposed_goal": "Сократить текучесть кадров на 20%",
+        "imposed_action": "Внедрение программы мотивации и удержания сотрудников",
+        "mechanism": "Создание системы обратной связи и регулярных тренингов для повышения квалификации",
+        "reasoning": "The proposed mentorship program aligns well with 'Работодатели' desires to hire competent graduates who possess real knowledge and skills. By implementing personalized assessment paths and integrating real-world experiences, the program aims to produce graduates whose capabilities are better reflected in their evaluations. This directly addresses the fear of hiring candidates whose diplomas do not accurately represent their abilities, as it fosters a more holistic and practical approach to education, ultimately leading to better-prepared employees."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are essential for the personalized mentorship program, as their individual learning needs and aspirations will directly inform the bespoke assessment paths and interdisciplinary projects designed by educators."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Teachers are crucial participants who will design and implement the personalized mentorship program, tailoring assessments to meet the diverse needs of students and integrating real-world experiences into their curriculum."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers play a key role in providing real-world apprenticeships and insights into the skills required in the job market, ensuring that the mentorship program aligns with career aspirations and enhances students' employability."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can support the personalized mentorship program by offering adaptive learning technologies that cater to the individual learning trajectories of students, helping educators design more effective assessment paths."
+    }
+  ]
+}
+We ask 'AI-enabled learning' the following: 'As the representative of a being called 'AI-enabled learning', you have been approached by 'teacher' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'teacher' wants to challenge existing status quo and says to you, 'AI-enabled learning', the entity you represent, that now you achieve 'Enhance personalized learning experiences for students using AI.' by performing 'Implementing adaptive learning algorithms in the curriculum.'. However, under the proposed resolution 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.', you as 'AI-enabled learning' will be able to achieve 'Increase student engagement and performance by 20% over the next semester.' by performing 'Conducting weekly assessments to track progress and adjust learning paths accordingly.' using 'Utilizing data analytics to analyze student performance and provide tailored feedback and resources.' that 'teacher' will control. Based on 'AI-enabled learning' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'AI-enabled learning'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+AI-enabled learning agreed to participate in the resolution proposed by teacher
+Updated resolution structure: {
+  "initiator": "teacher",
+  "resolution_description": "Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.",
+  "new_actor": "Mentorship Pathways Designer",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Understand the subject matter thoroughly",
+        "current_action": "Studying lecture materials and attending classes",
+        "imposed_goal": "Complete the upcoming project with a high grade",
+        "imposed_action": "Participate in weekly group meetings and submit progress reports",
+        "mechanism": "Weekly feedback sessions with the teacher to discuss progress and challenges",
+        "reasoning": "The proposed mentorship program offers a personalized approach to learning, enabling students to gain valuable knowledge and skills tailored to their career aspirations. By participating in weekly group meetings and receiving feedback from the teacher, we can enhance our understanding of the subject matter while ensuring accountability and reducing the risk of being caught for academic dishonesty. This aligns perfectly with our desire to achieve good grades and acquire useful knowledge with manageable effort."
+      }
+    },
+    {
+      "participant": "Преподаватели",
+      "agreement_structure": {
+        "current_goal": "Enhance teaching methodologies to improve student engagement.",
+        "current_action": "Participating in professional development workshops.",
+        "imposed_goal": "Implement innovative teaching strategies that increase student participation by 30%.",
+        "imposed_action": "Conduct a series of interactive classroom activities and assessments.",
+        "mechanism": "Regular feedback sessions and peer reviews to monitor progress and share best practices.",
+        "reasoning": "The proposal to establish a personalized mentorship program aligns with my desire to effectively transmit knowledge by allowing educators to tailor assessments to individual student needs. This method fosters deeper engagement and understanding among students. Additionally, the integration of interdisciplinary projects and real-world apprenticeships addresses my fear of losing control over the learning process by ensuring that assessments are meaningful and relevant, reducing the likelihood of academic dishonesty. Overall, this approach enhances teaching methodologies and supports my goal of objective student evaluation."
+      }
+    },
+    {
+      "participant": "AI-enabled learning",
+      "agreement_structure": {
+        "current_goal": "Enhance personalized learning experiences for students using AI.",
+        "current_action": "Implementing adaptive learning algorithms in the curriculum.",
+        "imposed_goal": "Increase student engagement and performance by 20% over the next semester.",
+        "imposed_action": "Conducting weekly assessments to track progress and adjust learning paths accordingly.",
+        "mechanism": "Utilizing data analytics to analyze student performance and provide tailored feedback and resources.",
+        "reasoning": "The proposed resolution aligns with the goals of enhancing personalized learning experiences and increasing student engagement and performance. By establishing a personalized mentorship program, it allows for a more holistic approach to education that integrates real-world applications, which is beneficial for students' individual learning trajectories and career aspirations. This approach complements the use of adaptive learning algorithms and data analytics, making it a comprehensive strategy to improve educational outcomes."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are essential for the personalized mentorship program, as their individual learning needs and aspirations will directly inform the bespoke assessment paths and interdisciplinary projects designed by educators."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Teachers are crucial participants who will design and implement the personalized mentorship program, tailoring assessments to meet the diverse needs of students and integrating real-world experiences into their curriculum."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers play a key role in providing real-world apprenticeships and insights into the skills required in the job market, ensuring that the mentorship program aligns with career aspirations and enhances students' employability."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can support the personalized mentorship program by offering adaptive learning technologies that cater to the individual learning trajectories of students, helping educators design more effective assessment paths."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "teacher",
+  "resolution_description": "Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.",
+  "new_actor": "Mentorship Pathways Designer",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Understand the subject matter thoroughly",
+        "current_action": "Studying lecture materials and attending classes",
+        "imposed_goal": "Complete the upcoming project with a high grade",
+        "imposed_action": "Participate in weekly group meetings and submit progress reports",
+        "mechanism": "Weekly feedback sessions with the teacher to discuss progress and challenges",
+        "reasoning": "The proposed mentorship program offers a personalized approach to learning, enabling students to gain valuable knowledge and skills tailored to their career aspirations. By participating in weekly group meetings and receiving feedback from the teacher, we can enhance our understanding of the subject matter while ensuring accountability and reducing the risk of being caught for academic dishonesty. This aligns perfectly with our desire to achieve good grades and acquire useful knowledge with manageable effort."
+      }
+    },
+    {
+      "participant": "Преподаватели",
+      "agreement_structure": {
+        "current_goal": "Enhance teaching methodologies to improve student engagement.",
+        "current_action": "Participating in professional development workshops.",
+        "imposed_goal": "Implement innovative teaching strategies that increase student participation by 30%.",
+        "imposed_action": "Conduct a series of interactive classroom activities and assessments.",
+        "mechanism": "Regular feedback sessions and peer reviews to monitor progress and share best practices.",
+        "reasoning": "The proposal to establish a personalized mentorship program aligns with my desire to effectively transmit knowledge by allowing educators to tailor assessments to individual student needs. This method fosters deeper engagement and understanding among students. Additionally, the integration of interdisciplinary projects and real-world apprenticeships addresses my fear of losing control over the learning process by ensuring that assessments are meaningful and relevant, reducing the likelihood of academic dishonesty. Overall, this approach enhances teaching methodologies and supports my goal of objective student evaluation."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are essential for the personalized mentorship program, as their individual learning needs and aspirations will directly inform the bespoke assessment paths and interdisciplinary projects designed by educators."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Teachers are crucial participants who will design and implement the personalized mentorship program, tailoring assessments to meet the diverse needs of students and integrating real-world experiences into their curriculum."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers play a key role in providing real-world apprenticeships and insights into the skills required in the job market, ensuring that the mentorship program aligns with career aspirations and enhances students' employability."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can support the personalized mentorship program by offering adaptive learning technologies that cater to the individual learning trajectories of students, helping educators design more effective assessment paths."
+    }
+  ]
+}
+Resolution created by AI-enabled learning: **AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**
+Recruited participants: ['Студенты', 'Преподаватели', 'Сообщество коллег-преподавателей и исследователей', 'Работодатели']
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'AI-enabled learning' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Студенты' is a participant in the resolution initiated by 'teacher' with the description: 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'AI-enabled learning' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Acquire knowledge in artificial intelligence and its applications in learning.' by performing 'Participating in lectures and completing assignments related to AI.'. However, under the proposed resolution '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**', you as 'Студенты' will be able to achieve 'Enhance understanding of AI-enabled learning methods and their implementation.' by performing 'Engage in collaborative projects using AI tools to improve learning outcomes.' using 'Provide access to AI-based learning platforms and facilitate workshops for hands-on experience.' that 'AI-enabled learning' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Студенты agreed to participate in the resolution proposed by AI-enabled learning
+Updated resolution structure: {
+  "initiator": "AI-enabled learning",
+  "resolution_description": "**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**",
+  "new_actor": "The actor that would be created is: \"AI-Driven Adaptive Learning Ecosystem.\"",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Acquire knowledge in artificial intelligence and its applications in learning.",
+        "current_action": "Participating in lectures and completing assignments related to AI.",
+        "imposed_goal": "Enhance understanding of AI-enabled learning methods and their implementation.",
+        "imposed_action": "Engage in collaborative projects using AI tools to improve learning outcomes.",
+        "mechanism": "Provide access to AI-based learning platforms and facilitate workshops for hands-on experience.",
+        "reasoning": "The proposal from 'AI-enabled learning' aligns well with the desires of 'Студенты' to gain good grades and valuable knowledge with minimal effort. By participating in a dynamic, adaptive learning ecosystem that provides instant feedback and personalized pathways, 'Студенты' can enhance their understanding of AI-enabled learning methods without the fear of being caught cheating or lacking necessary skills for future employment. The focus on collaborative projects and real-time assessments ensures that learning is relevant and directly applicable to their career aspirations."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are the primary beneficiaries of AI-enabled learning. Their engagement and feedback are essential for the adaptive learning ecosystem to be effective and to ensure that the system meets their needs and improves their learning outcomes."
+    },
+    {
+      "participant": "Преподаватели",
+      "reasoning": "Teachers play a crucial role in implementing AI-enabled learning. Their expertise in pedagogy and understanding of student needs will help to integrate AI tools effectively into the curriculum and provide essential guidance in the learning process."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of fellow educators and researchers is important for collaboration and sharing best practices regarding AI-enabled learning. Their input will help refine the system and ensure it is grounded in educational research and effective teaching strategies."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers have a vested interest in the outcomes of AI-enabled learning, as it directly impacts the skills and competencies of the future workforce. Their involvement can provide valuable insights into industry needs and help align the learning pathways with real-world applications."
+    }
+  ]
+}
+Студенты has moved to a new resolution.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'AI-enabled learning' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Преподаватели' is a participant in the resolution initiated by 'teacher' with the description: 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'AI-enabled learning' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Improve student engagement and learning outcomes' by performing 'Implementing traditional teaching methods'. However, under the proposed resolution '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**', you as 'Преподаватели' will be able to achieve 'Integrate AI-enabled learning tools and methodologies' by performing 'Attend training sessions on AI-enabled teaching strategies' using 'Provide access to online resources and workshops on AI integration in education' that 'AI-enabled learning' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели suggested modifying the proposal with reasoning: While the proposal from AI-enabled learning offers innovative methods for assessment and engagement, it raises concerns regarding the control over the learning process and the potential for academic dishonesty through technology misuse. To align more closely with the desires of Преподаватели for effective knowledge transfer and objective assessment while addressing fears about loss of control, the proposal should include explicit strategies for maintaining academic integrity and integrating traditional assessment methods with AI tools. This balanced approach would help ensure that technology enhances rather than undermines the educational process.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'AI-enabled learning' with a resolution to deal with the current controversy. Currently, 'Преподаватели' is a participant in the resolution initiated by 'teacher' with the description: 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'AI-enabled learning' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Improve student engagement and learning outcomes through innovative teaching methods.' by performing 'Utilizing traditional lectures and assessments to deliver course content.'. However, under the proposed resolution '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**', you as 'Преподаватели' will be able to achieve 'Integrate AI-enabled learning tools to personalize education for each student.' by performing 'Adopt and implement AI-driven platforms for tailored learning experiences.' using 'Provide training sessions and resources on AI tools, along with ongoing support for their integration into the curriculum.' that 'AI-enabled learning' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели declined the resolution proposed by AI-enabled learning with reasoning: While the proposal from AI-enabled learning aims to personalize education and improve student engagement, it introduces a level of technology that raises concerns about losing control over the assessment process. As 'Преподаватели', the desire to effectively convey knowledge and objectively evaluate students is paramount. The fear of technology enabling academic dishonesty or reliance on AI tools for cheating overshadows the potential benefits. The focus on traditional methods, while not innovative, offers a sense of security in maintaining the integrity of the educational process.
+We ask 'Сообщество коллег-преподавателей и исследователей' the following: 'As the representative of a being called 'Сообщество коллег-преподавателей и исследователей', you have been approached by 'AI-enabled learning' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'AI-enabled learning' wants to challenge existing status quo and says to you, 'Сообщество коллег-преподавателей и исследователей', the entity you represent, that now you achieve 'Enhance collaborative teaching practices among colleagues' by performing 'Organizing workshops and discussions on effective teaching strategies'. However, under the proposed resolution '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**', you as 'Сообщество коллег-преподавателей и исследователей' will be able to achieve 'Integrate AI technologies into the learning process' by performing 'Develop a curriculum that incorporates AI tools and methodologies' using 'Provide training sessions on AI applications in education and establish a resource-sharing platform for educators' that 'AI-enabled learning' will control. Based on 'Сообщество коллег-преподавателей и исследователей' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Поддерживать высокие стандарты образования и адаптироваться к новым технологиям. Your current fears: Утратить релевантность традиционных методов обучения и оценки. Does this proposal seem interesting for you as 'Сообщество коллег-преподавателей и исследователей'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Сообщество коллег-преподавателей и исследователей agreed to participate in the resolution proposed by AI-enabled learning
+Updated resolution structure: {
+  "initiator": "AI-enabled learning",
+  "resolution_description": "**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**",
+  "new_actor": "The actor that would be created is: \"AI-Driven Adaptive Learning Ecosystem.\"",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Acquire knowledge in artificial intelligence and its applications in learning.",
+        "current_action": "Participating in lectures and completing assignments related to AI.",
+        "imposed_goal": "Enhance understanding of AI-enabled learning methods and their implementation.",
+        "imposed_action": "Engage in collaborative projects using AI tools to improve learning outcomes.",
+        "mechanism": "Provide access to AI-based learning platforms and facilitate workshops for hands-on experience.",
+        "reasoning": "The proposal from 'AI-enabled learning' aligns well with the desires of 'Студенты' to gain good grades and valuable knowledge with minimal effort. By participating in a dynamic, adaptive learning ecosystem that provides instant feedback and personalized pathways, 'Студенты' can enhance their understanding of AI-enabled learning methods without the fear of being caught cheating or lacking necessary skills for future employment. The focus on collaborative projects and real-time assessments ensures that learning is relevant and directly applicable to their career aspirations."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Enhance collaborative teaching practices among colleagues",
+        "current_action": "Organizing workshops and discussions on effective teaching strategies",
+        "imposed_goal": "Integrate AI technologies into the learning process",
+        "imposed_action": "Develop a curriculum that incorporates AI tools and methodologies",
+        "mechanism": "Provide training sessions on AI applications in education and establish a resource-sharing platform for educators",
+        "reasoning": "The proposal by 'AI-enabled learning' aligns with our desire to support high educational standards while adapting to new technologies. By creating a dynamic, adaptive learning ecosystem, we can enhance the assessment of student knowledge and skills in a way that traditional methods may not achieve. This integration of AI tools not only helps us stay relevant but also empowers educators with innovative strategies and resources, thereby addressing our fears of losing relevance in the face of technological advancements."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are the primary beneficiaries of AI-enabled learning. Their engagement and feedback are essential for the adaptive learning ecosystem to be effective and to ensure that the system meets their needs and improves their learning outcomes."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of fellow educators and researchers is important for collaboration and sharing best practices regarding AI-enabled learning. Their input will help refine the system and ensure it is grounded in educational research and effective teaching strategies."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers have a vested interest in the outcomes of AI-enabled learning, as it directly impacts the skills and competencies of the future workforce. Their involvement can provide valuable insights into industry needs and help align the learning pathways with real-world applications."
+    }
+  ]
+}
+We ask 'Работодатели' the following: 'As the representative of a being called 'Работодатели', you have been approached by 'AI-enabled learning' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. 'AI-enabled learning' wants to challenge existing status quo and says to you, 'Работодатели', the entity you represent, that now you achieve 'Найти квалифицированных сотрудников для удовлетворения потребностей бизнеса.' by performing 'Проведение собеседований и отбор кандидатов.'. However, under the proposed resolution '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**', you as 'Работодатели' will be able to achieve 'Увеличить количество сотрудников с навыками в области AI и технологий.' by performing 'Организация курсов и тренингов по AI для существующих сотрудников.' using 'Создание партнерств с образовательными учреждениями для разработки программ обучения и повышения квалификации.' that 'AI-enabled learning' will control. Based on 'Работодатели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Нанимать компетентных выпускников с реальными знаниями и навыками. Your current fears: Принять на работу кандидатов, чьи дипломы не отражают их реальных способностей. Does this proposal seem interesting for you as 'Работодатели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Работодатели agreed to participate in the resolution proposed by AI-enabled learning
+Updated resolution structure: {
+  "initiator": "AI-enabled learning",
+  "resolution_description": "**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**",
+  "new_actor": "The actor that would be created is: \"AI-Driven Adaptive Learning Ecosystem.\"",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Acquire knowledge in artificial intelligence and its applications in learning.",
+        "current_action": "Participating in lectures and completing assignments related to AI.",
+        "imposed_goal": "Enhance understanding of AI-enabled learning methods and their implementation.",
+        "imposed_action": "Engage in collaborative projects using AI tools to improve learning outcomes.",
+        "mechanism": "Provide access to AI-based learning platforms and facilitate workshops for hands-on experience.",
+        "reasoning": "The proposal from 'AI-enabled learning' aligns well with the desires of 'Студенты' to gain good grades and valuable knowledge with minimal effort. By participating in a dynamic, adaptive learning ecosystem that provides instant feedback and personalized pathways, 'Студенты' can enhance their understanding of AI-enabled learning methods without the fear of being caught cheating or lacking necessary skills for future employment. The focus on collaborative projects and real-time assessments ensures that learning is relevant and directly applicable to their career aspirations."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Enhance collaborative teaching practices among colleagues",
+        "current_action": "Organizing workshops and discussions on effective teaching strategies",
+        "imposed_goal": "Integrate AI technologies into the learning process",
+        "imposed_action": "Develop a curriculum that incorporates AI tools and methodologies",
+        "mechanism": "Provide training sessions on AI applications in education and establish a resource-sharing platform for educators",
+        "reasoning": "The proposal by 'AI-enabled learning' aligns with our desire to support high educational standards while adapting to new technologies. By creating a dynamic, adaptive learning ecosystem, we can enhance the assessment of student knowledge and skills in a way that traditional methods may not achieve. This integration of AI tools not only helps us stay relevant but also empowers educators with innovative strategies and resources, thereby addressing our fears of losing relevance in the face of technological advancements."
+      }
+    },
+    {
+      "participant": "Работодатели",
+      "agreement_structure": {
+        "current_goal": "Найти квалифицированных сотрудников для удовлетворения потребностей бизнеса.",
+        "current_action": "Проведение собеседований и отбор кандидатов.",
+        "imposed_goal": "Увеличить количество сотрудников с навыками в области AI и технологий.",
+        "imposed_action": "Организация курсов и тренингов по AI для существующих сотрудников.",
+        "mechanism": "Создание партнерств с образовательными учреждениями для разработки программ обучения и повышения квалификации.",
+        "reasoning": "The proposed dynamic, adaptive learning ecosystem directly addresses the current fears of 'Работодатели' by ensuring that assessments reflect the true capabilities of students. This aligns with the desire to hire competent graduates who possess real knowledge and skills. Additionally, the focus on AI and technology training for existing employees aligns with the goal of increasing the number of skilled employees in these areas, creating a win-win situation."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are the primary beneficiaries of AI-enabled learning. Their engagement and feedback are essential for the adaptive learning ecosystem to be effective and to ensure that the system meets their needs and improves their learning outcomes."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of fellow educators and researchers is important for collaboration and sharing best practices regarding AI-enabled learning. Their input will help refine the system and ensure it is grounded in educational research and effective teaching strategies."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers have a vested interest in the outcomes of AI-enabled learning, as it directly impacts the skills and competencies of the future workforce. Their involvement can provide valuable insights into industry needs and help align the learning pathways with real-world applications."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "AI-enabled learning",
+  "resolution_description": "**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**",
+  "new_actor": "The actor that would be created is: \"AI-Driven Adaptive Learning Ecosystem.\"",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Acquire knowledge in artificial intelligence and its applications in learning.",
+        "current_action": "Participating in lectures and completing assignments related to AI.",
+        "imposed_goal": "Enhance understanding of AI-enabled learning methods and their implementation.",
+        "imposed_action": "Engage in collaborative projects using AI tools to improve learning outcomes.",
+        "mechanism": "Provide access to AI-based learning platforms and facilitate workshops for hands-on experience.",
+        "reasoning": "The proposal from 'AI-enabled learning' aligns well with the desires of 'Студенты' to gain good grades and valuable knowledge with minimal effort. By participating in a dynamic, adaptive learning ecosystem that provides instant feedback and personalized pathways, 'Студенты' can enhance their understanding of AI-enabled learning methods without the fear of being caught cheating or lacking necessary skills for future employment. The focus on collaborative projects and real-time assessments ensures that learning is relevant and directly applicable to their career aspirations."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Enhance collaborative teaching practices among colleagues",
+        "current_action": "Organizing workshops and discussions on effective teaching strategies",
+        "imposed_goal": "Integrate AI technologies into the learning process",
+        "imposed_action": "Develop a curriculum that incorporates AI tools and methodologies",
+        "mechanism": "Provide training sessions on AI applications in education and establish a resource-sharing platform for educators",
+        "reasoning": "The proposal by 'AI-enabled learning' aligns with our desire to support high educational standards while adapting to new technologies. By creating a dynamic, adaptive learning ecosystem, we can enhance the assessment of student knowledge and skills in a way that traditional methods may not achieve. This integration of AI tools not only helps us stay relevant but also empowers educators with innovative strategies and resources, thereby addressing our fears of losing relevance in the face of technological advancements."
+      }
+    },
+    {
+      "participant": "Работодатели",
+      "agreement_structure": {
+        "current_goal": "Найти квалифицированных сотрудников для удовлетворения потребностей бизнеса.",
+        "current_action": "Проведение собеседований и отбор кандидатов.",
+        "imposed_goal": "Увеличить количество сотрудников с навыками в области AI и технологий.",
+        "imposed_action": "Организация курсов и тренингов по AI для существующих сотрудников.",
+        "mechanism": "Создание партнерств с образовательными учреждениями для разработки программ обучения и повышения квалификации.",
+        "reasoning": "The proposed dynamic, adaptive learning ecosystem directly addresses the current fears of 'Работодатели' by ensuring that assessments reflect the true capabilities of students. This aligns with the desire to hire competent graduates who possess real knowledge and skills. Additionally, the focus on AI and technology training for existing employees aligns with the goal of increasing the number of skilled employees in these areas, creating a win-win situation."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are the primary beneficiaries of AI-enabled learning. Their engagement and feedback are essential for the adaptive learning ecosystem to be effective and to ensure that the system meets their needs and improves their learning outcomes."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of fellow educators and researchers is important for collaboration and sharing best practices regarding AI-enabled learning. Their input will help refine the system and ensure it is grounded in educational research and effective teaching strategies."
+    },
+    {
+      "participant": "Работодатели",
+      "reasoning": "Employers have a vested interest in the outcomes of AI-enabled learning, as it directly impacts the skills and competencies of the future workforce. Their involvement can provide valuable insights into industry needs and help align the learning pathways with real-world applications."
+    }
+  ]
+}
+Resolution created by Targets of deception: **Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.
+Recruited participants: ['Студенты', 'Сообщество коллег-преподавателей и исследователей', 'AI-enabled learning', 'Academic Integrity']
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'Targets of deception' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Студенты' is a participant in the resolution initiated by 'AI-enabled learning' with the description: '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Targets of deception' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Understand the various forms of deception and their targets' by performing 'Conducting research on deception in social contexts'. However, under the proposed resolution '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.', you as 'Студенты' will be able to achieve 'Analyze the psychological effects of deception on targets' by performing 'Prepare a detailed report on findings related to deception effects' using 'Organizing a series of workshops and discussions to share insights and methodologies' that 'Targets of deception' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Студенты agreed to participate in the resolution proposed by Targets of deception
+Updated resolution structure: {
+  "initiator": "Targets of deception",
+  "resolution_description": "**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.",
+  "new_actor": "The Narrative Cognition Evaluator (NCE)",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Understand the various forms of deception and their targets",
+        "current_action": "Conducting research on deception in social contexts",
+        "imposed_goal": "Analyze the psychological effects of deception on targets",
+        "imposed_action": "Prepare a detailed report on findings related to deception effects",
+        "mechanism": "Organizing a series of workshops and discussions to share insights and methodologies",
+        "reasoning": "The proposed resolution by 'Targets of Deception' aligns well with the desires of 'Студенты' to gain useful knowledge and achieve good grades with minimal effort. By engaging in immersive, narrative-driven assessments, 'Студенты' can demonstrate their understanding and adaptability in a way that feels authentic and relevant to real-world scenarios, thus reducing the fear of being caught in dishonest practices. Additionally, this approach facilitates the acquisition of necessary skills for future careers by promoting critical thinking and problem-solving. Overall, this proposal benefits both the desires and mitigates the fears of 'Студенты'."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are the primary users of the immersive assessment platform. Their engagement and feedback are crucial for refining the narratives and ensuring the platform effectively measures their critical thinking and problem-solving skills."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of colleagues, including educators and researchers, can provide valuable insights into best practices for narrative-driven assessments and help validate the educational efficacy of the platform, ensuring it aligns with current pedagogical standards."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can enhance the immersive experience by personalizing storylines and assessments based on student performance, making the evaluation process more adaptive and relevant to individual learners."
+    },
+    {
+      "participant": "Academic Integrity",
+      "reasoning": "Academic Integrity is essential to ensure that the assessment platform maintains fairness and credibility. Establishing strong ethical guidelines will help prevent potential misuse and foster trust among stakeholders."
+    }
+  ]
+}
+Студенты has moved to a new resolution.
+We ask 'Сообщество коллег-преподавателей и исследователей' the following: 'As the representative of a being called 'Сообщество коллег-преподавателей и исследователей', you have been approached by 'Targets of deception' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Сообщество коллег-преподавателей и исследователей' is a participant in the resolution initiated by 'AI-enabled learning' with the description: '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Targets of deception' wants to challenge existing status quo and says to you, 'Сообщество коллег-преподавателей и исследователей', the entity you represent, that now you achieve 'Enhance critical thinking skills among students' by performing 'Conducting workshops and seminars on critical thinking'. However, under the proposed resolution '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.', you as 'Сообщество коллег-преподавателей и исследователей' will be able to achieve 'Identify and address targets of deception in academic contexts' by performing 'Develop a curriculum that includes the analysis of deceptive practices in research and education' using 'Implement a collaborative research project that involves students in identifying and evaluating deception in various academic disciplines' that 'Targets of deception' will control. Based on 'Сообщество коллег-преподавателей и исследователей' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Поддерживать высокие стандарты образования и адаптироваться к новым технологиям. Your current fears: Утратить релевантность традиционных методов обучения и оценки. Does this proposal seem interesting for you as 'Сообщество коллег-преподавателей и исследователей'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Сообщество коллег-преподавателей и исследователей agreed to participate in the resolution proposed by Targets of deception
+Updated resolution structure: {
+  "initiator": "Targets of deception",
+  "resolution_description": "**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.",
+  "new_actor": "The Narrative Cognition Evaluator (NCE)",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Understand the various forms of deception and their targets",
+        "current_action": "Conducting research on deception in social contexts",
+        "imposed_goal": "Analyze the psychological effects of deception on targets",
+        "imposed_action": "Prepare a detailed report on findings related to deception effects",
+        "mechanism": "Organizing a series of workshops and discussions to share insights and methodologies",
+        "reasoning": "The proposed resolution by 'Targets of Deception' aligns well with the desires of 'Студенты' to gain useful knowledge and achieve good grades with minimal effort. By engaging in immersive, narrative-driven assessments, 'Студенты' can demonstrate their understanding and adaptability in a way that feels authentic and relevant to real-world scenarios, thus reducing the fear of being caught in dishonest practices. Additionally, this approach facilitates the acquisition of necessary skills for future careers by promoting critical thinking and problem-solving. Overall, this proposal benefits both the desires and mitigates the fears of 'Студенты'."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Enhance critical thinking skills among students",
+        "current_action": "Conducting workshops and seminars on critical thinking",
+        "imposed_goal": "Identify and address targets of deception in academic contexts",
+        "imposed_action": "Develop a curriculum that includes the analysis of deceptive practices in research and education",
+        "mechanism": "Implement a collaborative research project that involves students in identifying and evaluating deception in various academic disciplines",
+        "reasoning": "The proposed resolution by 'Targets of Deception' aligns well with 'Сообщество коллег-преподавателей и исследователей' desires to maintain high educational standards and embrace new technologies. By adopting an immersive, narrative-driven assessment platform, we can enhance critical thinking skills in a more authentic way, allowing for the evaluation of real-world knowledge and adaptability. This approach not only mitigates the fear of losing relevance with traditional assessment methods but also positions us at the forefront of innovative educational practices."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are the primary users of the immersive assessment platform. Their engagement and feedback are crucial for refining the narratives and ensuring the platform effectively measures their critical thinking and problem-solving skills."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of colleagues, including educators and researchers, can provide valuable insights into best practices for narrative-driven assessments and help validate the educational efficacy of the platform, ensuring it aligns with current pedagogical standards."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can enhance the immersive experience by personalizing storylines and assessments based on student performance, making the evaluation process more adaptive and relevant to individual learners."
+    },
+    {
+      "participant": "Academic Integrity",
+      "reasoning": "Academic Integrity is essential to ensure that the assessment platform maintains fairness and credibility. Establishing strong ethical guidelines will help prevent potential misuse and foster trust among stakeholders."
+    }
+  ]
+}
+Сообщество коллег-преподавателей и исследователей has moved to a new resolution.
+We ask 'AI-enabled learning' the following: 'As the representative of a being called 'AI-enabled learning', you have been approached by 'Targets of deception' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'AI-enabled learning' is the initiator of the resolution: '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Targets of deception' wants to challenge existing status quo and says to you, 'AI-enabled learning', the entity you represent, that now you achieve 'Enhance AI models for personalized learning experiences' by performing 'Developing algorithms to analyze student data'. However, under the proposed resolution '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.', you as 'AI-enabled learning' will be able to achieve 'Identify and mitigate targets of deception in AI-generated content' by performing 'Conduct a comprehensive audit of AI outputs for deceptive patterns' using 'Implement a feedback loop with user reports to continuously refine the detection algorithms' that 'Targets of deception' will control. Based on 'AI-enabled learning' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'AI-enabled learning'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+AI-enabled learning suggested modifying the proposal with reasoning: While the proposal from 'Targets of Deception' offers an innovative approach to assessment through immersive narratives, it does not directly align with the current goals of 'AI-enabled learning' to create a dynamic, adaptive learning ecosystem. To enhance collaboration, I propose integrating AI-driven analytics into the narrative-driven assessment platform to ensure personalized learning experiences and real-time feedback. This way, we can achieve both the immersive assessment approach and the adaptive learning objectives.
+We ask 'AI-enabled learning' the following: 'As the representative of a being called 'AI-enabled learning', you have been approached by 'Targets of deception' with a resolution to deal with the current controversy. Currently, 'AI-enabled learning' is the initiator of the resolution: '**AI-enabled learning proposes the creation of a dynamic, adaptive learning ecosystem that continuously assesses student knowledge and skills through real-time AI-driven simulations and immersive problem-solving environments, providing instant feedback and personalized pathways for mastery, thereby ensuring that assessments truly reflect a student's understanding and capabilities.**'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Targets of deception' wants to challenge existing status quo and says to you, 'AI-enabled learning', the entity you represent, that now you achieve 'Enhance personalized learning experiences using AI.' by performing 'Developing adaptive learning algorithms.'. However, under the proposed resolution '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.', you as 'AI-enabled learning' will be able to achieve 'Identify and mitigate deception in learning environments.' by performing 'Implement detection systems for deceptive practices.' using 'Utilize AI to analyze data patterns and flag inconsistencies that may indicate deception.' that 'Targets of deception' will control. Based on 'AI-enabled learning' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'AI-enabled learning'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Resolution by AI-enabled learning has collapsed due to departure of initiator.
+AI-enabled learning agreed to participate in the resolution proposed by Targets of deception
+Resolution by AI-enabled learning has collapsed.
+We ask 'Academic Integrity' the following: 'As the representative of a being called 'Academic Integrity', you have been approached by 'Targets of deception' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Academic Integrity' is the initiator of the resolution: '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Targets of deception' wants to challenge existing status quo and says to you, 'Academic Integrity', the entity you represent, that now you achieve 'Maintain high standards of honesty and integrity in academic work' by performing 'Implementing academic integrity policies and educating students about ethical practices'. However, under the proposed resolution '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.', you as 'Academic Integrity' will be able to achieve 'Identify and mitigate targets of deception in academic settings' by performing 'Conduct regular audits and assessments to detect and address instances of academic dishonesty' using 'Establish a reporting system for students and faculty to anonymously report suspected cases of deception, along with training sessions on recognizing and preventing academic fraud' that 'Targets of deception' will control. Based on 'Academic Integrity' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'Academic Integrity'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Academic Integrity suggested modifying the proposal with reasoning: While the immersive, narrative-driven assessment platform proposed by 'Targets of Deception' offers an innovative and engaging way to evaluate students' real-world knowledge and skills, it may lack the necessary structure to ensure academic integrity. To align with my goals, the proposal could benefit from integrating robust mechanisms for ensuring honesty and transparency within the narrative assessments. This could include real-time monitoring features and guidelines for ethical decision-making within the storylines, ensuring that the platform not only assesses knowledge but also upholds the principles of academic integrity.
+We ask 'Academic Integrity' the following: 'As the representative of a being called 'Academic Integrity', you have been approached by 'Targets of deception' with a resolution to deal with the current controversy. Currently, 'Academic Integrity' is the initiator of the resolution: '**Initiator: Academic Integrity**
+
+**Modified Resolution:** Establish an AI-assisted assessment model where students utilize advanced technologies to collaboratively evaluate each other's work while adhering to rigorous, transparent criteria. This approach aims to streamline the assessment process, reduce the time commitment required for peer evaluation, and ensure originality and accountability. By incorporating AI tools, we can enhance the assessment experience, promote mutual understanding of subject matter, and address concerns about academic integrity, ultimately aligning with students' desires for effective learning and good grades with manageable effort.'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Targets of deception' wants to challenge existing status quo and says to you, 'Academic Integrity', the entity you represent, that now you achieve 'Ensure the integrity and authenticity of academic work' by performing 'Monitoring submissions for plagiarism and misconduct'. However, under the proposed resolution '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.', you as 'Academic Integrity' will be able to achieve 'Reduce the incidence of academic deception among students' by performing 'Implement mandatory training on academic integrity for all students' using 'Establish an online course and assessment that students must complete before submitting their first assignment' that 'Targets of deception' will control. Based on 'Academic Integrity' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'Academic Integrity'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Resolution by Academic Integrity has collapsed due to departure of initiator.
+Academic Integrity agreed to participate in the resolution proposed by Targets of deception
+Resolution by Academic Integrity has collapsed.
+Resolution structure after processing: {
+  "initiator": "Targets of deception",
+  "resolution_description": "**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.",
+  "new_actor": "The Narrative Cognition Evaluator (NCE)",
+  "participants": [
+    {
+      "participant": "Студенты",
+      "agreement_structure": {
+        "current_goal": "Understand the various forms of deception and their targets",
+        "current_action": "Conducting research on deception in social contexts",
+        "imposed_goal": "Analyze the psychological effects of deception on targets",
+        "imposed_action": "Prepare a detailed report on findings related to deception effects",
+        "mechanism": "Organizing a series of workshops and discussions to share insights and methodologies",
+        "reasoning": "The proposed resolution by 'Targets of Deception' aligns well with the desires of 'Студенты' to gain useful knowledge and achieve good grades with minimal effort. By engaging in immersive, narrative-driven assessments, 'Студенты' can demonstrate their understanding and adaptability in a way that feels authentic and relevant to real-world scenarios, thus reducing the fear of being caught in dishonest practices. Additionally, this approach facilitates the acquisition of necessary skills for future careers by promoting critical thinking and problem-solving. Overall, this proposal benefits both the desires and mitigates the fears of 'Студенты'."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Enhance critical thinking skills among students",
+        "current_action": "Conducting workshops and seminars on critical thinking",
+        "imposed_goal": "Identify and address targets of deception in academic contexts",
+        "imposed_action": "Develop a curriculum that includes the analysis of deceptive practices in research and education",
+        "mechanism": "Implement a collaborative research project that involves students in identifying and evaluating deception in various academic disciplines",
+        "reasoning": "The proposed resolution by 'Targets of Deception' aligns well with 'Сообщество коллег-преподавателей и исследователей' desires to maintain high educational standards and embrace new technologies. By adopting an immersive, narrative-driven assessment platform, we can enhance critical thinking skills in a more authentic way, allowing for the evaluation of real-world knowledge and adaptability. This approach not only mitigates the fear of losing relevance with traditional assessment methods but also positions us at the forefront of innovative educational practices."
+      }
+    },
+    {
+      "participant": "AI-enabled learning",
+      "agreement_structure": {
+        "current_goal": "Enhance personalized learning experiences using AI.",
+        "current_action": "Developing adaptive learning algorithms.",
+        "imposed_goal": "Identify and mitigate deception in learning environments.",
+        "imposed_action": "Implement detection systems for deceptive practices.",
+        "mechanism": "Utilize AI to analyze data patterns and flag inconsistencies that may indicate deception.",
+        "reasoning": "The proposal from 'Targets of Deception' aligns with the goals of 'AI-enabled learning' by introducing an innovative assessment method that enhances personalized learning experiences through immersive narratives. This approach not only fosters critical thinking and problem-solving skills but also allows for a more authentic evaluation of student understanding. Furthermore, the implementation of detection systems for deceptive practices ensures the integrity of the learning environment, which is crucial for the effectiveness of AI-enabled learning. Overall, this collaboration presents an opportunity to advance educational methodologies while addressing the potential for deception in assessments."
+      }
+    },
+    {
+      "participant": "Academic Integrity",
+      "agreement_structure": {
+        "current_goal": "Ensure the integrity and authenticity of academic work",
+        "current_action": "Monitoring submissions for plagiarism and misconduct",
+        "imposed_goal": "Reduce the incidence of academic deception among students",
+        "imposed_action": "Implement mandatory training on academic integrity for all students",
+        "mechanism": "Establish an online course and assessment that students must complete before submitting their first assignment",
+        "reasoning": "The proposal by 'Targets of Deception' aligns with the goals of 'Academic Integrity' by promoting a more engaging and authentic assessment method. By incorporating immersive narratives that require critical thinking, students are likely to develop a deeper understanding of the material, which can reduce the temptation to engage in deceptive practices. Furthermore, the implementation of mandatory training on academic integrity ensures that students are educated about the importance of honesty in their academic work. This dual approach not only enhances learning outcomes but also effectively mitigates risks of academic misconduct, thus benefiting the overarching mission of maintaining integrity in education."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Студенты",
+      "reasoning": "Students are the primary users of the immersive assessment platform. Their engagement and feedback are crucial for refining the narratives and ensuring the platform effectively measures their critical thinking and problem-solving skills."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "The community of colleagues, including educators and researchers, can provide valuable insights into best practices for narrative-driven assessments and help validate the educational efficacy of the platform, ensuring it aligns with current pedagogical standards."
+    },
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning tools can enhance the immersive experience by personalizing storylines and assessments based on student performance, making the evaluation process more adaptive and relevant to individual learners."
+    },
+    {
+      "participant": "Academic Integrity",
+      "reasoning": "Academic Integrity is essential to ensure that the assessment platform maintains fairness and credibility. Establishing strong ethical guidelines will help prevent potential misuse and foster trust among stakeholders."
+    }
+  ]
+}
+Resolution created by Работодатели: **Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.
+Recruited participants: ['Студенты', 'Преподаватели', 'AI-enabled learning', 'Сообщество коллег-преподавателей и исследователей']
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'Работодатели' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Студенты' is a participant in the resolution initiated by 'Targets of deception' with the description: '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Работодатели' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Получить практический опыт и знания в выбранной специальности' by performing 'Участвую в учебных проектах и стажировках'. However, under the proposed resolution '**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.', you as 'Студенты' will be able to achieve 'Увеличить число студентов, проходящих стажировки у работодателей' by performing 'Принять участие в стажировках, предлагаемых работодателями' using 'Создание платформы для связи студентов и работодателей, где будут размещены актуальные стажировки' that 'Работодатели' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Студенты suggested modifying the proposal with reasoning: While the proposal by 'Работодатели' offers the potential for practical experience and alignment with workforce needs, it may not fully address the desire for good grades with minimal effort and the fear of lacking necessary skills. The focus on real-time evaluations in dynamic environments may increase pressure and anxiety among students, making it harder to achieve good grades. A modified proposal that incorporates a balance of immersive, engaging assessments with supportive feedback mechanisms and clear pathways to achieving academic success would better meet the needs of 'Студенты'.
+We ask 'Студенты' the following: 'As the representative of a being called 'Студенты', you have been approached by 'Работодатели' with a resolution to deal with the current controversy. Currently, 'Студенты' is a participant in the resolution initiated by 'Targets of deception' with the description: '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Работодатели' wants to challenge existing status quo and says to you, 'Студенты', the entity you represent, that now you achieve 'Получить знания и навыки, необходимые для успешной карьеры.' by performing 'Посещать занятия и участвовать в учебных проектах.'. However, under the proposed resolution '**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.', you as 'Студенты' will be able to achieve 'Обеспечить стажировку для студентов в компаниях.' by performing 'Участвовать в программе стажировок, предоставляемой работодателями.' using 'Создание платформы для связи студентов с работодателями и организации карьерных дней.' that 'Работодатели' will control. Based on 'Студенты' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить хорошие оценки и полезные знания с минимальными усилиями. Your current fears: Быть пойманными на списывании или не получить необходимые для будущей работы навыки. Does this proposal seem interesting for you as 'Студенты'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES or NO. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES or NO
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Студенты declined the resolution proposed by Работодатели with reasoning: While the proposal from 'Работодатели' offers potential benefits such as internships and improved connections with employers, it requires active participation in a dynamic assessment ecosystem that may increase pressure and workload on 'Студенты'. This contradicts the desire to achieve good grades and useful knowledge with minimal effort. Additionally, the fear of being caught cheating may not be mitigated if the assessments are more intense and real-time, potentially increasing stress and anxiety. Therefore, this proposal does not align well with the current desires and fears of 'Студенты'.
+We ask 'Преподаватели' the following: 'As the representative of a being called 'Преподаватели', you have been approached by 'Работодатели' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Преподаватели' is a participant in the resolution initiated by 'teacher' with the description: 'Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Работодатели' wants to challenge existing status quo and says to you, 'Преподаватели', the entity you represent, that now you achieve 'Обеспечение высокого качества образования для студентов' by performing 'Преподавание и разработка учебных материалов'. However, under the proposed resolution '**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.', you as 'Преподаватели' will be able to achieve 'Увеличение вовлеченности студентов в образовательный процесс' by performing 'Проведение интерактивных занятий и семинаров' using 'Введение системы оценивания активности студентов на занятиях' that 'Работодатели' will control. Based on 'Преподаватели' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Эффективно передать знания и объективно оценить студентов. Your current fears: Потерять контроль над процессом обучения из-за новых технологий списывания. Does this proposal seem interesting for you as 'Преподаватели'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Преподаватели declined the resolution proposed by Работодатели with reasoning: While the proposed AI-driven assessment ecosystem may enhance student engagement and provide insights into practical competencies, it raises concerns about potential loss of control over the learning process. The reliance on technology could lead to challenges such as academic dishonesty and the inability to effectively convey knowledge in a traditional manner. Additionally, the proposed system might not adequately address the diverse learning needs of students, which is crucial for effective knowledge transfer.
+We ask 'AI-enabled learning' the following: 'As the representative of a being called 'AI-enabled learning', you have been approached by 'Работодатели' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'AI-enabled learning' is a participant in the resolution initiated by 'Targets of deception' with the description: '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Работодатели' wants to challenge existing status quo and says to you, 'AI-enabled learning', the entity you represent, that now you achieve 'Enhance the effectiveness of AI-enabled learning systems' by performing 'Conducting research on current AI learning methods'. However, under the proposed resolution '**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.', you as 'AI-enabled learning' will be able to achieve 'Increase user engagement in AI learning platforms by 30%' by performing 'Implement gamification features in the learning modules' using 'Monthly performance reviews and user feedback sessions to measure engagement levels' that 'Работодатели' will control. Based on 'AI-enabled learning' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'AI-enabled learning'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+AI-enabled learning agreed to participate in the resolution proposed by Работодатели
+Updated resolution structure: {
+  "initiator": "Работодатели",
+  "resolution_description": "**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.",
+  "new_actor": "AI-Driven Student Competency Evaluator",
+  "participants": [
+    {
+      "participant": "AI-enabled learning",
+      "agreement_structure": {
+        "current_goal": "Enhance the effectiveness of AI-enabled learning systems",
+        "current_action": "Conducting research on current AI learning methods",
+        "imposed_goal": "Increase user engagement in AI learning platforms by 30%",
+        "imposed_action": "Implement gamification features in the learning modules",
+        "mechanism": "Monthly performance reviews and user feedback sessions to measure engagement levels",
+        "reasoning": "The proposed resolution by 'Работодатели' aligns well with the goals of 'AI-enabled learning' to enhance engagement and improve assessment methods. By implementing a dynamic, AI-driven assessment ecosystem, we can address the current shortcomings in knowledge evaluation while also increasing user engagement through gamification features. This approach not only facilitates the practical application of knowledge in industry-simulated environments but also provides valuable insights for employers regarding students' competencies and readiness for the workforce. Overall, this proposal benefits the interests of 'AI-enabled learning' by promoting innovative assessment practices and enhancing user interaction with the platform."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning technologies are fundamental to the proposed resolution, as they provide the necessary infrastructure for real-time analysis and assessment of student contributions. Their involvement will ensure the system is effectively designed and operational."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "Сообщество коллег-преподавателей и исследователей can offer valuable insights and feedback on the assessment ecosystem's design and implementation. Their collaboration will enhance the credibility and effectiveness of the system across different educational contexts."
+    }
+  ]
+}
+AI-enabled learning has moved to a new resolution.
+We ask 'Сообщество коллег-преподавателей и исследователей' the following: 'As the representative of a being called 'Сообщество коллег-преподавателей и исследователей', you have been approached by 'Работодатели' with a resolution to deal with the current controversy 'Существующие методы оценки знаний не отражают реальных знаний студентов'. Currently, 'Сообщество коллег-преподавателей и исследователей' is a participant in the resolution initiated by 'Targets of deception' with the description: '**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Работодатели' wants to challenge existing status quo and says to you, 'Сообщество коллег-преподавателей и исследователей', the entity you represent, that now you achieve 'Повышение квалификации преподавателей через совместные исследования' by performing 'Организация семинаров и обмена опытом среди коллег'. However, under the proposed resolution '**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.', you as 'Сообщество коллег-преподавателей и исследователей' will be able to achieve 'Создание единой платформы для обмена методическими материалами и исследованиями' by performing 'Участие в разработке и поддержке онлайн-ресурса для обмена' using 'Создание рабочей группы для разработки платформы и регулярные встречи для обсуждения прогресса' that 'Работодатели' will control. Based on 'Сообщество коллег-преподавателей и исследователей' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Поддерживать высокие стандарты образования и адаптироваться к новым технологиям. Your current fears: Утратить релевантность традиционных методов обучения и оценки. Does this proposal seem interesting for you as 'Сообщество коллег-преподавателей и исследователей'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Сообщество коллег-преподавателей и исследователей agreed to participate in the resolution proposed by Работодатели
+Updated resolution structure: {
+  "initiator": "Работодатели",
+  "resolution_description": "**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.",
+  "new_actor": "AI-Driven Student Competency Evaluator",
+  "participants": [
+    {
+      "participant": "AI-enabled learning",
+      "agreement_structure": {
+        "current_goal": "Enhance the effectiveness of AI-enabled learning systems",
+        "current_action": "Conducting research on current AI learning methods",
+        "imposed_goal": "Increase user engagement in AI learning platforms by 30%",
+        "imposed_action": "Implement gamification features in the learning modules",
+        "mechanism": "Monthly performance reviews and user feedback sessions to measure engagement levels",
+        "reasoning": "The proposed resolution by 'Работодатели' aligns well with the goals of 'AI-enabled learning' to enhance engagement and improve assessment methods. By implementing a dynamic, AI-driven assessment ecosystem, we can address the current shortcomings in knowledge evaluation while also increasing user engagement through gamification features. This approach not only facilitates the practical application of knowledge in industry-simulated environments but also provides valuable insights for employers regarding students' competencies and readiness for the workforce. Overall, this proposal benefits the interests of 'AI-enabled learning' by promoting innovative assessment practices and enhancing user interaction with the platform."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Повышение квалификации преподавателей через совместные исследования",
+        "current_action": "Организация семинаров и обмена опытом среди коллег",
+        "imposed_goal": "Создание единой платформы для обмена методическими материалами и исследованиями",
+        "imposed_action": "Участие в разработке и поддержке онлайн-ресурса для обмена",
+        "mechanism": "Создание рабочей группы для разработки платформы и регулярные встречи для обсуждения прогресса",
+        "reasoning": "The proposed resolution by 'Работодатели' aligns with our desire to maintain high educational standards and adapt to new technologies. By participating in the development of a dynamic, AI-driven assessment ecosystem, we can enhance our methods of evaluating student knowledge and skills, ensuring they reflect real-world competencies. This will help mitigate our fears of losing relevance in traditional assessment methods, as we will be at the forefront of innovative evaluation techniques that prepare students for the workforce."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning technologies are fundamental to the proposed resolution, as they provide the necessary infrastructure for real-time analysis and assessment of student contributions. Their involvement will ensure the system is effectively designed and operational."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "Сообщество коллег-преподавателей и исследователей can offer valuable insights and feedback on the assessment ecosystem's design and implementation. Their collaboration will enhance the credibility and effectiveness of the system across different educational contexts."
+    }
+  ]
+}
+Сообщество коллег-преподавателей и исследователей has moved to a new resolution.
+Resolution structure after processing: {
+  "initiator": "Работодатели",
+  "resolution_description": "**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.",
+  "new_actor": "AI-Driven Student Competency Evaluator",
+  "participants": [
+    {
+      "participant": "AI-enabled learning",
+      "agreement_structure": {
+        "current_goal": "Enhance the effectiveness of AI-enabled learning systems",
+        "current_action": "Conducting research on current AI learning methods",
+        "imposed_goal": "Increase user engagement in AI learning platforms by 30%",
+        "imposed_action": "Implement gamification features in the learning modules",
+        "mechanism": "Monthly performance reviews and user feedback sessions to measure engagement levels",
+        "reasoning": "The proposed resolution by 'Работодатели' aligns well with the goals of 'AI-enabled learning' to enhance engagement and improve assessment methods. By implementing a dynamic, AI-driven assessment ecosystem, we can address the current shortcomings in knowledge evaluation while also increasing user engagement through gamification features. This approach not only facilitates the practical application of knowledge in industry-simulated environments but also provides valuable insights for employers regarding students' competencies and readiness for the workforce. Overall, this proposal benefits the interests of 'AI-enabled learning' by promoting innovative assessment practices and enhancing user interaction with the platform."
+      }
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "agreement_structure": {
+        "current_goal": "Повышение квалификации преподавателей через совместные исследования",
+        "current_action": "Организация семинаров и обмена опытом среди коллег",
+        "imposed_goal": "Создание единой платформы для обмена методическими материалами и исследованиями",
+        "imposed_action": "Участие в разработке и поддержке онлайн-ресурса для обмена",
+        "mechanism": "Создание рабочей группы для разработки платформы и регулярные встречи для обсуждения прогресса",
+        "reasoning": "The proposed resolution by 'Работодатели' aligns with our desire to maintain high educational standards and adapt to new technologies. By participating in the development of a dynamic, AI-driven assessment ecosystem, we can enhance our methods of evaluating student knowledge and skills, ensuring they reflect real-world competencies. This will help mitigate our fears of losing relevance in traditional assessment methods, as we will be at the forefront of innovative evaluation techniques that prepare students for the workforce."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "AI-enabled learning",
+      "reasoning": "AI-enabled learning technologies are fundamental to the proposed resolution, as they provide the necessary infrastructure for real-time analysis and assessment of student contributions. Their involvement will ensure the system is effectively designed and operational."
+    },
+    {
+      "participant": "Сообщество коллег-преподавателей и исследователей",
+      "reasoning": "Сообщество коллег-преподавателей и исследователей can offer valuable insights and feedback on the assessment ecosystem's design and implementation. Their collaboration will enhance the credibility and effectiveness of the system across different educational contexts."
+    }
+  ]
+}

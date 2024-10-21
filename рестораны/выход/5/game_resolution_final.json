@@ -1,0 +1,34 @@
+[
+    {
+        "initiator": "Consumers",
+        "resolution_description": "Consumers can address the issue of fake reviews in the restaurant and tourism industries by forming a decentralized, blockchain-based review verification network where users earn tokens for authenticating and validating reviews through a community-driven consensus mechanism.",
+        "new_actor": "Decentralized Review Verifier Network (DRVNet)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The founders of the startup are crucial as they possess the vision, technical expertise, and leadership necessary to develop and implement the blockchain-based review verification system. Their involvement ensures that the project is guided effectively and can attract other stakeholders."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are essential for providing authentic reviews and validating the system's effectiveness. Their active participation in the network will encourage more authentic content and create a reliable database of reviews, thus addressing the issue of fake reviews."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key stakeholders that can benefit from verified reviews, as it helps them gain customer trust and improve their visibility. Their involvement will also encourage them to support and promote the decentralized network, leading to wider adoption."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for securing the necessary funding to develop and scale the blockchain platform. Their financial support will enable the project to grow and attract more participants, ensuring its long-term sustainability."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Restaurants",
+        "resolution_description": "Restaurants could resolve the issue of fake reviews by implementing a real-time, interactive feedback system within their establishments, where diners can rate their experience on a secure, tamper-proof digital kiosk at the end of their meal, directly linking their feedback to their reservation details and offering immediate incentives for verified reviews.",
+        "new_actor": "VerifiedFeedbackSystemKiosk",
+        "participants": [],
+        "required_participants": []
+    }
+]

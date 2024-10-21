@@ -1,0 +1,64 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Implement augmented reality (AR) packaging that visually simulates fragile or dynamic contents when viewed through a smartphone app, engaging handlers with an interactive experience that highlights the need for careful handling.",
+        "new_actor": "Interactive AR Packaging Handler",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is crucial for implementing AR packaging as they will need to integrate the technology into their product packaging. Their involvement ensures that the AR content aligns with the actual handling requirements of their products."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "The loaders are key stakeholders who directly handle the packages. Engaging them in the AR experience will help them understand the importance of careful handling, potentially reducing damage during transportation."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System can facilitate the integration of the AR technology into the supply chain, ensuring that all stakeholders are informed about the handling requirements and can access the AR content effectively."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "resilience",
+        "resolution_description": "As 'resilience,' establish a decentralized blockchain-based logistics platform that incentivizes and rewards careful handling practices through secure, transparent, and immutable records of cargo condition and handler performance, fostering a culture of accountability and continuous improvement while reducing damage during transit.",
+        "new_actor": "ResilientLogixChain",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "vulnerable populations",
+        "resolution_description": "**Initiator: Vulnerable Populations**\n\n**Resolution:** Develop a cooperative, community-owned logistics network where vulnerable populations are empowered as stakeholders and decision-makers. This network will leverage their firsthand insights and experiences to innovate and implement localized, culturally-attuned cargo handling solutions that prioritize both safety and economic inclusion. In addition, we will establish a comprehensive framework that ensures efficient operations and robust safety protocols. This framework will be designed to protect the integrity of valuable cargo while minimizing operational effort, addressing concerns around potential damage and enhancing the overall reliability of the logistics process.",
+        "new_actor": "Community Empowerment Logistics Network (CELN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Community services",
+                "reasoning": "Community services are crucial for providing support and resources to vulnerable populations. They can facilitate the empowerment of these groups as stakeholders and decision-makers in the logistics network, ensuring that the solutions implemented are culturally attuned and effectively address the needs of the community."
+            },
+            {
+                "participant": "Social Vulnerability to Hazards",
+                "reasoning": "Addressing Social Vulnerability to Hazards is vital for understanding the specific challenges faced by vulnerable populations. This participant can help inform the logistics network's design and operations, ensuring that risk factors are considered and mitigated."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "A Logistics Management Platform System will provide the technological backbone for the cooperative network. It will facilitate efficient communication, coordination, and management of logistics operations, empowering vulnerable populations as active participants in the supply chain."
+            }
+        ],
+        "recruited_sources": [
+            "Government Agencies",
+            "Government Policies",
+            "government agencies",
+            "Non-Governmental Organizations (NGOs)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "government agencies",
+                "Government Policies",
+                "Government Agencies",
+                "Non-Governmental Organizations (NGOs)"
+            ]
+        }
+    }
+]

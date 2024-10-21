@@ -1,0 +1,300 @@
+[
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "Introduce a dynamic \"Gastronomic Trail\" initiative that transforms urban spaces into interactive culinary landscapes, where residents co-design and adapt food-centric experiences that respond to their evolving needs and cultural interests, creating a vibrant, user-focused urban ecosystem.",
+        "new_actor": "Gastronomic Trail Co-Creator Network",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Corporate Tourism Companies",
+            "Local Government",
+            "Local Farmers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Corporate Tourism Companies",
+                "Local Farmers",
+                "Local Government"
+            ]
+        }
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "Introduce a \"Dynamic Land Mosaic\" initiative that empowers communities to continuously redesign and allocate urban spaces for multifunctional use, blending residential, recreational, commercial, and green spaces with real-time feedback and adaptive zoning to ensure user-centric development that aligns with evolving local interests and needs.",
+        "new_actor": "Dynamic Urban Space Allocator (DUSA)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Urban planners",
+            "Agricultural practices",
+            "Urban Planning Regulations",
+            "Regulatory Frameworks",
+            "Industrial Development Projects",
+            "Local Communities"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Frameworks",
+                "Local Communities",
+                "Urban Planning Regulations",
+                "Urban planners",
+                "Industrial Development Projects",
+                "Agricultural practices"
+            ]
+        }
+    },
+    {
+        "initiator": "Выход из метро",
+        "resolution_description": "Initiate a \"Transit Hub Metamorphosis\" project that transforms metro exit areas into dynamic, user-driven urban laboratories where emerging technologies and community-generated art coalesce, allowing citizens to redefine and experiment with urban space functionality and aesthetics in real-time, ensuring spaces evolve with the collective imagination and needs of the community.",
+        "new_actor": "\"Metro Nexus Innovator\"",
+        "participants": [
+            {
+                "participant": "Пассажиры",
+                "agreement_structure": {
+                    "current_goal": "Добраться до выхода из метро",
+                    "current_action": "Следовать за толпой к выходу",
+                    "imposed_goal": "Быстро и безопасно покинуть станцию метро",
+                    "imposed_action": "Использовать ближайший выход и соблюдать порядок",
+                    "mechanism": "Установка указателей и объявлений для направления пассажиров к выходу",
+                    "reasoning": "The proposed resolution to initiate the 'Transit Hub Metamorphosis' project aligns well with the desires of 'Пассажиры' for quick and convenient access to destinations. By transforming metro exit areas into dynamic spaces that respond to community needs, it not only enhances the functionality of these areas but also reduces potential obstacles, thereby mitigating the fear of wasting time navigating through poorly designed exits. The installation of clear signage and announcements will further facilitate a swift and orderly exit, making the proposal beneficial for the interests of 'Пассажиры'.",
+                    "recruited_sources": [
+                        "Транспортные компании",
+                        "Такси",
+                        "Общественный транспорт",
+                        "Пробки на дорогах"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пассажиры",
+                "reasoning": "Passengers are the primary users of the metro exit areas. Engaging them in the project will ensure that the transformation meets their needs and reflects their ideas, fostering a sense of community ownership and participation."
+            }
+        ],
+        "recruited_sources": [
+            "Пробки на дорогах",
+            "Такси",
+            "Транспортные компании",
+            "Городская инфраструктура",
+            "Общественный транспорт",
+            "Пассажиры метро",
+            "Метро",
+            "Метрополитен",
+            "Современные транспортные технологии"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Городская инфраструктура",
+                "Метрополитен",
+                "Пассажиры метро",
+                "Метро",
+                "Современные транспортные технологии"
+            ]
+        }
+    },
+    {
+        "initiator": "Места предполагаемого интереса",
+        "resolution_description": "Initiate the \"Living History Landscapes\" project, transforming urban spaces into evolving narrative environments where residents can co-create and experience dynamic, interactive stories and cultural expressions, seamlessly blending past, present, and future to ensure spaces remain perpetually relevant and engaging, fostering a deep, shared connection to the city’s evolving identity.",
+        "new_actor": "Actor Name: \"Living History Urban Narrator\"",
+        "participants": [
+            {
+                "participant": "Администрация",
+                "agreement_structure": {
+                    "current_goal": "Улучшение инфраструктуры для туристов",
+                    "current_action": "Разработка новых маршрутов и объектов для посещения",
+                    "imposed_goal": "Создание списка мест предполагаемого интереса для туристов",
+                    "imposed_action": "Сбор и анализ данных о популярных туристических местах",
+                    "mechanism": "Создание рабочей группы для обсуждения и выбора объектов, а также регулярные встречи для обмена информацией",
+                    "reasoning": "The proposed 'Living History Landscapes' project aligns with 'Администрация's' desire to improve urban environments and meet the needs of residents by fostering community engagement and connection to the city's identity. It supports the goal of creating a list of tourist attractions through data collection and analysis, while also addressing potential citizen dissatisfaction by involving them in the co-creation process. This participatory approach can mitigate fears of criticism and ensure that urban spaces are dynamically relevant and engaging for both residents and visitors.",
+                    "recruited_sources": [
+                        "Гражданские инициативы",
+                        "Гражданские активисты",
+                        "Граждане города",
+                        "Граждане"
+                    ]
+                }
+            },
+            {
+                "participant": "Smart city",
+                "agreement_structure": {
+                    "current_goal": "Enhance urban infrastructure using smart technologies",
+                    "current_action": "Implementing IoT solutions for traffic management",
+                    "imposed_goal": "Identify and develop potential points of interest for urban residents",
+                    "imposed_action": "Conduct a survey to gather data on popular locations and activities",
+                    "mechanism": "Establish a collaborative platform for community feedback and data analysis",
+                    "reasoning": "The proposed 'Living History Landscapes' project aligns with 'Smart city's' interests in enhancing urban spaces by fostering community engagement and participation. This initiative allows for the identification and development of potential points of interest that resonate with urban residents, which is a significant benefit. Furthermore, the collaborative platform for community feedback and data analysis promotes transparency and adaptability, ensuring urban spaces evolve according to the collective needs and narratives of the community. This aligns with the overall goal of creating a more dynamic, user-driven urban environment.",
+                    "recruited_sources": [
+                        "Traditional Urban Infrastructure",
+                        "Bureaucratic Regulations",
+                        "Urban Planning Authorities",
+                        "IoT Devices",
+                        "Technology Providers",
+                        "Local Government"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration will play a key role in approving and supporting the project, ensuring that it aligns with city regulations and policies, and facilitating collaboration with other stakeholders involved in the urban space."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Incorporating smart city technologies can enhance the interactivity and engagement of the 'Living History Landscapes', allowing for innovative storytelling methods and real-time participation from residents and visitors."
+            }
+        ],
+        "recruited_sources": [
+            "Транспортные компании",
+            "Technology Providers",
+            "IoT Devices",
+            "Граждане",
+            "Туристы",
+            "Urban Planning Authorities",
+            "Гражданские инициативы",
+            "Traditional Urban Infrastructure",
+            "Bureaucratic Regulations",
+            "Граждане города",
+            "Неподходящая транспортная инфраструктура",
+            "Транспортная инфраструктура",
+            "Local Government",
+            "Гражданские активисты"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Транспортные компании",
+                "Транспортная инфраструктура",
+                "Неподходящая транспортная инфраструктура",
+                "Туристы"
+            ]
+        }
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "**Updated Resolution Text:**\n\n\"Initiate the 'Heritage Oasis' initiative, transforming urban areas into living cultural sanctuaries where indigenous knowledge, traditional practices, and modern innovation converge, while integrating the adaptive musical landscapes from the 'Urban Symphony' initiative. This holistic approach will empower communities to co-create spaces that reflect their unique heritage and aspirations, ensuring a sustainable, inclusive, and culturally resonant urban evolution. By fostering dynamic auditory experiences alongside cultural expression, we will enhance community engagement and promote environmental sustainability, ensuring that urban spaces resonate with diverse voices and aspirations while championing green initiatives.\"",
+        "new_actor": "Heritage Oasis Urban Catalyst",
+        "participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "agreement_structure": {
+                    "current_goal": "Создание устойчивых и функциональных ландшафтных решений для городских пространств",
+                    "current_action": "Разработка дизайнов и планов для зеленых зон и общественных пространств",
+                    "imposed_goal": "Интеграция природных элементов и устойчивых практик в городскую инфраструктуру",
+                    "imposed_action": "Внедрение экологически чистых технологий и материалов в ландшафтный дизайн",
+                    "mechanism": "Создание междисциплинарных рабочих групп для обмена знаниями и лучшими практиками в области устойчивого ландшафтного дизайна",
+                    "reasoning": "The proposed 'Heritage Oasis' initiative aligns with our current desires to create aesthetic and functional urban spaces by integrating natural elements and sustainable practices into urban infrastructure. This initiative also addresses our fears of criticism by ensuring that spaces reflect the unique heritage and aspirations of the community, thus enhancing user engagement and satisfaction. By participating in this initiative, we can also collaborate with interdisciplinary groups, which allows for knowledge exchange and best practices in sustainable landscape design, further mitigating concerns about our work not meeting real user needs.",
+                    "recruited_sources": [
+                        "Градостроительные нормы и правила",
+                        "Горожане (пассажиры)",
+                        "Городские власти"
+                    ]
+                }
+            },
+            {
+                "participant": "Tourism authorities",
+                "agreement_structure": {
+                    "current_goal": "Increase tourist arrivals and enhance visitor experiences in African cities.",
+                    "current_action": "Developing marketing strategies and promotional campaigns for local attractions.",
+                    "imposed_goal": "Collaborate to create a unified tourism strategy that promotes sustainable tourism across African cities.",
+                    "imposed_action": "Participate in regional workshops and share best practices for sustainable tourism development.",
+                    "mechanism": "Establish a collaborative platform for tourism authorities to share resources, data, and success stories, including a regular reporting system to monitor progress.",
+                    "reasoning": "The proposed 'Heritage Oasis' initiative aligns with the interests of 'Tourism authorities' by promoting sustainable tourism and empowering local communities. It provides an opportunity to collaborate on a unified tourism strategy that enhances visitor experiences while respecting and integrating local culture. This approach not only supports the growth of tourism in a sustainable manner but also mitigates potential fears of losing relevance amidst evolving urban landscapes. By participating in regional workshops and sharing best practices, 'Tourism authorities' can ensure that the tourism strategies are effective and culturally resonant, ultimately benefiting both the authorities and the communities involved.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Local Communities",
+                        "Environmental Activists",
+                        "Government Agencies",
+                        "Local communities"
+                    ]
+                }
+            },
+            {
+                "participant": "Sustainability concept",
+                "agreement_structure": {
+                    "current_goal": "Promote sustainable urban development in African cities",
+                    "current_action": "Implementing green building standards and renewable energy projects",
+                    "imposed_goal": "Achieve net-zero carbon emissions in all major African cities by 2030",
+                    "imposed_action": "Develop and enforce strict emissions reduction policies and incentives for green technology adoption",
+                    "mechanism": "Establish a collaborative platform for African city leaders to share best practices, resources, and funding opportunities for sustainability initiatives",
+                    "reasoning": "The proposed 'Heritage Oasis' initiative aligns closely with the goals of promoting sustainable urban development while also empowering communities to reflect their unique heritage. By focusing on cultural sanctuaries, it not only supports the achievement of net-zero carbon emissions but also ensures inclusivity and community engagement. This initiative offers a holistic approach to urban sustainability that resonates with the interests of diverse populations in African cities, thus making it a beneficial proposal for the Sustainability concept.",
+                    "recruited_sources": [
+                        "Corporate Interests",
+                        "Governments",
+                        "Government Policies",
+                        "Consumerism Culture"
+                    ]
+                }
+            },
+            {
+                "participant": "Cities",
+                "agreement_structure": {
+                    "current_goal": "Enhance urban infrastructure to support sustainable growth",
+                    "current_action": "Implementing renewable energy solutions in public buildings",
+                    "imposed_goal": "Achieve 50% reduction in urban carbon emissions by 2030",
+                    "imposed_action": "Develop and enforce stringent carbon reduction policies across all sectors",
+                    "mechanism": "Establishment of a city-wide task force to monitor emissions and progress towards targets",
+                    "reasoning": "The proposed 'Heritage Oasis' initiative aligns with the goals of 'Cities' by enhancing urban infrastructure while integrating cultural elements, thus fostering community engagement and inclusivity. This holistic approach not only supports sustainable growth and environmental initiatives, but also enriches the auditory landscape through the 'Urban Symphony' initiative. By enabling 'African cities' to manage carbon reduction policies, it ensures that diverse voices are heard and considered in urban evolution, ultimately leading to a significant reduction in urban carbon emissions by 2030.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Governments",
+                        "Technology Companies",
+                        "Urban Planners",
+                        "Government Policies",
+                        "Local Governments"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscape will be crucial for the successful implementation of the 'Heritage Oasis' initiative. They possess the expertise to integrate indigenous knowledge and traditional practices into urban design while ensuring that modern innovation is also included, thus creating a culturally resonant environment."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are essential for promoting and supporting the 'Heritage Oasis' initiative as they can help attract visitors to these cultural sanctuaries. Their involvement can enhance community engagement and ensure that the initiative aligns with broader tourism strategies, creating economic benefits for local communities."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating the sustainability concept is vital for ensuring that the 'Heritage Oasis' initiative is environmentally friendly and resource-efficient. This participant can guide the integration of sustainable practices into the urban evolution process, helping communities to thrive while preserving their cultural heritage."
+            },
+            {
+                "participant": "Cities",
+                "reasoning": "Engaging cities as participants will provide a broader framework for implementing the 'Heritage Oasis' initiative across multiple urban areas. Their involvement can facilitate collaboration, resource sharing, and the development of policies that support the initiative, leading to a more cohesive urban evolution."
+            }
+        ],
+        "recruited_sources": [
+            "Government Policies",
+            "Local Businesses",
+            "Corporate Interests",
+            "Городские власти",
+            "Горожане (пассажиры)",
+            "Government Agencies",
+            "Environmental Activists",
+            "Local communities",
+            "Governments",
+            "Local Communities",
+            "Градостроительные нормы и правила",
+            "Urban Planners",
+            "Technology Companies",
+            "Local Governments",
+            "Global Climate Initiatives",
+            "Real Estate Developers",
+            "Global Financial Institutions",
+            "Urban planners",
+            "International Financial Institutions",
+            "Consumerism Culture"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Real Estate Developers",
+                "Urban planners",
+                "Global Financial Institutions",
+                "International Financial Institutions",
+                "Government Policies",
+                "Global Climate Initiatives"
+            ]
+        }
+    }
+]

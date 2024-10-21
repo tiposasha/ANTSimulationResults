@@ -1,0 +1,55 @@
+[
+    {
+        "initiator": "population of sea scallops",
+        "resolution_description": "As the 'population of sea scallops', we propose establishing an artificial underwater habitat that mimics optimal breeding conditions, thereby encouraging natural population growth while integrating with a community-managed eco-tourism initiative to provide economic incentives for local conservation efforts.",
+        "new_actor": "\"Sea Scallop Habitat Conservation and Eco-Tourism Initiative\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "The researchers are essential for developing and implementing the artificial underwater habitat. Their expertise will ensure that the habitat effectively mimics optimal breeding conditions for sea scallops, thereby promoting population growth."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Fishermen are crucial stakeholders who can provide insights into local fishing practices and help integrate the eco-tourism initiative into their livelihoods. Their support is vital for the success of conservation efforts and sustainable practices."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Colleagues in the scientific community can offer additional knowledge and resources for the project. Collaborating with them can enhance the research quality and provide a broader support network for monitoring the habitat and scallop population."
+            },
+            {
+                "participant": "Морские гребешки",
+                "reasoning": "The population of sea scallops themselves is fundamental to the resolution. Their natural behaviors and reproductive patterns will be key factors to consider when designing the artificial habitat and ensuring its effectiveness."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Scallops",
+        "resolution_description": "As 'Scallops', I propose the development of a bioengineered scallop species with enhanced reproductive capabilities and environmental resilience, designed to be introduced selectively into the Bay of Saint-Brieuc to bolster population numbers and ecological balance, while implementing a blockchain-based tracking system to ensure sustainable harvest and global transparency.",
+        "new_actor": "BioScallopResilience-Entity",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Translation",
+        "resolution_description": "As 'Translation', I propose creating a global collaborative platform that facilitates real-time multilingual communication and knowledge exchange between scientists, local fishermen, and policymakers, leveraging AI-driven cultural insights to develop innovative, culturally attuned sustainable harvesting practices for scallops in the Bay of Saint-Brieuc, thus establishing our indispensability in bridging communication gaps and fostering international cooperation.",
+        "new_actor": "Global Multilingual Scallop Sustainability Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "Recruiting the researchers is crucial as they possess the scientific expertise necessary to develop innovative harvesting practices and contribute to the knowledge exchange on sustainable methods."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Involving local fishermen is essential to ensure that the proposed practices are practical and culturally relevant, as they have firsthand experience and insights into scallop harvesting."
+            },
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Engaging fellow scientists will help to validate the research findings and foster collaboration across different scientific disciplines, enhancing the credibility and effectiveness of the proposed solutions."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

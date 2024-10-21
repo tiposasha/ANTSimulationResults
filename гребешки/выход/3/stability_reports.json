@@ -1,0 +1,253 @@
+[
+    {
+        "entity": "Рыбаки",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Экосистема морского дна",
+            "Перепотребление ресурсов",
+            "Экологические организации"
+        ],
+        "denied_sources": [
+            "Конкуренты на рынке",
+            "Изменение климата",
+            "Потребители морепродуктов",
+            "Государственные регулирующие органы",
+            "Сообщество рыбаков",
+            "Технологии и оборудование для рыбалки",
+            "Научные учреждения",
+            "Научные исследования и технологии",
+            "Конкуренты (другие рыбаки)",
+            "Научные исследовательские учреждения",
+            "Рынок сбыта",
+            "Местные сообщества",
+            "Правительственные регулирования",
+            "Правительство",
+            "Торговые сети",
+            "Научные исследования",
+            "Государственные органы",
+            "Поставщики рыболовного оборудования",
+            "Научные исследовательские институты",
+            "Торговые компании",
+            "Потребители (рыбные рынки)"
+        ]
+    },
+    {
+        "entity": "Scallops",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Overfishing Industries",
+            "Fishermen",
+            "Marine Ecosystem"
+        ],
+        "denied_sources": [
+            "Culinary Industry",
+            "Climate Change",
+            "Predatory Species",
+            "Pollution (Chemical Runoff)",
+            "Ocean Conservation Organizations",
+            "Predatory Species (e.g., crabs)",
+            "Fishing Industry",
+            "Fisheries Management Policies",
+            "Restaurants",
+            "Ocean Currents",
+            "Aquaculture Industry",
+            "Aquaculture Practices",
+            "Environmental NGOs",
+            "Environmental Organizations",
+            "Tourism Industry"
+        ]
+    },
+    {
+        "entity": "Коллеги-ученые",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Конкурирующие ученые",
+            "Научные публикации",
+            "Научные журналы"
+        ],
+        "denied_sources": [
+            "Научные конференции",
+            "Институты и лаборатории",
+            "Современные технологии (например, анализ данных)",
+            "Технологические платформы для анализа данных",
+            "Научные сообщества и ассоциации",
+            "Недостаток финансирования",
+            "Технологии анализа данных",
+            "Общественное мнение",
+            "Конференции и семинары",
+            "Технологические ограничения",
+            "Научные журналы и редакторы",
+            "Образовательные учреждения",
+            "Научные гранты",
+            "Государственные исследовательские гранты",
+            "Климатические изменения",
+            "Исследовательские гранты",
+            "Экологические организации",
+            "Научные сообщества"
+        ]
+    },
+    {
+        "entity": "Три исследователя",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научное сообщество",
+            "Конкурирующие исследовательские группы"
+        ],
+        "denied_sources": [
+            "Общественность и экологи",
+            "Государственные организации",
+            "Технологические инновации",
+            "Экологические НПО",
+            "Климатические условия",
+            "Инвесторы и грантодатели",
+            "Финансирующие организации",
+            "Правительство",
+            "Финансирование",
+            "Общественность",
+            "Морские гребешки",
+            "Технологические новшества (например, новые методы аквакультуры)",
+            "Институт экологии",
+            "Климатические изменения",
+            "Технологии",
+            "Экологические условия",
+            "Экологические организации",
+            "Местные рыбаки",
+            "Морские гребешки (животные)"
+        ]
+    },
+    {
+        "entity": "Морские гребешки",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Хищники (например, морские звезды, рыбы)",
+            "Морские хищники (например, рыбы, крабы)",
+            "Человеческие рыболовы",
+            "Морские хищники (например, морские звезды, рыбы)",
+            "Естественные хищники (например, рыбы, морские птицы)",
+            "Хищники (рыбы, моллюски)"
+        ],
+        "denied_sources": [
+            "Изменение климата",
+            "Рыболовные сообщества",
+            "Законодательство и охрана окружающей среды",
+            "Морская среда",
+            "Научные исследователи",
+            "Человеческий вылов (рыболовство)",
+            "Партнеры по экосистеме (например, другие морские организмы)",
+            "Человеческая деятельность (например, рыболовство)",
+            "Научные исследования",
+            "Экологические условия (например, температура, соленость воды)",
+            "Загрязнение океанов",
+            "Хищные рыбы",
+            "Рыболовные промыслы",
+            "Туристическая индустрия (например, дайвинг и экотуризм)",
+            "Экосистема",
+            "Научные исследовательские организации",
+            "Экосистема морского дна",
+            "Забота о морской среде",
+            "Исследователи и биологи",
+            "Рыболовные ассоциации",
+            "Экосистема (разнообразие видов)"
+        ]
+    },
+    {
+        "entity": "Translation",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Language",
+            "Cultural Context",
+            "Cultural Norms",
+            "Linguistic Structures",
+            "Traditional Language Institutions"
+        ],
+        "denied_sources": [
+            "Professional Standards",
+            "Global Market",
+            "Cultural Identity",
+            "Market Demand",
+            "Regulatory Framework",
+            "Translation Theories",
+            "Global Markets",
+            "Technological Tools",
+            "Technology",
+            "Market Forces",
+            "Education Systems",
+            "Linguistic Minorities",
+            "Cultural Heritage Advocates",
+            "Globalization Forces",
+            "Academia",
+            "Machine Translation Technologies",
+            "Cultural Contexts",
+            "Social Movements",
+            "Political Entities",
+            "Peer Networks"
+        ]
+    },
+    {
+        "entity": "population of sea scallops",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Fishermen",
+            "Marine Ecosystem",
+            "Climate Change",
+            "Commercial Fisheries"
+        ],
+        "denied_sources": [
+            "Predation by Natural Species",
+            "Regulatory Authorities",
+            "Predatory Species",
+            "Predators",
+            "Ecologists",
+            "Overfishing",
+            "Pollution",
+            "Marine Ecosystems",
+            "Marine Biologists",
+            "Fisheries Management Policies",
+            "Aquaculture Industry",
+            "Marine Conservation Efforts",
+            "Government Regulatory Bodies",
+            "Local Communities",
+            "Marine Conservation Organizations",
+            "Aquaculture Practices",
+            "Environmental Regulations",
+            "Environmental NGOs",
+            "Regulatory Bodies",
+            "Tourism Industry"
+        ]
+    }
+]

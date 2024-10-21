@@ -1,0 +1,253 @@
+[
+    {
+        "entity": "Три исследователя",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научное сообщество"
+        ],
+        "denied_sources": [
+            "Оборудование и технологии",
+            "Технологии мониторинга",
+            "Экосистема морских гребешков",
+            "Природные условия",
+            "Общество",
+            "Партнерские организации (другие исследователи)",
+            "Финансирующие организации",
+            "Технологические средства (оборудование и инструменты)",
+            "Государственные органы",
+            "Конкуренты в области исследований",
+            "Конкурирующие исследовательские группы",
+            "Финансирование (гранты)",
+            "Экологические условия",
+            "Экологические организации",
+            "Оборудование для исследований",
+            "Финансирующая организация",
+            "Общество и публика"
+        ]
+    },
+    {
+        "entity": "Scallops",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Fishing Industry",
+            "Fishermen",
+            "Marine Ecosystem",
+            "Climate Change"
+        ],
+        "denied_sources": [
+            "Aquaculture Businesses",
+            "Seafood Markets",
+            "Ocean Currents",
+            "Environmental Regulators",
+            "Consumers",
+            "Restaurants",
+            "Consumer Preferences",
+            "Ecologists",
+            "Ocean Temperature",
+            "Overfishing",
+            "Pollution",
+            "Aquaculture Practices",
+            "Marine Predators",
+            "Environmental NGOs",
+            "Seafood Consumers"
+        ]
+    },
+    {
+        "entity": "Морские гребешки",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Человеческие рыболовы",
+            "Морские хищники (например, морские звезды, рыбы)",
+            "Хищники (например, морские звезды)",
+            "Рыбы-хищники",
+            "Морские хищники (например, рыбы, морские птицы)"
+        ],
+        "denied_sources": [
+            "Рыбаки",
+            "Человеческие рыболовные практики",
+            "Изменение климата",
+            "Рыболовы и коммерческие рыбаки",
+            "Научное сообщество (экологи)",
+            "Экологические условия (температура, соленость)",
+            "Потребители морепродуктов",
+            "Экосистема",
+            "Человек (рыбаки)",
+            "Научные исследователи",
+            "Морские экосистемы",
+            "Изменение климата (температура воды, уровень кислорода)",
+            "Экологические организации и активисты",
+            "Рыболовные суда",
+            "Экологи и исследователи",
+            "Экосистема морского дна",
+            "Хищные виды (например, морские звезды)",
+            "Соседние виды (например, раковины, моллюски)",
+            "Морские экологи",
+            "Конкуренты (например, другие моллюски)",
+            "Законодательные органы",
+            "Экосистема (морская среда)",
+            "Производители морепродуктов",
+            "Человеческие меры охраны природы"
+        ]
+    },
+    {
+        "entity": "Коллеги-ученые",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научные исследования",
+            "Конкурирующие исследователи",
+            "Научные журналы"
+        ],
+        "denied_sources": [
+            "Научные конференции",
+            "Университеты",
+            "Технологические новшества",
+            "Конкурирующие ученые",
+            "Финансирование научных проектов",
+            "Государственные гранты",
+            "Финансирующие организации",
+            "Общество биологов",
+            "Конференции и семинары",
+            "Технологические инструменты для анализа данных",
+            "Научные организации",
+            "Образовательные учреждения",
+            "Государственные научные фонды",
+            "Климатические изменения",
+            "Экологические организации",
+            "Научные сообщества",
+            "Производители морепродуктов"
+        ]
+    },
+    {
+        "entity": "Рыбаки",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Гребешки (Biological Resource)",
+            "Экосистема морского дна",
+            "Изменение климата",
+            "Морские экосистемы",
+            "Экологические организации"
+        ],
+        "denied_sources": [
+            "Научные институты",
+            "Потребители морепродуктов",
+            "Сообщество рыбаков",
+            "Правительственные ограничения",
+            "Конкуренты (другие рыбаки)",
+            "Регулирующие органы",
+            "Туризм",
+            "Местные сообщества",
+            "Технологии рыболовства",
+            "Рынок",
+            "Правительство",
+            "Переполнение рынка",
+            "Рынок рыбы",
+            "Рыболовные компании",
+            "Государственные органы",
+            "Рынок морепродуктов",
+            "Технологические компании",
+            "Правительство (Регуляторы рыболовства)",
+            "Технологические инновации"
+        ]
+    },
+    {
+        "entity": "Translation",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Language",
+            "Cultural Context",
+            "Technological Advancements",
+            "Cultural Narratives",
+            "Cultural Identity",
+            "Linguists"
+        ],
+        "denied_sources": [
+            "Globalization",
+            "Technology Developers",
+            "Market Demand",
+            "Technology (Translation Software)",
+            "Linguistic Purity Advocates",
+            "Cultural Institutions",
+            "Academics in Linguistics",
+            "Academic Research",
+            "Cultural Trends",
+            "Machine Translation Technologies",
+            "Readers",
+            "Economic Factors",
+            "Political Diplomacy",
+            "Global Commerce",
+            "Collaboration with Other Translators",
+            "Technology Companies",
+            "Educational Institutions",
+            "Translators",
+            "Audience (Target Readers)",
+            "Academic Institutions",
+            "Global Business"
+        ]
+    },
+    {
+        "entity": "French consumer",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Global Corporations",
+            "French Retailers",
+            "Local Farmers",
+            "French retailers",
+            "Global Brands",
+            "Retailers"
+        ],
+        "denied_sources": [
+            "Retail Chains",
+            "Marketing agencies",
+            "Cultural Norms",
+            "Government Regulatory Bodies",
+            "Government Regulations",
+            "Advertising Agencies",
+            "Sustainable brands",
+            "Government Regulators",
+            "Environmental Concerns",
+            "Food producers",
+            "Food Manufacturers",
+            "Economic Conditions",
+            "Government regulators",
+            "Environmental NGOs",
+            "Social Media Influencers",
+            "Food Suppliers",
+            "Consumer Protection Laws"
+        ]
+    }
+]

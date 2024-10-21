@@ -1,0 +1,179 @@
+[
+    {
+        "initiator": "Туристы-клиенты",
+        "resolution_description": "As 'Туристы-клиенты', we propose creating a blockchain-based verification platform where travelers and diners can earn tokens for submitting verified photo or video reviews, which are then authenticated through AI to ensure credibility, thus fostering a trustworthy community-driven feedback system.",
+        "new_actor": "\"Blockchain Review Verifier\"",
+        "participants": [
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize return on investment in tourism projects",
+                    "current_action": "Evaluating potential tourism investments and conducting market analysis",
+                    "imposed_goal": "Increase funding for sustainable tourism initiatives",
+                    "imposed_action": "Allocate a specified percentage of investment towards sustainable tourism projects",
+                    "mechanism": "Establish a quarterly review process to assess the impact of investments on sustainable tourism and adjust funding accordingly",
+                    "reasoning": "The proposed blockchain-based verification platform aligns with my desire for long-term income from investments in promising startups, as it addresses a critical issue in the tourism and restaurant sectors by ensuring credible reviews. This innovation could attract more users and businesses, increasing overall market potential. Additionally, the use of AI for authentication mitigates my fear of investment loss due to unreliable information, as it enhances the trustworthiness of the platform. By allocating a percentage of investment towards sustainable tourism initiatives, it also supports my interest in promoting sustainable practices, creating a positive impact on the industry.",
+                    "recruited_sources": [
+                        "Перспективный стартап",
+                        "Стартапы",
+                        "Аналитики рынка",
+                        "Стартап-команда",
+                        "Предприниматели стартапа",
+                        "Непроверенные стартапы"
+                    ]
+                }
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "agreement_structure": {
+                    "current_goal": "Maintain a high rating and positive user engagement",
+                    "current_action": "Collect and analyze user reviews to improve service offerings",
+                    "imposed_goal": "Increase the number of reviews by 25% within the next quarter",
+                    "imposed_action": "Launch a targeted marketing campaign to encourage users to leave reviews after their trips",
+                    "mechanism": "Implement an email follow-up system that prompts users to review their experiences with incentives for participation",
+                    "reasoning": "The proposed blockchain-based verification platform addresses the current issues of fake reviews in the restaurant and tourism industry, which aligns with 'TripAdvisor ranking's' desire to maintain credibility and user engagement. By fostering a trustworthy community-driven feedback system, we can enhance the quality of reviews and increase user trust. Additionally, the proposal's focus on incentivizing users to submit verified reviews aligns with our goal of increasing the number of reviews by 25% within the next quarter. Overall, this proposal not only benefits our objectives but also helps mitigate potential fears regarding the integrity of the review system.",
+                    "recruited_sources": [
+                        "Local Restaurants",
+                        "Local Businesses",
+                        "User Reviews",
+                        "Competitor Review Platforms",
+                        "Restaurant Owners"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are essential for securing the necessary funding to develop the platform. Their financial support will enable the technology and infrastructure to be built, as well as assist in marketing and scaling the platform once it is operational."
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor ranking is significant because it serves as a benchmark for the quality and credibility of the reviews. Integrating a system that can enhance their existing ranking system will provide value to both travelers and restaurants, encouraging participation in the blockchain platform."
+            }
+        ],
+        "recruited_sources": [
+            "Рестораны",
+            "Интернет-ресурсы (сайты, приложения)",
+            "Competitor Review Platforms",
+            "Restaurant Owners",
+            "Стартап-команда",
+            "User Reviews",
+            "Стартапы",
+            "Local Restaurants",
+            "Непроверенные стартапы",
+            "Некачественные рестораны",
+            "Аналитики рынка",
+            "Предприниматели стартапа",
+            "Local Businesses",
+            "Перспективный стартап"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Рестораны",
+                "Интернет-ресурсы (сайты, приложения)",
+                "Некачественные рестораны"
+            ]
+        }
+    },
+    {
+        "initiator": "Рестораны",
+        "resolution_description": "As 'Рестораны', we propose the creation of an AI-driven \"Review Transparency Consortium\" that collaborates with other restaurants to share anonymized data on dining experiences, cross-referencing customer reviews with real-time service metrics (e.g., time spent at table, order accuracy) to validate review authenticity, while rewarding honest feedback with exclusive dining experiences or loyalty points.",
+        "new_actor": "AI-driven \"Review Transparency Consortium\"",
+        "participants": [
+            {
+                "participant": "Restaurants",
+                "agreement_structure": {
+                    "current_goal": "Increase customer engagement and satisfaction through improved dining experiences.",
+                    "current_action": "Implementing seasonal menu changes and hosting themed events.",
+                    "imposed_goal": "Achieve a 20% increase in customer visits over the next quarter.",
+                    "imposed_action": "Launch a promotional campaign highlighting special offers and new menu items.",
+                    "mechanism": "Utilize social media platforms and email marketing to reach potential customers and inform existing ones about promotions.",
+                    "reasoning": "The proposed AI-driven 'Review Transparency Consortium' aligns well with the goals of 'Restaurants' to address the issue of fake reviews while also enhancing customer engagement. By collaborating with other restaurants and utilizing real-time service metrics, this initiative promises to increase the authenticity of reviews, which in turn can boost customer visits. Additionally, the rewards for honest feedback can further incentivize customer participation and satisfaction. Overall, this proposal not only mitigates the risks associated with fake reviews but also supports the goal of increasing customer visits.",
+                    "recruited_sources": [
+                        "Food Delivery Services",
+                        "Health Regulations",
+                        "Food Suppliers"
+                    ]
+                }
+            },
+            {
+                "participant": "Review",
+                "agreement_structure": {
+                    "current_goal": "Gather and analyze customer reviews for local restaurants",
+                    "current_action": "Collecting feedback from customers through surveys and online platforms",
+                    "imposed_goal": "Increase the overall rating of the restaurant chain by 20% within six months",
+                    "imposed_action": "Implement a customer satisfaction program and follow up with guests after their dining experience",
+                    "mechanism": "Utilize a feedback management system that tracks customer reviews and provides actionable insights for improvement",
+                    "reasoning": "The proposed AI-driven 'Review Transparency Consortium' aligns with the need for credible and authentic reviews, which is essential for fostering trust in the restaurant industry. By collaborating with restaurants to share anonymized data and validating reviews through real-time metrics, 'Review' can enhance its ability to gather reliable feedback. Additionally, the focus on rewarding honest feedback with exclusive dining experiences or loyalty points incentivizes customers to participate actively, thus increasing the volume of quality reviews. This proposal not only supports the goal of increasing restaurant ratings but also mitigates potential fears about the reliability of reviews, thereby creating a more trustworthy dining experience for customers.",
+                    "recruited_sources": [
+                        "Social Media Platform",
+                        "Competitor Business",
+                        "Reviewer",
+                        "User Feedback",
+                        "Competitor Reviews"
+                    ]
+                }
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Разработка уникального меню для нового ресторана",
+                    "current_action": "Проведение исследований по предпочтениям клиентов и анализ конкурентов",
+                    "imposed_goal": "Создание эффективной маркетинговой стратегии для привлечения клиентов",
+                    "imposed_action": "Разработка и запуск рекламной кампании в социальных сетях",
+                    "mechanism": "Предоставление ресурсов и инструментов для анализа рынка и создания контента",
+                    "reasoning": "The proposal from 'Рестораны' aligns with our goal of creating a successful platform for travel planning and restaurant evaluation. By joining the 'Review Transparency Consortium', we can leverage anonymized data and real-time service metrics to enhance the credibility of reviews, which will attract more users to our platform. Additionally, the collaboration will provide us with resources for a marketing strategy that can effectively draw in both customers and restaurants, addressing our fear of not attracting enough users. Overall, this partnership seems beneficial for our objectives and would help mitigate our concerns.",
+                    "recruited_sources": [
+                        "Конкуренты на рынке путешествий",
+                        "Пользователи платформы",
+                        "Конкуренты на рынке туристических услуг",
+                        "Пользователи приложения"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Restaurants",
+                "reasoning": "Restaurants are the primary stakeholders in the proposed 'Review Transparency Consortium'. Their participation is crucial for sharing anonymized data on dining experiences and aligning on metrics to validate review authenticity."
+            },
+            {
+                "participant": "Review",
+                "reasoning": "Reviews are integral to the success of the consortium as they provide the raw data that needs to be analyzed. Collaborating with review entities will help in establishing criteria for authenticity and incentivizing honest feedback."
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three startup founders can bring innovative ideas, technological expertise, and entrepreneurial spirit to the consortium. Their involvement will be key in developing the AI-driven aspects of the project and ensuring its sustainability."
+            }
+        ],
+        "recruited_sources": [
+            "Платформы отзывов (например, TripAdvisor, Google Reviews)",
+            "Food Suppliers",
+            "Пользователи платформы",
+            "Конкуренты на рынке туристических услуг",
+            "Социальные сети",
+            "Негативные отзывы клиентов",
+            "Пользователи приложения",
+            "User Feedback",
+            "Reviewer",
+            "Клиенты",
+            "Конкуренты на рынке путешествий",
+            "Competitor Reviews",
+            "Competitor Business",
+            "Food Delivery Services",
+            "Social Media Platform",
+            "Онлайн-платформы для отзывов",
+            "Health Regulations"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Онлайн-платформы для отзывов",
+                "Социальные сети",
+                "Негативные отзывы клиентов",
+                "Клиенты",
+                "Платформы отзывов (например, TripAdvisor, Google Reviews)"
+            ]
+        }
+    }
+]

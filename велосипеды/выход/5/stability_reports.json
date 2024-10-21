@@ -1,0 +1,384 @@
+[
+    {
+        "entity": "Logistics Management Platform System",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Supply Chain Partners",
+            "Supply Chain Managers",
+            "Supply Chain Disruptions",
+            "Traditional Logistics Companies"
+        ],
+        "denied_sources": [
+            "Competitors",
+            "Technology Providers",
+            "Retailers",
+            "Human Workforce in Logistics",
+            "Customer Demand",
+            "Customer Expectations",
+            "Customers",
+            "Data Privacy Advocates",
+            "Regulatory Authorities",
+            "Market Competition",
+            "Warehouse Management Systems",
+            "End Customers",
+            "Regulatory Bodies",
+            "Technological Advancements",
+            "Transportation Service Providers",
+            "Regulatory Compliance Requirements",
+            "Supply Chain Management Software Vendors"
+        ]
+    },
+    {
+        "entity": "Грузчики",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Работодатели",
+            "Клиенты"
+        ],
+        "denied_sources": [
+            "Конкуренты",
+            "Оборудование",
+            "Страховые компании",
+            "Регуляторы (государственные органы)",
+            "Нормы и правила",
+            "Законодательство",
+            "Оборудование для погрузки",
+            "Команда",
+            "Техника и оборудование",
+            "Законы и нормативы по безопасности",
+            "Регулирующие органы",
+            "Компьютерные системы для отслеживания грузов",
+            "Сообщество (местные жители и бизнес)",
+            "Транспортные средства",
+            "Рабочие инструкции"
+        ]
+    },
+    {
+        "entity": "Community services",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Government Regulations",
+            "Local Government Agencies",
+            "Local Government",
+            "Local Businesses"
+        ],
+        "denied_sources": [
+            "Educational Institutions",
+            "Technology Platforms",
+            "Nonprofit Organizations",
+            "Technology Providers",
+            "Businesses",
+            "Social Media Platforms",
+            "Competing Services",
+            "Technology",
+            "Healthcare Providers",
+            "Non-Profit Organizations",
+            "Volunteer Organizations",
+            "Community Members",
+            "Community Volunteers",
+            "Government Funding Agencies",
+            "Funding Agencies",
+            "Public Opinion",
+            "Community Feedback Mechanisms"
+        ]
+    },
+    {
+        "entity": "vulnerable populations",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Economic Inequality",
+            "Government Agencies",
+            "Government Policies",
+            "Non-Governmental Organizations (NGOs)"
+        ],
+        "denied_sources": [
+            "Technology Platforms",
+            "Community Networks",
+            "Private Sector (Corporations)",
+            "Corporate Interests",
+            "Media Representation",
+            "Natural Disasters",
+            "Private Sector Companies",
+            "Economic Systems",
+            "Community Organizations",
+            "Cultural Norms",
+            "Media",
+            "Social Stigmas",
+            "Academia and Researchers",
+            "Media Outlets",
+            "Research Institutions",
+            "Political Systems"
+        ]
+    },
+    {
+        "entity": "Производитель велосипедов",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Торговая платформа (например, Amazon)",
+            "Торговая платформа",
+            "Транспортные компании"
+        ],
+        "denied_sources": [
+            "Конкуренты",
+            "Конкуренты на американском рынке",
+            "Конкуренты на рынке велосипедов",
+            "Логистическая компания",
+            "Конкуренты на рынке",
+            "Поставщики комплектующих",
+            "Государственные органы (регулирующие инстанции)",
+            "Потребители",
+            "Рынок потребителей (покупатели)",
+            "Потребители премиальных велосипедов",
+            "Маркетинговые агентства",
+            "Логистическая компания (например, FedEx)",
+            "Поставщики сырья",
+            "Поставщики компонентов для велосипедов",
+            "Регуляторные органы",
+            "Клиенты на американском рынке",
+            "Экологические нормы"
+        ]
+    },
+    {
+        "entity": "Social Vulnerability to Hazards",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Government Agencies",
+            "Climate Change",
+            "Emergency Management Agencies",
+            "Government Policies"
+        ],
+        "denied_sources": [
+            "Media and Information Systems",
+            "Academic Institutions",
+            "Local Governments",
+            "Media Coverage",
+            "Environmental Conditions",
+            "Community Networks",
+            "Local Businesses",
+            "Environmental Changes",
+            "Media Representation",
+            "Academic Research",
+            "Private Sector",
+            "Local Communities",
+            "Insurance Companies",
+            "Community Organizations",
+            "Economic Inequality",
+            "Academic Researchers",
+            "Technological Innovations",
+            "Research Institutions",
+            "Technological Development",
+            "Non-Governmental Organizations (NGOs)"
+        ]
+    },
+    {
+        "entity": "Коробка с грузом",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Грузчики"
+        ],
+        "denied_sources": [
+            "Компании-перевозчики",
+            "Процесс упаковки",
+            "Конкуренты",
+            "Клиенты или заказчики",
+            "Правила и нормы безопасности",
+            "Система логистики",
+            "Технология отслеживания",
+            "Транспортная компания",
+            "Клиент",
+            "Система отслеживания грузов",
+            "Технология связи (например, мобильные приложения)",
+            "Контекст хранения и транспортировки",
+            "Упаковка",
+            "Клиенты",
+            "Система маркировки",
+            "Регуляторы",
+            "Система отслеживания",
+            "Системы отслеживания грузов",
+            "Транспортное средство"
+        ]
+    },
+    {
+        "entity": "Port Community Systems",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Government Regulations",
+            "Shipping Companies",
+            "Government Regulatory Agencies",
+            "Local Government Authorities"
+        ],
+        "denied_sources": [
+            "Trade Associations",
+            "Competing Port Systems",
+            "Competing Port Facilities",
+            "Logistics Providers",
+            "Customs Authorities",
+            "User Expectations",
+            "Customs Agencies",
+            "Regulatory Authorities",
+            "Technology Providers",
+            "Logistics Firms",
+            "Freight Forwarders",
+            "Technological Advancements",
+            "Global Trade Dynamics",
+            "Port Authorities",
+            "Traditional Shipping Agents"
+        ]
+    },
+    {
+        "entity": "Иностранные покупатели",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Поставщики велосипедов",
+            "Необеспеченные продавцы",
+            "Производители велосипедов",
+            "Продавцы велосипедов"
+        ],
+        "denied_sources": [
+            "Логистические компании",
+            "Конкуренты на рынке",
+            "Поставщики комплектующих",
+            "Отзывы и рекомендации",
+            "Поставщики компонентов",
+            "Службы поддержки клиентов",
+            "Государственные органы",
+            "Аналитические платформы и рейтинги",
+            "Торговые платформы",
+            "Правительственные организации",
+            "Интернет-платформы для продаж",
+            "Государственные регуляторы",
+            "Гарантия и политика возврата",
+            "Онлайн-платформы для покупок",
+            "Платформы онлайн-торговли",
+            "Транспортные компании",
+            "Клиенты и отзывы",
+            "Онлайн-платформы для продажи"
+        ]
+    },
+    {
+        "entity": "resilience",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Crisis Management Frameworks",
+            "community support networks",
+            "climate change",
+            "Community Support Networks",
+            "government policies",
+            "Economic Stability"
+        ],
+        "denied_sources": [
+            "Cultural Heritage",
+            "technological disruption",
+            "Educational Institutions",
+            "Social Cohesion",
+            "social inequality",
+            "educational institutions",
+            "Personal Beliefs and Values",
+            "technology",
+            "economic instability",
+            "Mental Health Professionals",
+            "Economic Structures",
+            "environmental organizations",
+            "Environmental Stability",
+            "businesses and local enterprises",
+            "political instability",
+            "Government Policies",
+            "Cultural Narratives",
+            "local government policies",
+            "Public Health Systems",
+            "education systems",
+            "Environmental Systems"
+        ]
+    },
+    {
+        "entity": "Graphic design theories",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Client Demands",
+            "Traditional Graphic Design Practices",
+            "Cultural Influences",
+            "Cultural trends and societal values",
+            "Marketing professionals",
+            "Clients/Businesses"
+        ],
+        "denied_sources": [
+            "Visual artists",
+            "Client demands and project specifications",
+            "Educational Institutions",
+            "Graphic Design Educators",
+            "Digital Design Tools",
+            "Design Software Developers",
+            "Clients seeking design services",
+            "Design Software Tools",
+            "Software Developers",
+            "Social Media Platforms",
+            "Art and design education institutions",
+            "Design software (e.g., Adobe Creative Suite)",
+            "Commercial Clients",
+            "Educators in design",
+            "Cultural Shifts",
+            "Digital Art Tools",
+            "Market Trends",
+            "Technology developers (e.g., software for design)",
+            "Technology advancements (e.g., AI, VR)",
+            "Art Critics",
+            "Design Communities",
+            "Social Media Trends"
+        ]
+    }
+]

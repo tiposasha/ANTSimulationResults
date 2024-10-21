@@ -1,0 +1,30 @@
+[
+    {
+        "initiator": "Scallops",
+        "resolution_description": "As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.",
+        "new_actor": "Sustainably Harvested Scallop Alliance (SHSA)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "Recruiting researchers is essential to develop and implement the blockchain-based traceability system and to ensure that the AI-driven marine drones are effectively designed and utilized for monitoring scallop populations."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Fishermen are crucial stakeholders in this resolution as they will be directly impacted by the incentives for sustainable harvesting practices and will need to adopt the new system for it to be successful."
+            },
+            {
+                "participant": "French consumer",
+                "reasoning": "French consumers play a vital role in driving demand for sustainably harvested scallops. Their support for the initiative can help create market pressure for sustainable practices and higher prices for verified catches."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Translation",
+        "resolution_description": "As 'Translation', propose a resolution to establish an international collaborative platform that leverages multilingual AI to facilitate real-time communication and knowledge exchange between global marine scientists, local fishermen, and policymakers, ensuring adaptive and culturally-sensitive strategies for sustainable scallop harvesting in the Bay of Saint-Brieuc.",
+        "new_actor": "The Global Marine Communication and Collaboration Hub for Sustainable Scallop Harvesting (GMCC Hub)",
+        "participants": [],
+        "required_participants": []
+    }
+]

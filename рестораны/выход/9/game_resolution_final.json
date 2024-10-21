@@ -1,0 +1,34 @@
+[
+    {
+        "initiator": "customer",
+        "resolution_description": "As 'customer', I would propose a decentralized, blockchain-based review system where each review is verified through a consensus mechanism and tied to a unique digital identity, ensuring authenticity and accountability while incentivizing honest feedback with a token reward system.",
+        "new_actor": "Decentralized Blockchain Review Verifier (DBRV)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The founders of the startup are crucial as they possess the vision and technical expertise needed to develop and implement the decentralized blockchain-based review system. Their involvement is essential for driving the project forward."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourist customers are key participants since they will be the primary users of the review system. Their engagement and feedback will ensure the system meets the needs of the end-users and fosters a community of honest reviewers."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important to secure the necessary funding and resources to develop the blockchain system. Their support can help scale the project and attract more users and restaurants to participate."
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor ranking can provide a competitive framework and established user base that can be leveraged to gain trust and credibility for the new review system. Collaborating with or integrating an existing platform can expedite user adoption."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Restaurants",
+        "resolution_description": "As 'Restaurants', we propose a dynamic, interactive dining experience where patrons can rate their meals in real-time through a secure, restaurant-provided app that uses biometric verification to ensure genuine feedback, while offering personalized menu recommendations and rewards for detailed, constructive reviews, thereby fostering a direct and transparent relationship between diners and restaurants.",
+        "new_actor": "BiometricFeedbackDiningApp",
+        "participants": [],
+        "required_participants": []
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial to ensure that the proposed pathway is designed in a way that is aesthetically pleasing and functional. Their expertise will help integrate the trail with the surrounding environment effectively."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration's involvement is essential for gaining the necessary permissions and support for the project. They can facilitate the implementation of the pathway and ensure compliance with local regulations."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Trail Paths",
+        "resolution_description": "\"Trail Paths will introduce dynamic, community-driven urban design workshops where users can actively reshape and digitally visualize their environments in real-time through augmented reality, ensuring that urban spaces evolve in alignment with the genuine needs and preferences of their inhabitants.\"",
+        "new_actor": "Dynamic Urban Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscape will ensure that the workshops are informed by professional expertise in urban design. Their involvement is crucial for translating community input into viable design solutions."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can help promote the workshops and ensure that the urban spaces are designed to attract visitors, aligning community needs with tourism strategies to enhance local economies."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Involving smart city initiatives will integrate technology into urban design, facilitating the real-time digital visualization aspect of the workshops and ensuring that the proposed changes are sustainable and innovative."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is essential to ensure that any urban design changes are environmentally responsible, aligning the community's needs with broader ecological goals."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic Trail will revolutionize urban spaces by creating edible landscapes that double as dynamic community hubs, where local residents can cultivate, harvest, and share food, transforming underutilized areas into vibrant, user-driven ecosystems that cater to both ecological and social needs.\"",
+        "new_actor": "Urban Edible Landscape Catalyst",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are crucial for the successful implementation of the Gastronomic Trail. Their expertise in designing urban spaces will ensure that the edible landscapes are not only aesthetically pleasing but also functional and sustainable."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a vital role in approving and supporting the Gastronomic Trail initiative. Their involvement is necessary for navigating bureaucratic processes and securing funding and resources to transform underutilized areas into vibrant community hubs."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is key to the project's success, as it ensures that the edible landscapes created will be environmentally friendly and promote biodiversity. Integrating sustainable practices will enhance the appeal and longevity of the Gastronomic Trail."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can help promote the Gastronomic Trail to both locals and visitors, driving engagement and participation. Their support can also lead to increased funding and resources, making the initiative more successful and widespread."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Cities",
+        "resolution_description": "\"Cities will implement a dynamic, AI-driven urban design platform that constantly analyzes and adapts to real-time data from residents' movement patterns, climate conditions, and social interactions, ensuring that urban spaces are continuously reshaped to reflect and accommodate the ever-evolving needs and desires of their users while fostering a collaborative relationship between the environment and its inhabitants.\"",
+        "new_actor": "UrbanAI Dynamics Coordinator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Smart city",
+                "reasoning": "Recruiting 'Smart city' is essential as it encompasses the technological infrastructure and innovations that will support the AI-driven urban design platform. This participant will provide the necessary tools and systems to collect and analyze real-time data effectively."
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Involving 'Менеджеры и дизайнеры, отвечавшие за ландшафт' is crucial because they possess the expertise required to implement the adaptive designs proposed by the resolution. Their insights will ensure that the urban spaces are not only functional but also aesthetically pleasing and aligned with residents' needs."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The 'Администрация' is vital for facilitating the resolution's implementation. Their role will involve policy-making, resource allocation, and ensuring community engagement in the adaptive urban design process, thereby legitimizing and supporting the initiative."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Including 'Tourism authorities' is important to promote the benefits of the dynamic urban design platform, as they can help attract visitors and stakeholders. This participant can also provide insights into how urban spaces can be optimized for both residents and tourists, enhancing the overall experience."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "\"African Cities will initiate 'Cultural Innovation Labs,' transforming urban spaces into vibrant, adaptable environments by integrating indigenous knowledge systems and traditional ecological practices with cutting-edge technology, fostering a sustainable, user-centric urban landscape that reflects the unique cultural heritage and dynamic aspirations of their communities.\"",
+        "new_actor": "Cultural Innovation Lab Consortium",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape are crucial for implementing the Cultural Innovation Labs. They can integrate indigenous knowledge and traditional ecological practices into urban designs, ensuring that the labs reflect the cultural heritage and meet the aspirations of the community."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is essential for the success of the Cultural Innovation Labs. It provides the framework to ensure that the integration of technology and traditional practices leads to environmentally sustainable urban spaces."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities play a vital role in promoting the cultural and innovative aspects of the urban spaces created by the Cultural Innovation Labs. Their involvement can attract visitors and support local economies, aligning with the goal of fostering vibrant urban landscapes."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "The concept of a smart city is important for incorporating cutting-edge technology into the Cultural Innovation Labs. This integration can lead to improved urban management and enhance the adaptability of urban spaces to meet community needs."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

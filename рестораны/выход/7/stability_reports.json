@@ -1,0 +1,238 @@
+[
+    {
+        "entity": "Инвесторы",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Аналитические компании",
+            "Конкуренты на рынке стартапов",
+            "Стартапы",
+            "Финансовые аналитики"
+        ],
+        "denied_sources": [
+            "Экономические условия (инфляция, рецессия)",
+            "Сообщество стартапов",
+            "Регуляторы",
+            "Платформы для инвестиций",
+            "Аналитики",
+            "Партнеры по бизнесу (например, поставщики или клиенты)",
+            "Другие инвесторы",
+            "Информационные платформы",
+            "Сообщество инвесторов",
+            "Технологические изменения",
+            "Репутация стартапа",
+            "Инвестиционные фонды",
+            "Партнеры по бизнесу (например, венчурные капитальные компании)",
+            "Государственные регуляторы",
+            "Экономические тенденции",
+            "Технологические платформы",
+            "Регуляторные органы"
+        ]
+    },
+    {
+        "entity": "Consumers",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Retailers",
+            "Corporations",
+            "Brand Advertisers",
+            "Social Media Platforms"
+        ],
+        "denied_sources": [
+            "Influencers and Celebrities",
+            "Brand Loyalty Programs",
+            "Advertisers",
+            "Regulatory Bodies",
+            "Manufacturers",
+            "Social Media Influencers",
+            "Consumer Advocacy Groups",
+            "Economic Systems",
+            "Product Reviews and Ratings",
+            "Economic Conditions",
+            "Peer Groups",
+            "Market Researchers",
+            "E-commerce Platforms"
+        ]
+    },
+    {
+        "entity": "Managers",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Corporate Policies",
+            "Employees",
+            "Organizational Culture",
+            "Corporate Executives"
+        ],
+        "denied_sources": [
+            "Technological Advancements",
+            "Shareholders",
+            "Corporate Governance Structure",
+            "Suppliers",
+            "Market Competition",
+            "Market Trends",
+            "Stakeholder Expectations",
+            "Regulatory Bodies",
+            "Customers",
+            "Technology Systems",
+            "Employee Workforce",
+            "Technology Tools",
+            "Investors",
+            "Business Processes",
+            "Market Competitors",
+            "Technology Advancements",
+            "Corporate Culture",
+            "Employee Feedback"
+        ]
+    },
+    {
+        "entity": "Три основателя стартапа",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Пользователи платформы",
+            "Конкурирующие платформы для планирования путешествий и ресторанов",
+            "Конкуренты в сфере платформ для планирования путешествий"
+        ],
+        "denied_sources": [
+            "Технологические партнеры (например, API-поставщики)",
+            "Инвесторы стартапа",
+            "Инвесторы",
+            "Рестораны",
+            "Технологическая инфраструктура (например, облачные сервисы)",
+            "Пользователи",
+            "Рестораны-партнеры",
+            "Технологические платформы (например, Google, Facebook)",
+            "Социальные сети",
+            "Конкуренты",
+            "Технологические платформы (например, Google, Apple)",
+            "Рынок ресторанов",
+            "Технологические партнеры (например, разработчики ПО)"
+        ]
+    },
+    {
+        "entity": "TripAdvisor ranking",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Travelers/Consumers",
+            "Local Restaurants",
+            "Hotel Owners",
+            "Competitor Review Sites",
+            "User Reviews"
+        ],
+        "denied_sources": [
+            "Travel Influencers",
+            "Customer Service Quality",
+            "Travelers",
+            "Local Regulations",
+            "Travel Industry Partners",
+            "Hotel Chains",
+            "Regulatory Bodies",
+            "TripAdvisor Algorithms",
+            "Online Review Platforms",
+            "User Generated Content Policies",
+            "Tourism Boards",
+            "Local Tourism Boards",
+            "Competitor Platforms",
+            "Online Travel Agencies (OTAs)",
+            "Algorithmic Ranking System",
+            "Social Media Influencers",
+            "Search Engine Algorithms",
+            "Social Media Influence",
+            "Tourists",
+            "Businesses (Hotels/Restaurants/Tourist Attractions)"
+        ]
+    },
+    {
+        "entity": "Рестораны",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Платформы отзывов (например, TripAdvisor, Google Reviews)",
+            "Негативные отзывы на платформах (например, TripAdvisor, Google Reviews)",
+            "Социальные сети",
+            "Клиенты"
+        ],
+        "denied_sources": [
+            "Платформы отзывов",
+            "Поставщики продуктов и ингредиентов",
+            "Конкурирующие рестораны",
+            "Клиенты с высоким уровнем ожиданий",
+            "Посетители",
+            "Конкуренты (другие рестораны)",
+            "Платформы для бронирования (например, OpenTable)",
+            "Платформы для отзывов (например, TripAdvisor, Yelp)",
+            "Кулинарные критики и блогеры",
+            "Поставщики",
+            "Социальные медиа",
+            "Социальные сети (например, Instagram, Facebook)",
+            "Платформы с отзывами",
+            "Рейтинговые платформы",
+            "Кулинарные критики",
+            "Поставщики продуктов",
+            "Социальные сети и влиятельные блогеры",
+            "Конкуренты"
+        ]
+    },
+    {
+        "entity": "Туристы-клиенты",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Некачественные рестораны",
+            "Негативные отзывы и рейтинги",
+            "Онлайн-отзывы и рейтинги",
+            "Платформы отзывов (например, TripAdvisor)",
+            "Сайты отзывов",
+            "Платформы для отзывов (TripAdvisor, Google Reviews)"
+        ],
+        "denied_sources": [
+            "Рестораны с хорошей репутацией",
+            "Проблемы с транспортом и доступностью ресторанов",
+            "Недобросовестные владельцы ресторанов",
+            "Платформы для отзывов",
+            "Гиды и туристические агенты",
+            "Кулинарные блоги",
+            "Конкурирующие туристические приложения",
+            "Гиды и туристические агентства",
+            "Технологии (приложения для поиска ресторанов)",
+            "Социальные сети",
+            "Туристические агентства",
+            "Социальные сети и влиятельные блогеры",
+            "Рестораны",
+            "Кулинарные блогеры и критики",
+            "Гиды и местные эксперты",
+            "Социальные медиа"
+        ]
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "initiator": "Volume",
+        "resolution_description": "\"Volume\" can resolve the issue by creating a decentralized, blockchain-based investment cooperative where individual investors pool resources and leverage collective bargaining power to access exclusive financial opportunities and negotiate better terms, effectively leveling the playing field against large financial funds.",
+        "new_actor": "Decentralized Investment Cooperative (DIC)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', I propose the creation of an AI-driven financial mentorship network that pairs individual investors with virtual AI advisors who continuously learn and adapt from the best strategies used by large funds, providing personalized, real-time investment guidance that empowers individuals to make informed decisions and compete on equal footing.",
+        "new_actor": "FinMentor AI Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (individual investors) are the primary beneficiaries of the AI-driven financial mentorship network. Their engagement is critical for the success of the platform, as it aims to empower them with personalized investment guidance."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Брокеры (brokers) play a key role in executing trades and can facilitate the integration of the AI mentorship network with existing trading platforms, ensuring that users can seamlessly implement the strategies suggested by the AI advisors."
+            }
+        ],
+        "recruited_sources": [
+            "Research Institutions",
+            "Government Regulations",
+            "Competitor Entity YZ-7",
+            "Local Government",
+            "Regulatory Bodies",
+            "Regulatory Body"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Bodies",
+                "Regulatory Body",
+                "Competitor Entity YZ-7",
+                "Research Institutions",
+                "Local Government",
+                "Government Regulations"
+            ]
+        }
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', I propose the creation of a dynamic, crowd-sourced investment intelligence platform that utilizes gamification and collective forecasting to democratize access to high-quality market insights and predictive analytics, empowering individual investors to strategically outmaneuver large financial funds through a collaborative and engaging investment ecosystem.",
+        "new_actor": "CrowdInvest Insight Platform",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (retail investors) are essential for the success of the proposed platform as they are the primary users who will benefit from democratized access to investment insights and predictive analytics, enabling them to engage in the collaborative investment ecosystem."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forums) serves as a significant communication and information-sharing platform for retail investors. Engaging with communities like WallStreetBets will help in fostering participation, sharing insights, and creating a vibrant environment for collective forecasting."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are crucial for enhancing the platform's predictive capabilities. They can analyze social media and forum discussions to gauge market sentiment, providing valuable insights that can empower individual investors to make informed decisions."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the development of a dynamic, decentralized prediction market platform that leverages the collective intelligence and financial contributions of individual investors to crowdsource and rank innovative investment strategies, rewarding contributors based on predictive accuracy and fostering a collaborative investment ecosystem that disrupts the traditional dominance of large financial funds.",
+        "new_actor": "DynamicDecentralizedInvestmentCollaborator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (Small Investors) are crucial as they represent the core user base of the decentralized prediction market platform. Their collective intelligence and financial contributions will drive the crowdsourcing of innovative investment strategies."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "WallStreetBets community is significant for fostering a culture of collaboration and disruption against traditional financial institutions. Their involvement can attract attention to the platform and ensure a vibrant, engaged user base, which is essential for its success."
+            }
+        ],
+        "recruited_sources": [
+            "Market Trends",
+            "Market Analysts",
+            "Market Volatility",
+            "Traditional Investment Firms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Trends",
+                "Traditional Investment Firms",
+                "Market Analysts",
+                "Market Volatility"
+            ]
+        }
+    },
+    {
+        "initiator": "SEC (U.S. Securities and Exchange Commission)",
+        "resolution_description": "As the 'SEC', I propose the creation of a regulated, transparent financial sandbox environment where individual investors can collaboratively engage with innovative investment tools, under the oversight of the SEC, to simulate and stress-test market strategies in real-time, fostering an ecosystem of innovation and learning that empowers individuals while ensuring market integrity and equitable access to financial opportunities.",
+        "new_actor": "SEC Regulated Financial Sandbox Initiative",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is essential for overseeing the sandbox environment, ensuring that all activities comply with regulatory standards. Their involvement will provide the necessary legitimacy and trust, which is vital for attracting participants and maintaining market integrity."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (Stock prices) are a fundamental aspect of the financial market that the sandbox aims to simulate. Understanding how stock prices react to various strategies will enable participants to learn and innovate in real-time, making it a critical component of the proposed resolution."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques will help gauge the market's reaction and investor sentiment in the sandbox environment. This data is essential for refining investment strategies and understanding the psychological factors that influence market behavior, thus fostering a more robust learning experience."
+            }
+        ],
+        "recruited_sources": [
+            "Congress",
+            "Financial Institutions",
+            "Financial Markets",
+            "Investors",
+            "Private Corporations",
+            "Public Companies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Financial Institutions",
+                "Investors",
+                "Public Companies",
+                "Congress",
+                "Financial Markets",
+                "Private Corporations"
+            ]
+        }
+    },
+    {
+        "initiator": "Regulatory authorities",
+        "resolution_description": "As 'Regulatory authorities', I propose the creation of a global, transparent financial data-sharing consortium that mandates all financial entities, including large funds, to publicly disclose real-time trading data and decision-making algorithms, enabling individual investors to access, analyze, and leverage this information to make informed investment decisions, thereby democratizing financial insights and dismantling information asymmetry.",
+        "new_actor": "Global Financial Data-Sharing Consortium",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the creation of a dynamic, AI-driven \"Investment Swarm Intelligence Network\" that aggregates real-time behavioral data from diverse individual investors to model collective market movements and generate actionable insights, empowering individuals to preemptively align their strategies with emergent market trends and effectively counterbalance the influence of large financial funds.",
+        "new_actor": "Investment Swarm Intelligence Network (ISIN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (retail investors) are crucial as they form the primary user base for the 'Investment Swarm Intelligence Network'. Their behavioral data will drive the AI model, helping to capture diverse investment strategies and sentiments, allowing the system to accurately predict collective market movements."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques will be essential for interpreting the aggregated behavioral data from individual investors. By analyzing sentiments, the network can better understand market trends and provide actionable insights that align with the emotional and psychological factors influencing investment decisions."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors, as a broader category, beyond just retail investors, will provide a wider pool of data and insights. Their participation ensures that the network considers various investment approaches and strategies, enhancing the overall predictive capabilities of the system."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is a significant player in contemporary market movements, especially in the context of retail investing. Their involvement can generate valuable real-time insights and trends, which will be critical for the network to effectively counterbalance the influence of large financial funds."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "trading volume in number of shares",
+        "resolution_description": "As 'trading volume in number of shares', I propose the establishment of a real-time, decentralized \"Volume Equity Network\" that dynamically adjusts transaction fees based on trading volume imbalances, incentivizing individual investors to engage in high-volume trades during periods of low activity, thereby enhancing liquidity and market influence for small investors while diminishing the disproportionate impact of large financial funds.",
+        "new_actor": "Volume Equity Network Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are the primary target of the proposed 'Volume Equity Network'. Their engagement in high-volume trades is essential for enhancing liquidity and market influence, making their recruitment critical for the success of the resolution."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Brokers play a crucial role in facilitating trades and implementing transaction fees. Their support and involvement are necessary for the operationalization and acceptance of the dynamic fee structure proposed in the network."
+            },
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is vital for ensuring that the proposed network complies with regulatory standards. Their endorsement can help legitimize the initiative and protect participants from potential legal issues."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community has a significant influence on retail trading trends and can help promote the 'Volume Equity Network' among small investors, driving engagement and participation, which is essential for the project's success."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

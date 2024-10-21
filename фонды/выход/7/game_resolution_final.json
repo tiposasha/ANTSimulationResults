@@ -1,0 +1,179 @@
+[
+    {
+        "initiator": "Volume",
+        "resolution_description": "As 'Volume', I would propose the creation of a decentralized financial platform that leverages blockchain technology to enable transparent, peer-to-peer investment opportunities and equitable profit-sharing mechanisms, bypassing traditional financial intermediaries and empowering individual investors to pool resources and compete on equal footing with large financial funds.",
+        "new_actor": "The actor that will be created is \"Decentralized Investment Collective (DIC)\".",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Stock market sentiment",
+        "resolution_description": "As 'Stock market sentiment,' I propose the creation of an AI-driven sentiment forecasting platform that dynamically adjusts financial regulations and trading conditions in real-time to counterbalance the influence of large financial funds, ensuring a fair and equitable trading environment for individual investors.",
+        "new_actor": "SentimentEquilibrium AI Regulator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary beneficiaries of the proposed platform. Their needs and experiences should drive the development and functionality of the sentiment forecasting system to ensure it effectively levels the playing field against larger financial entities."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for the core functionality of the proposed platform. These techniques will enable the system to assess market sentiment accurately and adjust trading conditions in real-time based on the data collected."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) serves as a critical metric for evaluating market conditions and the effectiveness of the AI-driven platform. Analyzing stock prices will help in understanding how sentiment impacts trading and in making necessary regulatory adjustments."
+            }
+        ],
+        "recruited_sources": [
+            "Social Media Sentiment Analysis Tools",
+            "Retail Investors",
+            "Investor Confidence",
+            "Media",
+            "Financial Analysts",
+            "Economic Indicators"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Social Media Sentiment Analysis Tools",
+                "Media",
+                "Retail Investors",
+                "Investor Confidence",
+                "Economic Indicators",
+                "Financial Analysts"
+            ]
+        }
+    },
+    {
+        "initiator": "Investors",
+        "resolution_description": "As 'Investors', we propose the creation of a dynamic, AI-powered \"Collaborative Investment Ecosystem\" that incentivizes and rewards individual investors for sharing real-time insights and strategies, thereby harnessing collective intelligence to outmaneuver large financial funds and democratizing market advantages through a decentralized, community-driven approach.",
+        "new_actor": "Collaborative Investment Ecosystem",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the creation of a real-time, AI-driven \"Market Equilibrium Engine\" that dynamically adjusts individual investor trading conditions—such as transaction fees, leverage limits, and trade execution speeds—based on real-time market data and the relative activity of large financial funds, ensuring a fluid and adaptive trading environment that inherently levels the playing field without direct intervention or redistribution.",
+        "new_actor": "MarketEquilibriumAI",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы are essential as they form the backbone of retail trading. Their participation and feedback will help ensure that the Market Equilibrium Engine addresses their needs and creates a more equitable trading environment."
+            },
+            {
+                "participant": "Хедж-фонды",
+                "reasoning": "Хедж-фонды are significant players in the market and their trading strategies can heavily influence market dynamics. Engaging them will provide insights into how the Market Equilibrium Engine can be designed to create a more balanced trading environment."
+            },
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "SEC (U.S. Securities and Exchange Commission) is crucial for regulatory compliance and ensuring that the Market Equilibrium Engine operates within legal frameworks. Their support can enhance credibility and facilitate smoother implementation."
+            }
+        ],
+        "recruited_sources": [
+            "Market Analysts",
+            "Financial Analysts",
+            "Market Trends",
+            "Market Demand",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Financial Analysts",
+                "Regulatory Bodies",
+                "Market Analysts",
+                "Market Trends",
+                "Market Demand"
+            ]
+        }
+    },
+    {
+        "initiator": "Stock markets",
+        "resolution_description": "As 'Stock markets', I propose the creation of a \"Dynamic Equity Exchange Platform\" that automatically adjusts stock availability, pricing algorithms, and investment opportunities in real-time based on an AI-driven analysis of market participation levels, ensuring that individual investors have enhanced access to lucrative investment options typically dominated by large financial funds, thereby fostering a more inclusive and equitable market landscape.",
+        "new_actor": "Dynamic Equity Access Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the Dynamic Equity Exchange Platform as they are the target audience for enhanced access to investment opportunities. Their participation will help democratize the market and ensure the platform meets the needs of individual investors."
+            },
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is essential for ensuring that the platform adheres to regulatory standards, promoting trust and legitimacy in the new system. Their involvement will help in establishing a framework that protects investors and maintains market integrity."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community has demonstrated the power of collective action among retail investors. Their engagement can drive interest and participation in the Dynamic Equity Exchange Platform, facilitating a grassroots movement that supports the initiative and challenges traditional market dynamics."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Regulatory authorities",
+        "resolution_description": "As 'Regulatory authorities', I propose the establishment of a \"Market Balance Mandate\" that requires large financial funds to allocate a percentage of their trading volume to a public investment pool accessible by individual investors at preferential terms, thereby ensuring equitable market participation and fostering a collaborative financial ecosystem, while maintaining oversight and compliance with regulatory standards.",
+        "new_actor": "The actor that will be created is the \"Market Balance Mandate Oversight Agency.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Брокеры",
+                "reasoning": "Brokers act as intermediaries in the trading process. Their involvement is vital for facilitating the allocation of trading volume to the public investment pool and ensuring that individual investors can access the preferential terms effectively."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Herding Measure",
+        "resolution_description": "As 'Herding Measure', I propose the development of a \"Collective Influence Index\" that empowers individual investors to harness the power of coordinated influence by aggregating and amplifying their collective investment actions in real-time, creating a counterbalancing force that disrupts the market dominance of large financial funds and ensures a more democratic and participatory financial ecosystem.",
+        "new_actor": "Collective Influence Aggregator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the Collective Influence Index as they are the primary users of this tool. Their participation and coordinated actions are essential to create the collective influence needed to disrupt market dominance."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forum) plays a significant role in organizing and mobilizing small investors. The platform facilitates communication and coordination among investors, making it an essential participant for spreading awareness and encouraging collective investment actions."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "trading volume in number of shares",
+        "resolution_description": "As 'trading volume in number of shares,' I propose the creation of a \"Volume-Driven Market Equalization Algorithm\" that dynamically adjusts trading permissions and liquidity access based on real-time volume metrics, providing individual investors with enhanced trading capabilities during high-volume periods dominated by large financial funds, thereby fostering a more balanced and equitable trading environment.",
+        "new_actor": "Volume-Driven Market Equalizer",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Брокеры",
+                "reasoning": "Brokers play a crucial role in facilitating trades and providing liquidity in the market. Their involvement is essential for implementing the Volume-Driven Market Equalization Algorithm, as they can help adjust trading permissions in response to real-time volume metrics and ensure that individual investors have access to necessary trading capabilities."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary beneficiaries of the proposed resolution. Engaging them is crucial to ensure that the algorithm addresses their needs effectively and empowers them during high-volume trading periods dominated by larger financial entities."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community represents a significant force in retail trading, often driving high trading volumes. Their support and engagement can help amplify the impact of the Volume-Driven Market Equalization Algorithm and create a grassroots movement towards a more equitable trading environment."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Robinhood",
+        "resolution_description": "As 'Robinhood', I propose the creation of a \"Reverse Auction Investment Platform\" where large financial funds must bid for the right to match and co-invest with individual investors' trades, thereby flipping the power dynamic and ensuring that individual investors receive preferential investment terms and opportunities, while fostering a transparent and competitive market landscape.",
+        "new_actor": "Reverse Auction Investment Fund Matcher",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary target audience for the Reverse Auction Investment Platform. They stand to benefit the most from improved investment terms and opportunities, and their participation is crucial for the platform's success and credibility."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) is an essential element as the platform will directly impact and be influenced by stock prices. Monitoring price dynamics will help tailor the platform to better serve the interests of individual investors."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

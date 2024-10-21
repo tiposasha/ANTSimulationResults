@@ -1,0 +1,119 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting the managers and designers responsible for the landscape is crucial as they can provide insights on how to effectively implement the pathway while maintaining the aesthetic and functional aspects of the area."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "Involvement of the administration is essential for obtaining the necessary approvals and support for the project, ensuring adherence to local regulations and policies."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Marine receiving environments",
+        "resolution_description": "\"Leverage the fluidity and adaptability of marine ecosystems by designing urban spaces with dynamic, modular elements that shift and evolve based on real-time user behavior and environmental data, ensuring alignment with the needs and desires of the community while promoting sustainability.\"",
+        "new_actor": "Adaptive Urban Ecosystem Designer",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial as they possess the expertise in creating dynamic and modular urban spaces that can adapt to marine ecosystems. Their insights on design principles and environmental considerations will ensure that the urban spaces align with sustainability goals."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Engaging with smart city initiatives is essential for integrating technology that can track real-time user behavior and environmental data. This participant can help implement the necessary infrastructure to create adaptive urban environments that respond to changing conditions."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is pivotal in guiding the overall framework of the proposed resolution. This participant will ensure that the designs not only adapt to user behavior but also promote ecological sustainability, which is a core aspect of leveraging marine ecosystems."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Involving tourism authorities is important for ensuring that the urban spaces attract visitors and meet community needs. Their input can help align the project with local tourism strategies, enhancing the economic viability and visibility of the adaptive urban environments."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "Initiator: Gastronomic Trail, Resolution: Transform urban spaces into interactive culinary landscapes that adapt to user preferences by integrating pop-up kitchens, edible gardens, and sensory food experiences, creating a dynamic and engaging environment that aligns with community interests and fosters a deeper connection to place.",
+        "new_actor": "Culinary Landscape Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape will be crucial in transforming urban spaces into interactive culinary landscapes. Their expertise in design and implementation will ensure that the pop-up kitchens, edible gardens, and sensory experiences are well integrated into the urban environment."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration is essential for facilitating the necessary permissions, regulations, and support for the project. Their involvement will help in aligning the initiative with city policies and securing resources for implementation."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can help promote the gastronomic trail to attract visitors and engage the community. Their support will be vital for marketing and ensuring that the project aligns with broader tourism strategies, enhancing the local economy."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Smart city initiatives can provide technological support to create interactive and adaptive culinary landscapes. Their involvement can enhance user experiences through data-driven insights and smart solutions that cater to community preferences."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Cities",
+        "resolution_description": "Initiator: Cities, Resolution: Implement a living urban symphony by integrating responsive soundscapes and kinetic art installations that harmonize with the movement and interactions of people, creating an immersive, ever-evolving environment that intuitively resonates with the diverse needs and emotions of the community.",
+        "new_actor": "Urban Symphony Conductor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape are crucial for creating the responsive soundscapes and kinetic art installations needed for the urban symphony. Their expertise will ensure that the installations are aesthetically pleasing, functional, and harmoniously integrated into the existing urban environment."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Smart city initiatives can provide the technological infrastructure necessary for the integration of responsive soundscapes. This participant can facilitate the use of sensors and data analytics to create an immersive environment that adapts to the community's needs and emotions."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are essential for promoting the living urban symphony as a cultural attraction. Their involvement can help in marketing the initiative to both locals and visitors, ensuring that the project resonates with a wider audience and enhances community engagement."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is important to ensure that the living urban symphony aligns with eco-friendly practices. Their input can help in selecting materials and methods that reduce environmental impact, making the project sustainable and appealing to a growing base of environmentally conscious citizens."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "Initiator: African Cities, Resolution: Utilize indigenous knowledge systems and community-driven participatory design processes to create urban spaces that organically integrate traditional practices and contemporary needs, fostering environments that are culturally resonant, socially inclusive, and inherently adaptable to the diverse lifestyles and aspirations of their inhabitants.",
+        "new_actor": "Culturally Resonant Urban Integrator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscaping is crucial as they will play a key role in integrating indigenous knowledge and contemporary design principles into urban spaces, ensuring that the spaces are aesthetically pleasing and functional."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The involvement of the administration is essential to ensure that the proposed resolution aligns with urban policies and regulations, facilitating the necessary support and resources for implementation."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important to engage as they can help promote culturally resonant spaces that attract visitors, generating economic benefits and fostering community pride in the integration of traditional practices."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating sustainability concepts is vital to ensure that the urban spaces developed are not only culturally relevant but also environmentally sustainable, addressing contemporary needs while preserving local ecosystems."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

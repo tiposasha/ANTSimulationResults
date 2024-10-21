@@ -1,0 +1,89 @@
+[
+    {
+        "initiator": "Студенты",
+        "resolution_description": "Использовать технологии искусственного интеллекта для прохождения тестирования",
+        "new_actor": "Списанный текст",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies are crucial for implementing the resolution effectively, as they directly facilitate the use of artificial intelligence in testing processes."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Involving employers is important to align the use of AI in testing with industry standards and expectations, ensuring that the skills being assessed are relevant and valuable in the job market."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: Establish a collaborative assessment model where students co-create exam content and evaluation criteria with educators, fostering a deeper understanding of subject matter and promoting authentic demonstration of knowledge.",
+        "new_actor": "Collaborative Assessment Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including other educators and researchers, will contribute diverse insights and best practices, enriching the collaborative assessment model and ensuring broader acceptance and implementation."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can support the development and evaluation of exam content through data analysis and personalized learning insights, enhancing the collaborative process and making assessments more effective."
+            }
+        ],
+        "recruited_sources": [
+            "Academic Institutions",
+            "Educational Institutions",
+            "Higher Education Institutions",
+            "Plagiarism",
+            "Plagiarism Detection Software"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Plagiarism Detection Software",
+                "Higher Education Institutions",
+                "Academic Institutions",
+                "Educational Institutions",
+                "Plagiarism"
+            ]
+        }
+    },
+    {
+        "initiator": "Zeta-7",
+        "resolution_description": "Resolution: Create a decentralized, blockchain-based knowledge validation system where students earn \"knowledge tokens\" through peer-reviewed projects and real-world problem-solving experiences, ensuring a dynamic and transparent reflection of their true capabilities beyond traditional assessments.",
+        "new_actor": "KnowledgeToken Validator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a vital role in validating the effectiveness of the knowledge validation system. Their perspective on the skills and competencies they seek in graduates will guide the development of the system, ensuring it aligns with industry needs and enhances employability for students."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "A community of colleagues, including fellow educators and researchers, can provide critical support and validation for the knowledge validation system. Their collaboration can help establish standards, share best practices, and foster a culture of continuous improvement in the educational landscape."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Develop a holistic learning ecosystem that integrates interdisciplinary project-based learning with community engagement, where students demonstrate their knowledge and skills through real-world impact initiatives, assessed by a diverse panel of educators, industry experts, and community leaders to ensure a comprehensive and authentic evaluation of their capabilities.",
+        "new_actor": "Holistic Learning Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers will play a vital role in facilitating the interdisciplinary project-based learning and community engagement, guiding students in their initiatives, and ensuring the educational objectives are met."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers are key stakeholders in the learning ecosystem as they can provide insights into the skills and competencies needed in the workforce. Their involvement will help align the educational initiatives with real-world applicability, enhancing the relevance of student projects."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of educators and researchers can contribute diverse perspectives and expertise, ensuring that the assessment of student projects is comprehensive and grounded in best practices in education and community engagement."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

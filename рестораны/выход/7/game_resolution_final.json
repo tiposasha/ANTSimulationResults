@@ -1,0 +1,59 @@
+[
+    {
+        "initiator": "Consumers",
+        "resolution_description": "Consumers could establish a decentralized, blockchain-based review system where only users who have verified their experience through digital receipts can leave feedback, ensuring authenticity and transparency in the restaurant and tourism industries.",
+        "new_actor": "VerifiedReviewChain",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are essential as they will drive the development and implementation of the decentralized review system. Their expertise and vision are crucial for the project's success."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are vital as they are the primary users of the review system. Their participation ensures that the feedback is authentic and that the system meets the needs of the end-users."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key stakeholders in the implementation of the review system. Their involvement is necessary to ensure that the platform is beneficial for them and that they can respond to reviews effectively."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are crucial for providing the necessary funding to develop and sustain the review system. Their support can help scale the initiative and improve its reach within the restaurant and tourism industries."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "Implement an AI-driven review verification system that analyzes linguistic patterns, user behavior, and cross-references external data sources to identify and flag potentially fake reviews, while rewarding verified authentic reviewers with incentives such as discounts or exclusive access to events, thereby enhancing trust and engagement within the TripAdvisor ecosystem.",
+        "new_actor": "AI-Driven Review Validator",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Managers",
+        "resolution_description": "'Managers' could introduce a global 'Review Stewardship Program' where trained local experts, acting as community ambassadors, personally visit and assess restaurants and tourist destinations, then provide verified reviews alongside their credentials, creating a trusted network of accountable and knowledgeable reviewers to counteract fake feedback.",
+        "new_actor": "Review Stewardship Ambassador",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are essential for implementing the 'Review Stewardship Program'. They bring vision, leadership, and strategic direction necessary for launching and managing the program effectively."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are crucial as they are the end-users of the reviews. Their engagement and feedback will validate the program's effectiveness and relevance, ensuring it meets the needs of those who will rely on the reviews."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are important stakeholders in the program as they will be the subjects of the reviews. Their participation and buy-in are necessary to ensure that the program is perceived as credible and beneficial to both the businesses and consumers."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are vital for securing the necessary funding and resources to launch and sustain the 'Review Stewardship Program'. Their support can facilitate expansion and enhance the program's credibility within the industry."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

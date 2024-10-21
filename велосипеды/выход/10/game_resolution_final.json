@@ -1,0 +1,84 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Leverage the principles of graphic design to create packaging that visually mimics fragile art installations, incorporating bold, attention-grabbing elements and interactive QR codes that lead to virtual reality experiences explaining the importance of careful handling, thereby transforming the perception of the package from ordinary cargo to a valuable masterpiece demanding meticulous care.",
+        "new_actor": "FragileArtGuardians",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is crucial as they will benefit directly from enhanced packaging that elevates their product's perceived value. By presenting their bicycles as valuable pieces of art, they can attract foreign buyers who appreciate quality and care in handling."
+            },
+            {
+                "participant": "Иностранные покупатели",
+                "reasoning": "Foreign buyers are essential to the success of this resolution as they are the target audience for the newly packaged bicycles. Their perception of value and willingness to pay for a product presented as a masterpiece will directly influence sales and market success."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "The loaders play a vital role in the logistics chain and must be trained to handle the newly designed packaging with care. Their cooperation in understanding the importance of treating the package as a valuable item is essential for preventing damage during transport."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System is necessary to integrate the new packaging approach into the existing supply chain operations. This system will help ensure that the special handling instructions and the interactive QR codes are effectively communicated and tracked throughout the delivery process."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Community services",
+        "resolution_description": "\"Community services can create a global 'Cargo Care Ambassador' program, recruiting and training local volunteers to conduct surprise inspections and workshops at transport hubs, educating handlers on the cultural and emotional value of goods being shipped, thereby fostering a sense of community responsibility and pride in preserving the integrity of transported items.\"",
+        "new_actor": "Cargo Care Ambassador Program Coordinator",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Social Vulnerability to Hazards",
+        "resolution_description": "\"Social Vulnerability to Hazards can resolve the issue of damaged cargo during transport by creating an international certification and incentive program for logistics companies that prioritize human-centered design in their operations, ensuring that their workers are trained to recognize and mitigate risks that disproportionately affect vulnerable populations, thereby fostering an environment of empathy and meticulous care in handling all types of cargo.\"",
+        "new_actor": "The actor that will be created is \"Human-Centered Logistics Certification Program.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Грузчики",
+                "reasoning": "Gruzchiki (cargo handlers) are essential for the successful implementation of the resolution as they directly handle the cargo and interact with the logistics systems. Training them to recognize and mitigate risks that affect vulnerable populations is crucial for ensuring the safe and careful handling of cargo."
+            },
+            {
+                "participant": "vulnerable populations",
+                "reasoning": "Vulnerable populations must be represented in the development of the program, as they are the primary beneficiaries of the initiative. Understanding their specific needs and risks will help shape the training and certification criteria for logistics companies."
+            },
+            {
+                "participant": "Port Community Systems",
+                "reasoning": "Port Community Systems play a vital role in integrating various stakeholders in the logistics process. Their involvement is necessary to ensure that the certification program is effectively implemented across different ports and that all parties are informed and engaged."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "Logistics Management Platform Systems are crucial for coordinating the logistics operations and ensuring compliance with the new certification program. Their integration will facilitate the tracking and management of cargo, enhancing the overall effectiveness of the initiative."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "resilience",
+        "resolution_description": "Resilience can resolve the issue of damaged cargo during transport by implementing a dynamic, AI-driven feedback system embedded in packaging that autonomously adjusts its structural integrity in real-time response to environmental stressors, thus ensuring the preservation of goods while simultaneously collecting data to continuously improve transportation protocols.",
+        "new_actor": "Dynamic AI-Driven Packaging System (DAPS)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System is crucial for integrating the AI-driven feedback system into existing logistics processes. It will enable effective data collection and analysis, ensuring that the system can continuously improve transportation protocols and adapt to various environmental stressors."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "Грузчики (dockworkers) play a vital role in the physical handling of cargo. Their input and feedback on the new packaging system will be essential to understand real-world challenges and ensure the successful implementation of the dynamic packaging solution."
+            },
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "Производитель велосипедов (bicycle manufacturers) are directly affected by the condition of their products during transport. Their collaboration will help in tailoring the packaging system to meet specific needs and ensuring that the goods remain undamaged, thereby sustaining their business."
+            },
+            {
+                "participant": "Port Community Systems",
+                "reasoning": "Port Community Systems facilitate communication and coordination among various stakeholders in the logistics chain. Their involvement is crucial for the successful integration and operation of the AI-driven system across different transport modes and stakeholders."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

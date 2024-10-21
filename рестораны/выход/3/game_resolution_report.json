@@ -1,0 +1,173 @@
+[
+    {
+        "initiator": "hotel property",
+        "resolution_description": "As 'hotel property', leverage blockchain technology to create a decentralized and tamper-proof review system, allowing guests to submit verified experiences directly via smart contracts, thus ensuring authenticity and accountability in the restaurant and tourism industry.",
+        "new_actor": "Decentralized Review Validator (DRV)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Tourists",
+            "Online Travel Agencies (OTAs)",
+            "Local Government Regulations",
+            "local businesses",
+            "Hotel Guests"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Online Travel Agencies (OTAs)",
+                "Local Government Regulations",
+                "local businesses",
+                "Hotel Guests",
+                "Tourists"
+            ]
+        }
+    },
+    {
+        "initiator": "customer",
+        "resolution_description": "As 'customer', establish a community-driven platform where users earn reputation points through verified dining and travel experiences, incentivizing honest reviews and fostering a trustworthy network of customer advocates who collaboratively police and promote authenticity in the restaurant and tourism industry.",
+        "new_actor": "Community Reputation Advocate Network (CRAN)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Retailers",
+            "Retailer",
+            "Competitors",
+            "Social Media Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Retailers",
+                "Social Media Platforms",
+                "Competitors",
+                "Retailer"
+            ]
+        }
+    },
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "As 'TripAdvisor ranking', implement an AI-driven review validation system that cross-references user-submitted reviews with real-time data from social media, geolocation, and transaction records to automatically authenticate experiences, thereby establishing a dynamic and self-regulating ecosystem that continuously adapts to new patterns of deceit.",
+        "new_actor": "AI-Enhanced Review Validator",
+        "participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Improve user engagement on the platform",
+                    "current_action": "Conducting user surveys to gather feedback",
+                    "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within 6 months",
+                    "imposed_action": "Implement targeted marketing campaigns and enhance user experience based on feedback",
+                    "mechanism": "Monthly progress reviews and performance metrics tracking to ensure alignment with the imposed goal",
+                    "reasoning": "The proposal from 'TripAdvisor ranking' aligns with 'Три основателя стартапа's' desire to create a successful platform for travel planning and restaurant reviews. By implementing an AI-driven review validation system, we can enhance the credibility of our platform, which is crucial for attracting both users and restaurants. This approach also addresses our fear of not attracting enough users by fostering a trustworthy environment that encourages honest reviews. The proposed targeted marketing campaigns and performance metrics will help us achieve a top ranking on TripAdvisor, increasing visibility and user engagement, ultimately supporting the long-term success of our platform.",
+                    "recruited_sources": [
+                        "Пользователи платформы",
+                        "Конкуренты на рынке планирования путешествий",
+                        "Конкуренты в сфере туристических приложений"
+                    ]
+                }
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "Find the best travel options and experiences.",
+                    "current_action": "Researching and reading reviews on various destinations.",
+                    "imposed_goal": "Boost the ranking of my travel reviews on TripAdvisor.",
+                    "imposed_action": "Write detailed and helpful reviews for recent trips taken.",
+                    "mechanism": "Implement a rewards system for reviews that receive high engagement from other users.",
+                    "reasoning": "The proposed resolution by 'TripAdvisor ranking' aligns with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travels. The implementation of an AI-driven review validation system would help mitigate fears of falling victim to poor services or misleading information about restaurants by ensuring that reviews are authentic and based on real experiences. Additionally, the rewards system for high engagement reviews incentivizes users to provide honest and detailed feedback, which further enhances the reliability of the platform.",
+                    "recruited_sources": [
+                        "Непроверенные отзывы в интернете",
+                        "Онлайн-платформы для отзывов (например, TripAdvisor)",
+                        "Рестораны и кафе",
+                        "Платформы отзывов (TripAdvisor, Yelp)"
+                    ]
+                }
+            },
+            {
+                "participant": "Рестораны",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction and attract more diners.",
+                    "current_action": "Enhancing menu options and improving service quality.",
+                    "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within the next year.",
+                    "imposed_action": "Implement a customer feedback system and respond to reviews promptly.",
+                    "mechanism": "Regularly analyze customer feedback and adjust service and menu offerings based on insights gained.",
+                    "reasoning": "The proposal from 'TripAdvisor ranking' aligns well with the desires of 'Рестораны' to attract more clients and enhance its reputation while minimizing costs. By implementing an AI-driven review validation system, 'Рестораны' can mitigate the fear of negative reviews impacting its business, as the system will help authenticate genuine experiences. This will likely lead to improved customer satisfaction and a better overall ranking on the platform. Additionally, the focus on a customer feedback system allows 'Рестораны' to continuously adapt and improve service quality, further enhancing its reputation.",
+                    "recruited_sources": [
+                        "Конкурирующие рестораны",
+                        "Социальные сети",
+                        "Конкуренты",
+                        "Клиенты",
+                        "Платформы отзывов (например, TripAdvisor, Google Reviews)"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize investment returns from tourism-related ventures",
+                    "current_action": "Conducting market analysis and identifying high-potential investments",
+                    "imposed_goal": "Improve TripAdvisor ranking of key investments",
+                    "imposed_action": "Implement strategies to enhance online presence and customer satisfaction",
+                    "mechanism": "Regular performance reviews and feedback sessions to assess and adjust strategies aimed at improving TripAdvisor rankings",
+                    "reasoning": "The proposed resolution aligns well with the desires of 'Инвесторы' to achieve long-term income from investments in a promising startup. Implementing an AI-driven review validation system enhances the authenticity of reviews, which mitigates fears of losing invested capital due to platform failure or misinformation. By improving the TripAdvisor ranking of key investments through a collaborative and self-regulating ecosystem, 'Инвесторы' can benefit from increased online presence and customer satisfaction, ultimately leading to greater investment returns.",
+                    "recruited_sources": [
+                        "Стартап-платформа",
+                        "Конкуренты стартапа",
+                        "Стартапы",
+                        "Рынок венчурного капитала",
+                        "Платформа стартапа"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are crucial as they possess the vision and technical expertise needed to design and implement the AI-driven review validation system. Their leadership will be essential in ensuring the project's alignment with strategic goals and in establishing partnerships with other stakeholders."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are vital participants as they are the primary users of the TripAdvisor platform. Their feedback and experiences are at the core of the review system. Engaging them will ensure the system meets their needs and enhances their trust in the platform."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are important because they are directly affected by the reviews on TripAdvisor. Their involvement will provide insights into the validity of reviews and help create a more balanced ecosystem where genuine customer experiences are highlighted."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are essential as they provide the financial resources needed to develop and scale the AI-driven system. Their backing can facilitate the necessary technological advancements and marketing efforts to ensure the system's success and sustainability."
+            }
+        ],
+        "recruited_sources": [
+            "Конкурирующие рестораны",
+            "Конкуренты стартапа",
+            "Клиенты",
+            "Restaurant Owners",
+            "Hotel Owners",
+            "Стартап-платформа",
+            "Стартапы",
+            "Пользователи платформы",
+            "Платформы отзывов (TripAdvisor, Yelp)",
+            "Competitor Review Platforms",
+            "Рынок венчурного капитала",
+            "Онлайн-платформы для отзывов (например, TripAdvisor)",
+            "Конкуренты в сфере туристических приложений",
+            "Социальные сети",
+            "Платформа стартапа",
+            "Рестораны и кафе",
+            "Платформы отзывов (например, TripAdvisor, Google Reviews)",
+            "Local Restaurants",
+            "Конкуренты",
+            "Конкуренты на рынке планирования путешествий",
+            "Непроверенные отзывы в интернете",
+            "User reviews"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Local Restaurants",
+                "Hotel Owners",
+                "Competitor Review Platforms",
+                "Restaurant Owners",
+                "User reviews"
+            ]
+        }
+    }
+]

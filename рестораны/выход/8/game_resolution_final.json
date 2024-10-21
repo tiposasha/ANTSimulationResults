@@ -1,0 +1,34 @@
+[
+    {
+        "initiator": "Consumers",
+        "resolution_description": "Consumers could resolve the issue of fake reviews in the restaurant and tourism industries by collectively leveraging blockchain technology to create a decentralized and transparent review system where each review is verified and permanently recorded, ensuring authenticity and building trust among users.",
+        "new_actor": "Blockchain-Verified Review Consortium",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are crucial as they will be responsible for developing and implementing the blockchain technology needed for the decentralized review system. Their expertise and vision will guide the project’s direction and ensure it aligns with consumer needs."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourist customers are essential for validating the effectiveness of the new review system. Their participation will provide the necessary feedback and engagement to ensure the platform meets user expectations and builds a community of trust among potential users."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are vital for securing the funding required to develop and launch the blockchain-based review system. Their financial support will enable the project to scale and reach a wider audience, enhancing its sustainability and impact."
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor ranking is significant as it represents an established platform in the tourism and restaurant review space. Collaborating with them could facilitate integration and increase credibility for the new system, helping it gain traction and attract users more quickly."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Restaurants",
+        "resolution_description": "Restaurants could revolutionize the fight against fake reviews by implementing a \"Verified Dining Experience\" program, where diners are incentivized to provide feedback directly through a secure app immediately after their meal, with reviews being validated through receipt scanning and optional video testimonials, creating a trusted ecosystem of genuine customer insights.",
+        "new_actor": "Verified Dining Experience Program",
+        "participants": [],
+        "required_participants": []
+    }
+]

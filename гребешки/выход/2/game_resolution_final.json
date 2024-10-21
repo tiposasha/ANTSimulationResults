@@ -1,0 +1,30 @@
+[
+    {
+        "initiator": "Scallops",
+        "resolution_description": "'Scallops' could revolutionize sustainable scallop harvesting in Saint-Brieuc Bay by developing a bio-engineered scallop breed with built-in bioluminescent markers that signal optimal harvest times, drastically reducing overfishing and enhancing population recovery without disrupting the ecosystem.",
+        "new_actor": "Bioluminescent Scallop Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "Recruiting the three researchers is crucial as they will have the expertise needed to develop the bio-engineered scallop breed and ensure the scientific validity of the project. Their knowledge will be essential for the successful implementation of the bioluminescent markers."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Engaging with the fishermen is important to ensure their cooperation and support for the new harvesting methods. They can provide practical insights into current harvesting practices and help facilitate a smooth transition to the new sustainable methods."
+            },
+            {
+                "participant": "population of sea scallops",
+                "reasoning": "The population of sea scallops is a fundamental participant as the resolution directly impacts their survival and recovery. Understanding their current status and dynamics will be essential for assessing the effectiveness of the proposed bio-engineering solution."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Translation",
+        "resolution_description": "Translation could revolutionize sustainable scallop harvesting in Saint-Brieuc Bay by developing an AI-powered linguistic interface that deciphers and communicates environmental signals and scallop behavioral patterns to fishermen in real-time, optimizing harvesting practices and ensuring ecological balance.",
+        "new_actor": "EcoLinguistAI Harvester",
+        "participants": [],
+        "required_participants": []
+    }
+]

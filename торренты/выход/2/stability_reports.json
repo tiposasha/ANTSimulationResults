@@ -1,0 +1,665 @@
+[
+    {
+        "entity": "BitTorrent Engine module",
+        "status": "Unstable",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Peer-to-Peer Users",
+            "Internet Service Providers (ISPs)",
+            "Peer-to-Peer Network Infrastructure",
+            "Content Creators",
+            "Decentralized File Sharing Networks",
+            "Traditional Media Distribution Networks"
+        ],
+        "denied_sources": [
+            "User Community",
+            "Government Regulatory Bodies",
+            "Regulatory Bodies",
+            "Content Creators (e.g., musicians, filmmakers)",
+            "Legal Frameworks (Copyright Laws)",
+            "Open Source Community",
+            "Technological Framework (Protocols and Algorithms)",
+            "Anti-Piracy Organizations",
+            "Peer-to-Peer (P2P) Networks",
+            "Legal Regulations",
+            "Peer-to-Peer Network Users",
+            "Software Developers",
+            "Content Distribution Networks (CDNs)",
+            "Developers of BitTorrent Clients"
+        ]
+    },
+    {
+        "entity": "tracker",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "privacy advocates",
+            "GPS Technology",
+            "data analytics tools",
+            "mobile device",
+            "Data Analytics Platform",
+            "Competitor Application"
+        ],
+        "denied_sources": [
+            "users of tracking technology",
+            "User Feedback Mechanism",
+            "User Interface Design",
+            "third-party developers",
+            "Competitive Market",
+            "Technological Advancements",
+            "regulatory bodies",
+            "User Privacy Regulations",
+            "Mobile Networks",
+            "advertisers",
+            "Battery Technology",
+            "Market Trends",
+            "government regulators",
+            "software developers",
+            "competitors in the tracking industry",
+            "end-users",
+            "User Feedback",
+            "Regulatory Bodies",
+            "users/clients",
+            "Data Privacy Regulations",
+            "data protection technology providers"
+        ]
+    },
+    {
+        "entity": "Copyright Law",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Digital Platforms",
+            "Creative Industries",
+            "Legislative Bodies",
+            "Technological Advancement",
+            "Content Creators"
+        ],
+        "denied_sources": [
+            "Technological Platforms",
+            "Copyright Collectives",
+            "Public Opinion",
+            "Lobbying Groups",
+            "Courts and Legal Precedents",
+            "Educational Institutions",
+            "Legal Professionals",
+            "Publishers",
+            "Consumers",
+            "Judicial System",
+            "Publishing Companies",
+            "International Treaties and Agreements",
+            "Artists and Authors",
+            "Technology Companies",
+            "Technology Platforms",
+            "Piracy",
+            "Creative Commons Licenses",
+            "International Treaties"
+        ]
+    },
+    {
+        "entity": "digital entities",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Regulatory Bodies",
+            "Traditional Media",
+            "Data Analytics Companies",
+            "Social Media Platforms"
+        ],
+        "denied_sources": [
+            "Developers and Tech Companies",
+            "Data Analytics Tools",
+            "Content Creators",
+            "Cloud Computing Services",
+            "User Trust and Engagement",
+            "Market Competitors",
+            "Cybersecurity Threats",
+            "E-commerce Platforms",
+            "Technological Advancements",
+            "Search Engines",
+            "Content Distribution Networks (CDNs)",
+            "Local Businesses",
+            "Advertisers",
+            "Privacy Advocates",
+            "Peer Networks and Collaborations",
+            "Regulatory Bodies (e.g., GDPR, COPPA)",
+            "Advertising Agencies"
+        ]
+    },
+    {
+        "entity": "Трекеры",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Конкурирующие трекеры",
+            "Технологические платформы",
+            "Команда участников",
+            "Пирами",
+            "Поставщики данных",
+            "Отсутствие интереса со стороны пользователей"
+        ],
+        "denied_sources": [
+            "Регуляторы",
+            "Методы управления изменениями",
+            "Пользователи Трекеров",
+            "Система управления проектами",
+            "Пользователи",
+            "Регуляторы и законодатели",
+            "Инвесторы",
+            "Общественное мнение",
+            "Технологическая инфраструктура",
+            "Клиенты и пользователи",
+            "Регуляторные органы",
+            "Конкуренты на рынке",
+            "Разработчики технологий",
+            "Технологические ограничения",
+            "Социальные сети и медиа",
+            "Технологические партнеры",
+            "Внешние заинтересованные стороны",
+            "Конкуренты",
+            "Аналитики",
+            "Государственные регулирующие органы"
+        ]
+    },
+    {
+        "entity": "Правообладатели контента",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Платформы для обмена контентом (например, торрент-трекеры)",
+            "Законодательство об авторском праве",
+            "Социальные сети",
+            "Платформы для распространения контента (например, YouTube, Spotify)",
+            "Платформы для распространения контента"
+        ],
+        "denied_sources": [
+            "Конкуренты в сфере контента",
+            "Законодательные органы (государство)",
+            "Агентства по защите авторских прав",
+            "Технологические компании (например, разработчики ПО для защиты контента)",
+            "Пользователи интернет-пространства",
+            "Технологические средства защиты (DRM)",
+            "Образовательные учреждения",
+            "Платформы распространения контента (например, YouTube, Spotify)",
+            "Киберпреступники",
+            "Технологические компании (производители программного обеспечения)",
+            "Пользователи и зрители контента",
+            "Государственные органы",
+            "Технологические компании",
+            "Пользователи и аудитория",
+            "Пиратские сайты",
+            "Законодательные органы",
+            "Пользователи контента",
+            "Технологии защиты контента"
+        ]
+    },
+    {
+        "entity": "Social incentives",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Organizational Culture",
+            "Economic systems",
+            "Community Organizations",
+            "Peer Networks",
+            "Cultural Norms",
+            "Economic Incentives"
+        ],
+        "denied_sources": [
+            "Policy-making bodies",
+            "Traditional Incentive Systems",
+            "Cultural norms",
+            "Political Structures",
+            "Technological Advancements",
+            "Local Businesses",
+            "Peer Influence",
+            "Economic Structures",
+            "Educational Institutions",
+            "Government Agencies",
+            "Leadership Strategies",
+            "Performance Metrics",
+            "Technology platforms",
+            "Legislation and Policies",
+            "Technology Platforms",
+            "Legal Regulations",
+            "Economic Factors",
+            "Employee Engagement",
+            "Non-Profit Organizations",
+            "Social Media Platforms",
+            "Educational institutions"
+        ]
+    },
+    {
+        "entity": "Users",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Content Creators",
+            "Technology Platforms",
+            "Social Media Platforms",
+            "Market Trends"
+        ],
+        "denied_sources": [
+            "Data Analytics Tools",
+            "Technology Developers",
+            "Platform Algorithms",
+            "Cybersecurity Threats",
+            "Technological Advancements",
+            "Peer Groups",
+            "Data Analysts",
+            "Advertisers",
+            "Peer Influence",
+            "Cultural Norms",
+            "Privacy Regulations",
+            "Data Analytics",
+            "Regulatory Bodies",
+            "Platform Providers",
+            "Peer Networks",
+            "Peer Users"
+        ]
+    },
+    {
+        "entity": "Интернет-провайдеры",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Технологические компании (поставщики оборудования и ПО)",
+            "Пользователи интернета",
+            "Телекоммуникационные компании",
+            "Конкуренты",
+            "Конкуренты на рынке интернет-услуг",
+            "Регуляторные органы"
+        ],
+        "denied_sources": [
+            "Конкуренты на рынке",
+            "Поставщики оборудования и технологий",
+            "Конкуренты интернет-провайдеров",
+            "Поставщики интернет-контента (например, стриминговые платформы)",
+            "Регуляторы",
+            "Пользователи",
+            "Правительство",
+            "Поставщики оборудования и программного обеспечения",
+            "Клиенты интернет-провайдеров",
+            "Технологические компании",
+            "Регуляторы связи",
+            "Государственные регуляторы",
+            "Технологические новшества",
+            "Правительственные регуляторы",
+            "Поставщики оборудования",
+            "Интернет-контент",
+            "Клиенты"
+        ]
+    },
+    {
+        "entity": "BitTorrent Tit-for-Tat Mechanism",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Peer-to-Peer Users",
+            "Peer-to-Peer (P2P) Technology Developers",
+            "Peer-to-Peer Networks",
+            "Peer-to-Peer Network",
+            "Peer-to-Peer File Sharing Enthusiasts"
+        ],
+        "denied_sources": [
+            "Content Providers",
+            "User Community",
+            "Internet Service Providers (ISPs)",
+            "User Communities and Forums",
+            "Content Creators",
+            "ISPs (Internet Service Providers)",
+            "Alternative File Sharing Protocols",
+            "Regulatory Bodies",
+            "Copyright Holders",
+            "Legal Frameworks",
+            "Centralized File Sharing Services",
+            "Content Owners/Media Corporations",
+            "Anti-Piracy Organizations",
+            "Digital Rights Management Systems",
+            "Network Administrators",
+            "Centralized Content Distribution Platforms",
+            "End Users"
+        ]
+    },
+    {
+        "entity": "Разработчик протокола",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Пользователи системы обмена файлами",
+            "Конкуренты в области обмена файлами",
+            "Пользователи системы",
+            "Конкурирующие разработчики протоколов"
+        ],
+        "denied_sources": [
+            "Технологические партнеры и поставщики",
+            "Правительственные и регулирующие органы",
+            "Конкуренты в сфере обмена файлами",
+            "Пользователи (конечные пользователи системы)",
+            "Технологические компании",
+            "Технологические гиганты (например, Google, Amazon)",
+            "Клиенты и пользователи",
+            "Конкуренты на рынке обмена файлами",
+            "Инвесторы и бизнес-партнеры",
+            "Инвестиционные фонды",
+            "Конкуренты",
+            "Конкуренты в сфере обмена файлов",
+            "Поставщики технологий и услуг",
+            "Правительственные органы",
+            "Инвесторы или заказчики проекта",
+            "Технологические партнеры",
+            "Законодательство о защите данных",
+            "Правовые структуры",
+            "Системы безопасности и шифрования",
+            "Правительственные регуляторы",
+            "Инвесторы",
+            "Законодательные органы",
+            "Технологические платформы и инструменты разработки",
+            "Технические специалисты"
+        ]
+    },
+    {
+        "entity": "XG-9",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Power Supply Unit",
+            "Market Competitors",
+            "Research Institutions",
+            "Government Regulations",
+            "Nexus-8"
+        ],
+        "denied_sources": [
+            "Technology Developers",
+            "Control Software",
+            "Consumer Preferences",
+            "Supply Chain Disruptions",
+            "Consumers",
+            "Maintenance Protocols",
+            "Human Operators",
+            "Technological Advancements",
+            "Technology Advancements",
+            "Government Regulation Bodies",
+            "End Users/Consumers",
+            "Customer Feedback",
+            "Regulatory Bodies",
+            "Competitors",
+            "User Interface",
+            "Network Connectivity",
+            "Regulatory Authorities",
+            "Supply Chain Partners",
+            "Data Security Protocols",
+            "Technosynth AI",
+            "Resource Allocation Network"
+        ]
+    },
+    {
+        "entity": "The Pirate Bay (TPB)",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "User Community",
+            "Users (Pirate Bay Community)",
+            "Users (Downloaders)",
+            "Peer-to-Peer (P2P) Networks",
+            "Alternative File Sharing Platforms"
+        ],
+        "denied_sources": [
+            "Content Industry Corporations",
+            "Internet Service Providers (ISPs)",
+            "Content Creators and Distributors",
+            "Technological Infrastructure (e.g., Cloud Services)",
+            "Content Copyright Holders",
+            "Government Regulatory Bodies",
+            "Content Creators",
+            "Copyright Enforcement Agencies",
+            "Government Regulation",
+            "Legal Authorities",
+            "Digital Rights Organizations",
+            "Governments",
+            "Anti-Piracy Organizations",
+            "Content Creators and Uploaders",
+            "Governments/Regulatory Bodies",
+            "Technological Innovations (e.g., VPNs, Proxies)"
+        ]
+    },
+    {
+        "entity": "Пользователи пиринговый сети",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Платформы для контента (например, торрент-трекеры)",
+            "Платформы обмена файлами",
+            "Поставщики контента",
+            "Правительственные органы",
+            "Пиринговые сети",
+            "Государственные органы"
+        ],
+        "denied_sources": [
+            "Пользователи интернета",
+            "Пользователи сети (обычные интернет-пользователи)",
+            "Разработчики программного обеспечения (например, приложения для обмена файлами)",
+            "Корпорации по производству контента",
+            "Общественное мнение",
+            "Регуляторы",
+            "Провайдеры интернет-услуг (ISP)",
+            "Платформы (например, торрент-трекеры)",
+            "Киберпреступники",
+            "Технологические компании",
+            "Законодательство",
+            "Технологии шифрования",
+            "Социальные сети",
+            "Общественные организации по защите авторских прав",
+            "Разработчики программного обеспечения",
+            "Провайдеры интернет-услуг",
+            "Юридические системы",
+            "Платформы для обмена контентом"
+        ]
+    },
+    {
+        "entity": "Metaphors",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Traditional Language",
+            "Technology",
+            "Language",
+            "Cultural Narratives"
+        ],
+        "denied_sources": [
+            "Literary Forms",
+            "Political Discourse",
+            "Psychology",
+            "Educational Systems",
+            "Cultural Context",
+            "Scientific Discourse",
+            "Culture",
+            "Literal Interpretation",
+            "Art",
+            "Social Movements",
+            "Technological Mediums",
+            "Artistic Expression",
+            "Cognitive Processes",
+            "Audience Interpretation",
+            "Educational Institutions",
+            "Education",
+            "Psychological Constructs",
+            "Audience",
+            "Linguistic Structures",
+            "Cultural Norms",
+            "Social Media",
+            "Education Systems"
+        ]
+    },
+    {
+        "entity": "peer-to-peer DHT routing protocol",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Decentralized Applications (dApps)",
+            "Blockchain technology",
+            "Regulatory Bodies",
+            "Distributed Hash Table (DHT) architecture",
+            "Distributed Hash Table (DHT) nodes",
+            "Legacy software systems"
+        ],
+        "denied_sources": [
+            "User Community and Developers",
+            "Security protocols (e.g., encryption and authentication)",
+            "Incentive mechanisms (e.g., rewards for participation)",
+            "Software developers",
+            "Network congestion",
+            "Traditional content distribution networks (CDNs)",
+            "Content Delivery Networks (CDNs)",
+            "Blockchain Networks",
+            "Network topology",
+            "Competitor Protocols (e.g., BitTorrent, IPFS)",
+            "End-users",
+            "Network administrators",
+            "Data Consumers",
+            "Node Operators",
+            "Centralized Internet Service Providers (ISPs)",
+            "Internet Service Providers (ISPs)",
+            "Regulatory frameworks",
+            "Developers and maintainers of the protocol",
+            "Network Security Threats (e.g., DDoS attacks)",
+            "User behavior",
+            "Censorship authorities",
+            "Network participants (nodes)",
+            "Centralized server architecture"
+        ]
+    },
+    {
+        "entity": "End-user",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Competitors",
+            "Product Manufacturer",
+            "Peer Groups",
+            "Software Developers",
+            "Technology Providers"
+        ],
+        "denied_sources": [
+            "Technology Platforms",
+            "Technology Provider",
+            "Advertising Algorithms",
+            "Social Networks",
+            "Investors",
+            "Retailer",
+            "Service Provider",
+            "Product Managers",
+            "Online Reviews and Ratings",
+            "Customer Support Team",
+            "Peer Influence",
+            "Marketing Teams",
+            "Regulatory Bodies",
+            "Advertising Agency",
+            "Regulatory Body",
+            "Customer Support",
+            "Social Media Platforms",
+            "Social Influencers",
+            "Market Trends",
+            "Mobile Devices"
+        ]
+    },
+    {
+        "entity": "BitTorrent Protocol",
+        "status": "Unstable",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Content Providers",
+            "Internet Service Providers (ISPs)",
+            "Copyright Enforcement Agencies",
+            "Regulatory Bodies",
+            "Peer-to-Peer Network",
+            "Software Developers"
+        ],
+        "denied_sources": [
+            "Open Source Development Communities",
+            "Government Regulatory Bodies",
+            "Peer-to-Peer (P2P) Applications",
+            "Traditional Media Companies",
+            "Content Creators",
+            "End Users",
+            "User Community Feedback",
+            "Digital Rights Organizations",
+            "Government Regulations",
+            "Peer-to-Peer Networks",
+            "Content Distribution Networks (CDNs)",
+            "Media Companies"
+        ]
+    }
+]

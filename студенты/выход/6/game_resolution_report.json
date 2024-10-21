@@ -1,0 +1,210 @@
+[
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Establish a personalized mentorship program where educators design bespoke assessment paths for each student, integrating interdisciplinary projects and real-world apprenticeships to holistically evaluate knowledge and skills, thus aligning academic assessments with individual learning trajectories and career aspirations.",
+        "new_actor": "Mentorship Pathways Designer",
+        "participants": [
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Enhance teaching methodologies to improve student engagement.",
+                    "current_action": "Participating in professional development workshops.",
+                    "imposed_goal": "Implement innovative teaching strategies that increase student participation by 30%.",
+                    "imposed_action": "Conduct a series of interactive classroom activities and assessments.",
+                    "mechanism": "Regular feedback sessions and peer reviews to monitor progress and share best practices.",
+                    "reasoning": "The proposal to establish a personalized mentorship program aligns with my desire to effectively transmit knowledge by allowing educators to tailor assessments to individual student needs. This method fosters deeper engagement and understanding among students. Additionally, the integration of interdisciplinary projects and real-world apprenticeships addresses my fear of losing control over the learning process by ensuring that assessments are meaningful and relevant, reducing the likelihood of academic dishonesty. Overall, this approach enhances teaching methodologies and supports my goal of objective student evaluation.",
+                    "recruited_sources": [
+                        "Технологии обучения (например, онлайн-платформы)",
+                        "Новые технологии (например, программы для списывания)",
+                        "Технологии обучения",
+                        "Студенты",
+                        "Новые технологии обучения"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers are crucial participants who will design and implement the personalized mentorship program, tailoring assessments to meet the diverse needs of students and integrating real-world experiences into their curriculum."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a key role in providing real-world apprenticeships and insights into the skills required in the job market, ensuring that the mentorship program aligns with career aspirations and enhances students' employability."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can support the personalized mentorship program by offering adaptive learning technologies that cater to the individual learning trajectories of students, helping educators design more effective assessment paths."
+            }
+        ],
+        "recruited_sources": [
+            "students",
+            "Студенты",
+            "Технологии обучения (например, онлайн-платформы)",
+            "School administration",
+            "Технологии обучения",
+            "Новые технологии обучения",
+            "Curriculum",
+            "Новые технологии (например, программы для списывания)",
+            "School Administration"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Curriculum",
+                "School Administration",
+                "students",
+                "School administration"
+            ]
+        }
+    },
+    {
+        "initiator": "Targets of deception",
+        "resolution_description": "**Targets of Deception Resolution:** Develop an immersive, narrative-driven assessment platform where students engage in complex, evolving storylines that require critical thinking and problem-solving, allowing their real-world knowledge and adaptability to be evaluated through their decisions and actions within the narrative, thus creating a more authentic measure of their understanding and skills.",
+        "new_actor": "The Narrative Cognition Evaluator (NCE)",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Understand the various forms of deception and their targets",
+                    "current_action": "Conducting research on deception in social contexts",
+                    "imposed_goal": "Analyze the psychological effects of deception on targets",
+                    "imposed_action": "Prepare a detailed report on findings related to deception effects",
+                    "mechanism": "Organizing a series of workshops and discussions to share insights and methodologies",
+                    "reasoning": "The proposed resolution by 'Targets of Deception' aligns well with the desires of 'Студенты' to gain useful knowledge and achieve good grades with minimal effort. By engaging in immersive, narrative-driven assessments, 'Студенты' can demonstrate their understanding and adaptability in a way that feels authentic and relevant to real-world scenarios, thus reducing the fear of being caught in dishonest practices. Additionally, this approach facilitates the acquisition of necessary skills for future careers by promoting critical thinking and problem-solving. Overall, this proposal benefits both the desires and mitigates the fears of 'Студенты'.",
+                    "recruited_sources": [
+                        "Преподаватели"
+                    ]
+                }
+            },
+            {
+                "participant": "Academic Integrity",
+                "agreement_structure": {
+                    "current_goal": "Ensure the integrity and authenticity of academic work",
+                    "current_action": "Monitoring submissions for plagiarism and misconduct",
+                    "imposed_goal": "Reduce the incidence of academic deception among students",
+                    "imposed_action": "Implement mandatory training on academic integrity for all students",
+                    "mechanism": "Establish an online course and assessment that students must complete before submitting their first assignment",
+                    "reasoning": "The proposal by 'Targets of Deception' aligns with the goals of 'Academic Integrity' by promoting a more engaging and authentic assessment method. By incorporating immersive narratives that require critical thinking, students are likely to develop a deeper understanding of the material, which can reduce the temptation to engage in deceptive practices. Furthermore, the implementation of mandatory training on academic integrity ensures that students are educated about the importance of honesty in their academic work. This dual approach not only enhances learning outcomes but also effectively mitigates risks of academic misconduct, thus benefiting the overarching mission of maintaining integrity in education.",
+                    "recruited_sources": [
+                        "Plagiarism Detection Software",
+                        "Higher Education Institutions",
+                        "Academic Institutions",
+                        "Educational Institutions",
+                        "Plagiarism",
+                        "University Administration"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary users of the immersive assessment platform. Their engagement and feedback are crucial for refining the narratives and ensuring the platform effectively measures their critical thinking and problem-solving skills."
+            },
+            {
+                "participant": "Academic Integrity",
+                "reasoning": "Academic Integrity is essential to ensure that the assessment platform maintains fairness and credibility. Establishing strong ethical guidelines will help prevent potential misuse and foster trust among stakeholders."
+            }
+        ],
+        "recruited_sources": [
+            "Преподаватели",
+            "Plagiarism Detection Software",
+            "Social Media Platforms",
+            "Academic Institutions",
+            "University Administration",
+            "Trust in authority figures",
+            "Educational Institutions",
+            "Higher Education Institutions",
+            "Plagiarism",
+            "Regulatory Authorities",
+            "Social media platforms",
+            "Peer Groups",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Trust in authority figures",
+                "Social Media Platforms",
+                "Regulatory Bodies",
+                "Regulatory Authorities",
+                "Social media platforms",
+                "Peer Groups"
+            ]
+        }
+    },
+    {
+        "initiator": "Работодатели",
+        "resolution_description": "**Initiator: Работодатели, Resolution:** Implement a dynamic, AI-driven assessment ecosystem that continuously evaluates students through real-time analysis of their contributions in collaborative, industry-simulated environments, providing employers with a direct insight into the students' practical competencies and potential for innovation, thus aligning educational outcomes with workforce readiness and future job market needs.",
+        "new_actor": "AI-Driven Student Competency Evaluator",
+        "participants": [
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance the effectiveness of AI-enabled learning systems",
+                    "current_action": "Conducting research on current AI learning methods",
+                    "imposed_goal": "Increase user engagement in AI learning platforms by 30%",
+                    "imposed_action": "Implement gamification features in the learning modules",
+                    "mechanism": "Monthly performance reviews and user feedback sessions to measure engagement levels",
+                    "reasoning": "The proposed resolution by 'Работодатели' aligns well with the goals of 'AI-enabled learning' to enhance engagement and improve assessment methods. By implementing a dynamic, AI-driven assessment ecosystem, we can address the current shortcomings in knowledge evaluation while also increasing user engagement through gamification features. This approach not only facilitates the practical application of knowledge in industry-simulated environments but also provides valuable insights for employers regarding students' competencies and readiness for the workforce. Overall, this proposal benefits the interests of 'AI-enabled learning' by promoting innovative assessment practices and enhancing user interaction with the platform.",
+                    "recruited_sources": [
+                        "Adaptive Learning Algorithms",
+                        "Educational Institutions",
+                        "Textbook publishers",
+                        "Traditional Education Systems"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Повышение квалификации преподавателей через совместные исследования",
+                    "current_action": "Организация семинаров и обмена опытом среди коллег",
+                    "imposed_goal": "Создание единой платформы для обмена методическими материалами и исследованиями",
+                    "imposed_action": "Участие в разработке и поддержке онлайн-ресурса для обмена",
+                    "mechanism": "Создание рабочей группы для разработки платформы и регулярные встречи для обсуждения прогресса",
+                    "reasoning": "The proposed resolution by 'Работодатели' aligns with our desire to maintain high educational standards and adapt to new technologies. By participating in the development of a dynamic, AI-driven assessment ecosystem, we can enhance our methods of evaluating student knowledge and skills, ensuring they reflect real-world competencies. This will help mitigate our fears of losing relevance in traditional assessment methods, as we will be at the forefront of innovative evaluation techniques that prepare students for the workforce.",
+                    "recruited_sources": [
+                        "Студенты",
+                        "Технологические компании",
+                        "Традиционные методы обучения",
+                        "Министерство образования",
+                        "Технологические гиганты (например, Google, Microsoft)"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies are fundamental to the proposed resolution, as they provide the necessary infrastructure for real-time analysis and assessment of student contributions. Their involvement will ensure the system is effectively designed and operational."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "Сообщество коллег-преподавателей и исследователей can offer valuable insights and feedback on the assessment ecosystem's design and implementation. Their collaboration will enhance the credibility and effectiveness of the system across different educational contexts."
+            }
+        ],
+        "recruited_sources": [
+            "Студенты",
+            "Университеты",
+            "Образовательные учреждения",
+            "Традиционные методы обучения",
+            "Министерство образования",
+            "Технологические гиганты (например, Google, Microsoft)",
+            "Educational Institutions",
+            "Технологические компании",
+            "Неэффективные образовательные учреждения",
+            "Adaptive Learning Algorithms",
+            "Traditional Education Systems",
+            "Textbook publishers",
+            "Кандидаты на работу"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Кандидаты на работу",
+                "Образовательные учреждения",
+                "Университеты",
+                "Неэффективные образовательные учреждения"
+            ]
+        }
+    }
+]

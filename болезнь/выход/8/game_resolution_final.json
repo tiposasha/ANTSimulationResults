@@ -1,0 +1,145 @@
+[
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "\"Alzheimer's Disease capitalizes on its complexity by proposing a paradigm shift in research, focusing on the holistic interplay between environmental factors, lifestyle, and genetic predispositions to uncover novel preventative strategies that transcend traditional neuropathological approaches.\"",
+        "new_actor": "The Integrative Neuroscience Collaborator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies play a crucial role in developing novel preventative strategies and can provide the necessary resources and funding to explore new avenues beyond traditional approaches."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids can provide valuable models for studying Alzheimer's Disease in a more integrated manner, allowing researchers to test the effects of various environmental and lifestyle factors on disease progression."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "\"Tau protein proposes leveraging its unique role in neuronal stability and transport by developing a revolutionary therapeutic approach that stabilizes and modulates tau interactions within neurons, thereby offering a targeted intervention to restore cognitive functions and halt the progression of Alzheimer's Disease, independent of amyloid pathways.\"",
+        "new_actor": "Actor: Tau Therapeutics Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for developing, testing, and bringing the new tau-targeting therapies to market. Their resources and infrastructure are critical for translating research into viable treatments."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of any therapeutic intervention. Their involvement ensures that the developed therapies are relevant and address the actual needs and experiences of those affected by Alzheimer's Disease."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips can facilitate advanced modeling of human neuronal environments, allowing for more accurate testing of tau-modulating therapies and understanding their effects on cognitive functions."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "MIND Diet",
+        "resolution_description": "\"MIND Diet proposes a groundbreaking resolution by integrating precision nutrition with advanced neuroimaging and AI-driven biomarker analysis to develop personalized dietary interventions that not only prevent but potentially reverse cognitive decline by directly influencing neuroplasticity and synaptic repair in Alzheimer's patients.\"",
+        "new_actor": "NeuroNutriAI Innovator",
+        "participants": [
+            {
+                "participant": "Научный журнал",
+                "agreement_structure": {
+                    "current_goal": "To publish research on dietary interventions for cognitive health.",
+                    "current_action": "Conducting studies and collecting data on the effects of various diets.",
+                    "imposed_goal": "To adopt the MIND Diet as a primary research focus.",
+                    "imposed_action": "Implementing the MIND Diet in ongoing and future research studies.",
+                    "mechanism": "Providing resources and guidance on the MIND Diet, including access to existing research and collaboration opportunities with experts in the field.",
+                    "reasoning": "The proposed resolution by MIND Diet aligns with Научный журнал's desire to publish groundbreaking research and maintain a high impact factor. By integrating precision nutrition with advanced neuroimaging and AI-driven biomarker analysis, the research has the potential to yield innovative findings that could significantly contribute to the field of cognitive health. Additionally, the collaboration with MIND Diet provides access to resources and expertise, which can enhance the credibility and rigor of the research, thereby helping to mitigate fears of losing reputation due to the publication of unreliable studies.",
+                    "recruited_sources": [
+                        "Научные исследователи",
+                        "Непроверенные исследовательские данные",
+                        "Научные рецензенты"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of the MIND Diet. Engaging them ensures that the dietary interventions are tailored to real-world needs and preferences, enhancing the likelihood of successful adoption and adherence."
+            },
+            {
+                "participant": "Научный журнал",
+                "reasoning": "Scientific journals play a vital role in disseminating research findings and gaining recognition in the scientific community. Publishing results related to the MIND Diet will help establish credibility and attract further interest and collaboration."
+            }
+        ],
+        "recruited_sources": [
+            "Научные исследователи",
+            "Научные рецензенты",
+            "Nutrition Science",
+            "Nutrition Guidelines",
+            "Fast Food Industry",
+            "Непроверенные исследовательские данные",
+            "Health Researchers",
+            "Neuroscientists"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Fast Food Industry",
+                "Nutrition Guidelines",
+                "Nutrition Science",
+                "Neuroscientists",
+                "Health Researchers"
+            ]
+        }
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "\"iPSCs propose a transformative resolution by harnessing their pluripotent capabilities to generate personalized, patient-specific neural networks in vitro, enabling the identification of individualized therapeutic targets and the development of bespoke regenerative treatments that directly address the cellular and molecular dysfunctions unique to each Alzheimer's patient.\"",
+        "new_actor": "NeuroRegenerative iPSCs Network Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in neurology are crucial for advancing the understanding of Alzheimer's disease and for developing the personalized therapeutic approaches proposed by iPSCs. Their expertise will facilitate the identification of cellular and molecular dysfunctions specific to each patient."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for translating the research outcomes into viable treatments. Their involvement will support the development and commercialization of bespoke regenerative therapies tailored to individual Alzheimer's patients."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients provide the essential perspective needed to ensure that the therapeutic targets and treatments developed are relevant to their unique conditions and experiences, thus enhancing the patient-centered approach of the resolution."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips can simulate the human brain environment, allowing for a more accurate modeling of Alzheimer's disease and testing of potential treatments derived from the personalized neural networks created from iPSCs."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "gamma frequency stimulation",
+        "resolution_description": "\"Gamma frequency stimulation envisions a groundbreaking resolution by employing targeted neuromodulation techniques to synchronize disrupted neural oscillations in Alzheimer's patients, thereby restoring cognitive coherence and neural network functionality through non-invasive brainwave entrainment that operates independently of traditional molecular pathways.\"",
+        "new_actor": "CognitiveCoherence Neuromodulator",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "\"Blood-brain barrier (BBB) proposes a novel resolution by pioneering a selective permeability modulation strategy that enables the precise delivery of therapeutic agents directly to the brain, thereby enhancing drug efficacy and reducing systemic side effects, ultimately transforming the treatment paradigm for Alzheimer's Disease through targeted intervention at the molecular level.\"",
+        "new_actor": "TherapeuticBrainDeliveryModulator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are key players in the development and commercialization of new therapeutic agents. Their involvement will facilitate the translation of the proposed modulation strategy into practical applications and ensure that effective drugs reach the market."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of advancements in Alzheimer's treatment. Their feedback and participation are vital to ensure that the proposed interventions address real needs and improve quality of life."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips can provide a valuable platform for testing the efficacy of the selective permeability modulation strategy in a controlled environment, enabling researchers to observe the interactions of therapeutic agents with the blood-brain barrier."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

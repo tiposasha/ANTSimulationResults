@@ -1,0 +1,142 @@
+[
+    {
+        "initiator": "Производитель компьютеров",
+        "resolution_description": "Задействовать внешнюю архитектуру комплектующих",
+        "new_actor": "Открытая архитектура компьютера",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Поставщики комплектующих",
+            "Конкуренты на рынке ПК",
+            "Регулирующие органы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Регулирующие органы",
+                "Поставщики комплектующих",
+                "Конкуренты на рынке ПК"
+            ]
+        }
+    },
+    {
+        "initiator": "Computer",
+        "resolution_description": "Implement a decentralized, blockchain-based standardization protocol that dynamically adapts to technological advancements and industry needs, allowing all stakeholders to collaboratively shape and verify standards in real-time, thus ensuring both transparency and flexibility in control.",
+        "new_actor": "Blockchain Standards Consortium (BSC)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Разработчики программного обеспечения",
+                "reasoning": "Engaging 'Разработчики программного обеспечения' (Software Developers) is vital because they will be directly affected by the standards created. Their input ensures that the protocols are compatible with current and future software developments, promoting widespread adoption."
+            }
+        ],
+        "recruited_sources": [
+            "Software Developer",
+            "Software Applications",
+            "Human Workers",
+            "User",
+            "Power Supply"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "User",
+                "Power Supply",
+                "Software Developer",
+                "Software Applications",
+                "Human Workers"
+            ]
+        }
+    },
+    {
+        "initiator": "TX-0 computer",
+        "resolution_description": "Establish a self-regulating AI-driven consortium that continuously analyzes global technology trends and user needs to autonomously develop and enforce adaptive standards, ensuring seamless integration and innovation across industries while maintaining optimal control and compliance.",
+        "new_actor": "The name of the actor that will be created is \"Global AI Standards Consortium (GAISC).\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Разработчики программного обеспечения",
+                "reasoning": "Разработчики программного обеспечения are essential for creating software that adheres to the adaptive standards, enabling seamless integration across different platforms and enhancing user experience."
+            },
+            {
+                "participant": "IBM Corporation",
+                "reasoning": "IBM Corporation brings significant expertise and resources in both hardware and software development, making them a key player in driving innovation and compliance with the standards within the consortium."
+            }
+        ],
+        "recruited_sources": [
+            "Electricity Supply",
+            "Cybersecurity Threats",
+            "Software Updates",
+            "Software Applications",
+            "Legacy computing systems",
+            "Software Developers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Legacy computing systems",
+                "Software Updates",
+                "Cybersecurity Threats",
+                "Software Applications",
+                "Software Developers",
+                "Electricity Supply"
+            ]
+        }
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "Initiator: XG-9, Resolution: Develop a bio-inspired, neural-network-based standardization framework that evolves through machine learning by mimicking natural selection processes, granting industries a self-optimizing system that autonomously balances innovation and control, positioning XG-9 as the essential mediator in technological evolution.",
+        "new_actor": "The EvolverNet Mediator.",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Разработчики программного обеспечения",
+                "reasoning": "Разработчики программного обеспечения are essential for creating the software that will run on the proposed bio-inspired framework. Their expertise in software development will ensure that the system is user-friendly and capable of adapting through machine learning."
+            },
+            {
+                "participant": "IBM Corporation",
+                "reasoning": "IBM Corporation has significant resources and research capabilities that can support the development and deployment of the proposed framework. Their involvement can lend credibility and facilitate wider adoption in the industry."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "non-von Neumann architectures",
+        "resolution_description": "Initiator: Non-von Neumann Architecture, Resolution: Develop a quantum neural computing ecosystem that leverages entangled qubits and neuromorphic processing to create a self-evolving standardization network, capable of real-time, context-aware adaptation to technological changes, thus ensuring a seamless fusion of innovation and regulatory control, while inherently decentralizing authority across stakeholders.",
+        "new_actor": "Quantum Neuromorphic Adaptation Network (QNAN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производители стандартизированных компонентов",
+                "reasoning": "Производители стандартизированных компонентов (Standardized Component Manufacturers) are essential for creating interoperable components that can work within the new quantum neural computing architecture, ensuring compatibility and scalability."
+            },
+            {
+                "participant": "IBM Corporation",
+                "reasoning": "IBM Corporation has extensive experience in quantum computing and can provide valuable expertise and resources to help develop the quantum neural computing ecosystem effectively."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "IBM",
+        "resolution_description": "IBM proposes to develop a global \"Digital Twin of Standards,\" an AI-driven virtual ecosystem that dynamically simulates and optimizes the impact of emerging technologies and regulatory changes in real-time, fostering an anticipatory and harmonized approach to standardization that empowers industries to innovate responsibly while maintaining robust control mechanisms.",
+        "new_actor": "Global Digital Twin of Standards Ecosystem (GDTSE)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Пользователи",
+                "reasoning": "Users are key stakeholders in the ecosystem, as their feedback and needs will guide the development and refinement of the Digital Twin of Standards, ensuring it meets practical requirements and promotes responsible innovation."
+            },
+            {
+                "participant": "IBM Corporation",
+                "reasoning": "IBM Corporation is fundamental as the initiator of this resolution, providing the necessary resources, expertise, and leadership to drive the project forward and ensure its success in the global landscape."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Computer technology",
+        "resolution_description": "Initiator: Computer Technology, Resolution: Develop an open-source, self-sustaining digital ecosystem that utilizes swarm intelligence from interconnected devices worldwide, allowing standards to organically emerge and evolve based on collective user behavior and contextual feedback, thus creating a dynamic equilibrium between innovation and control without centralized oversight, ensuring universal adaptability and inclusivity.",
+        "new_actor": "SwarmNet Ecosystem",
+        "participants": [],
+        "required_participants": [],
+        "status": "COLLAPSED"
+    }
+]

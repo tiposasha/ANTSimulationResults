@@ -1,0 +1,110 @@
+[
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "Alzheimer's Disease could revolutionize its indispensability by proposing a resolution focused on leveraging adaptive neural networks to mimic and enhance cognitive resilience, thereby fundamentally altering the biological landscape in which the disease progresses and making traditional pathology-centric approaches obsolete.",
+        "new_actor": "Cognitive Resilience Neural Network Innovator (CRNNI)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are key to modeling Alzheimer's Disease and testing new therapeutic strategies. They allow for the creation of patient-specific models that can provide insights into disease mechanisms and potential interventions."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids can be used to mimic the human brain environment more accurately than traditional models, facilitating the study of Alzheimer's Disease progression and the effectiveness of new therapeutic approaches focused on cognitive resilience."
+            }
+        ],
+        "recruited_sources": [
+            "Pharmaceutical Companies",
+            "Caregivers",
+            "Genetic Predispositions",
+            "Neurodegenerative Processes"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Caregivers",
+                "Genetic Predispositions",
+                "Pharmaceutical Companies",
+                "Neurodegenerative Processes"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "Tau protein could revolutionize the understanding and treatment of Alzheimer's disease by proposing a resolution that focuses on harnessing the dynamic adaptability of tau phosphorylation states to create a self-regulating neural environment, thereby preventing neurodegeneration and enhancing cognitive function, ultimately redefining therapeutic approaches beyond the traditional amyloid-centric models.",
+        "new_actor": "The actor created would be named \"Neurodynamic Tau Modulator.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies play a key role in translating research findings into viable treatments. Their involvement is necessary for the development and commercialization of therapeutics that target tau protein regulation."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are vital for creating patient-specific models to study tau pathology and test new treatments in a controlled environment, enhancing the relevance of research outcomes."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate stakeholders in Alzheimer's research. Their input and participation in clinical studies are crucial for understanding the impact of new therapies on cognitive function and quality of life."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "APOE ɛ4",
+        "resolution_description": "APOE ɛ4 could revolutionize the understanding and treatment of Alzheimer's disease by proposing a resolution that focuses on leveraging its genetic influence to develop personalized epigenetic therapies that reprogram lipid metabolism pathways, thereby mitigating neuroinflammation and promoting synaptic resilience, ultimately transforming the therapeutic landscape beyond traditional genetic risk factor models.",
+        "new_actor": "Actor Name: Epigenetic Lipid Pathway Modulator (ELPM)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in neurology are crucial for advancing our understanding of APOE ɛ4 and its role in Alzheimer's disease. Their expertise will be instrumental in developing personalized epigenetic therapies and conducting the necessary studies to validate these approaches."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential partners in this initiative as they have the resources and infrastructure to develop, manufacture, and distribute new therapies. Their involvement will help translate the proposed research into viable treatment options for patients."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) offer a powerful tool for modeling Alzheimer's disease and testing new therapies. They can be used to study the effects of reprogramming lipid metabolism pathways and neuroinflammation at a cellular level, which is critical for personalized medicine approaches."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids provide a more accurate representation of human brain tissue and disease mechanisms. Utilizing these organoids can enhance the understanding of APOE ɛ4's impact on neural health and enable the testing of therapeutic strategies in a controlled environment."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "Initiator: iPSCs, Resolution: iPSCs could revolutionize the understanding and treatment of Alzheimer's disease by proposing a resolution that focuses on generating patient-specific brain organoids to simulate disease progression in a controlled environment, enabling the discovery of novel biomarkers and personalized drug responses, thereby creating a paradigm shift in therapeutic development and individualized medicine beyond existing hypotheses and models.",
+        "new_actor": "Alzheimer's iPSC Brain Organoid Consortium",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "The Blood-brain barrier (BBB) could revolutionize the understanding and treatment of Alzheimer's disease by proposing a resolution that focuses on designing advanced nanocarriers capable of selectively modulating BBB permeability to facilitate targeted delivery of neuroprotective agents and clearance of pathogenic molecules, thereby transforming therapeutic strategies beyond conventional systemic treatments and redefining the role of the BBB from a barrier to a dynamic therapeutic interface.",
+        "new_actor": "Alzheimer's Therapeutic BBB Modulator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in the field of neurology are essential for understanding the complexities of Alzheimer's disease and the blood-brain barrier (BBB). Their expertise is crucial in designing and testing advanced nanocarriers that can modulate BBB permeability and facilitate targeted delivery of neuroprotective agents."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are vital for developing and commercializing the nanocarriers and therapeutic agents designed to interact with the BBB. Their resources, technology, and market reach are necessary to translate research findings into viable treatments for Alzheimer's disease."
+            },
+            {
+                "participant": "Clinical Studies",
+                "reasoning": "Clinical studies are essential to validate the safety and efficacy of the proposed therapeutic strategies involving nanocarriers and BBB modulation. They provide the necessary framework for testing these innovations in real-world settings and generating regulatory approval."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are central to the entire process as they are the ultimate beneficiaries of the proposed treatments. Their involvement and feedback are crucial for shaping research priorities and ensuring that the developed therapies address their needs and improve their quality of life."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

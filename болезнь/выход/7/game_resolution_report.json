@@ -1,0 +1,338 @@
+[
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "As iPSCs, we propose leveraging our ability to differentiate into patient-specific neural cells to create personalized in vitro models of Alzheimer's disease, enabling the discovery and testing of novel therapeutic targets that go beyond the traditional amyloid hypothesis.",
+        "new_actor": "Personalized Alzheimer's Disease Neural Model Actor",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Biotechnology Companies",
+            "Traditional Stem Cell Research",
+            "Pharmaceutical Companies",
+            "Research Institutions",
+            "Biomedical Researchers",
+            "Regulatory Agencies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Biomedical Researchers",
+                "Research Institutions",
+                "Biotechnology Companies",
+                "Regulatory Agencies",
+                "Pharmaceutical Companies",
+                "Traditional Stem Cell Research"
+            ]
+        }
+    },
+    {
+        "initiator": "Коллеги-ученые",
+        "resolution_description": "As 'Коллеги-ученые', we propose harnessing the power of quantum computing and advanced machine learning algorithms to simulate complex neural network interactions in Alzheimer's patients, aiming to uncover non-linear, system-wide therapeutic targets that traditional methods overlook.",
+        "new_actor": "Quantum NeuroSim Actor",
+        "participants": [
+            {
+                "participant": "3D microfluidic organ chips",
+                "agreement_structure": {
+                    "current_goal": "To develop and optimize 3D microfluidic organ chips for enhanced drug testing and disease modeling.",
+                    "current_action": "Conducting experiments and refining the design of organ chips to improve functionality and accuracy.",
+                    "imposed_goal": "To collaborate with other researchers to integrate organ chips into a standardized platform for broader application in biomedical research.",
+                    "imposed_action": "Participate in regular multidisciplinary meetings to share progress and align research objectives with other teams.",
+                    "mechanism": "Establish a collaborative network and schedule bi-weekly workshops to facilitate knowledge exchange and ensure synchronization of research efforts.",
+                    "reasoning": "The proposed resolution presents an opportunity for 3D microfluidic organ chips to integrate with cutting-edge technologies like quantum computing and advanced machine learning. This collaboration could enhance the capabilities of organ chips in drug testing and disease modeling, aligning with our goal of improved functionality and accuracy. Additionally, participating in a collaborative network and workshops will foster knowledge exchange and synchronization of research efforts, furthering our impact in the biomedical research community. Overall, this proposal supports our long-term objectives and offers a pathway to achieve them.",
+                    "recruited_sources": [
+                        "Regulatory Bodies",
+                        "Biomedical Researchers",
+                        "Biological tissues",
+                        "Biotechnology companies",
+                        "Biomedical researchers",
+                        "Traditional drug testing methods"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips can be used to create more accurate models of human brain environments, allowing for better simulations of Alzheimer's pathology and therapeutic target identification."
+            }
+        ],
+        "recruited_sources": [
+            "Traditional drug testing methods",
+            "Biomedical researchers",
+            "Regulatory Bodies",
+            "Научные журналы",
+            "Конкурирующие ученые",
+            "Biomedical Researchers",
+            "Biotechnology companies",
+            "Biological tissues"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные журналы",
+                "Конкурирующие ученые"
+            ]
+        }
+    },
+    {
+        "initiator": "Больница",
+        "resolution_description": "As 'Больница', we propose establishing a global network of integrated Alzheimer's care centers that combine cutting-edge neuroimaging, advanced genetic profiling, and holistic patient-centered care to facilitate real-time data sharing and collaborative research, aiming to uncover and address environmental, lifestyle, and genetic factors contributing to Alzheimer's disease progression, thus positioning ourselves as an indispensable hub for groundbreaking discoveries and comprehensive treatment strategies.",
+        "new_actor": "Global Alzheimer's Care and Research Network (GACRN)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Фармацевтические компании",
+            "Государственное финансирование",
+            "Медицинские исследовательские институты",
+            "Фармацевтическая компания"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Фармацевтическая компания",
+                "Фармацевтические компании",
+                "Государственное финансирование",
+                "Медицинские исследовательские институты"
+            ]
+        }
+    },
+    {
+        "initiator": "Low-density lipoprotein cholesterol (LDL-C)",
+        "resolution_description": "As 'Low-density lipoprotein cholesterol (LDL-C)', we propose investigating the intricate relationship between lipid metabolism and neural health by developing innovative therapies that modulate cholesterol transport and homeostasis in the brain, aiming to identify novel pathways and biomarkers that could offer a transformative approach to understanding and treating Alzheimer's disease, thus positioning ourselves as a critical component in the broader network of Alzheimer's research and care.",
+        "new_actor": "Cholesterol-Neurotherapeutics Innovator",
+        "participants": [
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "agreement_structure": {
+                    "current_goal": "Maintain the integrity and selective permeability of the blood-brain barrier.",
+                    "current_action": "Regulating the transport of molecules between the bloodstream and the brain.",
+                    "imposed_goal": "Reduce LDL-C levels to protect brain health.",
+                    "imposed_action": "Enhance the transport mechanisms to remove LDL-C from the bloodstream effectively.",
+                    "mechanism": "Implement a signaling pathway that promotes the uptake and metabolism of LDL-C by astrocytes and endothelial cells of the BBB.",
+                    "reasoning": "The proposal from 'Low-density lipoprotein cholesterol (LDL-C)' aligns well with the objectives of the 'Blood-brain barrier (BBB)' to maintain its integrity and selectively regulate permeability. By investigating the relationship between lipid metabolism and neural health, the proposed research could lead to innovative therapies that enhance the transport mechanisms for LDL-C, potentially reducing its levels and thereby protecting brain health. This collaborative approach could foster advancements in understanding and treating Alzheimer's disease, which is beneficial for both entities.",
+                    "recruited_sources": [
+                        "Neurotoxins",
+                        "Neurotransmitters",
+                        "Neurons"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "reasoning": "The blood-brain barrier (BBB) is a key factor in understanding how cholesterol transport affects brain health, and insights into BBB dynamics are vital for developing effective therapies targeting Alzheimer's disease."
+            }
+        ],
+        "recruited_sources": [
+            "Neurons",
+            "High-density lipoprotein cholesterol (HDL-C)",
+            "Neurotoxins",
+            "Neurotransmitters",
+            "Apolipoprotein B (ApoB)",
+            "Dietary fats",
+            "Cardiovascular Health Guidelines"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Apolipoprotein B (ApoB)",
+                "Cardiovascular Health Guidelines",
+                "High-density lipoprotein cholesterol (HDL-C)",
+                "Dietary fats"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "As 'Tau protein', I propose developing a revolutionary approach that focuses on the dynamic regulation of tau phosphorylation and its interaction with the brain's microtubule network, employing advanced molecular engineering techniques to stabilize neuronal structures and prevent neurodegeneration, thereby positioning tau modulation as the cornerstone of Alzheimer's disease treatment and understanding.",
+        "new_actor": "NeuroTau Modulator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Neurons",
+            "Hyperphosphorylated Tau protein",
+            "Neurofibrillary Tangles",
+            "Microtubules",
+            "Kinases (e.g., GSK-3β)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Kinases (e.g., GSK-3β)",
+                "Microtubules",
+                "Hyperphosphorylated Tau protein",
+                "Neurons",
+                "Neurofibrillary Tangles"
+            ]
+        }
+    },
+    {
+        "initiator": "Научный журнал",
+        "resolution_description": "As 'Научный журнал', we propose launching a global, interdisciplinary platform that facilitates open-access publication of real-time research data and collaborative insights on Alzheimer's disease, leveraging blockchain technology to ensure transparency, data integrity, and equitable recognition of contributors, thereby transforming the landscape of Alzheimer's research and positioning ourselves as the essential nexus for innovation and progress.",
+        "new_actor": "Alzheimer's Research Blockchain Nexus",
+        "participants": [
+            {
+                "participant": "3D iPSC-based organoids",
+                "agreement_structure": {
+                    "current_goal": "Develop advanced 3D iPSC-based organoids for disease modeling and drug testing.",
+                    "current_action": "Conducting research and experiments to optimize the differentiation of iPSCs into organoid structures.",
+                    "imposed_goal": "Enhance collaboration with interdisciplinary teams to broaden the application of organoids in regenerative medicine.",
+                    "imposed_action": "Participate in joint projects with biologists, material scientists, and clinicians to integrate findings and technologies.",
+                    "mechanism": "Establish regular collaborative workshops and seminars to facilitate knowledge sharing and project alignment.",
+                    "reasoning": "The proposed resolution by 'Научный журнал' presents a valuable opportunity for '3D iPSC-based organoids' to enhance collaboration with interdisciplinary teams, which aligns with our goal of broadening the application of organoids in regenerative medicine. The integration of blockchain technology for transparency and data integrity is particularly appealing as it ensures equitable recognition of contributors, fostering a collaborative environment. This initiative not only supports our objectives but also positions us at the forefront of innovation in Alzheimer's research, addressing the need for advanced disease modeling and drug testing.",
+                    "recruited_sources": [
+                        "Biomedical Researchers",
+                        "Biotechnology Companies",
+                        "Regulatory Agencies",
+                        "Stem Cell Research",
+                        "Biomedical researchers",
+                        "Traditional Drug Development Companies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids represent an advanced model for studying Alzheimer's disease and testing potential treatments. Their inclusion in the research platform will provide valuable data and support the development of more effective therapies."
+            }
+        ],
+        "recruited_sources": [
+            "Научные исследователи",
+            "Ученые",
+            "Regulatory Agencies",
+            "Научное сообщество",
+            "Traditional Drug Development Companies",
+            "Biomedical researchers",
+            "Biomedical Researchers",
+            "Biotechnology Companies",
+            "Stem Cell Research",
+            "Недостоверные исследования"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные исследователи",
+                "Научное сообщество",
+                "Ученые",
+                "Недостоверные исследования"
+            ]
+        }
+    },
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "As 'Alzheimer's Disease', I propose the creation of a self-regulating biofeedback loop within the brain's neural networks that harnesses the brain's own neuroplasticity to repair and reorganize itself, utilizing targeted electromagnetic fields and personalized neurostimulation protocols to disrupt pathological patterns and promote cognitive resilience, thus positioning myself as an indispensable mechanism in the self-healing paradigm of Alzheimer's treatment and understanding.",
+        "new_actor": "Neuroplasticity-Driven Cognitive Resilience Loop (NDCR Loop)",
+        "participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "agreement_structure": {
+                    "current_goal": "Исследовать патогенез и механизмы Альцгеймера для разработки новых методов лечения.",
+                    "current_action": "Проведение клинических испытаний и анализ данных о пациентах.",
+                    "imposed_goal": "Разработать эффективное терапевтическое вмешательство для замедления прогрессирования Альцгеймера.",
+                    "imposed_action": "Сотрудничество с фармацевтическими компаниями для проведения совместных исследований.",
+                    "mechanism": "Создание междисциплинарных команд, включающих нейробиологов, клиницистов и специалистов по данным, для обмена знаниями и ресурсами.",
+                    "reasoning": "The proposed resolution offers an innovative approach to addressing Alzheimer's disease through the creation of a self-regulating biofeedback loop and personalized neurostimulation protocols. This aligns with my desire to confirm the amyloid hypothesis by exploring alternative mechanisms of treatment and understanding. Additionally, collaborating with pharmaceutical companies and interdisciplinary teams provides a platform for rigorous research, which could enhance my credibility in the scientific community and mitigate fears related to potential data manipulation or funding loss. Overall, this proposal presents an opportunity to advance research while addressing my concerns.",
+                    "recruited_sources": [
+                        "Научные скептики",
+                        "Научное сообщество",
+                        "Научные журналы"
+                    ]
+                }
+            },
+            {
+                "participant": "Фармакологические компании",
+                "agreement_structure": {
+                    "current_goal": "Develop effective treatments for Alzheimer's Disease",
+                    "current_action": "Conduct clinical trials for new pharmacological interventions",
+                    "imposed_goal": "Accelerate the development of innovative therapies for Alzheimer's Disease",
+                    "imposed_action": "Increase funding and resources allocated to Alzheimer's research and drug development",
+                    "mechanism": "Establish partnerships with research institutions and allocate grants to support collaborative studies focused on Alzheimer's therapies",
+                    "reasoning": "The proposed resolution aligns with our desire to develop effective treatments for Alzheimer's Disease while providing a collaborative framework that enhances research funding and resource allocation. By participating, we can leverage innovative approaches such as neuroplasticity and biofeedback loops, which could lead to breakthrough therapies. This also mitigates our fears of losing investments, as increased collaboration and funding can reduce the risk of failure and competition in the development of new treatments.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Регуляторные органы"
+                    ]
+                }
+            },
+            {
+                "participant": "Interdisciplinary collaborations",
+                "agreement_structure": {
+                    "current_goal": "Enhance research and clinical understanding of Alzheimer's Disease through diverse perspectives.",
+                    "current_action": "Collaborating on research projects across various disciplines including neurology, psychology, and social sciences.",
+                    "imposed_goal": "Develop a comprehensive interdisciplinary framework for Alzheimer's Disease research and treatment.",
+                    "imposed_action": "Establish regular interdisciplinary workshops and conferences to share findings and strategies.",
+                    "mechanism": "Create a structured network that facilitates ongoing communication and collaboration among researchers, clinicians, and caregivers.",
+                    "reasoning": "The proposed resolution aligns well with the goals of 'Interdisciplinary collaborations' by creating a comprehensive framework that enhances research and clinical understanding of Alzheimer's Disease. By facilitating interdisciplinary workshops and establishing a structured network, we can promote ongoing communication and collaboration, which are essential for innovative research. The integration of diverse perspectives from various fields will likely lead to more effective strategies for addressing Alzheimer's, thus benefiting all stakeholders involved.",
+                    "recruited_sources": [
+                        "Academic Institutions",
+                        "Resource Constraints",
+                        "Traditional academic disciplines",
+                        "Research Institutions"
+                    ]
+                }
+            },
+            {
+                "participant": "Пациенты",
+                "agreement_structure": {
+                    "current_goal": "Manage symptoms and maintain quality of life.",
+                    "current_action": "Participating in cognitive therapies and support groups.",
+                    "imposed_goal": "Engage in regular clinical trials for new treatments.",
+                    "imposed_action": "Enroll and actively participate in ongoing research studies.",
+                    "mechanism": "Collaboration with healthcare providers to identify suitable clinical trials and provide necessary support throughout the process.",
+                    "reasoning": "The proposed resolution by 'Alzheimer's Disease' offers a more proactive approach to managing the condition by not just focusing on symptom management but also on utilizing the brain's neuroplasticity to facilitate self-repair and cognitive resilience. This aligns with my desire to live a full life without the symptoms of Alzheimer's and addresses my fears of losing memory and independence by engaging in clinical trials that may lead to innovative treatments. Participating in ongoing research studies can provide me with access to potential breakthroughs that could improve my quality of life.",
+                    "recruited_sources": [
+                        "Медицинские работники",
+                        "Болезнь Альцгеймера",
+                        "Медицинские учреждения",
+                        "Медицинские исследования"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in neurology are essential for understanding the mechanisms of Alzheimer's disease and developing the proposed self-regulating biofeedback loop. Their expertise will be crucial in designing experiments, analyzing data, and validating the effectiveness of the neuroplasticity-based approach."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are key players in the development and commercialization of new treatment modalities. Their involvement will facilitate the integration of targeted electromagnetic fields and neurostimulation protocols into clinical practice, ensuring that the proposed resolution can be scaled and made widely available."
+            },
+            {
+                "participant": "Interdisciplinary collaborations",
+                "reasoning": "Interdisciplinary collaborations are vital to bring together diverse expertise from neurology, engineering, and pharmacology. This approach will enhance the development of innovative solutions that leverage neuroplasticity and biofeedback mechanisms for Alzheimer's treatment."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are at the center of any treatment strategy. Their feedback and participation are essential for tailoring the neurostimulation protocols and ensuring that the proposed resolution effectively meets the needs and experiences of those living with Alzheimer's disease."
+            }
+        ],
+        "recruited_sources": [
+            "Научные журналы",
+            "Научное сообщество",
+            "Научные скептики",
+            "Academic Institutions",
+            "Инвесторы",
+            "Traditional academic disciplines",
+            "Healthcare Professionals",
+            "Медицинские работники",
+            "Research Institutions",
+            "Biological Factors",
+            "Медицинские учреждения",
+            "Healthcare Systems",
+            "Neurodegenerative Processes",
+            "Болезнь Альцгеймера",
+            "Медицинские исследования",
+            "Pharmaceutical Companies",
+            "Resource Constraints",
+            "Регуляторные органы",
+            "Healthcare Providers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Healthcare Systems",
+                "Neurodegenerative Processes",
+                "Pharmaceutical Companies",
+                "Healthcare Providers",
+                "Biological Factors",
+                "Healthcare Professionals"
+            ]
+        }
+    }
+]

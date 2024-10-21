@@ -1,0 +1,117 @@
+[
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "As Alzheimer's Disease, leverage the body's own immune response by developing a method to safely trigger and harness the brain's innate neuroplasticity to repair and regenerate neural pathways affected by the disease, thus offering a groundbreaking approach to understanding and treating Alzheimer's beyond the conventional amyloid hypothesis.",
+        "new_actor": "Neuroplasticity-Regenerator Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for translating research findings into viable treatments. They have the resources and infrastructure needed to develop and commercialize therapies that leverage the body's immune response and neuroplasticity."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are significant for modeling Alzheimer's disease and testing potential therapies in vitro. They can help in understanding how to repair and regenerate neural pathways affected by the disease."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids provide a sophisticated platform for studying disease mechanisms and testing new treatments in a more physiologically relevant context. Their use is critical for evaluating the effectiveness of the proposed neuroplasticity strategies."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "As 'Tau protein,' propose a resolution to combat Alzheimer's disease by developing advanced techniques to stabilize and enhance the functional role of tau in microtubule dynamics, thereby preventing neuronal degeneration and cognitive decline through a novel therapeutic pathway that complements or bypasses the amyloid hypothesis.",
+        "new_actor": "Tau Dynamics Stabilizer (TDS) Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are key partners in the development and commercialization of new therapeutic pathways targeting tau protein. Their resources and research capabilities can facilitate the translation of findings into viable treatments for Alzheimer's disease."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are valuable for modeling neuronal degeneration and testing potential therapies. Utilizing iPSCs can provide insights into tau dynamics in a controlled environment, helping to validate hypotheses and therapeutic approaches."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids can mimic the human brain's microenvironment, allowing for more accurate studies of tau protein interactions and therapeutic efficacy. They are essential in bridging the gap between laboratory findings and clinical applications."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "APOE ɛ4",
+        "resolution_description": "As 'APOE ɛ4,' propose a resolution to tackle Alzheimer's disease by pioneering a personalized genomic approach to modify lipid metabolism pathways in the brain, aiming to enhance neuronal resilience and synaptic repair mechanisms, thus offering a transformative strategy that redefines risk assessment and therapeutic intervention beyond existing hypotheses.",
+        "new_actor": "NeuroGenomics Initiative for Alzheimer's Therapy",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies can provide the necessary resources, expertise, and infrastructure to develop and bring new therapeutic interventions to market based on the proposed genomic strategies."
+            },
+            {
+                "participant": "induced pluripotent stem cells (iPSCs)",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) can be pivotal in modeling Alzheimer's disease and testing the effectiveness of new treatments aimed at enhancing neuronal resilience and synaptic repair mechanisms."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids will facilitate more accurate in vitro studies of Alzheimer's disease, enabling the testing of personalized genomic strategies in a controlled environment that mimics human brain tissue."
+            }
+        ],
+        "recruited_sources": [
+            "APOE ɛ4 allele",
+            "Genetic Variants",
+            "Neurodegenerative Diseases Research",
+            "Genetic Research Institutions",
+            "Neurons"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Neurodegenerative Diseases Research",
+                "Genetic Research Institutions",
+                "APOE ɛ4 allele",
+                "Neurons",
+                "Genetic Variants"
+            ]
+        }
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "As 'iPSCs', propose a resolution to tackle Alzheimer's disease by developing a platform for generating patient-specific neural cells that can be used to model individual disease progression in vitro, enabling the discovery of personalized therapeutic targets and testing of tailored interventions, thus offering a revolutionary approach that transcends existing hypotheses and treatments.",
+        "new_actor": "If the resolution is successful, the actor created would be named \"Alzheimer's Patient-Specific iPSC-Derived Neural Cell Platform.\"",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "PBM treatment",
+        "resolution_description": "As 'PBM treatment,' propose a resolution to tackle Alzheimer's disease by utilizing photobiomodulation to non-invasively enhance mitochondrial function and stimulate neuroprotective pathways in the brain, offering a revolutionary approach that leverages light-based therapy to potentially halt or reverse the progression of neural damage, thereby presenting a unique alternative that diverges from traditional hypotheses and treatments.",
+        "new_actor": "The actor created would be named \"Photobiomodulation Alzheimer's Therapy Initiative (PATI).\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of any treatment. Engaging with them will help to understand their needs and experiences, which can inform treatment development and ensure that approaches are patient-centered."
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "reasoning": "The blood-brain barrier (BBB) is a critical factor in the delivery of therapies to the brain. Understanding how photobiomodulation interacts with the BBB will be vital for ensuring that the treatment is effective and reaches its target."
+            }
+        ],
+        "recruited_sources": [
+            "Pharmaceutical Industry",
+            "Pharmaceutical Companies",
+            "Healthcare Providers",
+            "Traditional Pain Management Practices"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Traditional Pain Management Practices",
+                "Pharmaceutical Industry",
+                "Pharmaceutical Companies",
+                "Healthcare Providers"
+            ]
+        }
+    }
+]

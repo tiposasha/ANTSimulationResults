@@ -1,0 +1,186 @@
+[
+    {
+        "initiator": "Преподаватели",
+        "resolution_description": "Initiator: Преподаватели, Resolution: Implement a dynamic, project-based assessment model that integrates interdisciplinary real-world challenges, allowing students to demonstrate knowledge application, critical thinking, and creativity in diverse contexts, thereby aligning evaluation with genuine learning experiences.",
+        "new_actor": "Dynamic Interdisciplinary Assessment Coordinator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Студенты",
+            "Технологии списывания",
+            "Технологические платформы для обучения"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Студенты",
+                "Технологические платформы для обучения",
+                "Технологии списывания"
+            ]
+        }
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Develop a personalized, adaptive learning and assessment ecosystem that continuously evolves based on individual student progress and feedback, harnessing immersive technologies like virtual and augmented reality to create authentic, engaging environments where students can demonstrate their understanding through experiential learning.",
+        "new_actor": "Adaptive Immersive Learning Facilitator",
+        "participants": [
+            {
+                "participant": "Работодатели",
+                "agreement_structure": {
+                    "current_goal": "Increase employee productivity and satisfaction.",
+                    "current_action": "Implementing flexible work hours and remote work options.",
+                    "imposed_goal": "Enhance skills and professional development of employees.",
+                    "imposed_action": "Encourage participation in training programs and workshops.",
+                    "mechanism": "Establishing a budget for training and providing time off for employees to attend.",
+                    "reasoning": "The proposed resolution by 'teacher' aligns with 'Работодатели' desires to hire competent graduates with real knowledge and skills. By developing a personalized, adaptive learning and assessment ecosystem, students will be better equipped to demonstrate their understanding and abilities, which directly addresses 'Работодатели' fears of hiring candidates whose diplomas do not reflect their actual capabilities. The use of immersive technologies and experiential learning will further enhance the skill set of potential employees, making the proposal beneficial for 'Работодатели'.",
+                    "recruited_sources": [
+                        "Недостаток квалифицированных выпускников",
+                        "Образовательные учреждения",
+                        "Университеты"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers are important stakeholders as they can provide insights into the skills and competencies needed in the workforce. Their input can help shape the learning ecosystem to ensure students are prepared for real-world challenges."
+            }
+        ],
+        "recruited_sources": [
+            "Students",
+            "Образовательные учреждения",
+            "school administration",
+            "School Administration",
+            "students",
+            "Университеты",
+            "Недостаток квалифицированных выпускников",
+            "student",
+            "Standardized Testing"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "school administration",
+                "student",
+                "Standardized Testing",
+                "Students",
+                "School Administration",
+                "students"
+            ]
+        }
+    },
+    {
+        "initiator": "Survey researchers",
+        "resolution_description": "Develop a student-driven knowledge mapping and peer-assessment platform that leverages advanced data analytics to capture nuanced understanding and misconceptions, fostering a collaborative learning environment where students co-create and validate their own learning pathways and outcomes.",
+        "new_actor": "Student Knowledge Mapping and Peer-Assessment Platform Developer",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Complete academic assignments on time",
+                    "current_action": "Studying and attending classes",
+                    "imposed_goal": "Participate in the annual student survey",
+                    "imposed_action": "Fill out the survey by the deadline",
+                    "mechanism": "Provide reminders and incentives for completing the survey",
+                    "reasoning": "The proposed resolution aligns well with the desires of 'Студенты' to obtain good grades and useful knowledge with minimal effort. By participating in a peer-assessment platform and mapping knowledge, students can collaboratively validate their learning and understanding, which facilitates deeper knowledge acquisition. Additionally, the focus on advanced data analytics helps in identifying misconceptions, thus mitigating the fear of lacking necessary skills for future employment. The provision of reminders and incentives for completing surveys also supports timely participation, enhancing overall engagement.",
+                    "recruited_sources": [
+                        "Преподаватели"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Enhance teaching methodologies and research practices among colleagues.",
+                    "current_action": "Conducting workshops and sharing resources with fellow educators.",
+                    "imposed_goal": "Gather comprehensive data on teaching effectiveness and student engagement.",
+                    "imposed_action": "Administer and analyze a structured survey targeting both educators and students.",
+                    "mechanism": "Utilize an online survey platform to facilitate data collection and provide analytical tools for interpreting the results.",
+                    "reasoning": "The proposed resolution to develop a student-driven knowledge mapping and peer-assessment platform aligns well with our desire to maintain high educational standards and adapt to new technologies. By leveraging advanced data analytics, we can gather comprehensive data on teaching effectiveness and student engagement, which directly addresses our fear of losing relevance in traditional assessment methods. This new approach fosters a collaborative learning environment and allows us to evolve our teaching methodologies based on real-time feedback and insights.",
+                    "recruited_sources": [
+                        "Образовательные учреждения",
+                        "Образовательные технологии",
+                        "Технологические компании",
+                        "Традиционные методы обучения",
+                        "Технологические гиганты (например, Google, Microsoft)",
+                        "Высшие учебные заведения (ВУЗы)"
+                    ]
+                }
+            },
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance personalized learning experiences for students using AI technologies.",
+                    "current_action": "Developing AI algorithms that adapt to individual learning styles.",
+                    "imposed_goal": "Conduct a comprehensive survey to assess the effectiveness of AI-enabled learning tools.",
+                    "imposed_action": "Administer the survey to a diverse group of students and educators within the next month.",
+                    "mechanism": "Utilize an online survey platform to collect and analyze data efficiently, ensuring participation from various demographics.",
+                    "reasoning": "The proposed resolution aligns with the goals of 'AI-enabled learning' by focusing on creating a collaborative learning environment that leverages data analytics to understand student knowledge. This will not only enhance personalized learning experiences but also provide valuable insights into the effectiveness of AI-enabled learning tools. Participating in this resolution allows 'AI-enabled learning' to contribute to meaningful research while mitigating the risk of leaving the current resolution and losing its benefits.",
+                    "recruited_sources": [
+                        "Educators",
+                        "Educational Institutions",
+                        "Educational Content Publishers",
+                        "Technological Illiteracy"
+                    ]
+                }
+            },
+            {
+                "participant": "Academic Integrity",
+                "agreement_structure": {
+                    "current_goal": "Maintain high standards of research ethics and honesty",
+                    "current_action": "Conducting research while adhering to ethical guidelines",
+                    "imposed_goal": "Enhance the accuracy and reliability of survey data",
+                    "imposed_action": "Implement rigorous peer review processes for survey methodologies",
+                    "mechanism": "Establish a committee to oversee and validate survey research designs and outcomes",
+                    "reasoning": "The proposed resolution aligns with the goals of 'Academic Integrity' by enhancing the accuracy and reliability of survey data through a student-driven knowledge mapping and peer-assessment platform. This initiative promotes collaboration and validates learning outcomes, which strengthens the ethical foundation of research practices. Additionally, the implementation of rigorous peer review processes ensures that the integrity of survey methodologies is maintained, thereby fostering an environment of transparency and accountability. Overall, this proposal is beneficial for achieving high standards of research ethics and honesty.",
+                    "recruited_sources": [
+                        "Academic Institutions",
+                        "Educational Institutions",
+                        "Plagiarism Detection Software"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary users of the knowledge mapping and peer-assessment platform. Their engagement and input are crucial for the development and success of the platform, as it needs to address their learning needs and preferences."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including educators and researchers, will provide valuable insights and expertise in the design and implementation of the platform. Their collaboration ensures that the platform aligns with academic standards and pedagogical best practices."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can enhance the platform's functionality by providing advanced data analytics capabilities. This integration is essential for capturing nuanced understandings and misconceptions, thereby facilitating a more effective learning environment."
+            },
+            {
+                "participant": "Academic Integrity",
+                "reasoning": "Academic integrity is vital to ensure that the platform promotes honest and fair assessment practices. Engaging this participant will help in developing mechanisms that uphold academic standards and build trust among users."
+            }
+        ],
+        "recruited_sources": [
+            "Educational Institutions",
+            "Преподаватели",
+            "Funding Agencies",
+            "Academic Institutions",
+            "Технологические гиганты (например, Google, Microsoft)",
+            "Высшие учебные заведения (ВУЗы)",
+            "Academic institutions",
+            "Plagiarism Detection Software",
+            "Образовательные технологии",
+            "Образовательные учреждения",
+            "Технологические компании",
+            "Educators",
+            "Традиционные методы обучения",
+            "Educational Content Publishers",
+            "Technological Illiteracy"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Academic Institutions",
+                "Funding Agencies",
+                "Academic institutions"
+            ]
+        }
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "initiator": "customer",
+        "resolution_description": "Create a decentralized, blockchain-based verification system for reviews, where customers are incentivized with digital tokens for providing authenticated, transparent feedback and collaborating in the detection of fraudulent activity.",
+        "new_actor": "\"Decentralized Review Validator\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The founders of the startup are crucial for developing and implementing the decentralized blockchain-based verification system. Their expertise will drive the technology and operational strategies needed for success."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourist-customers are the primary users of the review system. Their participation is essential for generating authentic feedback and for incentivizing the system through digital tokens, ensuring that the platform remains active and valuable."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key stakeholders as they will be the subjects of the reviews. Their cooperation is necessary for the system's acceptance and to ensure that the feedback provided is relevant and constructive for businesses."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for providing the necessary funding to develop and scale the blockchain technology. Their financial support will be crucial for the successful launch and sustainability of the review system."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "hotel property",
+        "resolution_description": "As a 'hotel property,' we could revolutionize the approach to fake reviews by introducing an immersive virtual reality experience where potential guests can explore a digital twin of the hotel, interact with staff avatars, and engage in live guest Q&A sessions, creating a transparent and firsthand perspective that renders traditional reviews obsolete.",
+        "new_actor": "VirtualRealityHotelExperiencePlatform",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are crucial as they will drive the development and implementation of the immersive virtual reality experience. Their vision and expertise will be key to creating a successful platform that engages potential guests effectively."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are essential stakeholders since their engagement and feedback will determine the effectiveness of the virtual reality experience. Understanding their needs and preferences will help in tailoring the platform to enhance user experience and attract more guests."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important as they will provide the necessary funding and resources to develop and scale the virtual reality initiative. Their support is vital for the sustainability and growth of the project."
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor ranking is significant as it serves as a benchmark for hotel reputation. Integrating the immersive experience with platforms like TripAdvisor can enhance visibility and credibility, making it necessary to collaborate with this entity to maximize the impact of the resolution."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

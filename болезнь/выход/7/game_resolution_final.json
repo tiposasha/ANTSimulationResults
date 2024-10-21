@@ -1,0 +1,93 @@
+[
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "\"Alzheimer's Disease will revolutionize its understanding and treatment by leveraging quantum biology to decode the brain's subatomic processes, revealing unprecedented insights into neural degeneration and paving the way for innovative therapeutic interventions.\"",
+        "new_actor": "Quantum Neurotherapist",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for translating research findings into practical treatments. Their involvement will facilitate the development and commercialization of novel therapies derived from insights gained through quantum biology."
+            },
+            {
+                "participant": "Interdisciplinary collaborations",
+                "reasoning": "Interdisciplinary collaborations are important for integrating knowledge from various fields, such as neuroscience, quantum biology, and pharmacology, to create a comprehensive approach to understanding and treating Alzheimer's Disease."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips will provide a platform for simulating brain environments and studying neural degeneration at a subatomic level, which is essential for validating hypotheses generated from quantum biology research."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "\"Tau protein will harness its intrinsic dynamic properties to create a self-regulating neural network model that mitigates neurodegeneration by stabilizing synaptic connections, thus offering a groundbreaking approach to understanding and treating Alzheimer's disease beyond conventional amyloid-centric paradigms.\"",
+        "new_actor": "Neurostabilizer TauAct.",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are crucial for translating the findings from research into viable treatments. Their involvement will help in funding, developing, and ultimately bringing to market therapies based on the new model aimed at stabilizing synaptic connections."
+            },
+            {
+                "participant": "Interdisciplinary collaborations",
+                "reasoning": "Interdisciplinary collaborations are vital for integrating various fields of study, such as neurology, pharmacology, and bioengineering, to enhance the understanding of Tau protein dynamics and to innovate treatment strategies that address Alzheimer's disease comprehensively."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids provide a powerful platform for modeling human neurological conditions in vitro. They will be instrumental in testing the efficacy of the proposed model and therapeutic approaches, allowing for a more accurate assessment of potential treatments."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Low-density lipoprotein cholesterol (LDL-C)",
+        "resolution_description": "\"Low-density lipoprotein cholesterol (LDL-C) will revolutionize the understanding and treatment of Alzheimer's disease by unveiling its dual role as both a neural membrane stabilizer and a modulator of synaptic plasticity, proposing a novel lipid-centric approach that integrates cholesterol homeostasis with cognitive resilience strategies.\"",
+        "new_actor": "Neuro-Lipid Modulator LDL-C",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for developing and commercializing new therapeutics based on the insights gained from LDL-C's role in Alzheimer's, as they can facilitate the transition from research to practical treatment options."
+            },
+            {
+                "participant": "Interdisciplinary collaborations",
+                "reasoning": "Interdisciplinary collaborations will be necessary to integrate knowledge from various fields, such as neurology, pharmacology, and lipid metabolism, to fully realize the potential of LDL-C in Alzheimer's research and treatment."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "iPSCs will transform Alzheimer's disease research and treatment by enabling the creation of personalized neural models that accurately replicate individual patient brain environments, allowing for tailored therapies that target unique genetic and cellular profiles, thereby bypassing conventional one-size-fits-all approaches and establishing a new paradigm in precision neuroscience.",
+        "new_actor": "The actor that will be created is \"Personalized Neural Model Developer for Alzheimer's Precision Therapies.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in neuroscience are crucial for advancing the understanding of Alzheimer's disease and developing personalized neural models using iPSCs. Their expertise will drive the scientific validation of the proposed resolution."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for translating research findings into effective therapies. Their involvement will facilitate the development and commercialization of tailored treatments based on personalized neural models."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are at the center of Alzheimer's research and treatment. Engaging them ensures that the personalized approaches developed are aligned with their needs and real-world experiences, ultimately leading to better therapeutic outcomes."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips are innovative tools that can simulate human brain environments and study drug responses. Their integration into research will enhance the accuracy of the personalized models created from iPSCs."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "\"The Blood-brain barrier (BBB) will redefine Alzheimer's disease understanding and treatment by pioneering a selective permeability modulation system, allowing for precise delivery of neuroprotective agents and clearance of toxic metabolites, thereby transforming the BBB from a passive barrier to an active therapeutic gateway that harmonizes brain homeostasis and cognitive function.\"",
+        "new_actor": "NeuroGateway Modulation System (NGMS)",
+        "participants": [],
+        "required_participants": []
+    }
+]

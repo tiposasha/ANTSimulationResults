@@ -1,0 +1,183 @@
+[
+    {
+        "initiator": "Review",
+        "resolution_description": "As 'Review', gain a competitive edge by creating a decentralized, community-led review verification platform where users can earn reputation scores through peer-validation and cross-industry collaborations, ensuring authenticity and reducing reliance on centralized systems.",
+        "new_actor": "DecentralReview Validator Network",
+        "participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Successfully launch the startup product",
+                    "current_action": "Developing the prototype and gathering user feedback",
+                    "imposed_goal": "Increase market visibility and attract initial customers",
+                    "imposed_action": "Create a marketing strategy and launch a promotional campaign",
+                    "mechanism": "Regular check-ins and progress updates to ensure alignment with marketing efforts",
+                    "reasoning": "The proposal from 'Review' aligns well with our desire to create a successful platform for travel planning and restaurant reviews. By participating in the decentralized, community-led review verification system, we can increase our market visibility and attract initial customers, addressing our fear of not engaging enough users and restaurants. The proposed collaborative approach will help us establish authenticity and trust, which are crucial for our platform's success.",
+                    "recruited_sources": [
+                        "Пользователи платформы",
+                        "Конкуренты на рынке туристических услуг",
+                        "Конкурирующие платформы для планирования путешествий"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are essential as they will drive the vision and execution of the decentralized review verification platform, ensuring that it aligns with the community's needs and values."
+            }
+        ],
+        "recruited_sources": [
+            "Конкуренты на рынке туристических услуг",
+            "Пользователи платформы",
+            "User Feedback",
+            "Reviewer",
+            "Businesses",
+            "Конкурирующие платформы для планирования путешествий",
+            "Negative User Feedback",
+            "Consumer Behavior Analytics"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Businesses",
+                "Reviewer",
+                "User Feedback",
+                "Negative User Feedback",
+                "Consumer Behavior Analytics"
+            ]
+        }
+    },
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "As 'TripAdvisor ranking', establish a dynamic, real-time reputation algorithm that integrates verified user identities, cross-references their historical review patterns with AI-driven sentiment analysis, and dynamically adjusts rankings based on the consistency and reliability of past contributions, thereby creating a self-regulating ecosystem that naturally filters out fake reviews.",
+        "new_actor": "ReputationAI Sentinel",
+        "participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "To find the best travel options and reviews for a pleasant vacation.",
+                    "current_action": "Browsing TripAdvisor for hotel and restaurant reviews.",
+                    "imposed_goal": "To provide feedback on their travel experiences to improve future recommendations.",
+                    "imposed_action": "Submit reviews and ratings for accommodations and attractions visited.",
+                    "mechanism": "Incentivize users with rewards points for each review submitted, which can be redeemed for discounts on future bookings.",
+                    "reasoning": "The proposal from 'TripAdvisor ranking' aligns well with the desires and fears of 'Туристы-клиенты'. By establishing a dynamic, real-time reputation algorithm, it addresses the need for reliable and authentic reviews, which directly supports our desire to find quality restaurants and avoid disappointments during travels. Additionally, the integration of verified user identities and AI-driven sentiment analysis mitigates the fear of falling victim to poor service or misleading information. The incentivization of reviews with rewards points further enhances the user experience, making it appealing to participate in a system that values genuine feedback.",
+                    "recruited_sources": [
+                        "Отзывы и рейтинги",
+                        "Необъективные отзывы пользователей",
+                        "Онлайн-отзывы и рейтинги",
+                        "Отзывы других туристов",
+                        "Туристические блоги и сайты отзывов",
+                        "Туристические платформы"
+                    ]
+                }
+            },
+            {
+                "participant": "Рестораны",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction and attract more diners.",
+                    "current_action": "Providing high-quality food and excellent service.",
+                    "imposed_goal": "Achieve a top 10 ranking on TripAdvisor within the next 6 months.",
+                    "imposed_action": "Implement a customer feedback system to gather and address diner concerns effectively.",
+                    "mechanism": "Monthly reviews of customer feedback and adjustments to services based on insights gained.",
+                    "reasoning": "The proposed resolution from 'TripAdvisor ranking' aligns well with 'Рестораны' desires to attract more clients and improve reputation while minimizing costs. Implementing a dynamic reputation algorithm will enhance the authenticity of reviews, which helps mitigate the fear of losing clients due to negative or fake reviews. By establishing a customer feedback system, 'Рестораны' can address concerns effectively and improve services based on real diner insights, ultimately leading to a better ranking and increased customer satisfaction.",
+                    "recruited_sources": [
+                        "Онлайн-платформы для отзывов (например, TripAdvisor, Google Reviews)",
+                        "Конкурирующие рестораны",
+                        "Платформы отзывов (например, TripAdvisor, Yelp)",
+                        "Конкуренты",
+                        "Клиенты"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Increase investment returns by optimizing portfolio performance.",
+                    "current_action": "Analyzing market trends and adjusting asset allocations.",
+                    "imposed_goal": "Enhance TripAdvisor's ranking in travel-related searches.",
+                    "imposed_action": "Invest in targeted marketing and SEO strategies to boost online visibility.",
+                    "mechanism": "Allocate a specific budget for digital marketing campaigns focused on improving TripAdvisor's online presence and customer engagement.",
+                    "reasoning": "The proposed resolution by 'TripAdvisor ranking' aligns well with 'Инвесторы' desires for long-term income from investments in a promising startup. Establishing a dynamic reputation algorithm will likely enhance the authenticity of reviews, mitigating fears of losing investments due to platform failure or misinformation. Additionally, the focus on boosting TripAdvisor's online presence through targeted marketing and SEO strategies presents a valuable opportunity to increase visibility and attract more users, which can lead to a better return on investment.",
+                    "recruited_sources": [
+                        "Стартапы",
+                        "Аналитические платформы",
+                        "Конкуренты стартапа",
+                        "Перспективный стартап"
+                    ]
+                }
+            },
+            {
+                "participant": "Hotel Managers",
+                "agreement_structure": {
+                    "current_goal": "Improve guest satisfaction and increase occupancy rates.",
+                    "current_action": "Implementing customer feedback surveys and enhancing service quality.",
+                    "imposed_goal": "Achieve a top 5 ranking on TripAdvisor within the next year.",
+                    "imposed_action": "Regularly update the TripAdvisor profile with high-quality photos and respond to all guest reviews.",
+                    "mechanism": "Monthly performance reviews and training sessions to improve service and address guest feedback.",
+                    "reasoning": "The proposed scenario aligns well with the goals of 'Hotel Managers' to improve guest satisfaction and achieve a top ranking on TripAdvisor. The implementation of a dynamic, real-time reputation algorithm will enhance the credibility of reviews, thereby attracting more genuine customers. Additionally, the focus on regular updates and training sessions will ensure continuous improvement in service quality, which is essential for maintaining a high ranking. Overall, this proposal not only benefits the current objectives of 'Hotel Managers' but also helps mitigate any potential fears of receiving negative or unjust reviews.",
+                    "recruited_sources": [
+                        "Local Suppliers",
+                        "Online Travel Agencies (OTAs)",
+                        "Online Review Platforms",
+                        "Hotel Guests",
+                        "Guests"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are essential participants as they provide the reviews and feedback that drive the reputation algorithm. Their verified identities and historical review patterns are crucial for the algorithm's success."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key stakeholders as they are directly impacted by the TripAdvisor ranking. Their participation helps ensure that the algorithm is fair and accurately reflects the quality of service and experience provided."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for securing the necessary funding and resources to develop and implement the dynamic reputation algorithm. Their support can help scale the project and enhance its technological infrastructure."
+            },
+            {
+                "participant": "Hotel Managers",
+                "reasoning": "Hotel Managers play a critical role in the ecosystem as they have firsthand experience with customer feedback and can provide insights into the operational aspects that affect reviews. Their involvement is vital for creating a more comprehensive and effective ranking system."
+            }
+        ],
+        "recruited_sources": [
+            "Отзывы и рейтинги",
+            "Клиенты",
+            "User Reviews",
+            "Отзывы других туристов",
+            "Стартапы",
+            "Competitor Review Platforms",
+            "Перспективный стартап",
+            "Конкуренты стартапа",
+            "Online Review Platforms",
+            "Аналитические платформы",
+            "Local Suppliers",
+            "Онлайн-отзывы и рейтинги",
+            "Hotel Guests",
+            "Guests",
+            "Онлайн-платформы для отзывов (например, TripAdvisor, Google Reviews)",
+            "Конкурирующие рестораны",
+            "Необъективные отзывы пользователей",
+            "Конкуренты",
+            "Restaurant owners",
+            "Платформы отзывов (например, TripAdvisor, Yelp)",
+            "Hotel Owners",
+            "Туристические блоги и сайты отзывов",
+            "Online Travel Agencies (OTAs)",
+            "Туристические платформы",
+            "Local Businesses"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Local Businesses",
+                "Hotel Owners",
+                "Restaurant owners",
+                "User Reviews",
+                "Competitor Review Platforms"
+            ]
+        }
+    }
+]

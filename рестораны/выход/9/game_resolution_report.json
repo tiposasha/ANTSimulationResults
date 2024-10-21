@@ -1,0 +1,183 @@
+[
+    {
+        "initiator": "Restaurants",
+        "resolution_description": "\"Restaurants should implement a blockchain-based review system where diners verify their visits and experiences through digital tokens, ensuring authenticity and rewarding genuine feedback with exclusive dining offers, thus creating an unbreakable trust chain between restaurants and patrons while incentivizing honest reviews.\"",
+        "new_actor": "VerifiedDinerFeedbackSystem",
+        "participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Develop a unique restaurant concept that appeals to the target market",
+                    "current_action": "Researching trends in the food industry and gathering customer feedback",
+                    "imposed_goal": "Launch the restaurant within the next six months",
+                    "imposed_action": "Create a detailed business plan and secure funding",
+                    "mechanism": "Weekly progress meetings to review milestones and adjust strategies as needed",
+                    "reasoning": "The proposed blockchain-based review system aligns with our desire to create a successful platform for evaluating restaurants by ensuring the authenticity of reviews. This system can help attract more users and restaurants, thereby addressing our fear of not gaining enough traction. Additionally, the incentives for genuine feedback could enhance user engagement and trust in our platform, further supporting our goals.",
+                    "recruited_sources": [
+                        "Рестораны-партнеры",
+                        "Пользователи платформы",
+                        "Пользователи (потенциальные клиенты)",
+                        "Конкуренты в сфере онлайн-планирования путешествий",
+                        "Социальные сети"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are essential for developing and managing the blockchain technology and the review system. Their expertise will ensure the successful design, implementation, and maintenance of the platform, making it attractive and functional for both restaurants and diners."
+            }
+        ],
+        "recruited_sources": [
+            "Suppliers",
+            "Food Suppliers",
+            "Local food suppliers",
+            "Пользователи (потенциальные клиенты)",
+            "Пользователи платформы",
+            "Социальные сети",
+            "Конкуренты в сфере онлайн-планирования путешествий",
+            "Food Delivery Apps",
+            "Рестораны-партнеры"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Local food suppliers",
+                "Food Delivery Apps",
+                "Suppliers",
+                "Food Suppliers"
+            ]
+        }
+    },
+    {
+        "initiator": "customer",
+        "resolution_description": "As 'customer', create a global, AI-driven \"Review Exchange Program\" where genuine reviews are traded for credits redeemable across a wide spectrum of partnered restaurants and travel services, leveraging AI to authenticate feedback by cross-referencing purchase receipts and travel itineraries, thereby establishing a customer-centric ecosystem that values and verifies authentic experiences.",
+        "new_actor": "Global AI-Driven Review Exchange Network",
+        "participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "Enjoy a pleasant and memorable travel experience",
+                    "current_action": "Exploring various travel options and destinations",
+                    "imposed_goal": "Book a guided tour that meets specific interests and preferences",
+                    "imposed_action": "Select and finalize a guided tour package by the end of the week",
+                    "mechanism": "Provide a curated list of tailored tour packages with detailed descriptions and customer reviews",
+                    "reasoning": "The proposed global, AI-driven 'Review Exchange Program' aligns perfectly with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travels. By using AI to authenticate feedback based on purchase receipts and travel itineraries, it significantly mitigates the fear of falling victim to poor services or misleading information. Moreover, the ability to trade genuine reviews for credits redeemable across partnered restaurants and travel services enhances the overall travel experience, making it more customer-centric and trustworthy.",
+                    "recruited_sources": [
+                        "Рестораны и кафе",
+                        "Неэффективные рестораны",
+                        "Ресурсы онлайн-отзывов (например, TripAdvisor, Yelp)",
+                        "Некачественные рестораны",
+                        "Платформы для отзывов (например, TripAdvisor)",
+                        "Платформы для отзывов о ресторанах (например, TripAdvisor)"
+                    ]
+                }
+            },
+            {
+                "participant": "Рестораны",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction through improved service quality.",
+                    "current_action": "Training staff on customer service protocols.",
+                    "imposed_goal": "Achieve a 20% increase in positive customer feedback within three months.",
+                    "imposed_action": "Implement a customer feedback system to gather and analyze reviews.",
+                    "mechanism": "Monthly review meetings to assess feedback and adjust service strategies accordingly.",
+                    "reasoning": "The proposed 'Review Exchange Program' aligns with 'Рестораны's' desires to attract more customers and improve reputation with lower costs. By leveraging AI to authenticate genuine reviews, it addresses the fear of losing customers due to negative feedback. Furthermore, the incentive of trading reviews for credits can enhance customer engagement and satisfaction, creating a positive feedback loop that ultimately helps in building a trustworthy brand image.",
+                    "recruited_sources": [
+                        "Негативные отзывы клиентов",
+                        "Платформы отзывов (например, TripAdvisor, Yelp)",
+                        "Клиенты",
+                        "Платформы для отзывов (например, TripAdvisor, Yelp)"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize return on investment",
+                    "current_action": "Evaluating potential investment opportunities",
+                    "imposed_goal": "Achieve a 10% increase in portfolio value within the next quarter",
+                    "imposed_action": "Reallocate 30% of the current investments into high-growth sectors",
+                    "mechanism": "Monthly performance reviews and adjustment meetings to ensure alignment with the imposed goal",
+                    "reasoning": "The proposed 'Review Exchange Program' aligns with 'Инвесторы' desires for long-term income through investment in a promising startup. It offers a unique approach to authenticating reviews using AI, potentially increasing customer trust and engagement in the restaurant and travel sectors. This could lead to significant growth in these industries, thus enhancing the portfolio value. Additionally, the proposal addresses fears of losing investments as the AI-driven system could mitigate risks associated with misinformation and enhance the credibility of the platform, making it a safer investment opportunity.",
+                    "recruited_sources": [
+                        "Технологические стартапы",
+                        "Конкуренты стартапа",
+                        "Клиенты стартапа",
+                        "Стартапы",
+                        "Финансовые аналитики"
+                    ]
+                }
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "agreement_structure": {
+                    "current_goal": "Maintain a high ranking in search results",
+                    "current_action": "Collect and analyze user reviews and ratings",
+                    "imposed_goal": "Increase overall user engagement on the platform",
+                    "imposed_action": "Implement features that encourage users to leave reviews and share experiences",
+                    "mechanism": "Introduce a rewards system for users who frequently contribute reviews and provide incentives for sharing content on social media",
+                    "reasoning": "The proposed 'Review Exchange Program' aligns with the goal of increasing user engagement on the platform. By leveraging AI to authenticate reviews and offering rewards for genuine contributions, this initiative not only enhances the quality of reviews but also incentivizes user participation. This creates a customer-centric ecosystem that values authentic experiences, which can help maintain a high ranking in search results and foster trust among users. Overall, the proposal addresses the need for genuine feedback while encouraging active user involvement, making it a beneficial strategy for 'TripAdvisor ranking'.",
+                    "recruited_sources": [
+                        "Local businesses",
+                        "Local Restaurants",
+                        "Users/Consumers",
+                        "User Reviews",
+                        "Competitor Review Platforms"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are essential for the success of the Review Exchange Program as they will provide the genuine reviews that form the backbone of the program. Their participation ensures a pool of authentic feedback, which is crucial for the AI to authenticate and validate experiences."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key partners in this initiative as they will benefit from the increased visibility and credibility that comes with verified customer reviews. Their participation is necessary to create a network that encourages customers to engage and redeem credits, thus driving the ecosystem."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are critical for securing the funding needed to develop the technology behind the AI-driven review authentication system. Their support will enable the program to scale and reach a broader audience, ensuring its sustainability and long-term success."
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor ranking is important as it provides a benchmark for the quality and authenticity of reviews. By integrating with TripAdvisor, the Review Exchange Program can leverage existing credibility and attract more participants who value authoritative ratings."
+            }
+        ],
+        "recruited_sources": [
+            "Клиенты",
+            "Ресурсы онлайн-отзывов (например, TripAdvisor, Yelp)",
+            "User Reviews",
+            "Retailer",
+            "Стартапы",
+            "social media platforms",
+            "Конкуренты стартапа",
+            "Негативные отзывы клиентов",
+            "Competitors",
+            "Платформы для отзывов (например, TripAdvisor)",
+            "Local Restaurants",
+            "Платформы отзывов (например, TripAdvisor, Yelp)",
+            "Supplier",
+            "Технологические стартапы",
+            "Некачественные рестораны",
+            "Финансовые аналитики",
+            "Local businesses",
+            "Users/Consumers",
+            "Платформы для отзывов о ресторанах (например, TripAdvisor)",
+            "Клиенты стартапа",
+            "Платформы для отзывов (например, TripAdvisor, Yelp)",
+            "Рестораны и кафе",
+            "Неэффективные рестораны",
+            "Competitor Review Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "social media platforms",
+                "Competitors",
+                "Supplier",
+                "Retailer"
+            ]
+        }
+    }
+]

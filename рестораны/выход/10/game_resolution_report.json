@@ -1,0 +1,178 @@
+[
+    {
+        "initiator": "User",
+        "resolution_description": "As 'User,' I propose creating an AI-driven review authentication system that cross-verifies user-generated content with real-time data from restaurant and tourism services (e.g., reservation and purchase records) to identify and eliminate fake reviews, while offering businesses actionable insights to enhance customer experience.",
+        "new_actor": "ReviewAuthentix AI System",
+        "participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Develop a minimum viable product (MVP) for the startup",
+                    "current_action": "Conducting market research and user interviews",
+                    "imposed_goal": "Launch the MVP within the next three months",
+                    "imposed_action": "Allocate additional resources and prioritize development tasks",
+                    "mechanism": "Implement a bi-weekly review process to track progress and adjust plans accordingly",
+                    "reasoning": "The proposed AI-driven review authentication system aligns well with the desires of 'Три основателя стартапа' to create a successful platform for travel planning and restaurant evaluation. By addressing the issue of fake reviews, this proposal can enhance the credibility of the platform, making it more appealing to both users and restaurants. Additionally, it mitigates the fear of not attracting enough users and restaurants by offering a solution that improves the overall customer experience and trust in the platform.",
+                    "recruited_sources": [
+                        "Конкурирующий стартап",
+                        "Пользователи платформы",
+                        "Конкуренты на рынке туристических платформ"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three startup founders are crucial for the development and implementation of the AI-driven review authentication system. Their expertise and vision will guide the project, ensuring it is technically feasible and aligned with market needs."
+            }
+        ],
+        "recruited_sources": [
+            "Social Media Platform",
+            "Social Media Algorithms",
+            "Пользователи платформы",
+            "Конкурирующий стартап",
+            "Technology",
+            "Конкуренты на рынке туристических платформ",
+            "Social Media Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Social Media Platform",
+                "Social Media Algorithms",
+                "Social Media Platforms",
+                "Technology"
+            ]
+        }
+    },
+    {
+        "initiator": "Hotel Chains",
+        "resolution_description": "As 'Hotel Chains', I propose establishing a global alliance of trusted hospitality brands to implement a blockchain-based review system where only verified guests can leave feedback after their stay or dining experience, ensuring authenticity and incentivizing genuine engagement through a loyalty rewards program.",
+        "new_actor": "\"Global Trusted Hospitality Blockchain Alliance\"",
+        "participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "To find affordable and comfortable accommodation during travels.",
+                    "current_action": "Researching and comparing hotel options online.",
+                    "imposed_goal": "To book a hotel chain that offers loyalty rewards and discounts.",
+                    "imposed_action": "Choose a hotel from a specified chain for the next stay.",
+                    "mechanism": "Implement a loyalty program that offers points for each stay, redeemable for discounts or free nights.",
+                    "reasoning": "The proposal from 'Hotel Chains' aligns well with the desires of 'Туристы-клиенты' to find quality restaurants and avoid disappointments during travels. By implementing a blockchain-based review system, we can ensure that the reviews are authentic and from verified guests, which directly addresses the fear of encountering low-quality services or misleading information. Additionally, the loyalty rewards program offers an incentive for choosing trusted hotel chains, making it an attractive option for our future travel planning.",
+                    "recruited_sources": [
+                        "Некачественные рестораны",
+                        "Ресторанные критики",
+                        "Онлайн-платформы для отзывов",
+                        "Туристические агентства",
+                        "Онлайн-платформы отзывов",
+                        "Туристические платформы (например, TripAdvisor)"
+                    ]
+                }
+            },
+            {
+                "participant": "Рестораны",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction and loyalty through improved dining experiences.",
+                    "current_action": "Enhancing menu offerings and implementing customer feedback systems.",
+                    "imposed_goal": "Collaborate with hotel chains to create exclusive dining packages for guests.",
+                    "imposed_action": "Develop special menus and promotions tailored for hotel guests.",
+                    "mechanism": "Set up regular meetings with hotel chain representatives to align on offerings and establish joint marketing strategies.",
+                    "reasoning": "The proposal from 'Hotel Chains' aligns well with 'Рестораны' desires to attract more customers and improve reputation while reducing costs. By establishing a blockchain-based review system, we can mitigate the fear of negative reviews by ensuring that only verified guests leave feedback, which enhances credibility. Additionally, collaborating with hotel chains to create exclusive dining packages presents a unique opportunity to drive more traffic to restaurants and improve customer experiences, fulfilling our goals.",
+                    "recruited_sources": [
+                        "Социальные сети и платформы отзывов",
+                        "Конкурирующие рестораны",
+                        "Платформы для отзывов (например, TripAdvisor, Google Reviews)",
+                        "Социальные сети",
+                        "Клиенты"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize returns on investment in the hotel sector",
+                    "current_action": "Conducting market analysis to identify potential profitable hotel chains",
+                    "imposed_goal": "Invest in sustainable hotel chains that meet new environmental standards",
+                    "imposed_action": "Allocate funds specifically to eco-friendly hotel initiatives",
+                    "mechanism": "Establish a partnership with sustainability consultants to evaluate and certify hotel chains",
+                    "reasoning": "The proposal from 'Hotel Chains' aligns well with 'Инвесторы' desires for long-term income from investments in promising startups, particularly in the eco-friendly hotel sector. By establishing a blockchain-based review system, we can enhance the authenticity of reviews, thereby mitigating the fears of losing investments due to platform failures or unreliable information. This collaboration will also allow 'Инвесторы' to allocate funds towards sustainable hotel initiatives, which is increasingly important in today's market.",
+                    "recruited_sources": [
+                        "Клиенты стартапа",
+                        "Рынок стартапов",
+                        "Стартапы",
+                        "Конкуренты стартапа"
+                    ]
+                }
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "agreement_structure": {
+                    "current_goal": "Improve overall user satisfaction ratings on the platform",
+                    "current_action": "Gathering user reviews and feedback on hotel experiences",
+                    "imposed_goal": "Achieve a top 10 ranking for the hotel chain on TripAdvisor",
+                    "imposed_action": "Increase the volume of positive reviews by 30% over the next quarter",
+                    "mechanism": "Implement a targeted marketing campaign encouraging satisfied guests to leave reviews and offer incentives for participation",
+                    "reasoning": "The proposed resolution aligns with the goal of improving overall user satisfaction ratings on the platform by ensuring that reviews are authentic and coming from verified guests. Implementing a blockchain-based review system would enhance credibility and trust in the reviews, which is crucial for TripAdvisor's reputation. Additionally, the loyalty rewards program incentivizes genuine engagement and could lead to an increase in positive reviews, directly supporting the aim to achieve a top 10 ranking for hotel chains on TripAdvisor. This proposal addresses the need for authenticity in reviews and mitigates potential fears of misinformation affecting user trust.",
+                    "recruited_sources": [
+                        "User-generated Content",
+                        "Local Restaurants",
+                        "SEO Algorithms",
+                        "Hotel Owners",
+                        "User Reviews",
+                        "Restaurant Owners"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-clients are essential for the success of the blockchain-based review system, as they are the primary users who will provide the authentic feedback needed to validate the system. Their engagement is crucial for incentivizing genuine reviews and creating a trustworthy platform."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key stakeholders in the hospitality industry and will benefit from a reliable review system that enhances their reputation. Their participation is vital to ensure that the system is adopted and integrated into the operations of hospitality brands."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for securing the necessary funding to develop and implement the blockchain technology and loyalty rewards program. Their financial support will help scale the initiative and promote widespread adoption among hospitality brands."
+            },
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor ranking is a significant influence in the hospitality sector, and aligning the blockchain review system with its metrics can attract more users. Establishing a connection with such platforms can enhance credibility and visibility for the new system."
+            }
+        ],
+        "recruited_sources": [
+            "Hotel Owners",
+            "Стартапы",
+            "Local Restaurants",
+            "Online Travel Agencies (OTAs)",
+            "Ресторанные критики",
+            "Клиенты",
+            "Некачественные рестораны",
+            "User Reviews",
+            "Конкурирующие рестораны",
+            "Туристические платформы (например, TripAdvisor)",
+            "Конкуренты стартапа",
+            "Туристические агентства",
+            "Travel Agencies",
+            "Restaurant Owners",
+            "Онлайн-платформы для отзывов",
+            "Онлайн-платформы отзывов",
+            "Клиенты стартапа",
+            "Социальные сети",
+            "Рынок стартапов",
+            "Социальные сети и платформы отзывов",
+            "SEO Algorithms",
+            "User-generated Content",
+            "Платформы для отзывов (например, TripAdvisor, Google Reviews)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Online Travel Agencies (OTAs)",
+                "Local Restaurants",
+                "Travel Agencies"
+            ]
+        }
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "Initiator: Tau Protein, Resolution: Develop a groundbreaking approach by leveraging tau protein's unique role in intracellular transport and neuronal stability to create a novel diagnostic tool that predicts Alzheimer's disease progression and identifies personalized, tau-targeted therapeutic interventions, thereby shifting the focus from symptom management to disease prevention.",
+        "new_actor": "NeuroPredictor: Tau-Centric Alzheimer's Diagnostic and Therapy Innovator",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "APOE ɛ4",
+        "resolution_description": "Initiator: APOE ɛ4, Resolution: Pioneer a disruptive approach by harnessing the genetic and metabolic interplay of APOE ɛ4 with lipid metabolism to develop precision lifestyle and pharmacological interventions that not only mitigate Alzheimer's disease risk but also enhance cognitive resilience, thereby establishing a paradigm shift from treatment to proactive neuroprotection.",
+        "new_actor": "Neuroprotection Innovator: APOE ɛ4 Metabolic Integrator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for translating the research findings into viable drug therapies. Their involvement will facilitate the development and commercialization of interventions targeting the lipid metabolism and genetic factors associated with APOE ɛ4."
+            },
+            {
+                "participant": "Clinical Studies",
+                "reasoning": "Clinical studies are necessary to test the effectiveness of the proposed interventions in real-world settings. They will provide the data needed to support the resolution's strategy of proactive neuroprotection against Alzheimer's disease."
+            }
+        ],
+        "recruited_sources": [
+            "Neurons",
+            "Genetic Research Community",
+            "APOE ɛ4 Gene Variants",
+            "Alzheimer's Disease Research",
+            "Genetic Variants"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Genetic Research Community",
+                "Neurons",
+                "APOE ɛ4 Gene Variants",
+                "Alzheimer's Disease Research",
+                "Genetic Variants"
+            ]
+        }
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "Initiate a revolutionary approach by utilizing induced pluripotent stem cells (iPSCs) to create patient-specific, three-dimensional brain organoids, enabling the study of Alzheimer's disease progression in a personalized and dynamic environment, thereby uncovering novel therapeutic targets and accelerating the development of individualized treatments that transcend traditional pathophysiological paradigms.",
+        "new_actor": "NeuroOrganoid Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in the field of neurology are crucial for the success of the resolution as they possess the expertise needed to design, conduct, and interpret studies on Alzheimer's disease using iPSC-derived brain organoids. Their knowledge is essential for understanding the disease mechanisms and developing innovative therapeutic strategies."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are key participants as they can provide the necessary resources and expertise in drug development. Their involvement is vital for translating findings from the iPSC-based organoid studies into effective treatments for Alzheimer's disease."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are a critical participant as their perspectives and needs will guide the research focus and ensure that the developed treatments are relevant and beneficial. Engaging patients in the study will also help in assessing the efficacy of new therapies."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids are fundamental to the proposed resolution as they serve as the innovative platform for studying Alzheimer's disease in a personalized manner. Their unique capabilities will enable the exploration of disease progression and therapeutic responses in a controlled environment."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "Initiate a paradigm-shifting resolution by engineering a dynamic, bio-mimetic blood-brain barrier platform that enables real-time modulation and monitoring of molecular transport and neurovascular interactions, thereby uncovering novel pathways for targeted delivery of therapeutics and early biomarkers for Alzheimer's disease, fundamentally transforming disease management and prevention strategies.",
+        "new_actor": "NeuroVascular Dynamics Innovator (NVDI)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips are crucial for creating a bio-mimetic blood-brain barrier platform, allowing for the dynamic simulation of neurovascular interactions and molecular transport in a controlled environment."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are essential stakeholders as their needs and experiences will drive the development of targeted therapeutics and biomarkers, ensuring that the resolution addresses real-world challenges in Alzheimer's disease management."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are vital for the translation of research findings into viable therapeutic products, providing the necessary resources and expertise for developing targeted delivery systems based on the insights gained from the new platform."
+            },
+            {
+                "participant": "AD researchers",
+                "reasoning": "AD researchers are key to advancing the understanding of Alzheimer's disease mechanisms and can contribute valuable insights that will help inform the development of novel pathways for targeted therapeutic delivery."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

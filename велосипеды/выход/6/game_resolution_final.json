@@ -1,0 +1,91 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Implement augmented reality packaging that visually simulates real-time damage alerts and handling instructions, engaging and educating handlers through immersive graphic storytelling to ensure careful transportation.",
+        "new_actor": "Augmented Reality Packaging Educator Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is crucial as they can provide insight into the specific packaging needs and design requirements that would best protect their products. Their collaboration is necessary to ensure that the augmented reality packaging is tailored to their products and effectively communicates the necessary handling instructions."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "Loading personnel are key players in the logistics chain. Their engagement with the augmented reality packaging will help them understand how to handle products carefully, reducing the likelihood of damage. Their feedback on the usability of the AR features will also be essential for refining the system."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "A Logistics Management Platform System can facilitate the integration of augmented reality technology into the existing logistics framework. They can help track the information communicated through the AR packaging and ensure it aligns with overall logistical operations, improving efficiency and responsiveness."
+            },
+            {
+                "participant": "Коробка с грузом",
+                "reasoning": "The cargo box itself is an integral non-human participant in the network. Understanding the characteristics of the packaging, including its materials and design, is essential to ensure that the augmented reality elements can be effectively integrated and that they serve their purpose in protecting the cargo."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Social Vulnerability to Hazards",
+        "resolution_description": "\"Social Vulnerability to Hazards\" proposes the establishment of a community-based cargo guardianship program, where local volunteers are trained and empowered to oversee and advocate for the safe handling of shipments in their regions, leveraging social responsibility and community accountability to transform cargo transportation practices.",
+        "new_actor": "Community Cargo Guardianship Volunteer Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Коробка с грузом",
+                "reasoning": "The 'Коробка с грузом' (Cargo Box) represents the physical aspect of the cargo being handled. Ensuring safe practices around the cargo itself is essential for the success of the guardianship program, as it directly relates to the safety of the shipments."
+            },
+            {
+                "participant": "vulnerable populations",
+                "reasoning": "Vulnerable populations are directly impacted by hazards in cargo transportation. Including them in the program ensures that their specific needs and perspectives are addressed, fostering community engagement and accountability."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System is vital for coordinating and monitoring the cargo handling process. It will provide the necessary tools for volunteers to effectively oversee shipments, enhancing the program's efficiency and effectiveness."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "resilience",
+        "resolution_description": "Implement a decentralized blockchain-based cargo tracking system that incentivizes resilience by rewarding handlers with resilience tokens for maintaining cargo integrity, creating a transparent and immutable record of handling practices and fostering a culture of care and accountability across the logistics chain.",
+        "new_actor": "Resilience Token Handler Network",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Грузчики",
+                "reasoning": "Gruzchiki (cargo handlers) are crucial for the successful implementation of the decentralized blockchain-based cargo tracking system, as they directly handle the cargo and are responsible for maintaining its integrity. Their involvement ensures that the system is adopted on the ground level and that they are motivated to follow best practices."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "A Logistics Management Platform System is essential for integrating and managing the decentralized cargo tracking system. This platform can facilitate data collection, analysis, and the distribution of resilience tokens, making it a pivotal component of the proposed resolution."
+            },
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "Производитель велосипедов (bicycle manufacturers) are key stakeholders who will benefit from improved cargo tracking and integrity. Their engagement can help fine-tune the system according to the specific needs of the product being transported, ensuring that the solution is tailored for real-world applications."
+            }
+        ],
+        "recruited_sources": [
+            "Community Support Networks",
+            "community organizations",
+            "Societal Norms",
+            "climate change",
+            "Technological Advancements"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Societal Norms",
+                "community organizations",
+                "climate change",
+                "Technological Advancements",
+                "Community Support Networks"
+            ]
+        }
+    },
+    {
+        "initiator": "Port Community Systems",
+        "resolution_description": "Port Community Systems could revolutionize cargo transportation by developing a collaborative digital platform that leverages AI-driven predictive analytics and machine learning to dynamically optimize packing strategies and route planning, ensuring cargo is handled with precision and minimizing the risk of damage through anticipatory adjustments and real-time coordination among all stakeholders in the shipping process.",
+        "new_actor": "Collaborative AI-Driven Cargo Optimization Platform",
+        "participants": [],
+        "required_participants": []
+    }
+]

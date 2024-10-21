@@ -1,0 +1,30 @@
+[
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "TripAdvisor Ranking can revolutionize the fight against fake reviews by integrating advanced AI-driven sentiment analysis and biometric verification technology, allowing users to authenticate their reviews through facial recognition and emotional analysis, thereby ensuring genuine feedback while enhancing user trust and engagement.",
+        "new_actor": "AI-Enhanced Review Authenticator",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Restaurants",
+        "resolution_description": "Restaurants can resolve the issue of fake reviews by implementing a unique \"Dine & Review\" program, where customers can submit real-time feedback directly through interactive digital menus during their dining experience, incentivized by immediate rewards like personalized dish recommendations or exclusive menu previews, ensuring authenticity and enhancing customer engagement.",
+        "new_actor": "\"Dine & Review Real-Time Feedback System\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are essential to implement the 'Dine & Review' program, as they will be responsible for integrating the interactive digital menus and managing the real-time feedback system. Their participation ensures that the program is tailored to their specific needs and enhances customer engagement effectively."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are crucial as they provide the real-time feedback that the program aims to capture. Their engagement and willingness to participate in the 'Dine & Review' program will be key to its success and the authenticity of the reviews collected."
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three startup founders can provide the technological and strategic support necessary for the implementation and scaling of the 'Dine & Review' program. Their expertise will help in designing the interactive digital menus and ensuring that the program meets the needs of both restaurants and customers."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

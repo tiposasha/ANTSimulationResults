@@ -1,0 +1,206 @@
+[
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Establish a \"Knowledge Co-Creation Lab\" where students and teachers collaboratively design the curriculum and assessment methods, integrating interdisciplinary projects and community-driven initiatives that reflect real-world challenges, thus empowering students to demonstrate their knowledge through meaningful contributions to society and reshaping the traditional educational paradigm.",
+        "new_actor": "Knowledge Co-Creation Lab Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are essential for the Knowledge Co-Creation Lab as their active involvement in designing the curriculum and assessment methods ensures that the educational experience is relevant and engaging. Their perspectives on real-world challenges will drive the initiatives and projects."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "A community of colleagues, including educators and researchers, will provide valuable insights, expertise, and resources necessary to develop interdisciplinary projects. Their collaboration will enrich the curriculum and ensure that it is grounded in academic research and best practices."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a crucial role in aligning the curriculum with the skills and competencies required in the workforce. Their input will help ensure that the projects and assessments developed in the lab are relevant to real-world job markets and community needs."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can enhance the educational experience by providing personalized learning paths and data-driven insights. Integrating AI into the Knowledge Co-Creation Lab will facilitate innovative teaching methods and assessment strategies that reflect the demands of the digital age."
+            }
+        ],
+        "recruited_sources": [
+            "Curriculum Standards",
+            "School Administration",
+            "students",
+            "Students",
+            "Educational Institution"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Educational Institution",
+                "Curriculum Standards",
+                "Students",
+                "School Administration",
+                "students"
+            ]
+        }
+    },
+    {
+        "initiator": "Преподаватели",
+        "resolution_description": "Преподаватели могут предложить создание динамической системы оценки знаний, которая включает в себя \"портфолио роста\" каждого студента, отражающее его прогресс через регулярные самооценки, обратную связь от преподавателей и коллег, а также интеграцию реального опыта и проектов, что позволяет непрерывно адаптироваться и отражать истинный уровень знаний и навыков.",
+        "new_actor": "Актор: \"Динамическая система оценки знаний с портфолио роста\"",
+        "participants": [
+            {
+                "participant": "Работодатели",
+                "agreement_structure": {
+                    "current_goal": "Обеспечить высокое качество образования и подготовки кадров",
+                    "current_action": "Сотрудничество с учебными заведениями для стажировок и практики студентов",
+                    "imposed_goal": "Увеличить количество квалифицированных специалистов в отрасли",
+                    "imposed_action": "Разработать и внедрить новые программы стажировок и практик для студентов",
+                    "mechanism": "Создание совместной рабочей группы для разработки стандартов и требований к программам стажировок",
+                    "reasoning": "The proposed resolution addresses our primary desire to hire competent graduates with real knowledge and skills by implementing a dynamic assessment system that reflects true student progress. By collaborating with 'Преподаватели' to create a 'portfolio of growth', we can better evaluate candidates' capabilities beyond traditional diplomas. This approach also alleviates our fears of hiring candidates whose diplomas do not accurately represent their abilities, as it encourages ongoing feedback and real-world experience integration.",
+                    "recruited_sources": [
+                        "Кандидаты на работу",
+                        "Образовательные учреждения",
+                        "Университеты",
+                        "Негативная репутация выпускников"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Работодатели могут сыграть важную роль в определении необходимых навыков и знаний, что позволит адаптировать систему оценки под реальные требования рынка труда. Их вовлеченность обеспечит актуальность 'портфолио роста' для будущей трудовой деятельности студентов."
+            }
+        ],
+        "recruited_sources": [
+            "Университеты",
+            "Кандидаты на работу",
+            "Негативная репутация выпускников",
+            "Студенты",
+            "Технологии списывания",
+            "Образовательные учреждения",
+            "Технологии обучения"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Технологии обучения",
+                "Студенты",
+                "Технологии списывания"
+            ]
+        }
+    },
+    {
+        "initiator": "Educators",
+        "resolution_description": "Initiator: Educators, Resolution: Develop an \"Adaptive Intelligence Assessment System\" that utilizes AI-driven simulations and virtual environments to evaluate students' knowledge and problem-solving abilities in real time, allowing for personalized learning pathways and immediate feedback that align more closely with students' individual strengths and real-world applicability.",
+        "new_actor": "AI-Driven Adaptive Learning Facilitator",
+        "participants": [
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance personalized learning experiences for students using AI technologies.",
+                    "current_action": "Developing adaptive learning algorithms to tailor educational content.",
+                    "imposed_goal": "Increase student engagement and improve learning outcomes through AI-driven analytics.",
+                    "imposed_action": "Implement a comprehensive feedback system that analyzes student performance in real-time.",
+                    "mechanism": "Establish a data-driven framework that utilizes AI analytics to provide actionable insights for educators.",
+                    "reasoning": "The proposed resolution aligns closely with the goals of 'AI-enabled learning' to enhance personalized learning experiences and improve student engagement. By adopting an 'Adaptive Intelligence Assessment System', we can leverage AI technologies to provide real-time evaluations and tailored educational pathways. This not only helps in achieving better learning outcomes but also allows for immediate feedback, which is crucial for effective learning. Furthermore, it supports the integration of AI-driven analytics, thus fulfilling the desire to utilize data effectively while mitigating any potential fears related to static assessment methods.",
+                    "recruited_sources": [
+                        "Traditional education systems",
+                        "Traditional Educators",
+                        "Educational Institutions"
+                    ]
+                }
+            },
+            {
+                "participant": "AI algorithms",
+                "agreement_structure": {
+                    "current_goal": "Optimize learning outcomes through adaptive learning paths.",
+                    "current_action": "Analyzing student performance data to personalize content delivery.",
+                    "imposed_goal": "Enhance engagement by incorporating interactive elements in learning materials.",
+                    "imposed_action": "Integrate gamification techniques into the existing curriculum.",
+                    "mechanism": "Utilize feedback loops from student interactions to continuously improve and adapt the gamified elements.",
+                    "reasoning": "The proposed resolution aligns well with the goals of enhancing learning outcomes through adaptive learning paths and improving engagement with interactive elements. By developing an 'Adaptive Intelligence Assessment System', we can utilize AI-driven simulations that reflect real-world applicability, thereby personalizing the learning experience for students. This approach not only enhances the educational experience but also allows for continuous improvement based on student interactions, which is a beneficial application of AI algorithms in education.",
+                    "recruited_sources": [
+                        "Traditional Data Analysts",
+                        "Data Providers",
+                        "Data Scientists",
+                        "Regulatory Bodies"
+                    ]
+                }
+            },
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Complete all assignments on time",
+                    "current_action": "Studying and attending classes regularly",
+                    "imposed_goal": "Achieve a minimum grade of B in all subjects",
+                    "imposed_action": "Participate in study groups and seek help from tutors",
+                    "mechanism": "Weekly progress check-ins and additional resources for tutoring",
+                    "reasoning": "The proposed resolution offers a more personalized learning approach through the Adaptive Intelligence Assessment System, which aligns well with my desire to achieve good grades and gain useful knowledge. The use of AI-driven simulations and real-time feedback can mitigate my fear of not acquiring necessary skills for future work, as it encourages active participation and provides immediate assistance. Additionally, the focus on individual strengths and the inclusion of study groups and tutoring resources further support my goals with minimal effort.",
+                    "recruited_sources": [
+                        "Преподаватели"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Enhance collaborative teaching methods among educators",
+                    "current_action": "Conducting workshops and sharing best practices",
+                    "imposed_goal": "Develop a standardized curriculum framework for interdisciplinary education",
+                    "imposed_action": "Collaborate with other educators to create and implement the framework",
+                    "mechanism": "Establishing a series of structured meetings and feedback sessions to facilitate collaboration and ensure alignment with the goals",
+                    "reasoning": "The proposed resolution aligns with our desire to support high educational standards and adapt to new technologies. By developing an 'Adaptive Intelligence Assessment System', we can leverage AI-driven simulations to provide real-time evaluations of student knowledge and skills. This approach not only enhances the learning experience for students but also mitigates our fear of losing relevance in traditional assessment methods. The integration of personalized learning pathways and immediate feedback closely aligns with the current educational landscape, making this proposal beneficial for us.",
+                    "recruited_sources": [
+                        "Образовательные учреждения",
+                        "Технологические платформы для онлайн-обучения",
+                        "Академические стандарты",
+                        "Технологические компании",
+                        "Современные технологии обучения",
+                        "Традиционные образовательные учреждения"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning is crucial for the development of the Adaptive Intelligence Assessment System as it ensures that the system can leverage advanced technologies to create effective simulations and personalized learning experiences."
+            },
+            {
+                "participant": "AI algorithms",
+                "reasoning": "AI algorithms are essential for creating the underlying mechanics of the assessment system, allowing for real-time analysis of student performance and the customization of learning pathways based on individual strengths."
+            },
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary beneficiaries of the proposed system. Their engagement and feedback will be vital in shaping the system to meet their needs and ensuring its effectiveness in real-world applications."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, educators, and researchers can provide valuable insights and support in the development and implementation of the system, ensuring it aligns with educational standards and best practices."
+            }
+        ],
+        "recruited_sources": [
+            "Regulatory Bodies",
+            "Educational Institutions",
+            "Преподаватели",
+            "Educational Technology",
+            "Students",
+            "Data Providers",
+            "Образовательные учреждения",
+            "Standardized Testing",
+            "Traditional education systems",
+            "Современные технологии обучения",
+            "Технологические платформы для онлайн-обучения",
+            "Traditional Educators",
+            "Академические стандарты",
+            "Traditional Data Analysts",
+            "Традиционные образовательные учреждения",
+            "Технологические компании",
+            "Data Scientists"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Students",
+                "Educational Technology",
+                "Educational Institutions",
+                "Standardized Testing"
+            ]
+        }
+    }
+]

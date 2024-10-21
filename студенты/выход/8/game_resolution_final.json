@@ -1,0 +1,63 @@
+[
+    {
+        "initiator": "Educators",
+        "resolution_description": "Initiator: Educators, Resolution: Develop a collaborative, peer-led evaluation system where students assess each other's understanding through practical projects and real-world problem-solving activities, fostering a deeper learning experience and creating a dynamic feedback loop that more accurately reflects students' genuine knowledge and skills.",
+        "new_actor": "Peer-Led Evaluation Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, educators, and researchers can provide valuable insights, best practices, and support for implementing the peer-led evaluation system. Their collaboration can enhance the credibility and effectiveness of the initiative."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers can offer real-world perspectives on the skills and knowledge that are most valuable in the workforce. Their involvement can help align the evaluation system with industry needs, ensuring relevance and practicality."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can facilitate the process of peer evaluation, providing platforms where students can engage in assessments and receive immediate feedback. This integration can enhance the learning experience and streamline the evaluation process."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Establish a \"Knowledge Co-Creation Lab\" where students and teachers collaboratively design the curriculum and assessment methods, integrating interdisciplinary projects and community-driven initiatives that reflect real-world challenges, thus empowering students to demonstrate their knowledge through meaningful contributions to society and reshaping the traditional educational paradigm.",
+        "new_actor": "Knowledge Co-Creation Lab Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are essential for the Knowledge Co-Creation Lab as their active involvement in designing the curriculum and assessment methods ensures that the educational experience is relevant and engaging. Their perspectives on real-world challenges will drive the initiatives and projects."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "A community of colleagues, including educators and researchers, will provide valuable insights, expertise, and resources necessary to develop interdisciplinary projects. Their collaboration will enrich the curriculum and ensure that it is grounded in academic research and best practices."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a crucial role in aligning the curriculum with the skills and competencies required in the workforce. Their input will help ensure that the projects and assessments developed in the lab are relevant to real-world job markets and community needs."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can enhance the educational experience by providing personalized learning paths and data-driven insights. Integrating AI into the Knowledge Co-Creation Lab will facilitate innovative teaching methods and assessment strategies that reflect the demands of the digital age."
+            }
+        ],
+        "recruited_sources": [
+            "Curriculum Standards",
+            "School Administration",
+            "students",
+            "Students",
+            "Educational Institution"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Educational Institution",
+                "Curriculum Standards",
+                "Students",
+                "School Administration",
+                "students"
+            ]
+        }
+    }
+]

@@ -1,0 +1,637 @@
+[
+    {
+        "entity": "RKTlaggedreturn",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Market Volatility",
+            "Market Analysts",
+            "Market Competitors",
+            "Market Trends",
+            "Financial Market Analysts",
+            "Market Demand"
+        ],
+        "denied_sources": [
+            "Financial Educators",
+            "Technological Advancements",
+            "Regulatory Framework",
+            "Competitors",
+            "Financial Models",
+            "Investor Sentiment",
+            "Client Expectations",
+            "Technology Providers",
+            "Economic Theorists",
+            "Technological Platforms",
+            "Stakeholders",
+            "Regulatory Changes",
+            "Technology Infrastructure",
+            "Investors",
+            "Consumers",
+            "Competitor Strategies",
+            "Regulatory Bodies",
+            "Technological Innovations",
+            "Cultural Norms"
+        ]
+    },
+    {
+        "entity": "Informed party (I)",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Government Regulation",
+            "Powerful Media Outlets",
+            "Social Media Platforms",
+            "Information Networks",
+            "Regulatory Agency",
+            "Regulatory bodies"
+        ],
+        "denied_sources": [
+            "Economic Conditions",
+            "Market Forces",
+            "Corporate Interests",
+            "Public Opinion",
+            "Community Organizations",
+            "Community groups",
+            "Social Movements",
+            "Peer Groups",
+            "News Outlets",
+            "Media organizations",
+            "Competitive Entities",
+            "Business partners",
+            "Educational Institutions",
+            "Government Agencies",
+            "Technology Disruption",
+            "Technological Tools",
+            "Academic Institutions",
+            "Regulatory Authorities",
+            "Peer Networks",
+            "Media Outlets",
+            "Academic institutions",
+            "Technology Providers"
+        ]
+    },
+    {
+        "entity": "Investors",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Market Trends",
+            "Startups",
+            "Financial Institutions"
+        ],
+        "denied_sources": [
+            "Technological Platforms",
+            "Investment Trends",
+            "Peer Investors",
+            "Market Analysts",
+            "Social Networks",
+            "Consumers",
+            "Venture Capital Firms",
+            "Financial Markets",
+            "Investment Funds",
+            "Technological Advancements",
+            "Corporate Executives",
+            "Financial Analysts",
+            "Financial Advisors",
+            "Regulatory Bodies",
+            "Economic Indicators",
+            "Technology Platforms"
+        ]
+    },
+    {
+        "entity": "Sentiment analysis techniques",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "User Feedback Mechanisms",
+            "Data Analytics Tools",
+            "Machine Learning Algorithms",
+            "Traditional market research methods"
+        ],
+        "denied_sources": [
+            "Product Development Teams",
+            "Visualization Tools",
+            "End Users (Consumers, Businesses)",
+            "Data Visualization Tools",
+            "Public Sentiment Trends",
+            "Customer Relationship Management (CRM) Systems",
+            "Social media platforms",
+            "User Feedback and Interaction",
+            "Human sentiment analysts",
+            "Data privacy regulations",
+            "Consumer trust",
+            "Customer Feedback Systems",
+            "Data Privacy Regulations",
+            "Market Researchers",
+            "Social Media Algorithms",
+            "Marketing Strategies",
+            "Natural Language Processing (NLP) Tools",
+            "Data Sources (e.g., Social Media, Reviews)",
+            "Social Media Platforms",
+            "Natural Language Processing Tools",
+            "Competing Analysis Techniques"
+        ]
+    },
+    {
+        "entity": "Брокеры",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Регуляторы финансовых рынков",
+            "Регуляторы",
+            "Регуляторные органы",
+            "Клиенты"
+        ],
+        "denied_sources": [
+            "Конкуренты на рынке",
+            "Технологические платформы и инструменты",
+            "Технологии (платформы для торговли)",
+            "Маркетинговые стратегии",
+            "Технологические инновации",
+            "Экономические условия",
+            "Технологические платформы",
+            "Технологии",
+            "Конкуренты",
+            "Инвесторы",
+            "Партнерские компании",
+            "Медиа"
+        ]
+    },
+    {
+        "entity": "Stock markets",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Individual Investors",
+            "Regulatory Bodies",
+            "Investors",
+            "Regulatory Authorities",
+            "Central Banks"
+        ],
+        "denied_sources": [
+            "Technological Disruptions",
+            "Brokerage Firms",
+            "Financial Analysts",
+            "Technological Infrastructure",
+            "Technological Platforms (e.g., trading apps)",
+            "Media",
+            "Companies",
+            "Financial Institutions",
+            "Global Economic Conditions",
+            "Pension Funds",
+            "Large Institutional Investors",
+            "Media Outlets",
+            "Corporations",
+            "Technology Providers",
+            "Public Sentiment"
+        ]
+    },
+    {
+        "entity": "Regulatory authorities",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Government Policies",
+            "Political Parties",
+            "Consumers",
+            "Public Opinion"
+        ],
+        "denied_sources": [
+            "Government Entities",
+            "Non-Governmental Organizations (NGOs)",
+            "Corporate Lobbyists",
+            "Media",
+            "Government",
+            "Businesses",
+            "Judicial System",
+            "The Environment",
+            "International Bodies (e.g., WTO, WHO)",
+            "Industry Associations",
+            "Industry Stakeholders",
+            "International Standards Organizations",
+            "Technological Advancements",
+            "Corporations",
+            "Technology Providers"
+        ]
+    },
+    {
+        "entity": "SEC (U.S. Securities and Exchange Commission)",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "U.S. Public Investors",
+            "Investors",
+            "U.S. Congress",
+            "Financial Industry Regulatory Authority (FINRA)",
+            "Political Entities"
+        ],
+        "denied_sources": [
+            "International Regulatory Bodies",
+            "Technology and Data Analytics Tools",
+            "Technological Innovations (e.g., Blockchain, AI)",
+            "Public Interest Groups",
+            "Market Participants (Investors and Traders)",
+            "Private Companies",
+            "Market Analysts",
+            "Public Companies",
+            "Congress",
+            "Financial Markets",
+            "Publicly-Traded Companies",
+            "Financial Analysts",
+            "Stock Exchanges",
+            "Regulatory Agencies",
+            "Financial Institutions",
+            "Securities Industry",
+            "Market Analysts and Rating Agencies",
+            "Whistleblowers",
+            "Investment Firms",
+            "Public Investors"
+        ]
+    },
+    {
+        "entity": "Herding Measure",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Policy Makers",
+            "Regulatory Framework",
+            "Wildlife Conservation Groups",
+            "Regulatory Bodies",
+            "Government Policy",
+            "Market Demand"
+        ],
+        "denied_sources": [
+            "Stakeholder Interests",
+            "Competing Herding Practices",
+            "Technological Advancements",
+            "Animal Health Organizations",
+            "Livestock Farmers",
+            "Traditional Farming Methods",
+            "Public Opinion",
+            "Soil Health",
+            "Veterinary Services",
+            "Consumers",
+            "Environmental Conditions",
+            "Market Competition",
+            "Environmental Factors",
+            "Community Stakeholders",
+            "Technological Advances",
+            "Local Communities",
+            "Environmental Regulations",
+            "Environmental NGOs",
+            "Market Demand for Meat Products",
+            "Environmental Agencies"
+        ]
+    },
+    {
+        "entity": "Liquidity",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Market Volatility",
+            "Investors",
+            "Central Bank",
+            "Central Banks",
+            "Market Stability"
+        ],
+        "denied_sources": [
+            "Technology Platforms (FinTech)",
+            "Regulatory Bodies",
+            "Financial Institutions",
+            "Market Analysts",
+            "Credit Rating Agencies",
+            "Market Makers",
+            "Investor Sentiment",
+            "Technological Innovations",
+            "Investor Confidence",
+            "Financial Markets",
+            "Corporations",
+            "Market Demand"
+        ]
+    },
+    {
+        "entity": "WallStreetBets community",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Reddit platform",
+            "Market Regulators",
+            "Retail Investors",
+            "Regulatory Authorities",
+            "Social Media Platforms"
+        ],
+        "denied_sources": [
+            "Hedge Funds",
+            "Brokerage Firms",
+            "Brokerage platforms (e.g., Robinhood)",
+            "Market Volatility",
+            "Market Regulations",
+            "Traditional Wall Street Investors",
+            "Media Coverage",
+            "Cryptocurrency Market",
+            "Financial News Outlets",
+            "Competing Investment Communities",
+            "Financial Media Outlets",
+            "Financial news outlets",
+            "Financial Media",
+            "Stock Exchanges",
+            "Stock Market Regulators",
+            "Regulatory Bodies",
+            "Financial Institutions",
+            "Social media influencers",
+            "Media Outlets",
+            "Market volatility"
+        ]
+    },
+    {
+        "entity": "XG-9",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Market Dynamics",
+            "XG-9 Control System",
+            "Research and Development Team",
+            "Consumer Trends",
+            "Research Institutions",
+            "Competing Technology"
+        ],
+        "denied_sources": [
+            "Maintenance Crew",
+            "Product Management",
+            "Technological Advancements",
+            "Data Input Sources",
+            "Technology Advancements",
+            "Regulatory Framework",
+            "Competitors",
+            "Competitor Actions",
+            "Consumer Feedback",
+            "Corporate Competitors",
+            "Industry Competitors",
+            "Suppliers",
+            "Consumers",
+            "Customer Support Team",
+            "IT Infrastructure",
+            "Power Supply",
+            "Regulatory Bodies",
+            "Marketing Department",
+            "Regulatory Authorities",
+            "Supply Chain Partners",
+            "Consumer Trust"
+        ]
+    },
+    {
+        "entity": "Мелкие инвесторы",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Регуляторные органы",
+            "Государственные регуляторы",
+            "Регуляторы рынка",
+            "Информационные платформы и блоги"
+        ],
+        "denied_sources": [
+            "Экономические условия (например, кризисы)",
+            "Образовательные платформы",
+            "Информационные технологии и платформы",
+            "Крупные инвестиционные компании",
+            "Рынок акций",
+            "Крупные инвесторы",
+            "Аналитики и финансовые эксперты",
+            "Финансовые технологии (FinTech)",
+            "Социальные сети и сообщества инвесторов",
+            "Технологические платформы (например, брокеры)",
+            "Финансовые аналитики и советники",
+            "Крупные финансовые институты",
+            "Экономические условия",
+            "Биржевые платформы",
+            "Финансовые аналитики",
+            "Экономические СМИ",
+            "Брокерские компании"
+        ]
+    },
+    {
+        "entity": "Robinhood",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "User Community",
+            "Regulatory Bodies",
+            "Regulatory Agencies",
+            "Retail Investors",
+            "Financial Regulators"
+        ],
+        "denied_sources": [
+            "Market Dynamics",
+            "Technology Platforms",
+            "Financial Analysts",
+            "Established Financial Institutions",
+            "Financial Institutions",
+            "Competitors",
+            "Investors' Community and Social Media",
+            "Market Competitors",
+            "Market Data Providers",
+            "Technology Providers",
+            "Fintech Companies",
+            "Media Outlets",
+            "Traditional Brokerage Firms",
+            "Market Trends",
+            "Technological Innovations",
+            "Technology Partners",
+            "Traditional Financial Institutions",
+            "Traditional Stock Brokers"
+        ]
+    },
+    {
+        "entity": "Хедж-фонды",
+        "status": "Unstable",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Рынок акций",
+            "Регуляторные органы",
+            "Институциональные инвесторы",
+            "Мелкие инвесторы"
+        ],
+        "denied_sources": [
+            "Финансовые СМИ",
+            "Медиа и финансовые аналитики",
+            "Клиенты хедж-фондов",
+            "Конкуренты хедж-фондов",
+            "Технологические платформы",
+            "Экономические условия",
+            "Торговые платформы и технологии",
+            "Аналитики и исследовательские компании",
+            "Крупные институциональные инвесторы",
+            "Институты и исследовательские организации",
+            "Рынок капитала",
+            "Технологические платформы для торговли",
+            "Регуляторы финансового рынка",
+            "Экономические условия (например, рецессия)"
+        ]
+    },
+    {
+        "entity": "Volume",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Acoustic Engineers",
+            "Human Perception",
+            "Market Competition",
+            "Audience",
+            "Market Demand"
+        ],
+        "denied_sources": [
+            "Air",
+            "Sound Engineering Software",
+            "Musical Instrument",
+            "Production Efficiency",
+            "Consumer Preferences",
+            "Cultural Context",
+            "Supply Chain Disruptions",
+            "Regulatory Changes",
+            "Technology (Amplifiers and Speakers)",
+            "Collaborators (e.g., producers, co-creators)",
+            "Technological Advancements",
+            "Venue Management",
+            "Musicians and Performers",
+            "Sound Engineer",
+            "Streaming Platforms",
+            "Consumer Trust",
+            "Regulatory Standards",
+            "Environment (Physical Space)",
+            "Technological Platforms (e.g., streaming services, social media)",
+            "Audio Equipment Manufacturers",
+            "Market Trends",
+            "Innovation Ecosystem",
+            "Sound Equipment Manufacturer"
+        ]
+    },
+    {
+        "entity": "Цена акций компании",
+        "status": "Unstable",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Инвесторы",
+            "Аналитики",
+            "Регуляторы",
+            "Регуляторы финансовых рынков"
+        ],
+        "denied_sources": [
+            "СМИ",
+            "Медиа и аналитики",
+            "Институциональные инвесторы",
+            "Экономические факторы",
+            "Экономические условия",
+            "Экономические условия и макроэкономические факторы",
+            "Рынок",
+            "Спекулянты на рынке акций",
+            "Регуляторы рынка",
+            "Конкуренты",
+            "Медиа"
+        ]
+    },
+    {
+        "entity": "Форум Reddit",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Пользователи Reddit",
+            "Модераторы и активные участники",
+            "Пользователи",
+            "Контент-модераторы"
+        ],
+        "denied_sources": [
+            "Корпорации и рекламодатели",
+            "Модераторы Reddit",
+            "Социальные медиа и новостные ресурсы",
+            "Социальные сети (Facebook, Twitter, Instagram)",
+            "Пользовательские отзывы и предложения",
+            "Алгоритмы рекомендаций",
+            "Экосистема социальных медиа (например, Facebook, Instagram)",
+            "Разработчики платформы",
+            "Рекламодатели",
+            "Конкурирующие социальные платформы",
+            "Алгоритмы Reddit",
+            "Контент-партнеры (новостные сайты, блоги и т.д.)",
+            "Конкурирующие платформы (например, Discord, Twitter)",
+            "Технологическая инфраструктура (серверы, программное обеспечение и т.д.)",
+            "Алгоритмы рекомендаций Reddit",
+            "Разработчики приложений и API",
+            "Социальные сети",
+            "Спам и нежелательный контент",
+            "Конкурирующие платформы (например, Discord, Quora)",
+            "Контент-креаторы"
+        ]
+    }
+]

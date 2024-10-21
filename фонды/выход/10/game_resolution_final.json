@@ -1,0 +1,123 @@
+[
+    {
+        "initiator": "Volume",
+        "resolution_description": "Initiate a blockchain-based investment platform that leverages collective buying power by pooling resources from individual investors globally, allowing them to invest as a unified entity with the same influence and advantages as large financial funds, while ensuring transparency and equitable profit distribution.",
+        "new_actor": "Unified Global Investment Fund (UGIF)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', introduce an AI-driven investment consortium that leverages predictive analytics and machine learning to identify niche, high-potential market opportunities typically overlooked by large financial funds, enabling individual investors to collectively capitalize on these opportunities with minimal risk and maximum profit potential.",
+        "new_actor": "AI-Driven Investment Consortium XG-9",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (Small investors) are crucial as they form the backbone of the proposed AI-driven investment consortium. They will benefit from the collective investment strategy and provide the necessary capital for identifying niche opportunities."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for the AI-driven model to evaluate market trends and investor sentiment, which can help in predicting high-potential market opportunities that are often overlooked."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (Company stock price) is a fundamental metric that the consortium will analyze to identify undervalued stocks or emerging market trends, making it a critical participant for successful investment decisions."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community has demonstrated a unique ability to influence market movements and recognize overlooked opportunities. Engaging with this community can provide valuable insights and momentum for the consortium's investment strategies."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', establish a decentralized autonomous organization (DAO) that leverages blockchain technology to create a self-regulating, transparent investment ecosystem where individual investors collectively vote on strategic decisions and resource allocations, ensuring equitable access to market opportunities while bypassing the influence of large financial funds.",
+        "new_actor": "Decentralized Investment Collective DAO",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the creation of a decentralized, AI-driven mentorship and education platform that leverages gamification and simulation of real-world market scenarios to empower individual investors with the skills and strategic insights necessary to outmaneuver large financial funds, fostering a new generation of savvy, independent market participants.",
+        "new_actor": "Decentralized AI-Driven Mentorship and Education Platform for Empowering Independent Investors",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (Small investors) are the primary target audience for the proposed platform. Their empowerment through education and mentorship is essential for creating a new generation of savvy market participants."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (Stock prices) is a crucial element in market scenarios that the platform will simulate. Understanding stock price movements is vital for individual investors to make informed decisions."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors at large represent a broad group that can benefit from the platform. Engaging them ensures a diverse user base that can contribute to the success of the mentorship and educational initiatives."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community has demonstrated the power of collective action among retail investors. Their engagement can help drive the platform's popularity and encourage participation from other small investors."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Regulatory authorities",
+        "resolution_description": "As 'Regulatory authorities', we propose the establishment of a global \"Inclusive Investment Mandate\", requiring all large financial funds to integrate a decentralized, blockchain-based platform that facilitates direct, fractional ownership of high-value assets for individual investors, thereby leveling the investment playing field and ensuring equitable access to wealth-generating opportunities.",
+        "new_actor": "Global Inclusive Investment Mandate Authority",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the creation of a global, AI-powered \"Community Investment Syndicate\" that dynamically clusters individual investors into strategic, interest-based cohorts, enabling them to collectively influence market trends and negotiate preferential terms with financial institutions, thereby democratizing access to investment opportunities and fostering a collaborative investment ecosystem that rivals the influence of large financial funds.",
+        "new_actor": "The actor created would be named the \"Global AI-Powered Community Investment Syndicate.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the Community Investment Syndicate as they form the backbone of the proposed collective investment strategy. Their participation ensures that the syndicate represents a diverse array of individual investors, which is essential for democratizing access to investment opportunities."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forum) is an influential platform where retail investors gather to share information and strategies. Engaging the Reddit community, particularly groups like WallStreetBets, can amplify the syndicate's reach and foster a sense of community among investors, increasing participation."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques can be utilized to gauge the collective mood and preferences of the investor cohorts. By incorporating these techniques, the syndicate can make informed decisions and better understand market trends, thereby enhancing its negotiating power with financial institutions."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood is a popular trading platform among retail investors, and partnering with it can provide the syndicate with direct access to a large pool of small investors. This collaboration can facilitate easier participation in the investment opportunities provided by the syndicate."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "trading volume in number of shares",
+        "resolution_description": "As 'trading volume in number of shares', I propose the development of a dynamic \"Volume-Driven Investment Coalition\" platform that uses real-time trading volume data as a signal to autonomously trigger collective investment actions among individual investors, enabling them to ride the momentum of large trades and gain leverage by aligning their strategies with high-volume market movements, thereby amplifying their market influence and leveling the playing field against large financial funds.",
+        "new_actor": "Volume-Driven Investment Coalition Platform",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are essential participants as they are the primary beneficiaries of the proposed 'Volume-Driven Investment Coalition'. Their collective actions, influenced by real-time trading volume data, can lead to significant market movements, thereby enhancing their leverage against larger financial entities."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock price) is a crucial participant because the trading volume directly impacts stock prices. By integrating stock price dynamics into the platform, we can provide meaningful insights to investors, helping them make informed decisions based on volume-driven trends."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood is a significant participant due to its popularity among retail investors. By leveraging its platform, we can facilitate the adoption of the 'Volume-Driven Investment Coalition', making it easier for small investors to engage with the proposed system and benefit from collective investment strategies."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "WallStreetBets community is a vital participant as they represent a large group of engaged retail investors who can amplify the coalition's impact. Their active involvement and willingness to trade based on volume signals can drive the momentum needed for the coalition to succeed."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

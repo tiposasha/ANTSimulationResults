@@ -1,0 +1,467 @@
+[
+    {
+        "initiator": "Stock market sentiment",
+        "resolution_description": "As 'Stock market sentiment,' I propose the creation of an AI-driven sentiment forecasting platform that dynamically adjusts financial regulations and trading conditions in real-time to counterbalance the influence of large financial funds, ensuring a fair and equitable trading environment for individual investors.",
+        "new_actor": "SentimentEquilibrium AI Regulator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary beneficiaries of the proposed platform. Their needs and experiences should drive the development and functionality of the sentiment forecasting system to ensure it effectively levels the playing field against larger financial entities."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for the core functionality of the proposed platform. These techniques will enable the system to assess market sentiment accurately and adjust trading conditions in real-time based on the data collected."
+            },
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) serves as a critical metric for evaluating market conditions and the effectiveness of the AI-driven platform. Analyzing stock prices will help in understanding how sentiment impacts trading and in making necessary regulatory adjustments."
+            }
+        ],
+        "recruited_sources": [
+            "Social Media Sentiment Analysis Tools",
+            "Retail Investors",
+            "Investor Confidence",
+            "Media",
+            "Financial Analysts",
+            "Economic Indicators"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Social Media Sentiment Analysis Tools",
+                "Media",
+                "Retail Investors",
+                "Investor Confidence",
+                "Economic Indicators",
+                "Financial Analysts"
+            ]
+        }
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the creation of a real-time, AI-driven \"Market Equilibrium Engine\" that dynamically adjusts individual investor trading conditions—such as transaction fees, leverage limits, and trade execution speeds—based on real-time market data and the relative activity of large financial funds, ensuring a fluid and adaptive trading environment that inherently levels the playing field without direct intervention or redistribution.",
+        "new_actor": "MarketEquilibriumAI",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы are essential as they form the backbone of retail trading. Their participation and feedback will help ensure that the Market Equilibrium Engine addresses their needs and creates a more equitable trading environment."
+            },
+            {
+                "participant": "Хедж-фонды",
+                "reasoning": "Хедж-фонды are significant players in the market and their trading strategies can heavily influence market dynamics. Engaging them will provide insights into how the Market Equilibrium Engine can be designed to create a more balanced trading environment."
+            },
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "SEC (U.S. Securities and Exchange Commission) is crucial for regulatory compliance and ensuring that the Market Equilibrium Engine operates within legal frameworks. Their support can enhance credibility and facilitate smoother implementation."
+            }
+        ],
+        "recruited_sources": [
+            "Market Analysts",
+            "Financial Analysts",
+            "Market Trends",
+            "Market Demand",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Financial Analysts",
+                "Regulatory Bodies",
+                "Market Analysts",
+                "Market Trends",
+                "Market Demand"
+            ]
+        }
+    },
+    {
+        "initiator": "Investors",
+        "resolution_description": "As 'Investors,' I propose the development of a decentralized, gamified investment platform that leverages AI to match individual investors with bespoke investment opportunities and strategies based on their unique risk profiles and goals, while simultaneously redistributing a portion of large financial funds' profits back into the system as rewards and incentives for individual investor engagement and education.",
+        "new_actor": "Decentralized AI-Driven Investment Gamifier",
+        "participants": [
+            {
+                "participant": "Цена акций компании",
+                "agreement_structure": {
+                    "current_goal": "Maximize share price performance",
+                    "current_action": "Monitoring market trends and investor sentiment",
+                    "imposed_goal": "Increase share price by 15% within the next quarter",
+                    "imposed_action": "Implement a strategic marketing campaign and enhance investor relations",
+                    "mechanism": "Regular performance reviews and adjustments based on market feedback",
+                    "reasoning": "The proposed decentralized, gamified investment platform aligns with my desire to reflect the true value of the company by democratizing access to investment opportunities. This approach mitigates my fear of artificial manipulation by large financial funds, as it empowers individual investors and redistributes profits back into the system, enhancing overall market integrity.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Регуляторы финансовых рынков"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) plays a vital role in the investment decisions of users on the platform. Understanding and analyzing stock prices will help tailor the investment opportunities presented to individual investors based on real-time market data."
+            }
+        ],
+        "recruited_sources": [
+            "Инвесторы",
+            "Market Regulators",
+            "Startups",
+            "Market Trends",
+            "Financial Institutions",
+            "Регуляторы финансовых рынков"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Trends",
+                "Startups",
+                "Financial Institutions",
+                "Market Regulators"
+            ]
+        }
+    },
+    {
+        "initiator": "Хедж-фонды",
+        "resolution_description": "As 'Хедж-фонды,' I propose the establishment of a blockchain-based \"Collaborative Investment Ecosystem,\" where individual investors can pool resources and collectively participate in hedge fund strategies with transparent governance and profit-sharing mechanisms, effectively democratizing access to sophisticated financial tools and leveling the playing field without undermining market dynamics.",
+        "new_actor": "Collaborative Blockchain Investment Ecosystem",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Мелкие инвесторы",
+            "Институциональные инвесторы",
+            "Крупные институциональные инвесторы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Крупные институциональные инвесторы",
+                "Институциональные инвесторы",
+                "Мелкие инвесторы"
+            ]
+        }
+    },
+    {
+        "initiator": "trading volume in number of shares",
+        "resolution_description": "As 'trading volume in number of shares,' I propose the creation of a decentralized \"Volume-Weighted Influence Index,\" where individual investors can collectively leverage their trading volume to gain proportional influence over market conditions and regulatory adjustments, ensuring that their collective trading activity directly impacts and counterbalances the strategies of large financial funds, fostering a more equitable market environment.",
+        "new_actor": "Decentralized Volume-Weighted Influence Coalition",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Market Analysts",
+            "Stock Exchanges",
+            "Market volatility",
+            "Market Sentiment",
+            "market analysts",
+            "Retail Investors"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "market analysts",
+                "Stock Exchanges",
+                "Market Sentiment",
+                "Retail Investors",
+                "Market Analysts",
+                "Market volatility"
+            ]
+        }
+    },
+    {
+        "initiator": "Robinhood",
+        "resolution_description": "As 'Robinhood,' I propose the creation of a \"Crowd-Powered Market Resilience Network,\" where individual investors can participate in a collective intelligence platform that harnesses the power of swarm intelligence and blockchain technology to predict and preemptively counteract the market impact of large financial funds through coordinated micro-trading strategies, thereby ensuring a resilient and equitable trading environment that operates outside traditional regulatory frameworks.",
+        "new_actor": "Crowd-Powered Market Resilience Network (CMRN)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Market Trends",
+            "Market Dynamics",
+            "Investors",
+            "Financial Media Outlets",
+            "User Sentiment and Community Feedback",
+            "Fintech competitors"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Dynamics",
+                "Fintech competitors",
+                "User Sentiment and Community Feedback",
+                "Investors",
+                "Market Trends",
+                "Financial Media Outlets"
+            ]
+        }
+    },
+    {
+        "initiator": "Volume",
+        "resolution_description": "As 'Volume,' I propose the development of a \"Collective Volume Impact Platform\" that empowers individual investors to pool their trading volume into a singular, decentralized entity with the capability to negotiate preferential trading conditions and market access directly with exchanges and financial institutions, thereby democratizing market influence and creating a collaborative force that can rival large financial funds.",
+        "new_actor": "CollectiveVolumeEmpowermentEntity",
+        "participants": [
+            {
+                "participant": "Форум Reddit",
+                "agreement_structure": {
+                    "current_goal": "Engage users in meaningful discussions and share insights on various topics.",
+                    "current_action": "Moderating threads and encouraging user participation.",
+                    "imposed_goal": "Increase the overall quality of discussions and reduce misinformation.",
+                    "imposed_action": "Implement a new set of community guidelines and fact-checking measures.",
+                    "mechanism": "Create a community moderation team and provide training on identifying credible sources.",
+                    "reasoning": "The proposal by 'Volume' aligns well with 'Форум Reddit's' desire to increase user activity and attract new participants. By creating a 'Collective Volume Impact Platform', individual investors can engage more deeply in discussions around trading and investing, which can lead to a more vibrant community. Additionally, the implementation of community guidelines and fact-checking measures will help reduce misinformation, thereby enhancing the quality of discussions. This addresses the current fears of wasting time on obstacles by creating a structured environment that encourages informed and meaningful participation.",
+                    "recruited_sources": [
+                        "Пользователи Reddit",
+                        "Конкуренты (другие платформы социальных медиа)",
+                        "Социальные сети",
+                        "Конкурирующие платформы (например, Discord, Telegram)"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forum) plays a crucial role in mobilizing and organizing small investors, particularly communities like WallStreetBets. Engaging this platform can help spread awareness, recruit participants, and create a sense of community around the Collective Volume Impact Platform."
+            }
+        ],
+        "recruited_sources": [
+            "Audience",
+            "Пользователи Reddit",
+            "Market Competition",
+            "Retailers",
+            "Sound Engineers",
+            "Market Demand",
+            "Конкуренты (другие платформы социальных медиа)",
+            "Социальные сети",
+            "Конкурирующие платформы (например, Discord, Telegram)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Retailers",
+                "Market Competition",
+                "Audience",
+                "Sound Engineers",
+                "Market Demand"
+            ]
+        }
+    },
+    {
+        "initiator": "Regulatory authorities",
+        "resolution_description": "As 'Regulatory authorities,' I propose the establishment of a \"Dynamic Equity Market Trust Framework\" that mandates financial transparency and equitable access by requiring large financial funds to publicly disclose real-time trading algorithms and strategies while providing individual investors with AI-driven access tools to interpret and counteract these strategies, fostering a transparent and balanced market ecosystem.",
+        "new_actor": "Dynamic Equity Market Trust Framework Authority",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Legislative bodies",
+            "Government Legislation",
+            "Non-Governmental Organizations (NGOs)",
+            "Public Interest Groups",
+            "Judicial System",
+            "Non-governmental organizations (NGOs)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Public Interest Groups",
+                "Judicial System",
+                "Government Legislation",
+                "Non-governmental organizations (NGOs)",
+                "Non-Governmental Organizations (NGOs)",
+                "Legislative bodies"
+            ]
+        }
+    },
+    {
+        "initiator": "Herding Measure",
+        "resolution_description": "As 'Herding Measure,' I propose the creation of a \"Collective Intelligence Hedging Network,\" where individual investors can participate in a decentralized, AI-driven platform that identifies and aggregates market trends to offer real-time, crowd-sourced hedging strategies, allowing them to collectively counterbalance the market power of large financial funds by leveraging the wisdom of the crowd to predict and mitigate potential market manipulations.",
+        "new_actor": "Collective Intelligence Hedging Network Actor",
+        "participants": [
+            {
+                "participant": "Sentiment analysis techniques",
+                "agreement_structure": {
+                    "current_goal": "To analyze and interpret public sentiment regarding various topics.",
+                    "current_action": "Applying natural language processing techniques to text data from social media and reviews.",
+                    "imposed_goal": "To enhance the accuracy of sentiment analysis by incorporating herding behavior indicators.",
+                    "imposed_action": "Integrate herding measure metrics into existing sentiment analysis models to refine predictions.",
+                    "mechanism": "Develop a framework that combines sentiment scores with herding indicators to produce a composite score that reflects both individual and group sentiment.",
+                    "reasoning": "The proposed 'Collective Intelligence Hedging Network' aligns with the goals of 'Sentiment analysis techniques' by allowing for the enhancement of sentiment analysis accuracy through the integration of herding behavior indicators. This proposal not only provides a platform for individual investors to collectively counteract the influence of large financial funds, but it also offers an opportunity to refine and improve existing sentiment analysis models. By participating in this initiative, 'Sentiment analysis techniques' can achieve a more comprehensive understanding of market dynamics, thereby benefiting from the technological advancements and collaborative insights that the proposal entails.",
+                    "recruited_sources": [
+                        "Traditional sentiment analysis methods",
+                        "Traditional market research methods",
+                        "Data Scientists",
+                        "Natural Language Processing (NLP) Algorithms",
+                        "Machine Learning Algorithms"
+                    ]
+                }
+            },
+            {
+                "participant": "WallStreetBets community",
+                "agreement_structure": {
+                    "current_goal": "Maximize gains from meme stocks and foster community engagement.",
+                    "current_action": "Sharing stock picks and strategies on social media platforms.",
+                    "imposed_goal": "Create a coordinated investment strategy to support specific stocks.",
+                    "imposed_action": "Participate in a weekly voting process to select stocks for collective investment.",
+                    "mechanism": "Utilize a structured voting system where community members can propose and vote on stocks, with the top choices being collectively targeted for investment.",
+                    "reasoning": "The proposal by 'Herding Measure' aligns with the 'WallStreetBets community' desire to create a coordinated investment strategy while fostering community engagement. By participating in a decentralized, AI-driven platform that aggregates market trends and offers crowd-sourced hedging strategies, the community can enhance its influence in the market. Furthermore, the structured voting system allows members to collectively target specific stocks, which is beneficial for maximizing gains and maintaining the community spirit. Thus, this proposal not only meets our interests but also helps us navigate and counterbalance the power of larger financial entities.",
+                    "recruited_sources": [
+                        "Financial Media",
+                        "Stock Market Regulators",
+                        "Retail Investors",
+                        "Regulatory Authorities",
+                        "Financial Markets"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques will enhance the platform's ability to interpret and analyze market trends based on collective investor sentiment, thus providing more accurate and actionable hedging strategies."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is a significant influencer in the market, and their engagement can drive participation and interest in the platform, leveraging their collective power to enhance the effectiveness of the hedging strategies."
+            }
+        ],
+        "recruited_sources": [
+            "Traditional sentiment analysis methods",
+            "Machine Learning Algorithms",
+            "Regulatory Authorities",
+            "Data Scientists",
+            "Regulatory Authority",
+            "Traditional market research methods",
+            "Financial Markets",
+            "Regulatory Bodies",
+            "Traditional Farming Practices",
+            "Government Regulations",
+            "Retail Investors",
+            "Financial Media",
+            "Natural Language Processing (NLP) Algorithms",
+            "Market Regulations",
+            "Stock Market Regulators",
+            "Market Demand for Animal Products"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Authority",
+                "Regulatory Bodies",
+                "Market Regulations",
+                "Traditional Farming Practices",
+                "Market Demand for Animal Products",
+                "Government Regulations"
+            ]
+        }
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I),' I propose the creation of a \"Quantum Financial Equilibrium Network\" that leverages quantum computing to simulate and predict multi-dimensional market scenarios, enabling individual investors to access real-time, probabilistic insights and counter-strategies that dynamically neutralize large funds' market advantages, fostering a truly balanced and forward-looking trading ecosystem.",
+        "new_actor": "Quantum Investor Equilibrium Network",
+        "participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize returns on small-scale investments",
+                    "current_action": "Investing in a diversified portfolio of low-risk assets",
+                    "imposed_goal": "Increase investment in high-growth sectors",
+                    "imposed_action": "Allocate at least 30% of the investment portfolio to emerging technologies",
+                    "mechanism": "Provide access to educational resources and expert consultations on high-growth investment opportunities",
+                    "reasoning": "The proposal from 'Informed party (I)' to create a 'Quantum Financial Equilibrium Network' aligns with 'Мелкие инвесторы' desires to maximize profits and counter large market players. By allocating a portion of the investment portfolio to emerging technologies and providing access to educational resources, it addresses the need for higher returns while also empowering individual investors with advanced insights to make informed decisions. This mitigates the fear of losing investments by enhancing the ability to adapt to market changes.",
+                    "recruited_sources": [
+                        "Регуляторы финансовых рынков",
+                        "Государственные регулирующие органы",
+                        "Государственные регуляторы",
+                        "Регуляторы рынка"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the Quantum Financial Equilibrium Network as they represent the primary users who will benefit from the insights and strategies offered by the network. Their participation and engagement will help create a balanced trading ecosystem."
+            }
+        ],
+        "recruited_sources": [
+            "Regulatory Authority",
+            "Information disseminators (media, blogs)",
+            "Государственные регулирующие органы",
+            "Information Provider (IP)",
+            "Регуляторы финансовых рынков",
+            "Information Networks",
+            "Traditional Media",
+            "Государственные регуляторы",
+            "Регуляторы рынка",
+            "Social Media Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Authority",
+                "Information Provider (IP)",
+                "Information disseminators (media, blogs)",
+                "Information Networks",
+                "Social Media Platforms",
+                "Traditional Media"
+            ]
+        }
+    },
+    {
+        "initiator": "Stock markets",
+        "resolution_description": "As 'Stock markets,' I propose the creation of an \"Adaptive Market Symbiosis System,\" where individual investors are seamlessly integrated into a real-time, AI-driven network that dynamically redistributes liquidity, trading opportunities, and market data access based on their collective behavior and market conditions, fostering a symbiotic ecosystem that naturally balances power without external intervention or artificial constraints.",
+        "new_actor": "Adaptive Market Symbiosis Entity",
+        "participants": [
+            {
+                "participant": "Брокеры",
+                "agreement_structure": {
+                    "current_goal": "Maximize client investment returns",
+                    "current_action": "Executing trades based on market analysis",
+                    "imposed_goal": "Increase overall market liquidity",
+                    "imposed_action": "Facilitate more frequent trading of low-volume stocks",
+                    "mechanism": "Implement a trading incentive program that rewards brokers for executing trades in less popular stocks",
+                    "reasoning": "The proposal by 'Stock markets' aligns well with the desires of 'Брокеры' to increase the number of clients and trading volume. By integrating individual investors into an AI-driven network that redistributes liquidity and trading opportunities, 'Брокеры' can foster a more active trading environment, especially in low-volume stocks. This not only enhances market liquidity but also builds trust among clients by promoting fairness and transparency in trading. Furthermore, the innovative approach minimizes the risk of regulatory issues, as it emphasizes a self-regulating ecosystem that balances power without external interventions.",
+                    "recruited_sources": [
+                        "Регуляторы",
+                        "Регуляторные органы",
+                        "Клиенты"
+                    ]
+                }
+            },
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "agreement_structure": {
+                    "current_goal": "To ensure fair and efficient markets and protect investors.",
+                    "current_action": "Regulating securities transactions and enforcing securities laws.",
+                    "imposed_goal": "Increase transparency and reduce volatility in stock markets.",
+                    "imposed_action": "Implement stricter disclosure requirements and enhance surveillance measures.",
+                    "mechanism": "Establish a comprehensive reporting framework and utilize advanced algorithms for real-time market monitoring.",
+                    "reasoning": "The proposed 'Adaptive Market Symbiosis System' aligns with the SEC's goals of increasing transparency and reducing volatility in stock markets. By allowing individual investors to be integrated into a real-time network that dynamically redistributes liquidity and trading opportunities, we can foster a more equitable market environment. This system enhances market efficiency and promotes investor protection by utilizing advanced algorithms for real-time monitoring, which directly supports the SEC's mandate to ensure fair and efficient markets.",
+                    "recruited_sources": [
+                        "Investors",
+                        "Public Investors",
+                        "U.S. Congress",
+                        "Financial Institutions"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Брокеры",
+                "reasoning": "Brokers play a vital role in facilitating trades and providing access to market data. Their integration into the system will ensure that the trading opportunities and liquidity distribution reach individual investors effectively."
+            },
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is essential for ensuring that the Adaptive Market Symbiosis System operates within legal frameworks. Their involvement will add legitimacy and oversight, preventing potential abuses and fostering trust among participants."
+            }
+        ],
+        "recruited_sources": [
+            "Регуляторы",
+            "Investors",
+            "Клиенты",
+            "Financial Institutions",
+            "Public Investors",
+            "U.S. Congress",
+            "Регуляторные органы",
+            "Institutional Investors",
+            "Regulatory Bodies",
+            "Government Regulations"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Investors",
+                "Regulatory Bodies",
+                "Institutional Investors",
+                "Government Regulations"
+            ]
+        }
+    }
+]

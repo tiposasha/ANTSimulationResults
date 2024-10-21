@@ -1,0 +1,123 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting the managers and designers responsible for the landscape is crucial as they can provide insights into the feasibility of creating a pathway through the lawn, ensuring that the design aligns with aesthetic and functional requirements."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "Involving the administration is essential to gain the necessary permissions and support for the project, as they will be responsible for approving the changes to public spaces."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Integrating the smart city concept can improve the pathway's design through technology, ensuring that it is user-friendly, safe, and aligns with modern urban development principles."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "Implement adaptive urban landscapes that utilize dynamic, sensor-driven pathways and modular green spaces to continuously evolve in alignment with real-time user movement patterns and preferences, ensuring LUFs remain integral by harmonizing ecological, social, and economic needs.",
+        "new_actor": "Adaptive Urban Landscape Coordinator (AULC)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial as they possess the expertise to implement adaptive urban landscapes and modular green spaces, ensuring the design aligns with user movement patterns and ecological needs."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Involving smart city initiatives will help integrate technology and sensor-driven pathways into urban landscapes, enhancing real-time adaptation and user experience while ensuring that LUFs are effectively harmonized."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are essential for promoting the adaptive urban landscapes and ensuring that they meet the needs of visitors, which can drive economic sustainability and enhance social engagement through tourism."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is vital to ensure that the adaptive landscapes align with ecological needs, promoting long-term environmental health while balancing social and economic aspects."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "As 'Gastronomic trail', revolutionize urban spaces by transforming them into culinary landscapes that integrate edible pathways and community gardens, allowing users to navigate and engage with their environment through a sensory journey of taste and discovery, thereby aligning urban design with the dynamic, evolving interests of its inhabitants.",
+        "new_actor": "Culinary Landscape Integrator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are crucial as they have the expertise to integrate culinary landscapes and edible pathways into urban design, ensuring that the vision aligns with practical implementation."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a key role in policy-making and resource allocation, which are essential for supporting the transformation of urban spaces into culinary landscapes and facilitating community engagement."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can help promote the gastronomic trail to attract visitors, enhancing the economic viability and community interest in the project, thereby contributing to its success."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Smart city initiatives can provide technological support and innovative solutions to enhance the sensory journey of taste and discovery, making the culinary landscapes more interactive and engaging for users."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Cities",
+        "resolution_description": "As 'Cities', revolutionize urban spaces by creating an interactive, digitally enhanced urban ecosystem that allows individuals to customize their environment in real-time through augmented reality interfaces, enabling personalized pathways, experiences, and functionalities that adapt to the diverse and changing interests of all users.",
+        "new_actor": "UrbanAR Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Smart city",
+                "reasoning": "Recruiting 'Smart city' is essential as it embodies the technological infrastructure and innovation needed to implement the interactive, digitally enhanced urban ecosystem. This participant can provide the necessary tools and frameworks for integrating augmented reality interfaces into urban spaces."
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscaping are crucial for ensuring that the physical environment complements the digital enhancements. Their expertise will help create spaces that are not only visually appealing but also functional and adaptable to user interactions."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important for promoting the new urban ecosystem to both residents and visitors. Their involvement will help attract a diverse user base and ensure that the interactive features cater to a wide range of interests, enhancing overall user experience."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating the sustainability concept is vital to ensure that the urban ecosystem remains environmentally friendly and socially responsible. This participant will help design solutions that balance innovation with ecological considerations, making the project more appealing to a broader audience."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "As 'African cities', revolutionize urban spaces by creating a living tapestry of indigenous knowledge and cultural heritage through community-led, biophilic design practices that seamlessly blend traditional wisdom with innovative technologies, enabling residents to cultivate spaces that are both uniquely reflective of their cultural identities and dynamically adaptive to their collective aspirations and environmental contexts.",
+        "new_actor": "The actor created would be named \"African Urban Cultural Innovators.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape play a crucial role in implementing biophilic design practices. Their expertise will help integrate indigenous knowledge and cultural heritage into urban spaces, ensuring that designs reflect local identities and meet community aspirations."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is essential for ensuring that the proposed urban transformations are environmentally friendly and resilient. By aligning the resolution with sustainable practices, it enhances the adaptability of urban spaces to changing environmental conditions."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can help promote the cultural and heritage aspects of the transformed urban spaces. Their involvement can attract visitors and generate economic benefits, which supports the sustainability of community-led initiatives."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Smart city initiatives can bring innovative technologies into the mix, facilitating the integration of traditional wisdom with modern solutions. This can enhance the functionality and livability of urban spaces, making them more dynamic and adaptive."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

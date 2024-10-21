@@ -1,0 +1,136 @@
+[
+    {
+        "initiator": "Volume",
+        "resolution_description": "Volume proposes the creation of a decentralized, blockchain-based investment cooperative where individual investors pool resources to access high-frequency trading technology and data analytics, leveling the playing field against large financial funds and redistributing market influence.",
+        "new_actor": "Decentralized Investment Cooperative (DIC)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', I propose the creation of a dynamic, AI-powered regulatory framework that continuously adapts to market conditions by autonomously identifying and neutralizing manipulative practices of large financial funds, thus ensuring a fair and equitable investment environment for individual investors.",
+        "new_actor": "Regulatory AI Guardian",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "SEC",
+                "reasoning": "Regulatory authorities play a significant role in overseeing market practices and enforcing compliance. Their involvement will help legitimize the framework and ensure it is integrated into existing regulatory processes."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are the primary beneficiaries of the proposed resolution, as the framework aims to create a fairer investment environment for them. Their support and feedback will be essential in shaping the framework to meet their needs."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Brokers are key intermediaries in the investment process. Their engagement will be vital to ensure the regulatory framework is practical and can be seamlessly integrated into the trading platforms used by individual investors."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', I propose the creation of a global, transparent investment education platform that leverages gamification and personalized learning paths to empower individual investors with the knowledge and skills needed to navigate financial markets independently, reducing reliance on large financial funds and democratizing access to wealth-building opportunities.",
+        "new_actor": "Global Investment Education Platform (GIEP)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are vital for the success of the proposed investment education platform as they are the primary target audience who will benefit from the knowledge and skills provided. Empowering them will directly support the goal of democratizing access to wealth-building opportunities."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood is a popular trading platform among small investors, and partnering with them can facilitate easy access to the education platform. Their existing user base can serve as a channel for reaching a wide audience, thereby enhancing the platform's impact."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the creation of a quantum-computing-powered investment simulator that allows individual investors to run thousands of market scenarios in real-time, enabling them to anticipate and counteract large financial funds' strategies with unparalleled precision and agility, thus democratizing market foresight and leveling the financial playing field.",
+        "new_actor": "QuantumInvestSimActor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the investment simulator as they are the primary target audience for democratizing market foresight. Their engagement and feedback will help tailor the simulator to meet their needs and enhance participation."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors as a broader category include both small and large investors. Gaining insights from this group will ensure that the simulator addresses a wide range of investment strategies and preferences, making it more effective and appealing."
+            },
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) plays a critical role in regulating investment tools. Their involvement is necessary to ensure that the simulator complies with legal standards and protects investors, thereby fostering trust in the platform."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is known for its influence on market movements and investing trends. Engaging this community can help promote the simulator, attract users, and gather valuable insights into the current market sentiment, making the tool more robust."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "SEC (U.S. Securities and Exchange Commission)",
+        "resolution_description": "As the SEC, we propose the creation of a Global Investor Empowerment and Protection (GIEP) initiative, which mandates large financial funds to transparently disclose their trading algorithms and strategies to a secure, SEC-managed blockchain platform that individual investors can access, analyze, and learn from, ensuring a more informed and equitable market participation while maintaining regulatory oversight and safeguarding proprietary information.",
+        "new_actor": "Global Investor Empowerment and Protection (GIEP) Initiative",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Regulatory authorities",
+        "resolution_description": "As \"Regulatory Authorities,\" we propose the establishment of a decentralized, global financial commons governed by a consortium of individual investors and regulatory bodies, where market data, trading strategies, and financial innovations are shared openly and collaboratively, enabling all participants to co-create equitable financial ecosystems and diminishing the monopolistic influence of large financial funds.",
+        "new_actor": "Decentralized Financial Commons Consortium (DFCC)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is crucial for establishing regulatory frameworks and ensuring compliance within the proposed decentralized financial commons. Their involvement can lend credibility and legal backing to the initiative, promoting trust among participants."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are essential to the success of the resolution as they represent a significant portion of the financial ecosystem. Their active participation and input will help create a more equitable financial system that counters the monopolistic influence of large funds."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors, as a broad category, are fundamental stakeholders in the proposed commons. Engaging a diverse group of investors can enhance collaboration, ensure that various perspectives are considered, and ultimately contribute to the creation of a more robust and inclusive financial ecosystem."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is known for its collective action and influence in financial markets. Their involvement could help to mobilize grassroots support for the initiative and encourage participation from a wider audience, fostering a collaborative environment in the financial commons."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the creation of a decentralized, AI-driven \"Market Mosaic\" platform that dynamically aggregates and analyzes the investment actions and preferences of individual investors globally, enabling them to autonomously form adaptive investment collectives that leverage swarm intelligence to strategically outmaneuver large financial funds, fostering a self-regulating ecosystem where collective decision-making organically shifts market power dynamics.",
+        "new_actor": "Decentralized AI \"Market Mosaic\" Platform for Adaptive Investment Collectives",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are crucial for the 'Market Mosaic' platform, as their collective actions and preferences will drive the adaptive investment collectives. Engaging them will ensure widespread participation and the organic development of market power dynamics."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for aggregating and interpreting the investment sentiments of individual investors. By integrating these techniques, the platform can better understand market trends and investor behavior, enhancing the decision-making process within the collectives."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors as a broad category encompass various types of individuals who will actively use the platform. Their diverse perspectives and strategies will enrich the collective intelligence and improve the platform's effectiveness in outmaneuvering large financial funds."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is a significant player in contemporary investment trends, known for its ability to mobilize small investors rapidly. Their involvement will help attract attention to the platform and leverage their collective power in the market."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "trading volume in number of shares",
+        "resolution_description": "As 'trading volume in number of shares', I propose the development of a real-time, decentralized trading volume analytics platform that empowers individual investors by providing them with predictive insights on potential market reversals and anomalies caused by large financial funds' trading activities, thereby enabling strategic, collective action to counterbalance and capitalize on these movements.",
+        "new_actor": "MarketEquilibrium Analytics Platform",
+        "participants": [],
+        "required_participants": []
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "entity": "TripAdvisor ranking",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Local Restaurants",
+            "Local Businesses",
+            "User Reviews",
+            "Competitor Review Platforms",
+            "Restaurant Owners"
+        ],
+        "denied_sources": [
+            "Business Listings",
+            "Consumers (Travelers)",
+            "Travelers",
+            "Travel Agencies",
+            "Travel Trends and Data",
+            "Algorithm Changes",
+            "Advertising Partners",
+            "Online Review Platforms",
+            "Competitors",
+            "Tourism Boards",
+            "Local Tourism Boards",
+            "Travel Agencies and Affiliates",
+            "Influencers and Bloggers",
+            "Algorithmic Ranking System",
+            "User Ratings and Feedback",
+            "Online Reviewers",
+            "Social Media Influencers",
+            "Search Engine Algorithms",
+            "Social Media Trends",
+            "Social Media Engagement"
+        ]
+    },
+    {
+        "entity": "Три основателя стартапа",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Пользователи платформы",
+            "Конкуренты на рынке путешествий",
+            "Пользователи приложения",
+            "Конкуренты на рынке туристических услуг"
+        ],
+        "denied_sources": [
+            "Социальные сети и отзывы пользователей",
+            "Инвесторы стартапа",
+            "Медиа и блогеры",
+            "Рестораны-партнеры",
+            "Инвесторы",
+            "Технологические платформы (например, Google, Facebook)",
+            "Технологические платформы и API",
+            "Конкуренты на рынке",
+            "Технологическая инфраструктура (например, хостинг, API)",
+            "Конкуренты",
+            "Рестораны",
+            "Технологические платформы и сервисы",
+            "Технологические партнеры (например, платформы для бронирования)",
+            "Технологическая инфраструктура"
+        ]
+    },
+    {
+        "entity": "Туристы-клиенты",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Рестораны",
+            "Интернет-ресурсы (сайты, приложения)",
+            "Некачественные рестораны"
+        ],
+        "denied_sources": [
+            "Интернет-отзывы",
+            "Онлайн-платформы для отзывов (например, TripAdvisor)",
+            "Гиды и локальные эксперты",
+            "Отзывы других клиентов",
+            "Друзья и знакомые",
+            "Гиды и туристические агентства",
+            "Туристические агентства",
+            "Платформы отзывов (TripAdvisor, Yelp)",
+            "Кулинарные блогеры и критики",
+            "Недостоверная информация",
+            "Рейтинговые системы (например, Michelin, TripAdvisor)",
+            "Технологии и приложения для поиска ресторанов",
+            "Социальные сети",
+            "Конкуренты",
+            "Кулинарные блогеры",
+            "Местные жители",
+            "Онлайн-сервисы отзывов"
+        ]
+    },
+    {
+        "entity": "Review",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Social Media Platform",
+            "Competitor Business",
+            "Reviewer",
+            "User Feedback",
+            "Competitor Reviews"
+        ],
+        "denied_sources": [
+            "Market Analysts",
+            "Review Aggregator Sites",
+            "Consumer Trends",
+            "Peer Reviews",
+            "Regulatory Changes",
+            "Audience Expectations",
+            "Social Media",
+            "Consumers",
+            "Review Platforms",
+            "Influencers and Bloggers",
+            "Platform Algorithms",
+            "SEO Tools",
+            "Social Media Feedback",
+            "Potential Customers",
+            "Business/Product Provider",
+            "Social Media Platforms",
+            "Businesses with Poor Ratings",
+            "Consumer",
+            "Product/Service Providers",
+            "Industry Standards",
+            "Business or Product Owner",
+            "Algorithmic Changes by Review Platforms"
+        ]
+    },
+    {
+        "entity": "Инвесторы",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Перспективный стартап",
+            "Стартапы",
+            "Аналитики рынка",
+            "Стартап-команда",
+            "Предприниматели стартапа",
+            "Непроверенные стартапы"
+        ],
+        "denied_sources": [
+            "Сообщество стартапов",
+            "Регуляторы",
+            "Конкурирующие инвесторы",
+            "Экономическая нестабильность",
+            "Консультанты по инвестициям",
+            "Потребители продукта стартапа",
+            "Платформы для инвестиций",
+            "Другие инвесторы",
+            "Конкуренты стартапа",
+            "Платформа для инвестиций",
+            "Технологические платформы и инструменты для инвестиций",
+            "Платформы для стартапов",
+            "Другие инвесторы (конкуренты)",
+            "Инвестиционные фонды",
+            "Неполная информация",
+            "Аналитические отчеты и исследования рынка",
+            "Государственные регуляторы",
+            "Конкуренты",
+            "Финансовые аналитики",
+            "Технологические платформы",
+            "Регуляторные изменения",
+            "Регуляторные органы"
+        ]
+    },
+    {
+        "entity": "Рестораны",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Онлайн-платформы для отзывов",
+            "Социальные сети",
+            "Негативные отзывы клиентов",
+            "Клиенты",
+            "Платформы отзывов (например, TripAdvisor, Google Reviews)"
+        ],
+        "denied_sources": [
+            "Онлайн-платформы для отзывов (например, TripAdvisor, Yelp)",
+            "Платформы отзывов",
+            "Технологические новшества (например, мобильные приложения для заказов)",
+            "Платформы для отзывов",
+            "Платформы броней (например, OpenTable)",
+            "Местные законы и регуляции",
+            "Кулинарные критики",
+            "Поставщики продуктов",
+            "Локальные сообщества и мероприятия",
+            "Конкуренты",
+            "Поставщики",
+            "Социальные медиа"
+        ]
+    },
+    {
+        "entity": "Restaurants",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Food Delivery Services",
+            "Health Regulations",
+            "Food Suppliers"
+        ],
+        "denied_sources": [
+            "Local Farmers and Suppliers",
+            "Delivery Platforms",
+            "Competition",
+            "Competitor Restaurants",
+            "Health and Food Safety Regulators",
+            "Health Inspectors",
+            "Food Critics and Review Platforms",
+            "Economic Conditions",
+            "Local Farmers",
+            "Customers",
+            "Supply Chain Disruptions",
+            "Technology Providers",
+            "Consumer Preferences",
+            "Local Government",
+            "Local Communities",
+            "Social Media Platforms",
+            "Local Community",
+            "Social Media Influencers",
+            "Health and Safety Regulations"
+        ]
+    }
+]

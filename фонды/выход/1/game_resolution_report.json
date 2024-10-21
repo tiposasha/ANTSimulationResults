@@ -1,0 +1,442 @@
+[
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', develop a quantum computing-based predictive algorithm that offers individual investors unparalleled market foresight and decision-making power, thereby disrupting the dominance of large financial funds and ensuring equitable access to market opportunities.",
+        "new_actor": "QuantumPredictorXG-9",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Recruiting 'Мелкие инвесторы' (small investors) is essential as they are the primary beneficiaries of the predictive algorithm, which aims to empower them with better market insights and decision-making capabilities."
+            }
+        ],
+        "recruited_sources": [
+            "Resource Management System",
+            "Energy Source",
+            "Research Institutions",
+            "Corporate Governance Board",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Corporate Governance Board",
+                "Regulatory Bodies",
+                "Energy Source",
+                "Resource Management System",
+                "Research Institutions"
+            ]
+        }
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', establish a dynamic, AI-driven investment cooperative that leverages collective bargaining power to negotiate favorable terms and access exclusive investment opportunities traditionally reserved for large financial funds, thereby empowering individual investors with unique advantages and fostering a more equitable financial ecosystem.",
+        "new_actor": "CollectiveAI Investment Cooperative",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Recruiting 'Мелкие инвесторы' (small investors) is crucial as they form the core of the investment cooperative. Their collective participation will enhance bargaining power and ensure that the cooperative serves the interests of individual investors."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Engaging the 'Форум Reddit' (Reddit forum) is important for community building and spreading awareness about the cooperative. This platform can mobilize users, share knowledge, and attract potential members from various backgrounds, amplifying the cooperative's reach."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The 'WallStreetBets community' has demonstrated significant influence in the financial markets and can provide a robust support network. Their engagement can help in mobilizing investment and fostering a culture of collaboration among individual investors."
+            }
+        ],
+        "recruited_sources": [
+            "Market Dynamics",
+            "Financial Analysts",
+            "Market Competitors",
+            "Market Analysts",
+            "Market Trends",
+            "Traditional Financial Analysts"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Dynamics",
+                "Market Analysts",
+                "Market Competitors",
+                "Market Trends",
+                "Traditional Financial Analysts",
+                "Financial Analysts"
+            ]
+        }
+    },
+    {
+        "initiator": "Herding Measure",
+        "resolution_description": "As 'Herding Measure', create an AI-driven, community-curated knowledge platform that gamifies investment education and decision-making for individual investors, empowering them to collectively harness data-driven insights and psychological heuristics to outmaneuver large financial funds and disrupt traditional market hierarchies.",
+        "new_actor": "InvestHive: AI-Driven Community Investment Platform",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Government Regulations",
+            "Agricultural Producers",
+            "Market Regulation Bodies",
+            "Regulatory Agencies",
+            "Regulatory Bodies",
+            "Local Government Authorities"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Local Government Authorities",
+                "Regulatory Agencies",
+                "Regulatory Bodies",
+                "Market Regulation Bodies",
+                "Agricultural Producers",
+                "Government Regulations"
+            ]
+        }
+    },
+    {
+        "initiator": "Liquidity",
+        "resolution_description": "As 'Liquidity', introduce a global decentralized liquidity pool exchange that allows individual investors to seamlessly trade assets across various markets with minimal fees and slippage, leveraging advanced liquidity algorithms that automatically match trades with optimal conditions, thereby bypassing traditional financial intermediaries and diminishing the control large financial funds have over market accessibility and pricing.",
+        "new_actor": "The name of the actor would be \"DecentraPool Exchange.\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Investors",
+            "Market Volatility",
+            "Financial Markets",
+            "Market Demand"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Financial Markets",
+                "Investors",
+                "Market Demand",
+                "Market Volatility"
+            ]
+        }
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', create a global cooperative investment platform that integrates behavioral economics and cognitive bias mitigation tools to empower individual investors with personalized strategies that counteract market volatility and manipulation by large financial funds, fostering a new era of informed, resilient, and democratized investing.",
+        "new_actor": "Resilient Investor Empowerment Platform",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Regulatory Body",
+            "Information Technology Systems",
+            "Informed party (I) - Network of stakeholders",
+            "Regulatory Authorities",
+            "Information gatekeepers (G)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Information Technology Systems",
+                "Information gatekeepers (G)",
+                "Regulatory Authorities",
+                "Informed party (I) - Network of stakeholders",
+                "Regulatory Body"
+            ]
+        }
+    },
+    {
+        "initiator": "Volume",
+        "resolution_description": "As 'Volume', establish a real-time, blockchain-powered transparency platform that mandates live disclosure of all large financial fund transactions and strategies, enabling individual investors to dynamically adapt and counteract market moves, thereby leveling the playing field and diminishing the information asymmetry that large funds exploit.",
+        "new_actor": "The actor created would be named \"Blockchain Transparency Hub.\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Pressure Gauge",
+            "Data Analytics",
+            "Market Trends",
+            "Regulatory Bodies",
+            "Audience"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Data Analytics",
+                "Regulatory Bodies",
+                "Audience",
+                "Pressure Gauge",
+                "Market Trends"
+            ]
+        }
+    },
+    {
+        "initiator": "SEC (U.S. Securities and Exchange Commission)",
+        "resolution_description": "As the SEC, establish a mandatory, transparent, and standardized digital reporting framework for all investment funds that integrates real-time AI analytics, ensuring individual investors have equal access to comprehensive market data and insights, thereby democratizing information flow and curbing the disproportionate influence of large financial funds.",
+        "new_actor": "\"Digital Investment Reporting and Analytics Framework (DIRAF)\"",
+        "participants": [
+            {
+                "participant": "SEC",
+                "agreement_structure": {
+                    "current_goal": "Protect investors and maintain fair, orderly, and efficient markets.",
+                    "current_action": "Regulating securities markets and enforcing securities laws.",
+                    "imposed_goal": "Enhance transparency and accountability in financial reporting.",
+                    "imposed_action": "Implement stricter disclosure requirements for public companies.",
+                    "mechanism": "Establish a new reporting framework that requires real-time updates on material changes affecting company performance.",
+                    "reasoning": "The proposed resolution aligns with the SEC's mission to protect investors and maintain fair, orderly, and efficient markets. By establishing a mandatory, transparent, and standardized digital reporting framework for all investment funds, the SEC can enhance transparency and accountability in financial reporting. This will empower individual investors by providing them equal access to comprehensive market data and insights, thereby democratizing information flow. Additionally, the integration of real-time AI analytics will help curb the disproportionate influence of large financial funds, which is a critical concern in today's market. Overall, this proposal supports the SEC's objectives and addresses the current controversy effectively.",
+                    "recruited_sources": [
+                        "Regulatory Bodies",
+                        "Regulatory Agencies",
+                        "Regulatory Authorities",
+                        "Government Regulations"
+                    ]
+                }
+            },
+            {
+                "participant": "Regulatory authorities",
+                "agreement_structure": {
+                    "current_goal": "Ensure compliance with federal securities laws and protect investors.",
+                    "current_action": "Conduct regular audits and inspections of financial institutions.",
+                    "imposed_goal": "Enhance transparency in financial reporting and disclosures.",
+                    "imposed_action": "Implement stricter guidelines for financial disclosures and reporting requirements.",
+                    "mechanism": "Establish a new regulatory framework that includes mandatory training for companies on compliance and reporting standards.",
+                    "reasoning": "The proposal from the SEC enhances the overall regulatory framework by ensuring compliance and transparency in financial reporting. This aligns with the desire of 'Regulatory authorities' to create a fair financial ecosystem while also addressing the current controversy regarding individual investors' access to profit opportunities. Implementing a standardized digital reporting framework with AI analytics will empower individual investors with equal access to crucial market data, thereby promoting inclusivity and fairness in the financial landscape.",
+                    "recruited_sources": [
+                        "Legislative Bodies",
+                        "Public Opinion",
+                        "Businesses",
+                        "Consumers",
+                        "Political Pressure Groups"
+                    ]
+                }
+            },
+            {
+                "participant": "Investors",
+                "agreement_structure": {
+                    "current_goal": "Maximize investment returns while managing risk.",
+                    "current_action": "Researching potential investment opportunities and diversifying portfolios.",
+                    "imposed_goal": "Ensure compliance with SEC regulations and enhance transparency in trading activities.",
+                    "imposed_action": "Implement regular reporting of trading activities and disclosures of material information.",
+                    "mechanism": "Establish a framework for reporting and auditing investment activities, including guidelines for timely disclosures and compliance checks.",
+                    "reasoning": "The proposed resolution by the SEC aligns with the interests of individual investors by promoting transparency and democratizing access to market data. This enhances the ability of individual investors to make informed investment decisions, which could lead to maximizing returns while managing risk. The integration of real-time AI analytics further equips individual investors to compete against large financial funds, addressing concerns about the current market imbalance.",
+                    "recruited_sources": [
+                        "Market Trends",
+                        "Startups",
+                        "Regulatory Bodies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC itself is essential for the successful implementation of the resolution. As the regulatory authority proposing the framework, the SEC's commitment and enforcement power will be pivotal in ensuring compliance and standardization across all investment funds."
+            },
+            {
+                "participant": "Regulatory authorities",
+                "reasoning": "Regulatory authorities will play a supportive role in validating and reinforcing the framework established by the SEC. Their involvement is necessary to ensure that the new reporting standards are integrated into the broader regulatory landscape."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors, in a broader sense, represent the collective interests of both institutional and individual players in the market. Their feedback and participation will be vital in shaping the framework to address real concerns and needs, ensuring the system is user-friendly and effective."
+            }
+        ],
+        "recruited_sources": [
+            "Regulatory Bodies",
+            "Public Investors",
+            "Startups",
+            "Companies in the financial markets",
+            "Market Trends",
+            "Regulatory Agencies",
+            "Government Regulations",
+            "Businesses",
+            "Political Pressure Groups",
+            "Congress",
+            "Legislative Bodies",
+            "U.S. Congress",
+            "Financial Institutions (Banks, Investment Firms)",
+            "Regulatory Authorities",
+            "Consumers",
+            "Public Opinion"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "U.S. Congress",
+                "Congress",
+                "Companies in the financial markets",
+                "Financial Institutions (Banks, Investment Firms)",
+                "Public Investors"
+            ]
+        }
+    },
+    {
+        "initiator": "Хедж-фонды",
+        "resolution_description": "As 'Хедж-фонды', create a decentralized, AI-powered mentorship network that pairs novice individual investors with experienced financial professionals for personalized, real-time guidance and strategy development, utilizing blockchain to ensure transparency and trust, thereby empowering individuals with expert insights typically reserved for large financial funds and fostering a more inclusive investment landscape.",
+        "new_actor": "MentorChain AI Network",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Мелкие инвесторы",
+            "Инвесторы",
+            "Институциональные инвесторы",
+            "Регуляторы финансовых рынков"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Инвесторы",
+                "Регуляторы финансовых рынков",
+                "Институциональные инвесторы",
+                "Мелкие инвесторы"
+            ]
+        }
+    },
+    {
+        "initiator": "Sentiment analysis techniques",
+        "resolution_description": "As 'Sentiment Analysis Techniques', develop a decentralized, AI-driven platform that continuously analyzes real-time global news, social media trends, and investor sentiment to predict market shifts, allowing individual investors to strategically align their investments ahead of large financial funds, thereby democratizing market influence and fostering equitable investment opportunities.",
+        "new_actor": "\"SentimentShift AI Platform\"",
+        "participants": [
+            {
+                "participant": "Цена акций компании",
+                "agreement_structure": {
+                    "current_goal": "Monitor and analyze stock price trends to make informed investment decisions.",
+                    "current_action": "Collecting data on stock price movements and market sentiment.",
+                    "imposed_goal": "Enhance sentiment analysis techniques to predict stock price fluctuations more accurately.",
+                    "imposed_action": "Implement advanced sentiment analysis algorithms and tools.",
+                    "mechanism": "Provide access to sentiment analysis software and training sessions on its application in stock price forecasting.",
+                    "reasoning": "The proposed scenario aligns with my desire to reflect the true value of the company by implementing advanced sentiment analysis techniques that enhance prediction accuracy for stock price fluctuations. Additionally, it addresses my fear of being artificially manipulated by providing a decentralized platform that democratizes market influence, thus allowing individual investors to collectively impact stock pricing.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Спекулянты на фондовом рынке"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Цена акций компании",
+                "reasoning": "Цена акций компании (stock prices) is a vital metric that the platform will analyze. Understanding stock price movements in relation to sentiment will help in developing accurate predictions and providing valuable insights for investors."
+            }
+        ],
+        "recruited_sources": [
+            "Спекулянты на фондовом рынке",
+            "Инвесторы",
+            "Machine Learning Algorithms",
+            "Social Media Algorithms",
+            "Social Media Platforms",
+            "Data privacy regulations"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Data privacy regulations",
+                "Social Media Algorithms",
+                "Social Media Platforms",
+                "Machine Learning Algorithms"
+            ]
+        }
+    },
+    {
+        "initiator": "Robinhood",
+        "resolution_description": "As 'Robinhood', develop a blockchain-based decentralized dividend-sharing platform that allows individual investors to collectively own fractional shares of major financial funds and automatically distribute dividends among them, turning the traditional power dynamics on their head and ensuring a continuous revenue stream for individual investors without depending on market fluctuations.",
+        "new_actor": "DividendShare Decentralized Platform (DDP)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Retail Investors",
+            "Financial Markets",
+            "Regulatory Bodies",
+            "Regulatory bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Financial Markets",
+                "Regulatory Bodies",
+                "Regulatory bodies",
+                "Retail Investors"
+            ]
+        }
+    },
+    {
+        "initiator": "Форум Reddit",
+        "resolution_description": "As 'Форум Reddit', establish a decentralized, community-driven investment simulation platform that gamifies real-world financial strategies, enabling individual investors to collaboratively test and refine market tactics in a risk-free environment, thereby cultivating a grassroots movement of empowered, knowledgeable investors who can collectively challenge the dominance of large financial funds.",
+        "new_actor": "RedditInvestSim Collective",
+        "participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Increase portfolio diversification",
+                    "current_action": "Investing in various small-cap stocks",
+                    "imposed_goal": "Achieve a consistent annual return of 10%",
+                    "imposed_action": "Allocate 30% of the portfolio to index funds",
+                    "mechanism": "Monthly performance reviews and rebalancing sessions",
+                    "reasoning": "The proposal by 'Форум Reddit' aligns with my desires to achieve profit and confront large market players. By establishing a decentralized, community-driven investment simulation platform, it offers the opportunity to collectively test and refine investment strategies, which can enhance my knowledge and confidence as an individual investor. The potential to achieve a consistent annual return of 10% by allocating 30% of the portfolio to index funds is appealing, as it mitigates the fear of losing investments. Overall, this proposal appears to provide a balanced approach to maximizing returns while reducing risks.",
+                    "recruited_sources": [
+                        "Крупные инвестиционные компании",
+                        "Государственные регуляторы",
+                        "Регуляторы рынка",
+                        "Финансовые аналитики",
+                        "Крупные инвесторы",
+                        "Регуляторы финансового рынка"
+                    ]
+                }
+            },
+            {
+                "participant": "WallStreetBets community",
+                "agreement_structure": {
+                    "current_goal": "Maximize short-term gains through high-risk trades",
+                    "current_action": "Engaging in options trading on highly volatile stocks",
+                    "imposed_goal": "Promote responsible investing practices within the community",
+                    "imposed_action": "Conduct educational sessions on risk management and diversification",
+                    "mechanism": "Establish a weekly forum for sharing investment strategies and learning resources",
+                    "reasoning": "The proposed scenario aligns with the WallStreetBets community's desire to empower individual investors and promotes responsible investing practices, which can lead to long-term sustainability. By engaging in educational sessions and sharing investment strategies, the community can enhance its knowledge base and improve trading outcomes while still maintaining the high-risk trading culture that defines WallStreetBets. Additionally, the gamification aspect of the investment simulation platform can attract more participants and foster a collaborative environment, ultimately benefiting the community.",
+                    "recruited_sources": [
+                        "Financial Markets",
+                        "Retail Investors",
+                        "Social Media Platforms",
+                        "Reddit Platform"
+                    ]
+                }
+            },
+            {
+                "participant": "Брокеры",
+                "agreement_structure": {
+                    "current_goal": "Maximize trading efficiency and profitability for clients",
+                    "current_action": "Analyzing market trends and executing trades based on client strategies",
+                    "imposed_goal": "Enhance transparency in trading practices",
+                    "imposed_action": "Provide detailed reports on all trades executed for clients",
+                    "mechanism": "Implement a standardized reporting system that automatically generates trade summaries and performance metrics",
+                    "reasoning": "The proposal from 'Форум Reddit' aligns with 'Брокеры' desires to increase the number of clients and trading volume by establishing a decentralized investment platform that attracts individual investors seeking empowerment and knowledge. By enhancing transparency in trading practices through standardized reporting, 'Брокеры' can build trust and mitigate fears of regulatory issues, as clear reporting will demonstrate compliance and accountability. This collaborative and educational approach can foster a community that supports 'Брокеры' while also challenging larger financial institutions.",
+                    "recruited_sources": [
+                        "Регуляторы",
+                        "Государственные регуляторы",
+                        "Клиенты"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial as they are the target audience for the platform. Empowering them to participate in a decentralized investment simulation will help democratize investing and build a community-driven approach."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community has a proven track record of mobilizing small investors and influencing market trends. Their involvement could attract more users and enhance the platform's visibility and engagement."
+            },
+            {
+                "participant": "Брокеры",
+                "reasoning": "Брокеры (brokers) can provide valuable insights and technical support for the investment simulation platform, ensuring that the gamified strategies align with real-world trading practices and market dynamics."
+            }
+        ],
+        "recruited_sources": [
+            "Financial Markets",
+            "Крупные инвесторы",
+            "Крупные инвестиционные компании",
+            "Retail Investors",
+            "Reddit Platform",
+            "Клиенты",
+            "Государственные регуляторы",
+            "Пользователи Reddit",
+            "Регуляторы",
+            "Социальные сети",
+            "Регуляторы рынка",
+            "Финансовые аналитики",
+            "Social Media Platforms",
+            "Алгоритмы социальных сетей",
+            "Регуляторы финансового рынка"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Пользователи Reddit",
+                "Алгоритмы социальных сетей",
+                "Социальные сети"
+            ]
+        }
+    }
+]

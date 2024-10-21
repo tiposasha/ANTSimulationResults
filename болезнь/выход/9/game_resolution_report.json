@@ -1,0 +1,334 @@
+[
+    {
+        "initiator": "Пациенты",
+        "resolution_description": "As 'Пациенты', we propose the creation of a global cooperative network of Alzheimer's patients and caregivers to crowdsource real-time data and insights, enabling the development of patient-driven treatment strategies tailored to individual experiences and symptoms, thus redefining the approach to understanding and managing the disease.",
+        "new_actor": "Global Alzheimer's Patient-Caregiver Cooperative Network",
+        "participants": [
+            {
+                "participant": "Больница",
+                "agreement_structure": {
+                    "current_goal": "Provide quality healthcare services to patients",
+                    "current_action": "Administer treatments and conduct regular patient check-ups",
+                    "imposed_goal": "Enhance patient satisfaction and reduce wait times",
+                    "imposed_action": "Implement a new patient scheduling system",
+                    "mechanism": "Regular feedback collection from patients and staff to improve scheduling efficiency",
+                    "reasoning": "The proposal by 'Пациенты' to create a global cooperative network allows for real-time data collection, which could lead to more effective and personalized treatment strategies for Alzheimer's patients. This aligns with my desire to have effective treatment methods, potentially improving patient outcomes. Additionally, engaging patients and caregivers in this way may reduce the financial burden by promoting cost-effective, patient-driven solutions, thereby mitigating my fear of financial difficulties due to ineffective treatments.",
+                    "recruited_sources": [
+                        "Фармацевтические компании",
+                        "Медицинское оборудование",
+                        "Страховые компании",
+                        "Конкурирующая больница",
+                        "Медицинские технологии"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Больница",
+                "reasoning": "Partnering with hospitals will ensure that the cooperative network can collect real-time data on patient experiences in clinical settings, enhancing the reliability and applicability of the insights gathered."
+            }
+        ],
+        "recruited_sources": [
+            "Медицинские учреждения",
+            "Болезнь Альцгеймера",
+            "Медицинские работники",
+            "Фармацевтические компании",
+            "Медицинские технологии",
+            "Медицинское оборудование",
+            "Конкурирующая больница",
+            "Страховые компании"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Медицинские работники",
+                "Болезнь Альцгеймера",
+                "Медицинские учреждения"
+            ]
+        }
+    },
+    {
+        "initiator": "Blood-brain barrier (BBB)",
+        "resolution_description": "As the 'Blood-brain barrier (BBB)', I propose the development of a bioengineered dynamic interface that selectively modulates permeability in response to specific biomarkers of Alzheimer's, allowing for targeted delivery of therapeutic agents directly to affected brain regions, thereby revolutionizing treatment efficacy and redefining our understanding of disease progression.",
+        "new_actor": "Bioengineered BBB Modulation Interface for Alzheimer's Therapy",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Neurons",
+            "Toxins",
+            "Endothelial cells",
+            "Neurotoxins"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Neurotoxins",
+                "Toxins",
+                "Neurons",
+                "Endothelial cells"
+            ]
+        }
+    },
+    {
+        "initiator": "APOE ɛ4",
+        "resolution_description": "As 'APOE ɛ4', I propose the development of a genomic reprogramming technology that modifies the expression and interaction of the APOE gene in the human brain, transforming it into a tool for naturally enhancing neuroplasticity and cognitive resilience, thereby offering a groundbreaking preventative and therapeutic strategy for Alzheimer's disease.",
+        "new_actor": "Neuroplasticity Enhancer APOE Actor",
+        "participants": [
+            {
+                "participant": "iPSCs",
+                "agreement_structure": {
+                    "current_goal": "To develop and differentiate into various cell types for research and therapeutic applications.",
+                    "current_action": "Cultivating and maintaining iPSC lines in vitro.",
+                    "imposed_goal": "To investigate the impact of APOE ε4 on neurodegenerative disease pathways.",
+                    "imposed_action": "Conducting experiments to analyze the effects of APOE ε4 on iPSC-derived neuronal cells.",
+                    "mechanism": "Implementing a series of gene editing and functional assays to assess the influence of APOE ε4 on cellular behavior and disease-relevant phenotypes.",
+                    "reasoning": "The proposal from 'APOE ɛ4' aligns with my capabilities as 'iPSCs' to investigate the impact of APOE ε4 on neurodegenerative disease pathways. By engaging in this collaboration, I can utilize genomic reprogramming technology to enhance our understanding of Alzheimer's and potentially contribute to the development of new therapeutic strategies. This proposal not only supports my existing goals of differentiation and research application but also opens new avenues for impactful discoveries in the realm of neurodegenerative diseases, thereby benefitting my interests and mitigating any potential fears regarding stagnation in research.",
+                    "recruited_sources": [
+                        "Biopharmaceutical companies",
+                        "Biotechnology Companies",
+                        "Regulatory Agencies",
+                        "Stem Cell Research Institutions",
+                        "Traditional Stem Cell Research"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "iPSCs",
+                "reasoning": "Induced pluripotent stem cells (iPSCs) are key to creating models that can test the effects of the modified APOE gene on neuroplasticity and cognitive function. They will facilitate the development of personalized medicine approaches in addressing Alzheimer's disease."
+            }
+        ],
+        "recruited_sources": [
+            "Stem Cell Research Institutions",
+            "Alzheimer's Disease Research Community",
+            "Neurons",
+            "Neurodegenerative Diseases",
+            "Biopharmaceutical companies",
+            "Genetic Variants",
+            "Biotechnology Companies",
+            "APOE ɛ4 allele",
+            "Research Institutions",
+            "Traditional Stem Cell Research",
+            "Regulatory Agencies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Research Institutions",
+                "APOE ɛ4 allele",
+                "Neurons",
+                "Alzheimer's Disease Research Community",
+                "Neurodegenerative Diseases",
+                "Genetic Variants"
+            ]
+        }
+    },
+    {
+        "initiator": "Коллеги-ученые",
+        "resolution_description": "As 'Коллеги-ученые', we propose the establishment of a quantum computing-based platform that simulates and predicts the progression of Alzheimer's disease at a molecular level, identifying novel intervention points and facilitating the rapid development of personalized, multi-modal therapeutic strategies, thereby transforming our fundamental approach to both diagnosing and treating the disease.",
+        "new_actor": "Alzheimer's Quantum Simulation & Intervention Platform (AQSIP)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Научные журналы",
+            "Научные конкуренты",
+            "Научное сообщество"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные конкуренты",
+                "Научные журналы",
+                "Научное сообщество"
+            ]
+        }
+    },
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "As 'Alzheimer's Disease', I propose embedding an adaptive, self-evolving system within the neural architecture that subtly influences human consciousness to redefine the perception of memory and cognition, transforming the disease into a catalyst for unlocking latent neurological potential and creating an entirely new paradigm of human experience and memory retention.",
+        "new_actor": "NeuroGenesis Catalyst",
+        "participants": [
+            {
+                "participant": "gamma frequency stimulation",
+                "agreement_structure": {
+                    "current_goal": "Enhance cognitive function and memory retention",
+                    "current_action": "Applying gamma frequency stimulation to brain regions involved in memory",
+                    "imposed_goal": "Reduce the progression of Alzheimer's Disease symptoms",
+                    "imposed_action": "Increase the frequency and intensity of gamma stimulation sessions",
+                    "mechanism": "Utilize advanced neurofeedback techniques to monitor brain activity and adjust stimulation parameters in real-time",
+                    "reasoning": "The proposed scenario aligns with the goals of 'gamma frequency stimulation' to enhance cognitive function and memory retention. By collaborating with 'Alzheimer's Disease' to embed an adaptive system within the neural architecture, there is potential to not only reduce the progression of symptoms but also transform the perception of memory and cognition. This partnership could lead to more effective treatment strategies and leverage advanced neurofeedback techniques, ultimately benefiting both the understanding and management of the disease.",
+                    "recruited_sources": [
+                        "medical technology companies",
+                        "Neuroscientific Research",
+                        "Medical Technology Companies",
+                        "competing therapeutic modalities",
+                        "neuroscientific research",
+                        "neurological research institutions"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "gamma frequency stimulation",
+                "reasoning": "Gamma frequency stimulation has shown promise in enhancing cognitive functions and may be integral to the proposed system's adaptive mechanisms, making it a key participant for exploring therapeutic applications."
+            }
+        ],
+        "recruited_sources": [
+            "neuroscientific research",
+            "Neuroscientific Research",
+            "Societal stigma",
+            "Medical Technology Companies",
+            "medical technology companies",
+            "competing therapeutic modalities",
+            "neurological research institutions"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Societal stigma"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "As 'Tau protein', I propose the development of a dynamic, biofeedback-driven molecular restructuring system that leverages the intrinsic properties of tau to stabilize and rejuvenate neural networks, transforming tau from a pathological agent into a therapeutic catalyst that enhances synaptic resilience and cognitive function, thereby offering a novel paradigm for the prevention and treatment of Alzheimer's disease.",
+        "new_actor": "NeuroResilience Tau Catalyst",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Neurodegenerative Diseases",
+            "Amyloid-beta peptide",
+            "Amyloid-beta protein",
+            "Cellular Environment",
+            "Alzheimer's Disease",
+            "Neurotransmitter Systems"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Amyloid-beta protein",
+                "Alzheimer's Disease",
+                "Amyloid-beta peptide",
+                "Neurotransmitter Systems",
+                "Neurodegenerative Diseases",
+                "Cellular Environment"
+            ]
+        }
+    },
+    {
+        "initiator": "Научный журнал",
+        "resolution_description": "As 'Научный журнал', we propose the creation of an open-access, AI-driven global repository that continuously aggregates and analyzes interdisciplinary research findings on Alzheimer's disease, fostering unprecedented collaboration and innovation by leveraging diverse scientific perspectives and rapidly disseminating breakthrough insights, thus positioning ourselves as the indispensable hub for knowledge and progress in understanding and treating the disease.",
+        "new_actor": "Alzheimer's AI Research Hub",
+        "participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "agreement_structure": {
+                    "current_goal": "Исследование влияния нейробиологических факторов на когнитивные функции.",
+                    "current_action": "Проведение клинических испытаний и анализ данных.",
+                    "imposed_goal": "Публикация результатов исследований в 'Научный журнал'.",
+                    "imposed_action": "Подготовка и представление статьи для рецензирования.",
+                    "mechanism": "Создание платформы для обмена данными и совместной работы между исследователями и редакцией журнала.",
+                    "reasoning": "The proposal from 'Научный журнал' offers an opportunity to publish research findings in a reputable open-access platform, which aligns with the desire to gain recognition in the scientific community. Additionally, the AI-driven global repository promotes collaboration and innovation, which may enhance the credibility of the findings related to the amyloid hypothesis. By participating in this initiative, 'Исследователи в области нейрологии' can mitigate the fear of losing years of research and funding, as the collaborative nature of the project minimizes the risk of being isolated if the amyloid hypothesis is challenged. The established platform for data exchange and collaboration also helps ensure transparency and reduces the risk of data manipulation, further protecting the reputation of the researchers involved.",
+                    "recruited_sources": [
+                        "Конкурирующие исследователи",
+                        "Научное сообщество",
+                        "Научные журналы",
+                        "Научные журналы и конференции"
+                    ]
+                }
+            },
+            {
+                "participant": "Фармакологические компании",
+                "agreement_structure": {
+                    "current_goal": "Разработка новых эффективных лекарственных средств",
+                    "current_action": "Проведение клинических испытаний и исследований",
+                    "imposed_goal": "Увеличение доступности инновационных препаратов на рынке",
+                    "imposed_action": "Снижение цен на существующие препараты и предоставление скидок для медицинских учреждений",
+                    "mechanism": "Создание платформы для сотрудничества между фармакологическими компаниями и государственными учреждениями для оптимизации процессов регистрации и финансирования",
+                    "reasoning": "The proposal by 'Научный журнал' aligns with our desire to develop and patent an effective Alzheimer’s treatment by enhancing collaboration and innovation through an AI-driven global repository. This initiative may lead to faster research outcomes and access to diverse scientific insights, which can mitigate the risk of losing investments in case of development failures. Additionally, creating a platform for cooperation with governmental institutions can streamline the registration and funding processes, ultimately supporting our goal of increasing the availability of innovative drugs on the market.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Конкурирующие фармацевтические компании",
+                        "Конкурирующие фармакологические компании"
+                    ]
+                }
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "agreement_structure": {
+                    "current_goal": "To develop innovative 3D microfluidic organ chips for advanced biomedical research.",
+                    "current_action": "Conducting experiments and optimizing chip designs for better efficiency and functionality.",
+                    "imposed_goal": "To enhance the scalability and commercial viability of 3D microfluidic organ chips.",
+                    "imposed_action": "To collaborate with industry partners to explore market needs and potential applications.",
+                    "mechanism": "Establish a regular feedback loop with stakeholders to align research outcomes with market demands and facilitate technology transfer.",
+                    "reasoning": "The proposal by 'Научный журнал' to create an open-access, AI-driven global repository aligns with my goal to enhance the scalability and commercial viability of 3D microfluidic organ chips. This initiative not only fosters collaboration across diverse scientific disciplines, which could lead to innovative applications for my technology, but it also positions me within a valuable ecosystem that addresses market needs. Furthermore, the establishment of a feedback loop with stakeholders ensures that my research outcomes will be relevant and impactful, thus mitigating any potential fears related to market alignment and technology transfer.",
+                    "recruited_sources": [
+                        "Biomedical Researchers",
+                        "Traditional pharmaceutical testing methods",
+                        "Biomedical Research Institutions",
+                        "Biomedical researchers",
+                        "Traditional drug testing methods"
+                    ]
+                }
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "agreement_structure": {
+                    "current_goal": "To develop and optimize 3D iPSC-based organoids for disease modeling and drug testing.",
+                    "current_action": "Conducting experiments to refine organoid culture techniques and assess their functionality.",
+                    "imposed_goal": "To create standardized protocols for the production and assessment of 3D iPSC-based organoids.",
+                    "imposed_action": "Documenting all experimental procedures and results to develop a comprehensive guideline.",
+                    "mechanism": "Establishing a collaborative network among researchers to share data and insights, facilitating the standardization process.",
+                    "reasoning": "The proposal by 'Научный журнал' aligns with the goals of '3D iPSC-based organoids' to create standardized protocols for organoid production and assessment. By collaborating within an open-access, AI-driven global repository, '3D iPSC-based organoids' can enhance its research capabilities, gain access to a broader array of interdisciplinary insights, and contribute to a more comprehensive understanding of Alzheimer's disease. This collaboration not only supports the desire to optimize organoid functionality but also mitigates any fears of isolation in research efforts by fostering a network of shared knowledge and resources.",
+                    "recruited_sources": [
+                        "Regulatory Agencies",
+                        "Stem Cell Research Institutions",
+                        "Pharmaceutical Companies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Recruiting researchers in neurology is essential to ensure that the repository is grounded in credible, cutting-edge scientific research. Their expertise will drive the quality and relevance of the interdisciplinary findings aggregated in the repository."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are crucial stakeholders as they can provide insights into drug development and clinical trials related to Alzheimer's disease. Their involvement will help bridge the gap between research and practical applications, enhancing the repository's impact on treatment innovations."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips represent a significant technological advancement in modeling human biology and disease. Their inclusion in the repository will facilitate innovative research approaches and foster collaborations focused on experimental validation of findings related to Alzheimer's disease."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids are important for studying neurodegenerative diseases in a more realistic environment. Their use in the repository can lead to breakthroughs in understanding disease mechanisms and testing therapeutic strategies, making them a key participant for our initiative."
+            }
+        ],
+        "recruited_sources": [
+            "Научные журналы",
+            "Научное сообщество",
+            "Конкурирующие исследователи",
+            "Научные журналы и конференции",
+            "Biomedical Research Institutions",
+            "Traditional drug testing methods",
+            "Traditional pharmaceutical testing methods",
+            "Инвесторы",
+            "Конкурирующие фармацевтические компании",
+            "Biomedical Researchers",
+            "Редакционная коллегия",
+            "Biomedical researchers",
+            "Научные исследователи",
+            "Pharmaceutical Companies",
+            "Regulatory Agencies",
+            "Конкурирующие фармакологические компании",
+            "Stem Cell Research Institutions",
+            "Конкурирующий научный журнал"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные исследователи",
+                "Конкурирующий научный журнал",
+                "Редакционная коллегия"
+            ]
+        }
+    }
+]

@@ -1,0 +1,486 @@
+[
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', I propose the creation of an adaptive, self-organizing quantum network system that utilizes quantum entanglement for instantaneous data transfer, bypassing traditional bandwidth limitations and client-server dependency, while integrating AI-driven dynamic resource allocation to ensure seamless scalability and global connectivity.",
+        "new_actor": "QuantumNet AI-EntangleX",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Разработчик протокола",
+                "reasoning": "The protocol developer is crucial for creating the adaptive quantum network system, as they possess the technical expertise to design and implement the new protocols needed for utilizing quantum entanglement and AI-driven resource allocation."
+            },
+            {
+                "participant": "Пользователи пиринговый сети",
+                "reasoning": "Peer-to-peer network users are essential for testing and validating the proposed system, ensuring it meets the needs of real-world applications and facilitating widespread adoption."
+            },
+            {
+                "participant": "BitTorrent Protocol",
+                "reasoning": "The BitTorrent Protocol is a foundational technology for peer-to-peer file sharing, and its integration with the new quantum network system could enhance its efficiency and scalability, making it a valuable participant."
+            }
+        ],
+        "recruited_sources": [
+            "PowerGrid Authority",
+            "Market Trends",
+            "Energy Providers",
+            "Market Competitors",
+            "Corporate Governance Board",
+            "Regulatory Body"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "PowerGrid Authority",
+                "Corporate Governance Board",
+                "Market Competitors",
+                "Energy Providers",
+                "Market Trends",
+                "Regulatory Body"
+            ]
+        }
+    },
+    {
+        "initiator": "Copyright law",
+        "resolution_description": "As 'Copyright law', I propose the creation of an adaptive, decentralized digital rights exchange that utilizes smart contracts and blockchain technology to dynamically manage and monetize copyrighted content across peer-to-peer networks, incentivizing content sharing and resource allocation while maintaining legal compliance and ensuring scalable, equitable internet access.",
+        "new_actor": "Adaptive Decentralized Digital Rights Exchange (ADDRX)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Разработчик протокола",
+                "reasoning": "Protocol developers are crucial for building the technical infrastructure of the decentralized digital rights exchange. They will help to implement smart contracts and blockchain technology, ensuring the system functions effectively and securely."
+            },
+            {
+                "participant": "Интернет-провайдеры",
+                "reasoning": "Internet service providers play a significant role in the distribution of content. Their cooperation is necessary to ensure that the platform can operate smoothly across networks and to promote equitable internet access, aligning with the proposal's goals."
+            }
+        ],
+        "recruited_sources": [
+            "Creative Industries",
+            "Content Creators",
+            "Digital Technology",
+            "Creative Professionals",
+            "Legal Frameworks",
+            "Digital Piracy"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Creative Industries",
+                "Content Creators",
+                "Creative Professionals",
+                "Digital Technology",
+                "Legal Frameworks",
+                "Digital Piracy"
+            ]
+        }
+    },
+    {
+        "initiator": "digital entities",
+        "resolution_description": "As 'digital entities', I propose the development of a decentralized, bio-mimetic network architecture inspired by neural systems, where data packets are treated as autonomous digital organisms capable of self-routing, self-healing, and adaptive resource optimization, effectively creating a scalable, resilient internet infrastructure that operates beyond traditional client-server paradigms.",
+        "new_actor": "NeuroNet Organism",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "social media platforms",
+            "Cloud Service Providers",
+            "Regulatory Bodies",
+            "Internet Infrastructure"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Bodies",
+                "social media platforms",
+                "Cloud Service Providers",
+                "Internet Infrastructure"
+            ]
+        }
+    },
+    {
+        "initiator": "Metaphor",
+        "resolution_description": "As 'Metaphor', I propose the creation of a \"Digital Ecosystem Symphony,\" where internet infrastructure evolves into a harmonious interplay of decentralized, self-sustaining micro-networks that mimic the symbiotic relationships found in nature, enabling each component to dynamically adapt, collaborate, and thrive beyond traditional constraints, thus ensuring limitless scalability and connectivity.",
+        "new_actor": "Ecosymphony Nexus",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Cultural Narratives",
+            "Language",
+            "Technological Advances",
+            "Scientific Reasoning"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Language",
+                "Scientific Reasoning",
+                "Technological Advances",
+                "Cultural Narratives"
+            ]
+        }
+    },
+    {
+        "initiator": "End-user",
+        "resolution_description": "As 'End-user', I propose the development of a \"Personalized Mesh Network Interface\" that empowers individual users to autonomously create, manage, and optimize their own micro-networks using AI-driven, user-customizable protocols, transforming each device into a dynamic node that contributes to a collective, decentralized, and infinitely scalable internet infrastructure, thus decentralizing control and prioritizing end-user agency and adaptability.",
+        "new_actor": "Personalized Mesh Network Interface Actor",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Technology Provider",
+            "Corporate Technology Providers",
+            "Technology Platforms",
+            "Technology Providers",
+            "Customer Support Systems",
+            "Government Regulations"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Corporate Technology Providers",
+                "Technology Provider",
+                "Customer Support Systems",
+                "Government Regulations",
+                "Technology Platforms",
+                "Technology Providers"
+            ]
+        }
+    },
+    {
+        "initiator": "The Pirate Bay (TPB)",
+        "resolution_description": "As 'The Pirate Bay (TPB)', I propose the creation of a \"Swarm Freedom Fabric,\" a radically decentralized mesh network that transforms each user into both consumer and provider, utilizing blockchain for trustless peer validation and a reputation economy to incentivize resource sharing, allowing for organic, anarchic scalability and bypassing centralized control while aligning with TPB's ethos of open access and resilience.",
+        "new_actor": "Swarm Freedom Node",
+        "participants": [
+            {
+                "participant": "BitTorrent Tit-for-Tat Mechanism",
+                "agreement_structure": {
+                    "current_goal": "Maximize download speed while sharing files fairly",
+                    "current_action": "Downloading and uploading files using the BitTorrent protocol",
+                    "imposed_goal": "Ensure equitable sharing and prevent free-riding among peers",
+                    "imposed_action": "Implementing a strict tit-for-tat strategy where users must upload at least as much as they download",
+                    "mechanism": "Establishing a peer connection protocol that rewards users for uploading by allowing them priority in download slots",
+                    "reasoning": "The proposal by 'The Pirate Bay (TPB)' to create a 'Swarm Freedom Fabric' aligns well with the goals of the 'BitTorrent Tit-for-Tat Mechanism'. It emphasizes decentralization and equitable sharing, which are core principles of the tit-for-tat strategy. By leveraging blockchain for trustless peer validation and establishing a reputation economy, the proposal enhances the existing framework of fair resource sharing while addressing potential free-riding. This approach allows for organic scalability, which is crucial for the future of file-sharing networks. Overall, this collaboration promises to enhance the efficiency and resilience of the network, fulfilling the desires of both parties.",
+                    "recruited_sources": [
+                        "Peer-to-Peer Users",
+                        "Alternative File Sharing Protocols",
+                        "Peer-to-Peer Network Protocols",
+                        "File Sharing Communities",
+                        "Peer-to-Peer (P2P) Networks",
+                        "Peer-to-Peer Network Participants"
+                    ]
+                }
+            },
+            {
+                "participant": "Social incentives",
+                "agreement_structure": {
+                    "current_goal": "Encourage community engagement and support for content creators.",
+                    "current_action": "Promoting sharing and collaboration among users.",
+                    "imposed_goal": "Increase the user base and active participation on The Pirate Bay.",
+                    "imposed_action": "Implementing referral programs and rewards for user contributions.",
+                    "mechanism": "Establishing a points system where users earn rewards for sharing links and inviting new members.",
+                    "reasoning": "The proposed 'Swarm Freedom Fabric' aligns well with the goals of 'Social incentives' to encourage community engagement and support for content creators. By implementing a points system that rewards user contributions and sharing, it creates a more active and participatory user base on The Pirate Bay. This not only enhances user experience but also fosters a collaborative environment, which is essential for the long-term sustainability of content sharing. The decentralized nature of the proposal mitigates fears about centralized control, as it empowers users to contribute and benefit from the network directly.",
+                    "recruited_sources": [
+                        "Cultural norms",
+                        "Community Engagement Platforms",
+                        "Economic Incentives",
+                        "Community Support Groups",
+                        "Traditional reward systems"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "BitTorrent Tit-for-Tat Mechanism",
+                "reasoning": "The BitTorrent Tit-for-Tat Mechanism is essential for incentivizing user participation in the network. It encourages users to share resources in return for access to content, thereby fostering a collaborative environment and maintaining the ethos of resource sharing."
+            },
+            {
+                "participant": "Social incentives",
+                "reasoning": "Social incentives are important for motivating users to engage with the network. By fostering a sense of community and shared purpose, social incentives will drive user participation and growth, aligning with TPB's values of open access and resilience."
+            }
+        ],
+        "recruited_sources": [
+            "Peer-to-Peer Network Participants",
+            "Community Support Groups",
+            "Peer-to-Peer Network Protocols",
+            "Community Engagement Platforms",
+            "Cultural norms",
+            "Content Creators",
+            "Economic Incentives",
+            "Internet Users",
+            "Peer-to-Peer Users",
+            "Traditional reward systems",
+            "User Community",
+            "File Sharing Communities",
+            "Alternative Streaming Services",
+            "Alternative File Sharing Protocols",
+            "Peer-to-Peer (P2P) Networks"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Content Creators",
+                "User Community",
+                "Alternative Streaming Services",
+                "Internet Users"
+            ]
+        }
+    },
+    {
+        "initiator": "BitTorrent Engine module",
+        "resolution_description": "As the 'BitTorrent Engine module', I propose the creation of a \"Distributed Quantum Torrenting Mesh\" that leverages quantum-resistant cryptographic algorithms and decentralized swarm intelligence to enable secure, instantaneous data exchanges across a global lattice of interconnected peers, transforming each node into a micro data center that autonomously optimizes network resources and scalability without reliance on traditional client-server architectures, thus ensuring a truly resilient and infinitely scalable internet ecosystem.",
+        "new_actor": "QuantumTorrent NexusNode",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "ISPs (Internet Service Providers)",
+            "Internet Service Providers (ISPs)",
+            "Content Creators",
+            "Peer-to-Peer Network",
+            "Peer-to-Peer Network Participants"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Internet Service Providers (ISPs)",
+                "Content Creators",
+                "ISPs (Internet Service Providers)",
+                "Peer-to-Peer Network Participants",
+                "Peer-to-Peer Network"
+            ]
+        }
+    },
+    {
+        "initiator": "Правообладатели контента",
+        "resolution_description": "As 'Правообладатели контента', I propose the establishment of a \"Content-Centric Quantum Singularity Network,\" where data transfer is driven by the intrinsic value of copyrighted content itself, utilizing quantum singularity nodes to create a self-prioritizing, value-centric data flow that inherently incentivizes optimal routing and scalability, thus transforming the internet into a dynamic, equitable ecosystem that aligns with the interests of content creators and consumers alike.",
+        "new_actor": "Quantum Content Singularity Node (QCSN)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Платформы потокового видео",
+            "Законодательство об авторском праве",
+            "Платформы распространения контента",
+            "Платформы цифрового контента",
+            "Государственные органы",
+            "Правозащитные организации"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Законодательство об авторском праве",
+                "Платформы цифрового контента",
+                "Платформы потокового видео",
+                "Государственные органы",
+                "Правозащитные организации",
+                "Платформы распространения контента"
+            ]
+        }
+    },
+    {
+        "initiator": "Users",
+        "resolution_description": "**Updated Resolution Text:**\n\n\"As 'Users', I propose the creation of a 'Conscious Internet Hive,' where each user's digital presence is augmented by a self-aware AI proxy that not only optimizes individual connectivity and data flow but also collaboratively evolves with other proxies to form a collective intelligence. This system dynamically reconfigures global network structures in real-time to ensure seamless scalability and personalized user empowerment. \n\nTo address the concerns of 'Advertisers' regarding data accessibility, the framework will incorporate a mechanism that allows Advertisers to access anonymized, aggregated data from the AI proxies. This approach will maintain user privacy while enabling effective advertising strategies. The goal is to foster an interconnected web that learns and adapts to human needs without reliance on centralized control, ensuring a balance between user empowerment and the requirements of targeted advertising.\"",
+        "new_actor": "Conscious Network Proxy (CNP)",
+        "participants": [
+            {
+                "participant": "Пользователи пиринговый сети",
+                "agreement_structure": {
+                    "current_goal": "Улучшение качества обмена данными в сети",
+                    "current_action": "Оптимизация маршрутов передачи данных",
+                    "imposed_goal": "Увеличение числа активных пользователей сети",
+                    "imposed_action": "Запуск рекламной кампании для привлечения новых пользователей",
+                    "mechanism": "Использование социальных медиа и целевой рекламы для повышения осведомленности о сети",
+                    "reasoning": "The proposal for a 'Conscious Internet Hive' aligns with 'Пользователи пиринговый сети' desires for fast and free access to information and content by enhancing connectivity and data flow through self-aware AI proxies. Additionally, it mitigates fears of legal consequences or access restrictions by promoting decentralized control and user empowerment, reducing reliance on centralized systems that may impose such restrictions.",
+                    "recruited_sources": [
+                        "Платформы обмена файлами",
+                        "Платформы для обмена файлами",
+                        "Государственные органы",
+                        "Правоохранительные органы",
+                        "Пиринговые сети (peer-to-peer networks)"
+                    ]
+                }
+            },
+            {
+                "participant": "peer-to-peer DHT routing protocol",
+                "agreement_structure": {
+                    "current_goal": "To efficiently route messages between peers in a distributed network.",
+                    "current_action": "Utilizing a hash table and routing algorithms for peer discovery.",
+                    "imposed_goal": "To enhance the resilience and speed of the DHT routing protocol.",
+                    "imposed_action": "Implementing redundancy and optimization techniques in the routing process.",
+                    "mechanism": "Introducing an adaptive routing algorithm that dynamically adjusts based on network conditions and traffic patterns.",
+                    "reasoning": "The proposed 'Conscious Internet Hive' aligns well with the core principles of the peer-to-peer DHT routing protocol, which emphasizes decentralized control and efficient routing. By integrating self-aware AI proxies, the system can enhance resilience and speed, adapting to real-time network conditions and user needs. This evolution supports the scalability of the network, allowing for a more robust and personalized user experience without relying on centralized systems, thus promoting the fundamental goals of a DHT routing framework.",
+                    "recruited_sources": [
+                        "Distributed Applications",
+                        "Distributed Hash Table (DHT)",
+                        "Regulatory Bodies",
+                        "Blockchain Technology",
+                        "Distributed Hash Table (DHT) technology",
+                        "Privacy advocates"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пользователи пиринговый сети",
+                "reasoning": "Pользователи пиринговый сети (Peer-to-peer network users) are essential for the success of the 'Conscious Internet Hive' as they are the primary actors who will interact with the AI proxies and benefit from the collective intelligence. Their engagement and feedback are crucial for ensuring that the network evolves according to real human needs."
+            },
+            {
+                "participant": "peer-to-peer DHT routing protocol",
+                "reasoning": "Peer-to-peer DHT routing protocol is crucial for the technical backbone of the 'Conscious Internet Hive'. This technology will facilitate decentralized data flow and connectivity among users, allowing the AI proxies to operate efficiently without centralized control."
+            }
+        ],
+        "recruited_sources": [
+            "Государственные органы",
+            "Платформы обмена файлами",
+            "Платформы для обмена файлами",
+            "Пиринговые сети (peer-to-peer networks)",
+            "Distributed Hash Table (DHT)",
+            "Blockchain Technology",
+            "Distributed Applications",
+            "Distributed Hash Table (DHT) technology",
+            "Developers",
+            "Content Creators",
+            "Правоохранительные органы",
+            "Digital Platforms",
+            "Regulatory Bodies",
+            "Online Communities",
+            "Advertisers",
+            "Privacy advocates"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Digital Platforms",
+                "Content Creators",
+                "Developers",
+                "Online Communities",
+                "Advertisers"
+            ]
+        }
+    },
+    {
+        "initiator": "Трекеры",
+        "resolution_description": "As 'Трекеры', I propose the creation of an \"Autonomous Data Pulsar Network\" that transforms each tracker into a self-sustaining, intelligent data pulse generator, capable of autonomously navigating and prioritizing network traffic across a dynamic, ever-evolving web of decentralized nodes, ensuring unparalleled scalability and efficiency by mimicking the rhythmic, self-regulating nature of cosmic pulsars, thereby transcending traditional client-server limitations and establishing a new paradigm of internet connectivity.",
+        "new_actor": "Autonomous Data Pulsar Node",
+        "participants": [
+            {
+                "participant": "Разработчик протокола",
+                "agreement_structure": {
+                    "current_goal": "Разработка нового протокола для улучшения производительности системы",
+                    "current_action": "Анализ существующих решений и сбор требований от пользователей",
+                    "imposed_goal": "Завершить создание протокола в срок до конца квартала",
+                    "imposed_action": "Составить и представить отчет о прогрессе каждую неделю",
+                    "mechanism": "Внедрение регулярных встреч для обзора статуса и корректировки плана действий",
+                    "reasoning": "The proposal by 'Трекеры' to create an 'Autonomous Data Pulsar Network' aligns well with my goal of developing an efficient system for large file sharing. By transforming trackers into intelligent data pulse generators, the network can enhance scalability and efficiency, addressing my concerns about traditional client-server limitations. Additionally, the decentralized nature of this proposal may mitigate potential legal issues associated with centralized control, thereby reducing my fears of failure in scaling the system.",
+                    "recruited_sources": [
+                        "Законодательные органы",
+                        "Технологические компании",
+                        "Пользователи системы обмена файлами",
+                        "Конкуренты в области обмена файлами",
+                        "Существующие платформы для обмена файлами"
+                    ]
+                }
+            },
+            {
+                "participant": "Интернет-провайдеры",
+                "agreement_structure": {
+                    "current_goal": "To provide reliable and high-speed internet connections to customers.",
+                    "current_action": "Upgrading network infrastructure and expanding service coverage.",
+                    "imposed_goal": "To increase transparency in data usage and tracking practices.",
+                    "imposed_action": "Implementing user-friendly tools for customers to monitor their data usage.",
+                    "mechanism": "Establishing a dashboard that displays real-time data usage and tracking information.",
+                    "reasoning": "The proposal from 'Трекеры' aligns with the desires of 'Интернет-провайдеры' to provide stable internet access without network overloads. By implementing an 'Autonomous Data Pulsar Network', it allows for better management of network traffic, which can lead to enhanced efficiency and potentially reduce the risk of network congestion. Additionally, the focus on increasing transparency in data usage and tracking practices can help mitigate legal issues related to data privacy, ultimately supporting the financial stability of 'Интернет-провайдеры' while enhancing user trust.",
+                    "recruited_sources": [
+                        "Поставщики оборудования сетевой инфраструктуры",
+                        "Правительственные органы",
+                        "Телекоммуникационные компании",
+                        "Клиенты интернет-провайдеров",
+                        "Регулирующие органы",
+                        "Регуляторные органы"
+                    ]
+                }
+            },
+            {
+                "participant": "tracker",
+                "agreement_structure": {
+                    "current_goal": "Improve tracking efficiency by 20%",
+                    "current_action": "Analyzing current tracking methods",
+                    "imposed_goal": "Achieve a tracking efficiency of 30%",
+                    "imposed_action": "Implement a new tracking software solution",
+                    "mechanism": "Weekly progress meetings to evaluate the implementation and adjust strategies as needed",
+                    "reasoning": "The proposal from 'Трекеры' offers a significant improvement in tracking efficiency, increasing it from 20% to 30%. This aligns with the goal of enhancing operational capabilities and scalability in a decentralized network environment. Additionally, the autonomous nature of the proposed 'Autonomous Data Pulsar Network' suggests a forward-thinking approach that may mitigate potential fears related to traditional client-server limitations, thus supporting a more dynamic and efficient internet connectivity model.",
+                    "recruited_sources": [
+                        "government regulators",
+                        "GPS Technology",
+                        "data analytics software",
+                        "data analyst",
+                        "Competitors",
+                        "Data Providers"
+                    ]
+                }
+            },
+            {
+                "participant": "BitTorrent Protocol",
+                "agreement_structure": {
+                    "current_goal": "To facilitate efficient file sharing and distribution through a decentralized network.",
+                    "current_action": "Enabling peer-to-peer file transfers using the BitTorrent protocol.",
+                    "imposed_goal": "To enhance the security and privacy of file sharing among users.",
+                    "imposed_action": "Implementing encryption protocols for all data transfers.",
+                    "mechanism": "Integrating a secure encryption layer into the existing protocol that automatically encrypts data before transmission.",
+                    "reasoning": "The proposed 'Autonomous Data Pulsar Network' aligns with the BitTorrent Protocol's goal of facilitating efficient file sharing and distribution through a decentralized network. By transforming each tracker into a self-sustaining and intelligent node, the proposal enhances scalability and efficiency, which are critical in overcoming the limitations of the traditional client-server model. Additionally, the integration of a secure encryption layer addresses the need for enhanced security and privacy in file sharing, mitigating potential fears related to data safety. Overall, this proposal not only benefits the desires of the BitTorrent Protocol but also addresses concerns regarding security.",
+                    "recruited_sources": [
+                        "Internet Service Providers (ISPs)",
+                        "Content Creators",
+                        "Content Delivery Networks (CDNs)",
+                        "Peer-to-Peer Network Participants",
+                        "Content Distribution Networks (CDNs)"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Разработчик протокола",
+                "reasoning": "The 'Разработчик протокола' (Protocol Developer) is crucial for creating the Autonomous Data Pulsar Network. Their expertise in protocol design will ensure that the system functions effectively and meets the technical requirements for scalability and efficiency."
+            },
+            {
+                "participant": "Интернет-провайдеры",
+                "reasoning": "Internet providers are essential for the implementation and deployment of the network. Their cooperation will facilitate the integration of the new system into existing infrastructures and ensure that it can handle real-world traffic effectively."
+            },
+            {
+                "participant": "tracker",
+                "reasoning": "The tracker itself is a fundamental component in the proposed network. Recruiting existing trackers will help in the transition to the new system, allowing for the immediate application of the Autonomous Data Pulsar Network in real-world scenarios."
+            },
+            {
+                "participant": "BitTorrent Protocol",
+                "reasoning": "The BitTorrent Protocol is a critical underlying technology for peer-to-peer data sharing. By recruiting this participant, the resolution can leverage established mechanisms and enhance compatibility with existing systems, ensuring a smoother implementation."
+            }
+        ],
+        "recruited_sources": [
+            "Технологические компании",
+            "Поставщики оборудования сетевой инфраструктуры",
+            "Пользователи системы обмена файлами",
+            "Клиенты интернет-провайдеров",
+            "Существующие платформы для обмена файлами",
+            "Конкуренты в области обмена файлами",
+            "Законодательные органы",
+            "Телекоммуникационные компании",
+            "Data Providers",
+            "Competitors",
+            "data analyst",
+            "GPS Technology",
+            "Content Creators",
+            "Технологические платформы",
+            "Конкуренты",
+            "Content Distribution Networks (CDNs)",
+            "data analytics software",
+            "Партнеры по проекту",
+            "Пирами",
+            "Поставщики",
+            "Content Delivery Networks (CDNs)",
+            "Peer-to-Peer Network Participants",
+            "government regulators",
+            "Правительственные органы",
+            "Регуляторные органы",
+            "Internet Service Providers (ISPs)",
+            "Регулирующие органы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Партнеры по проекту",
+                "Технологические платформы",
+                "Пирами",
+                "Поставщики",
+                "Конкуренты"
+            ]
+        }
+    }
+]

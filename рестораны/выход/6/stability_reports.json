@@ -1,0 +1,248 @@
+[
+    {
+        "entity": "Рестораны",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Онлайн-платформы для отзывов (например, TripAdvisor, Google Reviews)",
+            "Конкурирующие рестораны",
+            "Платформы отзывов (например, TripAdvisor, Yelp)",
+            "Конкуренты",
+            "Клиенты"
+        ],
+        "denied_sources": [
+            "Платформы отзывов",
+            "Платформы отзывов (например, TripAdvisor, Yandex)",
+            "Онлайн платформы для отзывов",
+            "Платформы для отзывов",
+            "Поставщики продуктов",
+            "Конкуренты (другие рестораны)",
+            "Социальные сети",
+            "Местные сообщества и мероприятия",
+            "Клиенты с негативными отзывами",
+            "Поставщики",
+            "Социальные сети (например, Instagram, Facebook)"
+        ]
+    },
+    {
+        "entity": "Инвесторы",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Стартапы",
+            "Аналитические платформы",
+            "Конкуренты стартапа",
+            "Перспективный стартап"
+        ],
+        "denied_sources": [
+            "Сообщество стартапов",
+            "Регуляторы",
+            "Платформы для инвестиций",
+            "Аналитические компании",
+            "Медиа и аналитики",
+            "Другие инвесторы",
+            "Социальные сети и платформы для стартапов",
+            "Технологические новшества",
+            "Регулирующие органы",
+            "Информационные платформы",
+            "Аналитические агентства",
+            "Крупные венчурные капитальные компании",
+            "Регуляторы и государственные органы",
+            "Аналитики и эксперты",
+            "Государственные органы",
+            "Регуляторы рынка",
+            "Регуляторы и законы",
+            "Сеть других инвесторов",
+            "Клиенты стартапа",
+            "Экономические тенденции",
+            "Пользователи платформы стартапа",
+            "Финансовые консультанты",
+            "Финансовые аналитики"
+        ]
+    },
+    {
+        "entity": "Hotel Managers",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Local Suppliers",
+            "Online Travel Agencies (OTAs)",
+            "Online Review Platforms",
+            "Hotel Guests",
+            "Guests"
+        ],
+        "denied_sources": [
+            "Sustainability Initiatives",
+            "Technology Providers",
+            "Tourism Boards",
+            "Suppliers",
+            "Technology and Management Software",
+            "Local Tourism Boards",
+            "Staff Members",
+            "Local Government Regulations",
+            "Travel Agencies",
+            "Staff",
+            "Competitors (Other Hotels)",
+            "Hospitality Technology Providers",
+            "Social Media Influencers",
+            "Staff and Employees",
+            "Regulatory Bodies",
+            "Guests/Consumers",
+            "Competitor Hotels",
+            "Booking Engines"
+        ]
+    },
+    {
+        "entity": "Три основателя стартапа",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Пользователи платформы",
+            "Конкуренты на рынке туристических услуг",
+            "Конкурирующие платформы для планирования путешествий"
+        ],
+        "denied_sources": [
+            "Партнеры (рестораны и другие сервисы)",
+            "Инвесторы стартапов",
+            "Рестораны, желающие привлечь клиентов",
+            "Инвесторы",
+            "Потенциальные пользователи платформы",
+            "Команда разработчиков",
+            "Технологическая инфраструктура (платформы и инструменты)",
+            "Рестораны",
+            "Технологическая инфраструктура",
+            "Технологические платформы для разработчиков",
+            "Социальные медиа и отзывы пользователей",
+            "Рестораны-партнеры",
+            "Технологические партнеры",
+            "Пользователи, ищущие информацию о путешествиях",
+            "Конкуренты",
+            "Технологические платформы (например, Google, Apple)"
+        ]
+    },
+    {
+        "entity": "Туристы-клиенты",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Отзывы и рейтинги",
+            "Необъективные отзывы пользователей",
+            "Онлайн-отзывы и рейтинги",
+            "Отзывы других туристов",
+            "Туристические блоги и сайты отзывов",
+            "Туристические платформы"
+        ],
+        "denied_sources": [
+            "Социальные сети и их влияние на мнения",
+            "Несоответствие информации о ресторанах",
+            "Блогеры и инфлюенсеры",
+            "Гиды и экскурсоводы",
+            "Низкое качество ресторанного обслуживания",
+            "Гид по ресторанам",
+            "Технологические платформы (например, приложения для поиска ресторанов)",
+            "Путеводители и туристические сайты",
+            "Социальные сети",
+            "Туристические агентства",
+            "Местные жители",
+            "Рестораны",
+            "Конкурирующие рестораны с агрессивным маркетингом"
+        ]
+    },
+    {
+        "entity": "TripAdvisor ranking",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Local Businesses",
+            "Hotel Owners",
+            "Restaurant owners",
+            "User Reviews",
+            "Competitor Review Platforms"
+        ],
+        "denied_sources": [
+            "Local tourism boards",
+            "Travel Trends and Events",
+            "Marketing agencies",
+            "Local Regulations",
+            "Travelers",
+            "Travel Reviewers",
+            "Restaurants",
+            "Hotel Chains",
+            "Regulatory Bodies",
+            "TripAdvisor Algorithms",
+            "Competitors",
+            "Tourism Boards",
+            "User Reviews and Ratings",
+            "Competitor Platforms",
+            "TripAdvisor Algorithm",
+            "Social Media Influencers",
+            "Search Engine Algorithms",
+            "Online influencers",
+            "Social Media Trends",
+            "Social Media Influence",
+            "Travel Bloggers"
+        ]
+    },
+    {
+        "entity": "Review",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Businesses",
+            "Reviewer",
+            "User Feedback",
+            "Negative User Feedback",
+            "Consumer Behavior Analytics"
+        ],
+        "denied_sources": [
+            "Market Analysts",
+            "Competing Reviews",
+            "Product Manufacturers",
+            "Algorithm Changes in Review Platforms",
+            "Brands/Manufacturers",
+            "Rating System",
+            "Marketing Strategies",
+            "Business Owners/Providers",
+            "Regulatory Bodies",
+            "Influencers",
+            "Consumers",
+            "Review Platforms",
+            "Influencers and Bloggers",
+            "Social Media Platforms",
+            "Social Media Influencers",
+            "Search Engine Algorithms",
+            "Review Aggregator Websites",
+            "Social Media Trends",
+            "Product Manufacturer",
+            "E-commerce Platforms"
+        ]
+    }
+]

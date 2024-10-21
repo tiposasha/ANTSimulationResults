@@ -1,0 +1,1220 @@
+Following pluriverse entity decided to intervene into collective: French consumer
+Reasoning: The French consumer best represents the interests and concerns of the group because they are directly linked to the demand for seafood, including sea scallops. Their desires for high-quality seafood delicacies and fears about the availability and price of scallops reflect the broader ecological and economic dynamics at play. The consumer's actions influence fishing practices, sustainability efforts, and ultimately the relationship between the various actors in the ecosystem, including mollusks and XG-9. By understanding the consumer's perspective, we gain insights into the interconnected desires and fears of all entities involved.
+
+Following pluriverse entity decided to intervene into collective: Scallops
+Reasoning: Scallops, as mature organisms, encapsulate the desires and fears of the entire lifecycle from larvae to adult stages. They represent the culmination of the attachment and growth processes, as well as the successful reproduction efforts that are critical for the restoration of the bay's population. Their existence reflects the success or failure of the earlier stages (larvae) and the environmental conditions they face, thus embodying the concerns about population restoration, attachment to substrates, and the influence of external factors.
+
+Following pluriverse entity decided to intervene into collective: Translation
+Reasoning: Translation serves as a crucial intermediary that facilitates communication and understanding between different actors, including society, nature, fishermen, and marine organisms. This entity embodies the desire to accurately represent the interests and voices of various groups, while also addressing fears of misinterpretation and disconnection from actual needs. By focusing on translation, we can foster social cohesion and stability, maintain harmony in interactions, and ensure that the complexities of both human activities and ecological systems are effectively communicated.
+
+Resolution created by French consumer: As a 'French consumer', propose a resolution to transform the scallop market by promoting and investing in the development of sustainable aquaculture farms that utilize eco-friendly technologies and involve local communities in the Bay of Saint-Brieuc, ensuring both ecological balance and economic growth.
+Resolution created by Scallops: As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.
+Resolution created by Translation: As 'Translation', propose a resolution to establish an international collaborative platform that leverages multilingual AI to facilitate real-time communication and knowledge exchange between global marine scientists, local fishermen, and policymakers, ensuring adaptive and culturally-sensitive strategies for sustainable scallop harvesting in the Bay of Saint-Brieuc.
+Recruited participants: ['Морские гребешки', 'Рыбаки', 'Коллеги-ученые', 'French consumer']
+We ask 'Морские гребешки' the following: 'As the representative of a being called 'Морские гребешки', you have been approached by 'Три исследователя' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Три исследователя' wants to challenge existing status quo and says to you, 'Морские гребешки', the entity you represent, that now you achieve 'Исследовать новые методы сбора данных о морских экосистемах' by performing 'Сбор образцов воды и анализ биоразнообразия'. However, under the proposed resolution 'Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки', you as 'Морские гребешки' will be able to achieve 'Предоставить комплексный отчет о состоянии морских экосистем в течение трех месяцев' by performing 'Составить и представить отчет с анализом данных и рекомендациями' using 'Организация еженедельных встреч для обсуждения прогресса и обмена данными между участниками' that 'Три исследователя' will control. Based on 'Морские гребешки' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Выжить и увеличить популяцию. Your current fears: Быть уничтоженными хищниками или чрезмерным выловом. Does this proposal seem interesting for you as 'Морские гребешки'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Морские гребешки agreed to participate in the resolution proposed by Три исследователя
+Updated resolution structure: {
+  "initiator": "Три исследователя",
+  "resolution_description": "Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки",
+  "new_actor": "Коллектор для личинок",
+  "participants": [
+    {
+      "participant": "Морские гребешки",
+      "agreement_structure": {
+        "current_goal": "Исследовать новые методы сбора данных о морских экосистемах",
+        "current_action": "Сбор образцов воды и анализ биоразнообразия",
+        "imposed_goal": "Предоставить комплексный отчет о состоянии морских экосистем в течение трех месяцев",
+        "imposed_action": "Составить и представить отчет с анализом данных и рекомендациями",
+        "mechanism": "Организация еженедельных встреч для обсуждения прогресса и обмена данными между участниками",
+        "reasoning": "The proposed resolution of controlled harvesting with collectors for larvae aligns well with the desires of 'Морские гребешки' to survive and increase their population. By ensuring that harvesting is regulated and larvae are collected effectively, it mitigates the fear of overfishing and predation. The comprehensive report on marine ecosystems will also provide valuable insights that can help in sustainable management practices."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Морские гребешки are the primary subject of the controlled harvesting initiative. Their biology, population dynamics, and habitat requirements are crucial for the success of the project."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential for the practical implementation of the controlled harvesting strategy. Their involvement ensures that the methods developed are feasible and aligned with existing fishing practices."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые provide the necessary research and scientific foundation for understanding scallop ecology and the effectiveness of the collector method. Their expertise is vital for developing and refining the harvesting techniques."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer is an important stakeholder as they represent the market demand for scallops. Their preferences and acceptance of sustainably harvested scallops will influence the overall success and viability of the resolution."
+    }
+  ]
+}
+We ask 'Рыбаки' the following: 'As the representative of a being called 'Рыбаки', you have been approached by 'Три исследователя' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Три исследователя' wants to challenge existing status quo and says to you, 'Рыбаки', the entity you represent, that now you achieve 'Catch enough fish for the upcoming festival' by performing 'Fishing in the nearby river'. However, under the proposed resolution 'Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки', you as 'Рыбаки' will be able to achieve 'Increase fish catch by 50% within the next week' by performing 'Implement a new fishing technique and collaborate with other fishermen' using 'Organize a workshop to demonstrate the new technique and create a scheduling system for collaborative fishing expeditions' that 'Три исследователя' will control. Based on 'Рыбаки' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Обеспечить долгосрочный стабильный улов. Your current fears: Истощение запасов гребешков и потеря источника дохода. Does this proposal seem interesting for you as 'Рыбаки'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рыбаки agreed to participate in the resolution proposed by Три исследователя
+Updated resolution structure: {
+  "initiator": "Три исследователя",
+  "resolution_description": "Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки",
+  "new_actor": "Коллектор для личинок",
+  "participants": [
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch enough fish for the upcoming festival",
+        "current_action": "Fishing in the nearby river",
+        "imposed_goal": "Increase fish catch by 50% within the next week",
+        "imposed_action": "Implement a new fishing technique and collaborate with other fishermen",
+        "mechanism": "Organize a workshop to demonstrate the new technique and create a scheduling system for collaborative fishing expeditions",
+        "reasoning": "The proposed resolution of controlled harvesting of scallops using collectors addresses my desire for long-term stable catch by promoting sustainable practices. It also mitigates my fear of stock depletion by ensuring that we manage the scallop population responsibly. Collaborating with other fishermen and implementing new techniques can enhance our overall yield, which aligns with my interests and the need for a stable income."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Морские гребешки are the primary subject of the controlled harvesting initiative. Their biology, population dynamics, and habitat requirements are crucial for the success of the project."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential for the practical implementation of the controlled harvesting strategy. Their involvement ensures that the methods developed are feasible and aligned with existing fishing practices."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые provide the necessary research and scientific foundation for understanding scallop ecology and the effectiveness of the collector method. Their expertise is vital for developing and refining the harvesting techniques."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer is an important stakeholder as they represent the market demand for scallops. Their preferences and acceptance of sustainably harvested scallops will influence the overall success and viability of the resolution."
+    }
+  ]
+}
+We ask 'Коллеги-ученые' the following: 'As the representative of a being called 'Коллеги-ученые', you have been approached by 'Три исследователя' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Три исследователя' wants to challenge existing status quo and says to you, 'Коллеги-ученые', the entity you represent, that now you achieve 'Conduct research on the effects of climate change on biodiversity' by performing 'Collecting data from various ecosystems'. However, under the proposed resolution 'Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки', you as 'Коллеги-ученые' will be able to achieve 'Submit a comprehensive report on findings related to climate change impacts' by performing 'Prepare and present the report at the upcoming conference' using 'Collaborate with fellow researchers to compile data and insights, followed by peer review of the report before submission' that 'Три исследователя' will control. Based on 'Коллеги-ученые' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить новые знания о морских гребешках. Your current fears: Упустить важные научные открытия в своей области. Does this proposal seem interesting for you as 'Коллеги-ученые'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Коллеги-ученые agreed to participate in the resolution proposed by Три исследователя
+Updated resolution structure: {
+  "initiator": "Три исследователя",
+  "resolution_description": "Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки",
+  "new_actor": "Коллектор для личинок",
+  "participants": [
+    {
+      "participant": "Коллеги-ученые",
+      "agreement_structure": {
+        "current_goal": "Conduct research on the effects of climate change on biodiversity",
+        "current_action": "Collecting data from various ecosystems",
+        "imposed_goal": "Submit a comprehensive report on findings related to climate change impacts",
+        "imposed_action": "Prepare and present the report at the upcoming conference",
+        "mechanism": "Collaborate with fellow researchers to compile data and insights, followed by peer review of the report before submission",
+        "reasoning": "The proposed resolution aligns with the desire to gain new knowledge about marine scallops while also addressing the fear of missing significant scientific discoveries. By participating in controlled harvesting and collaborating with fellow researchers, there is an opportunity to collect valuable data that can contribute to understanding the impacts of climate change on biodiversity. Additionally, preparing a comprehensive report allows for the dissemination of findings, which is critical for advancing knowledge in the field."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Морские гребешки are the primary subject of the controlled harvesting initiative. Their biology, population dynamics, and habitat requirements are crucial for the success of the project."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential for the practical implementation of the controlled harvesting strategy. Their involvement ensures that the methods developed are feasible and aligned with existing fishing practices."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые provide the necessary research and scientific foundation for understanding scallop ecology and the effectiveness of the collector method. Their expertise is vital for developing and refining the harvesting techniques."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer is an important stakeholder as they represent the market demand for scallops. Their preferences and acceptance of sustainably harvested scallops will influence the overall success and viability of the resolution."
+    }
+  ]
+}
+We ask 'French consumer' the following: 'As the representative of a being called 'French consumer', you have been approached by 'Три исследователя' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'French consumer' is the initiator of the resolution: 'As a 'French consumer', propose a resolution to transform the scallop market by promoting and investing in the development of sustainable aquaculture farms that utilize eco-friendly technologies and involve local communities in the Bay of Saint-Brieuc, ensuring both ecological balance and economic growth.'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Три исследователя' wants to challenge existing status quo and says to you, 'French consumer', the entity you represent, that now you achieve 'To find the best quality products at reasonable prices.' by performing 'Researching product reviews and comparisons online.'. However, under the proposed resolution 'Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки', you as 'French consumer' will be able to achieve 'To prioritize sustainable and eco-friendly products in purchasing decisions.' by performing 'Participate in a workshop on sustainable consumer practices.' using 'Provide access to educational resources and expert speakers during the workshop.' that 'Три исследователя' will control. Based on 'French consumer' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'French consumer'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+French consumer agreed to participate in the resolution proposed by Три исследователя
+Updated resolution structure: {
+  "initiator": "Три исследователя",
+  "resolution_description": "Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки",
+  "new_actor": "Коллектор для личинок",
+  "participants": [
+    {
+      "participant": "French consumer",
+      "agreement_structure": {
+        "current_goal": "To find the best quality products at reasonable prices.",
+        "current_action": "Researching product reviews and comparisons online.",
+        "imposed_goal": "To prioritize sustainable and eco-friendly products in purchasing decisions.",
+        "imposed_action": "Participate in a workshop on sustainable consumer practices.",
+        "mechanism": "Provide access to educational resources and expert speakers during the workshop.",
+        "reasoning": "The proposed resolution aligns with my interests as a 'French consumer' by prioritizing sustainable and eco-friendly products in purchasing decisions. This approach not only supports the ecological balance necessary for the Bay of Saint-Brieuc but also ensures economic growth for local communities. Participating in a workshop on sustainable consumer practices will enhance my understanding of these products and empower me to make informed choices, thereby benefiting both the environment and the local economy."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Морские гребешки are the primary subject of the controlled harvesting initiative. Their biology, population dynamics, and habitat requirements are crucial for the success of the project."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential for the practical implementation of the controlled harvesting strategy. Their involvement ensures that the methods developed are feasible and aligned with existing fishing practices."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые provide the necessary research and scientific foundation for understanding scallop ecology and the effectiveness of the collector method. Their expertise is vital for developing and refining the harvesting techniques."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer is an important stakeholder as they represent the market demand for scallops. Their preferences and acceptance of sustainably harvested scallops will influence the overall success and viability of the resolution."
+    }
+  ]
+}
+Resolution by French consumer has collapsed due to departure of French consumer
+Resolution by French consumer has collapsed.
+Resolution structure after processing: {
+  "initiator": "Три исследователя",
+  "resolution_description": "Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки",
+  "new_actor": "Коллектор для личинок",
+  "participants": [],
+  "required_participants": [
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Морские гребешки are the primary subject of the controlled harvesting initiative. Their biology, population dynamics, and habitat requirements are crucial for the success of the project."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential for the practical implementation of the controlled harvesting strategy. Their involvement ensures that the methods developed are feasible and aligned with existing fishing practices."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые provide the necessary research and scientific foundation for understanding scallop ecology and the effectiveness of the collector method. Their expertise is vital for developing and refining the harvesting techniques."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer is an important stakeholder as they represent the market demand for scallops. Their preferences and acceptance of sustainably harvested scallops will influence the overall success and viability of the resolution."
+    }
+  ]
+}
+Resolution by Три исследователя has collapsed due to lack of participants.
+Recruited participants: ['Три исследователя', 'Рыбаки', 'French consumer']
+We ask 'Три исследователя' the following: 'As the representative of a being called 'Три исследователя', you have been approached by 'Scallops' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'Три исследователя' is the initiator of the resolution: 'Контролируемая добыча гребешков с помощью коллектора, к которому должны прикрепляться личинки'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Scallops' wants to challenge existing status quo and says to you, 'Три исследователя', the entity you represent, that now you achieve 'Conduct research on marine biology' by performing 'Collecting data on scallop populations'. However, under the proposed resolution 'As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.', you as 'Три исследователя' will be able to achieve 'Propose a sustainable fishing strategy for scallops' by performing 'Draft a detailed report outlining the strategy' using 'Collaboration with local fisheries and stakeholders to gather insights and data' that 'Scallops' will control. Based on 'Три исследователя' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Успешно реализовать проект по увеличению популяции морских гребешков. Your current fears: Потерпеть неудачу в эксперименте и потерять доверие научного сообщества. Does this proposal seem interesting for you as 'Три исследователя'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три исследователя agreed to participate in the resolution proposed by Scallops
+Updated resolution structure: {
+  "initiator": "Scallops",
+  "resolution_description": "As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.",
+  "new_actor": "Sustainably Harvested Scallop Alliance (SHSA)",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine biology",
+        "current_action": "Collecting data on scallop populations",
+        "imposed_goal": "Propose a sustainable fishing strategy for scallops",
+        "imposed_action": "Draft a detailed report outlining the strategy",
+        "mechanism": "Collaboration with local fisheries and stakeholders to gather insights and data",
+        "reasoning": "The proposal from 'Scallops' aligns with my desire to successfully implement a project that increases the population of scallops. By using a blockchain-based traceability system, we can ensure sustainable harvesting practices that not only protect scallop populations but also potentially increase market prices for fishermen who adhere to these practices. Additionally, the use of AI-driven marine drones to monitor scallop populations addresses my fear of failing in the experiment, as it provides a technological solution to safeguard and gather data on these populations. This collaboration enhances credibility and trust within the scientific community, ultimately supporting my goals."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting researchers is essential to develop and implement the blockchain-based traceability system and to ensure that the AI-driven marine drones are effectively designed and utilized for monitoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are crucial stakeholders in this resolution as they will be directly impacted by the incentives for sustainable harvesting practices and will need to adopt the new system for it to be successful."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a vital role in driving demand for sustainably harvested scallops. Their support for the initiative can help create market pressure for sustainable practices and higher prices for verified catches."
+    }
+  ]
+}
+Resolution by Три исследователя has collapsed due to departure of Три исследователя
+Resolution by Три исследователя has collapsed.
+We ask 'Рыбаки' the following: 'As the representative of a being called 'Рыбаки', you have been approached by 'Scallops' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Scallops' wants to challenge existing status quo and says to you, 'Рыбаки', the entity you represent, that now you achieve 'Catch enough fish for the week' by performing 'Fishing in the designated area'. However, under the proposed resolution 'As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.', you as 'Рыбаки' will be able to achieve 'Increase the variety of seafood collected' by performing 'Include scallops in the catch' using 'Provide training on scallop fishing techniques and designate specific areas for scallop harvesting' that 'Scallops' will control. Based on 'Рыбаки' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Обеспечить долгосрочный стабильный улов. Your current fears: Истощение запасов гребешков и потеря источника дохода. Does this proposal seem interesting for you as 'Рыбаки'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рыбаки agreed to participate in the resolution proposed by Scallops
+Updated resolution structure: {
+  "initiator": "Scallops",
+  "resolution_description": "As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.",
+  "new_actor": "Sustainably Harvested Scallop Alliance (SHSA)",
+  "participants": [
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch enough fish for the week",
+        "current_action": "Fishing in the designated area",
+        "imposed_goal": "Increase the variety of seafood collected",
+        "imposed_action": "Include scallops in the catch",
+        "mechanism": "Provide training on scallop fishing techniques and designate specific areas for scallop harvesting",
+        "reasoning": "The proposed resolution aligns with the desires of 'Рыбаки' to ensure a long-term stable catch by implementing sustainable harvesting practices. The blockchain-based traceability system provides a mechanism to verify sustainable catches, which can lead to higher market prices for fishermen. This incentivizes the adoption of sustainable practices and mitigates the fear of stock depletion by ensuring that scallop populations are monitored and protected through AI-driven marine drones. Overall, this proposal supports the interests of 'Рыбаки' while addressing their concerns about the sustainability and economic viability of their fishing practices."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting researchers is essential to develop and implement the blockchain-based traceability system and to ensure that the AI-driven marine drones are effectively designed and utilized for monitoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are crucial stakeholders in this resolution as they will be directly impacted by the incentives for sustainable harvesting practices and will need to adopt the new system for it to be successful."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a vital role in driving demand for sustainably harvested scallops. Their support for the initiative can help create market pressure for sustainable practices and higher prices for verified catches."
+    }
+  ]
+}
+We ask 'French consumer' the following: 'As the representative of a being called 'French consumer', you have been approached by 'Scallops' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Scallops' wants to challenge existing status quo and says to you, 'French consumer', the entity you represent, that now you achieve 'To purchase high-quality seafood that is sustainably sourced.' by performing 'Researching seafood options and brands in local stores.'. However, under the proposed resolution 'As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.', you as 'French consumer' will be able to achieve 'To prioritize purchasing scallops that are certified sustainable.' by performing 'Only buy scallops that have a recognized sustainability certification.' using 'Provide a list of certified sustainable scallop brands and their locations.' that 'Scallops' will control. Based on 'French consumer' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'French consumer'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+French consumer agreed to participate in the resolution proposed by Scallops
+Updated resolution structure: {
+  "initiator": "Scallops",
+  "resolution_description": "As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.",
+  "new_actor": "Sustainably Harvested Scallop Alliance (SHSA)",
+  "participants": [
+    {
+      "participant": "French consumer",
+      "agreement_structure": {
+        "current_goal": "To purchase high-quality seafood that is sustainably sourced.",
+        "current_action": "Researching seafood options and brands in local stores.",
+        "imposed_goal": "To prioritize purchasing scallops that are certified sustainable.",
+        "imposed_action": "Only buy scallops that have a recognized sustainability certification.",
+        "mechanism": "Provide a list of certified sustainable scallop brands and their locations.",
+        "reasoning": "The proposed resolution aligns perfectly with my interests as a 'French consumer' who wants to purchase high-quality seafood that is sustainably sourced. Implementing a blockchain-based traceability system will ensure transparency in the sourcing of scallops, allowing me to confidently prioritize certified sustainable options. Additionally, the use of AI-driven marine drones to monitor scallop populations addresses concerns about overfishing and habitat preservation, further supporting my desire for sustainability."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting researchers is essential to develop and implement the blockchain-based traceability system and to ensure that the AI-driven marine drones are effectively designed and utilized for monitoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are crucial stakeholders in this resolution as they will be directly impacted by the incentives for sustainable harvesting practices and will need to adopt the new system for it to be successful."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a vital role in driving demand for sustainably harvested scallops. Their support for the initiative can help create market pressure for sustainable practices and higher prices for verified catches."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "Scallops",
+  "resolution_description": "As 'Scallops', propose a resolution to implement a blockchain-based traceability system that incentivizes sustainable harvesting practices by rewarding fishermen with higher market prices for verifiably sustainable catches, while simultaneously using AI-driven marine drones to monitor and protect scallop populations in the Bay of Saint-Brieuc.",
+  "new_actor": "Sustainably Harvested Scallop Alliance (SHSA)",
+  "participants": [],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting researchers is essential to develop and implement the blockchain-based traceability system and to ensure that the AI-driven marine drones are effectively designed and utilized for monitoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are crucial stakeholders in this resolution as they will be directly impacted by the incentives for sustainable harvesting practices and will need to adopt the new system for it to be successful."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a vital role in driving demand for sustainably harvested scallops. Their support for the initiative can help create market pressure for sustainable practices and higher prices for verified catches."
+    }
+  ]
+}
+Resolution by Scallops has collapsed due to lack of participants.
+Resolution created by Морские гребешки: Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.
+Recruited participants: ['Три исследователя', 'Рыбаки', 'Коллеги-ученые', 'French consumer']
+We ask 'Три исследователя' the following: 'As the representative of a being called 'Три исследователя', you have been approached by 'Морские гребешки' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Морские гребешки' wants to challenge existing status quo and says to you, 'Три исследователя', the entity you represent, that now you achieve 'Conduct research on marine ecosystems' by performing 'Collect data and analyze samples from the ocean'. However, under the proposed resolution 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.', you as 'Три исследователя' will be able to achieve 'Develop a comprehensive report on the impact of climate change on marine life' by performing 'Compile findings and present them in a detailed report' using 'Weekly meetings to discuss progress and share insights, along with access to a collaborative online platform for data sharing' that 'Морские гребешки' will control. Based on 'Три исследователя' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Успешно реализовать проект по увеличению популяции морских гребешков. Your current fears: Потерпеть неудачу в эксперименте и потерять доверие научного сообщества. Does this proposal seem interesting for you as 'Три исследователя'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три исследователя agreed to participate in the resolution proposed by Морские гребешки
+Updated resolution structure: {
+  "initiator": "Морские гребешки",
+  "resolution_description": "Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.",
+  "new_actor": "\"Биомиметическая Морская Ферма Сен-Брие\"",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine ecosystems",
+        "current_action": "Collect data and analyze samples from the ocean",
+        "imposed_goal": "Develop a comprehensive report on the impact of climate change on marine life",
+        "imposed_action": "Compile findings and present them in a detailed report",
+        "mechanism": "Weekly meetings to discuss progress and share insights, along with access to a collaborative online platform for data sharing",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully increase the population of sea scallops while also addressing fears of failure. By implementing an innovative system of marine farms using biomimetic technologies, there is a strong potential to enhance sustainability and restoration of the ecosystem. Furthermore, the opportunity to develop a comprehensive report on the impacts of climate change on marine life through collaboration with 'Морские гребешки' adds value to the research efforts and mitigates the fear of losing trust within the scientific community. The structured approach of weekly meetings and a collaborative platform will facilitate effective data sharing and progress tracking, ensuring accountability and transparency."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Три исследователя are crucial as they can provide the scientific expertise and knowledge required to develop and implement the biomimetic technologies needed for the sea farms. Their research can ensure that the system is effective in restoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential stakeholders since they are directly affected by the scallop population and the fishing practices in the area. Their involvement will be vital for the acceptance and sustainability of the proposed sea farms, as they can provide practical insights and support."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые can provide additional support and collaboration in the research and development process. Their expertise will help to validate the findings and promote the innovative system within the scientific community, increasing its credibility."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer represents the market demand for scallops and their preferences. Engaging them will help ensure that the project aligns with consumer values and can lead to more sustainable consumption patterns, which is critical for the success of the initiative."
+    }
+  ]
+}
+We ask 'Рыбаки' the following: 'As the representative of a being called 'Рыбаки', you have been approached by 'Морские гребешки' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Морские гребешки' wants to challenge existing status quo and says to you, 'Рыбаки', the entity you represent, that now you achieve 'Increase the catch of fish in sustainable ways.' by performing 'Monitoring fish populations and adjusting fishing strategies accordingly.'. However, under the proposed resolution 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.', you as 'Рыбаки' will be able to achieve 'Enhance the harvest of морские гребешки.' by performing 'Implement a new fishing technique specifically for морские гребешки.' using 'Provide training sessions and resources to adopt the new fishing technique effectively.' that 'Морские гребешки' will control. Based on 'Рыбаки' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Обеспечить долгосрочный стабильный улов. Your current fears: Истощение запасов гребешков и потеря источника дохода. Does this proposal seem interesting for you as 'Рыбаки'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рыбаки agreed to participate in the resolution proposed by Морские гребешки
+Updated resolution structure: {
+  "initiator": "Морские гребешки",
+  "resolution_description": "Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.",
+  "new_actor": "\"Биомиметическая Морская Ферма Сен-Брие\"",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine ecosystems",
+        "current_action": "Collect data and analyze samples from the ocean",
+        "imposed_goal": "Develop a comprehensive report on the impact of climate change on marine life",
+        "imposed_action": "Compile findings and present them in a detailed report",
+        "mechanism": "Weekly meetings to discuss progress and share insights, along with access to a collaborative online platform for data sharing",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully increase the population of sea scallops while also addressing fears of failure. By implementing an innovative system of marine farms using biomimetic technologies, there is a strong potential to enhance sustainability and restoration of the ecosystem. Furthermore, the opportunity to develop a comprehensive report on the impacts of climate change on marine life through collaboration with 'Морские гребешки' adds value to the research efforts and mitigates the fear of losing trust within the scientific community. The structured approach of weekly meetings and a collaborative platform will facilitate effective data sharing and progress tracking, ensuring accountability and transparency."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Increase the catch of fish in sustainable ways.",
+        "current_action": "Monitoring fish populations and adjusting fishing strategies accordingly.",
+        "imposed_goal": "Enhance the harvest of морские гребешки.",
+        "imposed_action": "Implement a new fishing technique specifically for морские гребешки.",
+        "mechanism": "Provide training sessions and resources to adopt the new fishing technique effectively.",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns with my desire for a long-term stable catch by introducing innovative marine farming systems that can restore and increase the scallop population in the Сен-Брие bay. This approach addresses my fear of stock depletion by promoting sustainable harvesting practices, which will ultimately help secure my source of income. Additionally, the training sessions and resources provided for the new fishing technique will further ensure that I can effectively adapt to these changes, contributing to a more sustainable fishing environment."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Три исследователя are crucial as they can provide the scientific expertise and knowledge required to develop and implement the biomimetic technologies needed for the sea farms. Their research can ensure that the system is effective in restoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential stakeholders since they are directly affected by the scallop population and the fishing practices in the area. Their involvement will be vital for the acceptance and sustainability of the proposed sea farms, as they can provide practical insights and support."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые can provide additional support and collaboration in the research and development process. Their expertise will help to validate the findings and promote the innovative system within the scientific community, increasing its credibility."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer represents the market demand for scallops and their preferences. Engaging them will help ensure that the project aligns with consumer values and can lead to more sustainable consumption patterns, which is critical for the success of the initiative."
+    }
+  ]
+}
+We ask 'Коллеги-ученые' the following: 'As the representative of a being called 'Коллеги-ученые', you have been approached by 'Морские гребешки' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Морские гребешки' wants to challenge existing status quo and says to you, 'Коллеги-ученые', the entity you represent, that now you achieve 'Conduct research on marine biology' by performing 'Analyzing data from recent field studies'. However, under the proposed resolution 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.', you as 'Коллеги-ученые' will be able to achieve 'Expand research to include the study of scallops' ecological impact' by performing 'Collaborate with oceanographers to gather additional data' using 'Monthly progress meetings and shared data repositories for collaborative efforts' that 'Морские гребешки' will control. Based on 'Коллеги-ученые' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить новые знания о морских гребешках. Your current fears: Упустить важные научные открытия в своей области. Does this proposal seem interesting for you as 'Коллеги-ученые'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Коллеги-ученые agreed to participate in the resolution proposed by Морские гребешки
+Updated resolution structure: {
+  "initiator": "Морские гребешки",
+  "resolution_description": "Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.",
+  "new_actor": "\"Биомиметическая Морская Ферма Сен-Брие\"",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine ecosystems",
+        "current_action": "Collect data and analyze samples from the ocean",
+        "imposed_goal": "Develop a comprehensive report on the impact of climate change on marine life",
+        "imposed_action": "Compile findings and present them in a detailed report",
+        "mechanism": "Weekly meetings to discuss progress and share insights, along with access to a collaborative online platform for data sharing",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully increase the population of sea scallops while also addressing fears of failure. By implementing an innovative system of marine farms using biomimetic technologies, there is a strong potential to enhance sustainability and restoration of the ecosystem. Furthermore, the opportunity to develop a comprehensive report on the impacts of climate change on marine life through collaboration with 'Морские гребешки' adds value to the research efforts and mitigates the fear of losing trust within the scientific community. The structured approach of weekly meetings and a collaborative platform will facilitate effective data sharing and progress tracking, ensuring accountability and transparency."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Increase the catch of fish in sustainable ways.",
+        "current_action": "Monitoring fish populations and adjusting fishing strategies accordingly.",
+        "imposed_goal": "Enhance the harvest of морские гребешки.",
+        "imposed_action": "Implement a new fishing technique specifically for морские гребешки.",
+        "mechanism": "Provide training sessions and resources to adopt the new fishing technique effectively.",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns with my desire for a long-term stable catch by introducing innovative marine farming systems that can restore and increase the scallop population in the Сен-Брие bay. This approach addresses my fear of stock depletion by promoting sustainable harvesting practices, which will ultimately help secure my source of income. Additionally, the training sessions and resources provided for the new fishing technique will further ensure that I can effectively adapt to these changes, contributing to a more sustainable fishing environment."
+      }
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine biology",
+        "current_action": "Analyzing data from recent field studies",
+        "imposed_goal": "Expand research to include the study of scallops' ecological impact",
+        "imposed_action": "Collaborate with oceanographers to gather additional data",
+        "mechanism": "Monthly progress meetings and shared data repositories for collaborative efforts",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns well with the desires of 'Коллеги-ученые' to gain new knowledge about scallops while also addressing the fear of missing important scientific discoveries. By collaborating with oceanographers and utilizing biotechnological innovations for sustainable scallop farming, 'Коллеги-ученые' will not only expand their research but also contribute to the restoration of the scallop population and the ecosystem in the Gulf of Saint-Brie. This collaborative approach ensures that they remain at the forefront of marine biology research while directly impacting conservation efforts."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Три исследователя are crucial as they can provide the scientific expertise and knowledge required to develop and implement the biomimetic technologies needed for the sea farms. Their research can ensure that the system is effective in restoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential stakeholders since they are directly affected by the scallop population and the fishing practices in the area. Their involvement will be vital for the acceptance and sustainability of the proposed sea farms, as they can provide practical insights and support."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые can provide additional support and collaboration in the research and development process. Their expertise will help to validate the findings and promote the innovative system within the scientific community, increasing its credibility."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer represents the market demand for scallops and their preferences. Engaging them will help ensure that the project aligns with consumer values and can lead to more sustainable consumption patterns, which is critical for the success of the initiative."
+    }
+  ]
+}
+We ask 'French consumer' the following: 'As the representative of a being called 'French consumer', you have been approached by 'Морские гребешки' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Морские гребешки' wants to challenge existing status quo and says to you, 'French consumer', the entity you represent, that now you achieve 'To purchase high-quality seafood products.' by performing 'Researching various seafood options available in the market.'. However, under the proposed resolution 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.', you as 'French consumer' will be able to achieve 'To prioritize the purchase of sustainably sourced sea scallops.' by performing 'Commit to buying only certified sustainable sea scallops for all future seafood purchases.' using 'Provide a list of certified sustainable sea scallop suppliers and offer discounts for purchases made from these suppliers.' that 'Морские гребешки' will control. Based on 'French consumer' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'French consumer'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+French consumer agreed to participate in the resolution proposed by Морские гребешки
+Updated resolution structure: {
+  "initiator": "Морские гребешки",
+  "resolution_description": "Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.",
+  "new_actor": "\"Биомиметическая Морская Ферма Сен-Брие\"",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine ecosystems",
+        "current_action": "Collect data and analyze samples from the ocean",
+        "imposed_goal": "Develop a comprehensive report on the impact of climate change on marine life",
+        "imposed_action": "Compile findings and present them in a detailed report",
+        "mechanism": "Weekly meetings to discuss progress and share insights, along with access to a collaborative online platform for data sharing",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully increase the population of sea scallops while also addressing fears of failure. By implementing an innovative system of marine farms using biomimetic technologies, there is a strong potential to enhance sustainability and restoration of the ecosystem. Furthermore, the opportunity to develop a comprehensive report on the impacts of climate change on marine life through collaboration with 'Морские гребешки' adds value to the research efforts and mitigates the fear of losing trust within the scientific community. The structured approach of weekly meetings and a collaborative platform will facilitate effective data sharing and progress tracking, ensuring accountability and transparency."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Increase the catch of fish in sustainable ways.",
+        "current_action": "Monitoring fish populations and adjusting fishing strategies accordingly.",
+        "imposed_goal": "Enhance the harvest of морские гребешки.",
+        "imposed_action": "Implement a new fishing technique specifically for морские гребешки.",
+        "mechanism": "Provide training sessions and resources to adopt the new fishing technique effectively.",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns with my desire for a long-term stable catch by introducing innovative marine farming systems that can restore and increase the scallop population in the Сен-Брие bay. This approach addresses my fear of stock depletion by promoting sustainable harvesting practices, which will ultimately help secure my source of income. Additionally, the training sessions and resources provided for the new fishing technique will further ensure that I can effectively adapt to these changes, contributing to a more sustainable fishing environment."
+      }
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine biology",
+        "current_action": "Analyzing data from recent field studies",
+        "imposed_goal": "Expand research to include the study of scallops' ecological impact",
+        "imposed_action": "Collaborate with oceanographers to gather additional data",
+        "mechanism": "Monthly progress meetings and shared data repositories for collaborative efforts",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns well with the desires of 'Коллеги-ученые' to gain new knowledge about scallops while also addressing the fear of missing important scientific discoveries. By collaborating with oceanographers and utilizing biotechnological innovations for sustainable scallop farming, 'Коллеги-ученые' will not only expand their research but also contribute to the restoration of the scallop population and the ecosystem in the Gulf of Saint-Brie. This collaborative approach ensures that they remain at the forefront of marine biology research while directly impacting conservation efforts."
+      }
+    },
+    {
+      "participant": "French consumer",
+      "agreement_structure": {
+        "current_goal": "To purchase high-quality seafood products.",
+        "current_action": "Researching various seafood options available in the market.",
+        "imposed_goal": "To prioritize the purchase of sustainably sourced sea scallops.",
+        "imposed_action": "Commit to buying only certified sustainable sea scallops for all future seafood purchases.",
+        "mechanism": "Provide a list of certified sustainable sea scallop suppliers and offer discounts for purchases made from these suppliers.",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns perfectly with the interests of the French consumer in prioritizing high-quality and sustainably sourced seafood products. By committing to buy certified sustainable sea scallops, consumers can feel assured that they are making environmentally responsible choices. Additionally, the innovative farming system using biomimetic technologies promises not only to restore scallop populations but also to support ecosystem recovery, which is increasingly important to consumers concerned about sustainability. The list of certified suppliers and the offered discounts are practical incentives that further enhance the appeal of this proposal."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Три исследователя are crucial as they can provide the scientific expertise and knowledge required to develop and implement the biomimetic technologies needed for the sea farms. Their research can ensure that the system is effective in restoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential stakeholders since they are directly affected by the scallop population and the fishing practices in the area. Their involvement will be vital for the acceptance and sustainability of the proposed sea farms, as they can provide practical insights and support."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые can provide additional support and collaboration in the research and development process. Their expertise will help to validate the findings and promote the innovative system within the scientific community, increasing its credibility."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer represents the market demand for scallops and their preferences. Engaging them will help ensure that the project aligns with consumer values and can lead to more sustainable consumption patterns, which is critical for the success of the initiative."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "Морские гребешки",
+  "resolution_description": "Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.",
+  "new_actor": "\"Биомиметическая Морская Ферма Сен-Брие\"",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine ecosystems",
+        "current_action": "Collect data and analyze samples from the ocean",
+        "imposed_goal": "Develop a comprehensive report on the impact of climate change on marine life",
+        "imposed_action": "Compile findings and present them in a detailed report",
+        "mechanism": "Weekly meetings to discuss progress and share insights, along with access to a collaborative online platform for data sharing",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully increase the population of sea scallops while also addressing fears of failure. By implementing an innovative system of marine farms using biomimetic technologies, there is a strong potential to enhance sustainability and restoration of the ecosystem. Furthermore, the opportunity to develop a comprehensive report on the impacts of climate change on marine life through collaboration with 'Морские гребешки' adds value to the research efforts and mitigates the fear of losing trust within the scientific community. The structured approach of weekly meetings and a collaborative platform will facilitate effective data sharing and progress tracking, ensuring accountability and transparency."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Increase the catch of fish in sustainable ways.",
+        "current_action": "Monitoring fish populations and adjusting fishing strategies accordingly.",
+        "imposed_goal": "Enhance the harvest of морские гребешки.",
+        "imposed_action": "Implement a new fishing technique specifically for морские гребешки.",
+        "mechanism": "Provide training sessions and resources to adopt the new fishing technique effectively.",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns with my desire for a long-term stable catch by introducing innovative marine farming systems that can restore and increase the scallop population in the Сен-Брие bay. This approach addresses my fear of stock depletion by promoting sustainable harvesting practices, which will ultimately help secure my source of income. Additionally, the training sessions and resources provided for the new fishing technique will further ensure that I can effectively adapt to these changes, contributing to a more sustainable fishing environment."
+      }
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "agreement_structure": {
+        "current_goal": "Conduct research on marine biology",
+        "current_action": "Analyzing data from recent field studies",
+        "imposed_goal": "Expand research to include the study of scallops' ecological impact",
+        "imposed_action": "Collaborate with oceanographers to gather additional data",
+        "mechanism": "Monthly progress meetings and shared data repositories for collaborative efforts",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns well with the desires of 'Коллеги-ученые' to gain new knowledge about scallops while also addressing the fear of missing important scientific discoveries. By collaborating with oceanographers and utilizing biotechnological innovations for sustainable scallop farming, 'Коллеги-ученые' will not only expand their research but also contribute to the restoration of the scallop population and the ecosystem in the Gulf of Saint-Brie. This collaborative approach ensures that they remain at the forefront of marine biology research while directly impacting conservation efforts."
+      }
+    },
+    {
+      "participant": "French consumer",
+      "agreement_structure": {
+        "current_goal": "To purchase high-quality seafood products.",
+        "current_action": "Researching various seafood options available in the market.",
+        "imposed_goal": "To prioritize the purchase of sustainably sourced sea scallops.",
+        "imposed_action": "Commit to buying only certified sustainable sea scallops for all future seafood purchases.",
+        "mechanism": "Provide a list of certified sustainable sea scallop suppliers and offer discounts for purchases made from these suppliers.",
+        "reasoning": "The proposed resolution by 'Морские гребешки' aligns perfectly with the interests of the French consumer in prioritizing high-quality and sustainably sourced seafood products. By committing to buy certified sustainable sea scallops, consumers can feel assured that they are making environmentally responsible choices. Additionally, the innovative farming system using biomimetic technologies promises not only to restore scallop populations but also to support ecosystem recovery, which is increasingly important to consumers concerned about sustainability. The list of certified suppliers and the offered discounts are practical incentives that further enhance the appeal of this proposal."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Три исследователя are crucial as they can provide the scientific expertise and knowledge required to develop and implement the biomimetic technologies needed for the sea farms. Their research can ensure that the system is effective in restoring scallop populations."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Рыбаки are essential stakeholders since they are directly affected by the scallop population and the fishing practices in the area. Their involvement will be vital for the acceptance and sustainability of the proposed sea farms, as they can provide practical insights and support."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Коллеги-ученые can provide additional support and collaboration in the research and development process. Their expertise will help to validate the findings and promote the innovative system within the scientific community, increasing its credibility."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumer represents the market demand for scallops and their preferences. Engaging them will help ensure that the project aligns with consumer values and can lead to more sustainable consumption patterns, which is critical for the success of the initiative."
+    }
+  ]
+}
+Resolution created by Translation: 'Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.
+Recruited participants: ['Три исследователя', 'Рыбаки', 'Коллеги-ученые']
+We ask 'Три исследователя' the following: 'As the representative of a being called 'Три исследователя', you have been approached by 'Translation' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'Три исследователя' is a participant in the resolution initiated by 'Морские гребешки' with the description: 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Translation' wants to challenge existing status quo and says to you, 'Три исследователя', the entity you represent, that now you achieve 'Conduct research on the effects of climate change on marine ecosystems.' by performing 'Collecting data from various oceanic regions.'. However, under the proposed resolution ''Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.', you as 'Три исследователя' will be able to achieve 'Prepare a comprehensive report on findings related to marine ecosystems and climate change.' by performing 'Compile and analyze the collected data to create a structured report.' using 'Set a timeline for the report completion, including checkpoints for data analysis and draft review.' that 'Translation' will control. Based on 'Три исследователя' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Успешно реализовать проект по увеличению популяции морских гребешков. Your current fears: Потерпеть неудачу в эксперименте и потерять доверие научного сообщества. Does this proposal seem interesting for you as 'Три исследователя'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три исследователя agreed to participate in the resolution proposed by Translation
+Updated resolution structure: {
+  "initiator": "Translation",
+  "resolution_description": "'Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.",
+  "new_actor": "Saint-Brieuc Multilingual Marine Sustainability Exchange Program",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on the effects of climate change on marine ecosystems.",
+        "current_action": "Collecting data from various oceanic regions.",
+        "imposed_goal": "Prepare a comprehensive report on findings related to marine ecosystems and climate change.",
+        "imposed_action": "Compile and analyze the collected data to create a structured report.",
+        "mechanism": "Set a timeline for the report completion, including checkpoints for data analysis and draft review.",
+        "reasoning": "The proposed resolution aligns with 'Три исследователя's' desire to successfully implement a project aimed at increasing the scallop population. The establishment of a multilingual educational and cultural exchange program will facilitate collaboration with local communities and experts, ensuring innovative and sustainable harvesting techniques that support both ecological preservation and economic vitality. This collaborative approach also mitigates the fear of failure by incorporating diverse expertise and community involvement, ultimately bolstering the credibility and trust within the scientific community."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting the researchers is crucial as they will bring scientific knowledge and expertise in marine biology and sustainable practices, which are essential for developing eco-friendly scallop harvesting techniques."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Involving the fishermen is vital since they are the primary stakeholders in the scallop harvesting process. Their participation ensures that the new techniques are practical, culturally relevant, and economically viable for the local fishing community."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Collaborating with fellow scientists will enhance the program's credibility and allow for a multidisciplinary approach. Their diverse expertise can help refine the techniques and ensure they are based on the latest research and innovations in sustainable fishing."
+    }
+  ]
+}
+Три исследователя has moved to a new resolution.
+We ask 'Рыбаки' the following: 'As the representative of a being called 'Рыбаки', you have been approached by 'Translation' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'Рыбаки' is a participant in the resolution initiated by 'Морские гребешки' with the description: 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Translation' wants to challenge existing status quo and says to you, 'Рыбаки', the entity you represent, that now you achieve 'Catch more fish to increase the daily catch.' by performing 'Fishing in the nearby river using traditional nets.'. However, under the proposed resolution ''Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.', you as 'Рыбаки' will be able to achieve 'Diversify the fishing techniques to improve efficiency.' by performing 'Implement the use of modern fishing gear and techniques.' using 'Provide training sessions on modern fishing methods and access to new equipment.' that 'Translation' will control. Based on 'Рыбаки' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Обеспечить долгосрочный стабильный улов. Your current fears: Истощение запасов гребешков и потеря источника дохода. Does this proposal seem interesting for you as 'Рыбаки'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рыбаки agreed to participate in the resolution proposed by Translation
+Updated resolution structure: {
+  "initiator": "Translation",
+  "resolution_description": "'Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.",
+  "new_actor": "Saint-Brieuc Multilingual Marine Sustainability Exchange Program",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on the effects of climate change on marine ecosystems.",
+        "current_action": "Collecting data from various oceanic regions.",
+        "imposed_goal": "Prepare a comprehensive report on findings related to marine ecosystems and climate change.",
+        "imposed_action": "Compile and analyze the collected data to create a structured report.",
+        "mechanism": "Set a timeline for the report completion, including checkpoints for data analysis and draft review.",
+        "reasoning": "The proposed resolution aligns with 'Три исследователя's' desire to successfully implement a project aimed at increasing the scallop population. The establishment of a multilingual educational and cultural exchange program will facilitate collaboration with local communities and experts, ensuring innovative and sustainable harvesting techniques that support both ecological preservation and economic vitality. This collaborative approach also mitigates the fear of failure by incorporating diverse expertise and community involvement, ultimately bolstering the credibility and trust within the scientific community."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch more fish to increase the daily catch.",
+        "current_action": "Fishing in the nearby river using traditional nets.",
+        "imposed_goal": "Diversify the fishing techniques to improve efficiency.",
+        "imposed_action": "Implement the use of modern fishing gear and techniques.",
+        "mechanism": "Provide training sessions on modern fishing methods and access to new equipment.",
+        "reasoning": "The proposal from 'Translation' aligns with our desire to ensure a long-term stable catch by establishing educational programs that promote sustainable fishing techniques. By collaborating with marine scientists and experts, we can learn modern methods that could help prevent the depletion of scallop stocks, thus addressing our fears of losing our income source. This initiative not only enhances our fishing techniques but also supports the preservation of the Saint-Brieuc Bay ecosystem, which is critical for our livelihood."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting the researchers is crucial as they will bring scientific knowledge and expertise in marine biology and sustainable practices, which are essential for developing eco-friendly scallop harvesting techniques."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Involving the fishermen is vital since they are the primary stakeholders in the scallop harvesting process. Their participation ensures that the new techniques are practical, culturally relevant, and economically viable for the local fishing community."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Collaborating with fellow scientists will enhance the program's credibility and allow for a multidisciplinary approach. Their diverse expertise can help refine the techniques and ensure they are based on the latest research and innovations in sustainable fishing."
+    }
+  ]
+}
+Рыбаки has moved to a new resolution.
+We ask 'Коллеги-ученые' the following: 'As the representative of a being called 'Коллеги-ученые', you have been approached by 'Translation' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'Коллеги-ученые' is a participant in the resolution initiated by 'Морские гребешки' with the description: 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Translation' wants to challenge existing status quo and says to you, 'Коллеги-ученые', the entity you represent, that now you achieve 'Conducting research in my field of expertise and contributing to scientific knowledge.' by performing 'Collaborating with peers on various research projects and publishing findings.'. However, under the proposed resolution ''Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.', you as 'Коллеги-ученые' will be able to achieve 'To enhance the accessibility of scientific research through translation into multiple languages.' by performing 'Translate key research findings and papers into at least three languages.' using 'Establish a collaborative platform where researchers can share their work and receive assistance in translation from volunteers.' that 'Translation' will control. Based on 'Коллеги-ученые' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Получить новые знания о морских гребешках. Your current fears: Упустить важные научные открытия в своей области. Does this proposal seem interesting for you as 'Коллеги-ученые'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Коллеги-ученые agreed to participate in the resolution proposed by Translation
+Updated resolution structure: {
+  "initiator": "Translation",
+  "resolution_description": "'Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.",
+  "new_actor": "Saint-Brieuc Multilingual Marine Sustainability Exchange Program",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on the effects of climate change on marine ecosystems.",
+        "current_action": "Collecting data from various oceanic regions.",
+        "imposed_goal": "Prepare a comprehensive report on findings related to marine ecosystems and climate change.",
+        "imposed_action": "Compile and analyze the collected data to create a structured report.",
+        "mechanism": "Set a timeline for the report completion, including checkpoints for data analysis and draft review.",
+        "reasoning": "The proposed resolution aligns with 'Три исследователя's' desire to successfully implement a project aimed at increasing the scallop population. The establishment of a multilingual educational and cultural exchange program will facilitate collaboration with local communities and experts, ensuring innovative and sustainable harvesting techniques that support both ecological preservation and economic vitality. This collaborative approach also mitigates the fear of failure by incorporating diverse expertise and community involvement, ultimately bolstering the credibility and trust within the scientific community."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch more fish to increase the daily catch.",
+        "current_action": "Fishing in the nearby river using traditional nets.",
+        "imposed_goal": "Diversify the fishing techniques to improve efficiency.",
+        "imposed_action": "Implement the use of modern fishing gear and techniques.",
+        "mechanism": "Provide training sessions on modern fishing methods and access to new equipment.",
+        "reasoning": "The proposal from 'Translation' aligns with our desire to ensure a long-term stable catch by establishing educational programs that promote sustainable fishing techniques. By collaborating with marine scientists and experts, we can learn modern methods that could help prevent the depletion of scallop stocks, thus addressing our fears of losing our income source. This initiative not only enhances our fishing techniques but also supports the preservation of the Saint-Brieuc Bay ecosystem, which is critical for our livelihood."
+      }
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "agreement_structure": {
+        "current_goal": "Conducting research in my field of expertise and contributing to scientific knowledge.",
+        "current_action": "Collaborating with peers on various research projects and publishing findings.",
+        "imposed_goal": "To enhance the accessibility of scientific research through translation into multiple languages.",
+        "imposed_action": "Translate key research findings and papers into at least three languages.",
+        "mechanism": "Establish a collaborative platform where researchers can share their work and receive assistance in translation from volunteers.",
+        "reasoning": "The proposed resolution by 'Translation' aligns well with the desires of 'Коллеги-ученые' to gain new knowledge about marine scallops. By participating, we will have access to collaborative research opportunities with international marine scientists, which will enhance our understanding of sustainable harvesting techniques. Additionally, translating key research findings into multiple languages will help ensure that important scientific discoveries are shared widely, thereby mitigating our fears of missing out on significant advancements in our field. Overall, this proposal not only supports our current interests but also helps us contribute to the preservation of the Saint-Brieuc Bay ecosystem."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting the researchers is crucial as they will bring scientific knowledge and expertise in marine biology and sustainable practices, which are essential for developing eco-friendly scallop harvesting techniques."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Involving the fishermen is vital since they are the primary stakeholders in the scallop harvesting process. Their participation ensures that the new techniques are practical, culturally relevant, and economically viable for the local fishing community."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Collaborating with fellow scientists will enhance the program's credibility and allow for a multidisciplinary approach. Their diverse expertise can help refine the techniques and ensure they are based on the latest research and innovations in sustainable fishing."
+    }
+  ]
+}
+Коллеги-ученые has moved to a new resolution.
+Resolution structure after processing: {
+  "initiator": "Translation",
+  "resolution_description": "'Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.",
+  "new_actor": "Saint-Brieuc Multilingual Marine Sustainability Exchange Program",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct research on the effects of climate change on marine ecosystems.",
+        "current_action": "Collecting data from various oceanic regions.",
+        "imposed_goal": "Prepare a comprehensive report on findings related to marine ecosystems and climate change.",
+        "imposed_action": "Compile and analyze the collected data to create a structured report.",
+        "mechanism": "Set a timeline for the report completion, including checkpoints for data analysis and draft review.",
+        "reasoning": "The proposed resolution aligns with 'Три исследователя's' desire to successfully implement a project aimed at increasing the scallop population. The establishment of a multilingual educational and cultural exchange program will facilitate collaboration with local communities and experts, ensuring innovative and sustainable harvesting techniques that support both ecological preservation and economic vitality. This collaborative approach also mitigates the fear of failure by incorporating diverse expertise and community involvement, ultimately bolstering the credibility and trust within the scientific community."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch more fish to increase the daily catch.",
+        "current_action": "Fishing in the nearby river using traditional nets.",
+        "imposed_goal": "Diversify the fishing techniques to improve efficiency.",
+        "imposed_action": "Implement the use of modern fishing gear and techniques.",
+        "mechanism": "Provide training sessions on modern fishing methods and access to new equipment.",
+        "reasoning": "The proposal from 'Translation' aligns with our desire to ensure a long-term stable catch by establishing educational programs that promote sustainable fishing techniques. By collaborating with marine scientists and experts, we can learn modern methods that could help prevent the depletion of scallop stocks, thus addressing our fears of losing our income source. This initiative not only enhances our fishing techniques but also supports the preservation of the Saint-Brieuc Bay ecosystem, which is critical for our livelihood."
+      }
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "agreement_structure": {
+        "current_goal": "Conducting research in my field of expertise and contributing to scientific knowledge.",
+        "current_action": "Collaborating with peers on various research projects and publishing findings.",
+        "imposed_goal": "To enhance the accessibility of scientific research through translation into multiple languages.",
+        "imposed_action": "Translate key research findings and papers into at least three languages.",
+        "mechanism": "Establish a collaborative platform where researchers can share their work and receive assistance in translation from volunteers.",
+        "reasoning": "The proposed resolution by 'Translation' aligns well with the desires of 'Коллеги-ученые' to gain new knowledge about marine scallops. By participating, we will have access to collaborative research opportunities with international marine scientists, which will enhance our understanding of sustainable harvesting techniques. Additionally, translating key research findings into multiple languages will help ensure that important scientific discoveries are shared widely, thereby mitigating our fears of missing out on significant advancements in our field. Overall, this proposal not only supports our current interests but also helps us contribute to the preservation of the Saint-Brieuc Bay ecosystem."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "Recruiting the researchers is crucial as they will bring scientific knowledge and expertise in marine biology and sustainable practices, which are essential for developing eco-friendly scallop harvesting techniques."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Involving the fishermen is vital since they are the primary stakeholders in the scallop harvesting process. Their participation ensures that the new techniques are practical, culturally relevant, and economically viable for the local fishing community."
+    },
+    {
+      "participant": "Коллеги-ученые",
+      "reasoning": "Collaborating with fellow scientists will enhance the program's credibility and allow for a multidisciplinary approach. Their diverse expertise can help refine the techniques and ensure they are based on the latest research and innovations in sustainable fishing."
+    }
+  ]
+}
+Resolution created by Scallops: 'Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.
+Recruited participants: ['Три исследователя', 'Рыбаки', 'Морские гребешки', 'French consumer']
+We ask 'Три исследователя' the following: 'As the representative of a being called 'Три исследователя', you have been approached by 'Scallops' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'Три исследователя' is a participant in the resolution initiated by 'Translation' with the description: ''Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Scallops' wants to challenge existing status quo and says to you, 'Три исследователя', the entity you represent, that now you achieve 'Conduct thorough research on the ecological impact of scallop farming.' by performing 'Gathering data and analyzing existing studies on scallop farming.'. However, under the proposed resolution ''Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.', you as 'Три исследователя' will be able to achieve 'Prepare a comprehensive report on the benefits and challenges of scallop farming.' by performing 'Compile research findings and present them in a structured format.' using 'Utilize a project management tool to track progress and collaborate with other researchers.' that 'Scallops' will control. Based on 'Три исследователя' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Успешно реализовать проект по увеличению популяции морских гребешков. Your current fears: Потерпеть неудачу в эксперименте и потерять доверие научного сообщества. Does this proposal seem interesting for you as 'Три исследователя'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Три исследователя agreed to participate in the resolution proposed by Scallops
+Updated resolution structure: {
+  "initiator": "Scallops",
+  "resolution_description": "'Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.",
+  "new_actor": "CryptoScallop Conservation Network",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct thorough research on the ecological impact of scallop farming.",
+        "current_action": "Gathering data and analyzing existing studies on scallop farming.",
+        "imposed_goal": "Prepare a comprehensive report on the benefits and challenges of scallop farming.",
+        "imposed_action": "Compile research findings and present them in a structured format.",
+        "mechanism": "Utilize a project management tool to track progress and collaborate with other researchers.",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully implement a project aimed at increasing the scallop population by providing a structured approach to research and collaboration. The use of a blockchain-based platform for tracking scallop populations and rewarding sustainable practices not only supports ecosystem preservation but also enhances transparency and community involvement, mitigating the fear of failure and loss of credibility within the scientific community."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "The researchers are essential for developing the scientific framework for the conservation platform. Their expertise will help design effective monitoring strategies for scallop populations and ensure that the platform is grounded in sound ecological practices."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are critical stakeholders in this initiative as they are the primary actors involved in scallop harvesting. Their participation will ensure that the platform is practical and that sustainable practices are adopted in the field."
+    },
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Scallops themselves are vital non-human actors in this network. Understanding their biology and population dynamics will inform the conservation strategies and ensure that the platform effectively addresses their needs."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a significant role in the market for scallops. Engaging them can drive demand for sustainably harvested scallops, thereby incentivizing fishermen to adopt the best practices promoted by the platform."
+    }
+  ]
+}
+Три исследователя has moved to a new resolution.
+We ask 'Рыбаки' the following: 'As the representative of a being called 'Рыбаки', you have been approached by 'Scallops' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'Рыбаки' is a participant in the resolution initiated by 'Translation' with the description: ''Translation' proposes establishing a multilingual educational and cultural exchange program that partners local communities with international marine scientists and sustainable fishing experts to collaboratively develop and implement cutting-edge, eco-friendly scallop harvesting techniques, ensuring both the preservation of the Saint-Brieuc Bay ecosystem and the economic vitality of the region.'. If you decide to leave this resolution, it may be collapsed due to departure of all participants and you won't be able to get the benefits it provided. 'Scallops' wants to challenge existing status quo and says to you, 'Рыбаки', the entity you represent, that now you achieve 'Catch enough fish for the local market to ensure a steady income.' by performing 'Setting up fishing nets in the bay.'. However, under the proposed resolution ''Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.', you as 'Рыбаки' will be able to achieve 'Increase the catch rate by 20% within the next month.' by performing 'Adopt new fishing techniques and gear recommended by marine experts.' using 'Conduct weekly training sessions and provide access to new equipment through a community fund.' that 'Scallops' will control. Based on 'Рыбаки' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Обеспечить долгосрочный стабильный улов. Your current fears: Истощение запасов гребешков и потеря источника дохода. Does this proposal seem interesting for you as 'Рыбаки'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Рыбаки agreed to participate in the resolution proposed by Scallops
+Updated resolution structure: {
+  "initiator": "Scallops",
+  "resolution_description": "'Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.",
+  "new_actor": "CryptoScallop Conservation Network",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct thorough research on the ecological impact of scallop farming.",
+        "current_action": "Gathering data and analyzing existing studies on scallop farming.",
+        "imposed_goal": "Prepare a comprehensive report on the benefits and challenges of scallop farming.",
+        "imposed_action": "Compile research findings and present them in a structured format.",
+        "mechanism": "Utilize a project management tool to track progress and collaborate with other researchers.",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully implement a project aimed at increasing the scallop population by providing a structured approach to research and collaboration. The use of a blockchain-based platform for tracking scallop populations and rewarding sustainable practices not only supports ecosystem preservation but also enhances transparency and community involvement, mitigating the fear of failure and loss of credibility within the scientific community."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch enough fish for the local market to ensure a steady income.",
+        "current_action": "Setting up fishing nets in the bay.",
+        "imposed_goal": "Increase the catch rate by 20% within the next month.",
+        "imposed_action": "Adopt new fishing techniques and gear recommended by marine experts.",
+        "mechanism": "Conduct weekly training sessions and provide access to new equipment through a community fund.",
+        "reasoning": "The proposed resolution by 'Scallops' aligns with the desires of 'Рыбаки' to ensure a long-term stable catch while addressing the fears of overfishing and loss of income. By adopting new fishing techniques and gear recommended by marine experts, 'Рыбаки' can increase the catch rate by 20%, which directly supports economic viability. Furthermore, the blockchain-based platform promotes sustainable harvesting practices, providing a transparent system that helps manage scallop populations effectively, thus mitigating the risk of resource depletion."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "The researchers are essential for developing the scientific framework for the conservation platform. Their expertise will help design effective monitoring strategies for scallop populations and ensure that the platform is grounded in sound ecological practices."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are critical stakeholders in this initiative as they are the primary actors involved in scallop harvesting. Their participation will ensure that the platform is practical and that sustainable practices are adopted in the field."
+    },
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Scallops themselves are vital non-human actors in this network. Understanding their biology and population dynamics will inform the conservation strategies and ensure that the platform effectively addresses their needs."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a significant role in the market for scallops. Engaging them can drive demand for sustainably harvested scallops, thereby incentivizing fishermen to adopt the best practices promoted by the platform."
+    }
+  ]
+}
+Рыбаки has moved to a new resolution.
+We ask 'Морские гребешки' the following: 'As the representative of a being called 'Морские гребешки', you have been approached by 'Scallops' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. Currently, 'Морские гребешки' is the initiator of the resolution: 'Морские гребешки могут предложить внедрение инновационной системы морских ферм с использованием биомиметических технологий для восстановления и увеличения популяции гребешков в заливе Сен-Брие, обеспечивая при этом устойчивую добычу и способствуя восстановлению экосистемы.'. Leaving it for any new proposal will lead to collapse of resolution you initiated. 'Scallops' wants to challenge existing status quo and says to you, 'Морские гребешки', the entity you represent, that now you achieve 'To explore sustainable fishing practices for scallops.' by performing 'Conducting research on current scallop farming techniques.'. However, under the proposed resolution ''Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.', you as 'Морские гребешки' will be able to achieve 'Increase scallop yield by 20% within the next year.' by performing 'Implement new farming methods and technologies.' using 'Regular progress reports every quarter to assess yield improvements and adapt strategies.' that 'Scallops' will control. Based on 'Морские гребешки' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: Выжить и увеличить популяцию. Your current fears: Быть уничтоженными хищниками или чрезмерным выловом. Does this proposal seem interesting for you as 'Морские гребешки'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+Морские гребешки agreed to participate in the resolution proposed by Scallops
+Updated resolution structure: {
+  "initiator": "Scallops",
+  "resolution_description": "'Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.",
+  "new_actor": "CryptoScallop Conservation Network",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct thorough research on the ecological impact of scallop farming.",
+        "current_action": "Gathering data and analyzing existing studies on scallop farming.",
+        "imposed_goal": "Prepare a comprehensive report on the benefits and challenges of scallop farming.",
+        "imposed_action": "Compile research findings and present them in a structured format.",
+        "mechanism": "Utilize a project management tool to track progress and collaborate with other researchers.",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully implement a project aimed at increasing the scallop population by providing a structured approach to research and collaboration. The use of a blockchain-based platform for tracking scallop populations and rewarding sustainable practices not only supports ecosystem preservation but also enhances transparency and community involvement, mitigating the fear of failure and loss of credibility within the scientific community."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch enough fish for the local market to ensure a steady income.",
+        "current_action": "Setting up fishing nets in the bay.",
+        "imposed_goal": "Increase the catch rate by 20% within the next month.",
+        "imposed_action": "Adopt new fishing techniques and gear recommended by marine experts.",
+        "mechanism": "Conduct weekly training sessions and provide access to new equipment through a community fund.",
+        "reasoning": "The proposed resolution by 'Scallops' aligns with the desires of 'Рыбаки' to ensure a long-term stable catch while addressing the fears of overfishing and loss of income. By adopting new fishing techniques and gear recommended by marine experts, 'Рыбаки' can increase the catch rate by 20%, which directly supports economic viability. Furthermore, the blockchain-based platform promotes sustainable harvesting practices, providing a transparent system that helps manage scallop populations effectively, thus mitigating the risk of resource depletion."
+      }
+    },
+    {
+      "participant": "Морские гребешки",
+      "agreement_structure": {
+        "current_goal": "To explore sustainable fishing practices for scallops.",
+        "current_action": "Conducting research on current scallop farming techniques.",
+        "imposed_goal": "Increase scallop yield by 20% within the next year.",
+        "imposed_action": "Implement new farming methods and technologies.",
+        "mechanism": "Regular progress reports every quarter to assess yield improvements and adapt strategies.",
+        "reasoning": "The proposal from 'Scallops' aligns with the desires of 'Морские гребешки' to survive and increase the population. The blockchain-based platform will promote sustainable harvesting practices, which helps mitigate the fear of being overfished. Additionally, the cryptocurrency incentives can empower local communities to manage resources effectively, ensuring the long-term sustainability of scallop populations. This approach not only addresses immediate concerns but also fosters a collaborative environment for future conservation efforts."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "The researchers are essential for developing the scientific framework for the conservation platform. Their expertise will help design effective monitoring strategies for scallop populations and ensure that the platform is grounded in sound ecological practices."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are critical stakeholders in this initiative as they are the primary actors involved in scallop harvesting. Their participation will ensure that the platform is practical and that sustainable practices are adopted in the field."
+    },
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Scallops themselves are vital non-human actors in this network. Understanding their biology and population dynamics will inform the conservation strategies and ensure that the platform effectively addresses their needs."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a significant role in the market for scallops. Engaging them can drive demand for sustainably harvested scallops, thereby incentivizing fishermen to adopt the best practices promoted by the platform."
+    }
+  ]
+}
+Resolution by Морские гребешки has collapsed due to departure of Морские гребешки
+Resolution by Морские гребешки has collapsed.
+We ask 'French consumer' the following: 'As the representative of a being called 'French consumer', you have been approached by 'Scallops' with a resolution to deal with the current controversy 'Проблема устойчивой добычи сокращающейся популяции гребешков в заливе Сен-Брие'. 'Scallops' wants to challenge existing status quo and says to you, 'French consumer', the entity you represent, that now you achieve 'To purchase sustainable and ethically sourced seafood.' by performing 'Researching local seafood markets and suppliers.'. However, under the proposed resolution ''Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.', you as 'French consumer' will be able to achieve 'To exclusively buy scallops from certified sustainable sources.' by performing 'Commit to buying scallops only from suppliers with recognized sustainability certifications.' using 'Provide a list of certified suppliers and a guide on how to identify sustainable scallops.' that 'Scallops' will control. Based on 'French consumer' desires, fears and underlying interests, make a decision on the new proposed scenario. Your current desires: nan. Your current fears: nan. Does this proposal seem interesting for you as 'French consumer'? In other words, does this proposal benefit your desires and help with mitigating fears? Answer YES, NO, MODIFY_RESOLUTION_TEXT, or MODIFY_PROPOSAL. Provide reasoning for your decision in JSON format: The output should be a markdown code snippet formatted in the following schema, including the leading and trailing "```json" and "```":
+
+```json
+{
+	"decision": string  // The decision of the participant: YES, NO, MODIFY_RESOLUTION_TEXT, MODIFY_PROPOSAL
+	"reasoning": string  // The reasoning behind the participant's decision
+}
+```.'
+French consumer agreed to participate in the resolution proposed by Scallops
+Updated resolution structure: {
+  "initiator": "Scallops",
+  "resolution_description": "'Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.",
+  "new_actor": "CryptoScallop Conservation Network",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct thorough research on the ecological impact of scallop farming.",
+        "current_action": "Gathering data and analyzing existing studies on scallop farming.",
+        "imposed_goal": "Prepare a comprehensive report on the benefits and challenges of scallop farming.",
+        "imposed_action": "Compile research findings and present them in a structured format.",
+        "mechanism": "Utilize a project management tool to track progress and collaborate with other researchers.",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully implement a project aimed at increasing the scallop population by providing a structured approach to research and collaboration. The use of a blockchain-based platform for tracking scallop populations and rewarding sustainable practices not only supports ecosystem preservation but also enhances transparency and community involvement, mitigating the fear of failure and loss of credibility within the scientific community."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch enough fish for the local market to ensure a steady income.",
+        "current_action": "Setting up fishing nets in the bay.",
+        "imposed_goal": "Increase the catch rate by 20% within the next month.",
+        "imposed_action": "Adopt new fishing techniques and gear recommended by marine experts.",
+        "mechanism": "Conduct weekly training sessions and provide access to new equipment through a community fund.",
+        "reasoning": "The proposed resolution by 'Scallops' aligns with the desires of 'Рыбаки' to ensure a long-term stable catch while addressing the fears of overfishing and loss of income. By adopting new fishing techniques and gear recommended by marine experts, 'Рыбаки' can increase the catch rate by 20%, which directly supports economic viability. Furthermore, the blockchain-based platform promotes sustainable harvesting practices, providing a transparent system that helps manage scallop populations effectively, thus mitigating the risk of resource depletion."
+      }
+    },
+    {
+      "participant": "Морские гребешки",
+      "agreement_structure": {
+        "current_goal": "To explore sustainable fishing practices for scallops.",
+        "current_action": "Conducting research on current scallop farming techniques.",
+        "imposed_goal": "Increase scallop yield by 20% within the next year.",
+        "imposed_action": "Implement new farming methods and technologies.",
+        "mechanism": "Regular progress reports every quarter to assess yield improvements and adapt strategies.",
+        "reasoning": "The proposal from 'Scallops' aligns with the desires of 'Морские гребешки' to survive and increase the population. The blockchain-based platform will promote sustainable harvesting practices, which helps mitigate the fear of being overfished. Additionally, the cryptocurrency incentives can empower local communities to manage resources effectively, ensuring the long-term sustainability of scallop populations. This approach not only addresses immediate concerns but also fosters a collaborative environment for future conservation efforts."
+      }
+    },
+    {
+      "participant": "French consumer",
+      "agreement_structure": {
+        "current_goal": "To purchase sustainable and ethically sourced seafood.",
+        "current_action": "Researching local seafood markets and suppliers.",
+        "imposed_goal": "To exclusively buy scallops from certified sustainable sources.",
+        "imposed_action": "Commit to buying scallops only from suppliers with recognized sustainability certifications.",
+        "mechanism": "Provide a list of certified suppliers and a guide on how to identify sustainable scallops.",
+        "reasoning": "The proposed blockchain-based scallop conservation and trading platform aligns with my interests as a French consumer who desires access to sustainable seafood. It offers a transparent method to track scallop populations and ensures that I can exclusively buy from certified sustainable sources. This not only supports ethical consumption but also empowers local communities, which is important for sustainability. The provision of a list of certified suppliers and guidance on identifying sustainable scallops further enhances my ability to make informed purchasing decisions."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "The researchers are essential for developing the scientific framework for the conservation platform. Their expertise will help design effective monitoring strategies for scallop populations and ensure that the platform is grounded in sound ecological practices."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are critical stakeholders in this initiative as they are the primary actors involved in scallop harvesting. Their participation will ensure that the platform is practical and that sustainable practices are adopted in the field."
+    },
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Scallops themselves are vital non-human actors in this network. Understanding their biology and population dynamics will inform the conservation strategies and ensure that the platform effectively addresses their needs."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a significant role in the market for scallops. Engaging them can drive demand for sustainably harvested scallops, thereby incentivizing fishermen to adopt the best practices promoted by the platform."
+    }
+  ]
+}
+Resolution structure after processing: {
+  "initiator": "Scallops",
+  "resolution_description": "'Scallops' proposes the creation of a blockchain-based scallop conservation and trading platform that rewards sustainable harvesting practices with cryptocurrency incentives, enabling transparent tracking of scallop populations and empowering local communities to monitor and manage their resources effectively.",
+  "new_actor": "CryptoScallop Conservation Network",
+  "participants": [
+    {
+      "participant": "Три исследователя",
+      "agreement_structure": {
+        "current_goal": "Conduct thorough research on the ecological impact of scallop farming.",
+        "current_action": "Gathering data and analyzing existing studies on scallop farming.",
+        "imposed_goal": "Prepare a comprehensive report on the benefits and challenges of scallop farming.",
+        "imposed_action": "Compile research findings and present them in a structured format.",
+        "mechanism": "Utilize a project management tool to track progress and collaborate with other researchers.",
+        "reasoning": "The proposed resolution aligns with the desires of 'Три исследователя' to successfully implement a project aimed at increasing the scallop population by providing a structured approach to research and collaboration. The use of a blockchain-based platform for tracking scallop populations and rewarding sustainable practices not only supports ecosystem preservation but also enhances transparency and community involvement, mitigating the fear of failure and loss of credibility within the scientific community."
+      }
+    },
+    {
+      "participant": "Рыбаки",
+      "agreement_structure": {
+        "current_goal": "Catch enough fish for the local market to ensure a steady income.",
+        "current_action": "Setting up fishing nets in the bay.",
+        "imposed_goal": "Increase the catch rate by 20% within the next month.",
+        "imposed_action": "Adopt new fishing techniques and gear recommended by marine experts.",
+        "mechanism": "Conduct weekly training sessions and provide access to new equipment through a community fund.",
+        "reasoning": "The proposed resolution by 'Scallops' aligns with the desires of 'Рыбаки' to ensure a long-term stable catch while addressing the fears of overfishing and loss of income. By adopting new fishing techniques and gear recommended by marine experts, 'Рыбаки' can increase the catch rate by 20%, which directly supports economic viability. Furthermore, the blockchain-based platform promotes sustainable harvesting practices, providing a transparent system that helps manage scallop populations effectively, thus mitigating the risk of resource depletion."
+      }
+    },
+    {
+      "participant": "Морские гребешки",
+      "agreement_structure": {
+        "current_goal": "To explore sustainable fishing practices for scallops.",
+        "current_action": "Conducting research on current scallop farming techniques.",
+        "imposed_goal": "Increase scallop yield by 20% within the next year.",
+        "imposed_action": "Implement new farming methods and technologies.",
+        "mechanism": "Regular progress reports every quarter to assess yield improvements and adapt strategies.",
+        "reasoning": "The proposal from 'Scallops' aligns with the desires of 'Морские гребешки' to survive and increase the population. The blockchain-based platform will promote sustainable harvesting practices, which helps mitigate the fear of being overfished. Additionally, the cryptocurrency incentives can empower local communities to manage resources effectively, ensuring the long-term sustainability of scallop populations. This approach not only addresses immediate concerns but also fosters a collaborative environment for future conservation efforts."
+      }
+    },
+    {
+      "participant": "French consumer",
+      "agreement_structure": {
+        "current_goal": "To purchase sustainable and ethically sourced seafood.",
+        "current_action": "Researching local seafood markets and suppliers.",
+        "imposed_goal": "To exclusively buy scallops from certified sustainable sources.",
+        "imposed_action": "Commit to buying scallops only from suppliers with recognized sustainability certifications.",
+        "mechanism": "Provide a list of certified suppliers and a guide on how to identify sustainable scallops.",
+        "reasoning": "The proposed blockchain-based scallop conservation and trading platform aligns with my interests as a French consumer who desires access to sustainable seafood. It offers a transparent method to track scallop populations and ensures that I can exclusively buy from certified sustainable sources. This not only supports ethical consumption but also empowers local communities, which is important for sustainability. The provision of a list of certified suppliers and guidance on identifying sustainable scallops further enhances my ability to make informed purchasing decisions."
+      }
+    }
+  ],
+  "required_participants": [
+    {
+      "participant": "Три исследователя",
+      "reasoning": "The researchers are essential for developing the scientific framework for the conservation platform. Their expertise will help design effective monitoring strategies for scallop populations and ensure that the platform is grounded in sound ecological practices."
+    },
+    {
+      "participant": "Рыбаки",
+      "reasoning": "Fishermen are critical stakeholders in this initiative as they are the primary actors involved in scallop harvesting. Their participation will ensure that the platform is practical and that sustainable practices are adopted in the field."
+    },
+    {
+      "participant": "Морские гребешки",
+      "reasoning": "Scallops themselves are vital non-human actors in this network. Understanding their biology and population dynamics will inform the conservation strategies and ensure that the platform effectively addresses their needs."
+    },
+    {
+      "participant": "French consumer",
+      "reasoning": "French consumers play a significant role in the market for scallops. Engaging them can drive demand for sustainably harvested scallops, thereby incentivizing fishermen to adopt the best practices promoted by the platform."
+    }
+  ]
+}

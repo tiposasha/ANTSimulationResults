@@ -1,0 +1,74 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: Develop a peer-led collaborative assessment framework where students co-create evaluation criteria and engage in continuous feedback loops, ensuring assessments reflect authentic understanding and uphold academic integrity by fostering a community of trust and accountability.",
+        "new_actor": "Peer-Collaborative Assessment Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including educators and researchers, can provide valuable insights and best practices for implementing the peer-led framework. Their collaboration can enhance the credibility and effectiveness of the assessment process."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can support the development of the assessment framework by providing data analytics and insights into student performance, facilitating continuous feedback loops, and promoting personalized learning experiences that uphold academic integrity."
+            }
+        ],
+        "recruited_sources": [
+            "Educational Institutions",
+            "Academic Institutions",
+            "Plagiarism",
+            "Plagiarism Detection Software"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Plagiarism",
+                "Academic Institutions",
+                "Educational Institutions",
+                "Plagiarism Detection Software"
+            ]
+        }
+    },
+    {
+        "initiator": "Survey researchers",
+        "resolution_description": "Initiator: Survey Researchers, Resolution: Develop a holistic assessment system that integrates real-time feedback from diverse stakeholders—students, educators, and industry experts—through continuous surveys, ensuring a comprehensive reflection of students' knowledge, skills, and real-world applicability.",
+        "new_actor": "Integrated Feedback Assessment System (IFAS) Actor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers represent the industry perspective and can provide essential feedback on the skills and knowledge they require from graduates. Their input will help to ensure that the assessment system reflects real-world applicability and prepares students for the job market."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies can facilitate the collection and analysis of real-time feedback from various stakeholders. Integrating such technologies will enhance the assessment system's efficiency and effectiveness in capturing diverse perspectives."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Create a mentorship-driven assessment model where teachers and students collaboratively design personalized learning journeys, incorporating project-based evaluations and reflective practices that align with each student's unique strengths and learning objectives, thus ensuring a deeper, more authentic understanding of knowledge beyond traditional metrics.",
+        "new_actor": "Mentorship-Driven Learning Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are essential for the mentorship-driven assessment model as their involvement is crucial for designing personalized learning journeys. Their feedback and participation will ensure that the model meets their unique needs and strengths."
+            },
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers play a pivotal role in the implementation of this resolution. Their expertise and collaboration with students in creating assessments and learning journeys are vital for the success of the model."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, educators, and researchers can provide valuable insights, best practices, and support for the development and evaluation of the mentorship-driven assessment model, ensuring it is grounded in educational research and collective experience."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can enhance the personalized learning journeys by providing data-driven insights and adaptive learning experiences that cater to individual student needs, making the assessment model more effective and engaging."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

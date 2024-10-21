@@ -1,0 +1,123 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial as they have the expertise to create a viable pathway through the lawn that aligns with aesthetic and functional requirements."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration's support is vital for implementing the resolution, as they can provide the necessary permissions and resources to create the pathway."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Engaging with the concept of a smart city is important to incorporate innovative solutions and technologies that can enhance the pathway's functionality and user experience."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "Implement adaptive urban landscapes that dynamically change pathways and spaces using real-time user data and preferences to ensure that urban designs continuously evolve to meet the needs and interests of their users.",
+        "new_actor": "Adaptive Urban Landscape Designer (AULD)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are crucial as they will implement the adaptive urban landscapes and ensure that user data and preferences are integrated into the design process."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "The Smart City initiative will provide the technological framework needed to collect real-time user data and facilitate dynamic changes in urban landscapes based on user interactions."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a key role in policy-making and funding, which are essential for the successful implementation and sustainability of adaptive urban landscapes."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can help align the adaptive urban designs with the interests of tourists, ensuring that urban spaces cater to both residents and visitors, enhancing the overall experience of the city."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "As \"Gastronomic Trail,\" create a network of dynamic, community-driven culinary hubs that double as adaptable urban spaces, where pathways and areas organically evolve based on the movement and preferences of food-seeking pedestrians, thereby fostering a symbiotic relationship between gastronomy and urban design that continually aligns with user interests.",
+        "new_actor": "Culinary Urban Nexus Network (CUNN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscaping is crucial to ensure that the culinary hubs are designed in a way that is both functional and aesthetically pleasing. Their expertise will help create adaptable urban spaces that can evolve based on pedestrian movement and preferences."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating the sustainability concept is essential for the long-term viability of the Gastronomic Trail. This participant will help ensure that the culinary hubs are environmentally friendly and promote sustainable practices within the urban landscape."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are vital for promoting the Gastronomic Trail to visitors. Their involvement will help attract food-seeking pedestrians and integrate the culinary hubs into the broader tourism strategy of the city."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Engaging with the Smart City initiative will allow for the integration of technology in monitoring pedestrian movement and user preferences. This data-driven approach will ensure that the urban spaces adapt dynamically to the needs of the community."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Cities",
+        "resolution_description": "As \"Cities,\" create a decentralized, participatory urban platform that empowers residents to co-design their neighborhoods in real-time through augmented reality interfaces, allowing for instant feedback and iterative modifications that reflect collective user interests and create a constantly evolving urban environment that inherently adapts to its inhabitants' needs.",
+        "new_actor": "The actor created would be named \"AR Urban Co-Designer.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is essential as they possess the expertise to guide the co-design process, ensuring that the augmented reality interfaces effectively translate user feedback into feasible urban modifications."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "Engaging with the administration is crucial for gaining the necessary support and resources for the platform, facilitating collaboration across departments, and ensuring that the co-design efforts align with existing urban policies and regulations."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Involving smart city initiatives will enhance the technological infrastructure of the platform, allowing for sophisticated data collection and analysis, which is vital for real-time feedback and iterative modifications to the urban environment."
+            },
+            {
+                "participant": "Места предполагаемого интереса",
+                "reasoning": "Including places of interest is important as they are central to residents' experiences and engagement. Their integration into the platform will help prioritize areas for improvement and ensure that the design modifications resonate with community interests."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "As \"African Cities,\" harness the power of indigenous knowledge systems and community-driven storytelling to create a living urban tapestry, where city spaces are dynamically transformed into vibrant cultural landscapes that reflect the diverse narratives, histories, and aspirations of their inhabitants, promoting an organic and inclusive evolution of urban environments that inherently align with user interests.",
+        "new_actor": "The new actor created would be named \"Indigenous Urban Storyweavers.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is essential as they play a crucial role in integrating indigenous knowledge systems and community-driven storytelling into urban design. Their expertise will help create spaces that reflect the cultural narratives and aspirations of the inhabitants."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important as they can promote the cultural landscapes created by the new urban tapestry. They can help attract visitors and generate interest in these vibrant spaces, ensuring that the narratives of local communities are shared and appreciated."
+            },
+            {
+                "participant": "Места предполагаемого интереса",
+                "reasoning": "Identifying places of interest is vital for the project, as these locations will serve as focal points for community-driven storytelling and cultural expression. Highlighting these sites can enhance the vibrancy of the urban environment and encourage community engagement."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating the sustainability concept is key to ensuring that the transformation of urban spaces is not only culturally rich but also environmentally responsible. This will promote a long-term vision for urban development that is inclusive and beneficial for future generations."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

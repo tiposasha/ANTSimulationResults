@@ -1,0 +1,175 @@
+[
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by implementing a blockchain-based verification system that ensures transparency and authenticity, rewarding users for genuine contributions with a proprietary cryptocurrency.\"",
+        "new_actor": "TripAdvisor Blockchain Verification System",
+        "participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "To find the best travel destinations based on customer reviews.",
+                    "current_action": "Reading and comparing reviews on TripAdvisor.",
+                    "imposed_goal": "To submit a review for at least three destinations visited in the past year.",
+                    "imposed_action": "Writing and posting detailed reviews on TripAdvisor.",
+                    "mechanism": "Incentivizing users with badges and discounts for submitting reviews.",
+                    "reasoning": "The proposed blockchain-based verification system addresses my fears of unreliable reviews and ensures that I can find quality restaurants. By incentivizing genuine contributions through a cryptocurrency reward system, I am motivated to share honest experiences, which also helps others avoid disappointments during their travels. This aligns perfectly with my desire to find quality dining options and enhances the overall travel experience.",
+                    "recruited_sources": [
+                        "Рестораны",
+                        "Некачественные рестораны",
+                        "Рестораны с высокими рейтингами"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourist customers are essential as they are the primary users of the platform. Their trust in the system and willingness to engage with the cryptocurrency rewards will drive the success and adoption of the new verification system."
+            }
+        ],
+        "recruited_sources": [
+            "Рестораны с высокими рейтингами",
+            "Рестораны",
+            "Hotel Owners",
+            "Некачественные рестораны",
+            "User Reviews",
+            "Small businesses in the hospitality sector",
+            "Social Media Influencers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Small businesses in the hospitality sector",
+                "Social Media Influencers",
+                "Hotel Owners",
+                "User Reviews"
+            ]
+        }
+    },
+    {
+        "initiator": "Рестораны",
+        "resolution_description": "\"Рестораны could revolutionize the fight against fake reviews by creating a global alliance of restaurants that collectively utilize AI-driven sentiment analysis to authenticate customer feedback, while offering exclusive dining experiences to verified reviewers as a means of incentivizing honesty and building a trusted community.\"",
+        "new_actor": "Global AI-Verified Dining Alliance",
+        "participants": [
+            {
+                "participant": "Restaurants",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction and retention",
+                    "current_action": "Implementing new menu items based on customer feedback",
+                    "imposed_goal": "Achieve a 20% increase in customer visits within the next quarter",
+                    "imposed_action": "Launch a targeted marketing campaign promoting weekly specials and loyalty programs",
+                    "mechanism": "Utilize social media and email marketing to reach potential customers, along with customer surveys to gather feedback on promotions",
+                    "reasoning": "The proposed resolution addresses the critical issue of fake reviews which negatively impact the restaurant industry. By creating a global alliance and utilizing AI-driven sentiment analysis, it offers a robust mechanism to authenticate customer feedback, thus enhancing the credibility of reviews. Additionally, the incentive for verified reviewers to enjoy exclusive dining experiences fosters a community of trust and encourages honest feedback. This approach aligns with the goal of increasing customer satisfaction and retention, as well as achieving a significant increase in customer visits. Overall, the proposal not only mitigates the fears associated with fake reviews but also supports the underlying interests of promoting authentic dining experiences.",
+                    "recruited_sources": [
+                        "Health Regulations",
+                        "Local Farmers",
+                        "Food Suppliers"
+                    ]
+                }
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Разработка уникального блюда для привлечения клиентов",
+                    "current_action": "Создание меню и тестирование новых рецептов",
+                    "imposed_goal": "Увеличить количество посещений ресторана на 20% в следующем квартале",
+                    "imposed_action": "Провести маркетинговую кампанию, направленную на привлечение новых клиентов",
+                    "mechanism": "Использование социальных сетей и локальных мероприятий для продвижения ресторана",
+                    "reasoning": "The proposed resolution by 'Рестораны' aligns well with our current desires to create a successful platform for planning travel and evaluating restaurants. By joining this initiative, we can leverage AI-driven sentiment analysis to build a trusted community, which directly addresses our fear of not attracting enough users and restaurants. Additionally, the focus on exclusive dining experiences for verified reviewers incentivizes honest feedback, which is essential for our platform's credibility and growth. The marketing campaign aimed at increasing restaurant visits can also boost our user engagement and visibility, ultimately benefiting our platform.",
+                    "recruited_sources": [
+                        "Конкурирующий стартап",
+                        "Пользователи платформы",
+                        "Конкурирующие платформы"
+                    ]
+                }
+            },
+            {
+                "participant": "Consumers",
+                "agreement_structure": {
+                    "current_goal": "To enjoy a diverse dining experience with quality food and service.",
+                    "current_action": "Choosing restaurants based on reviews and personal preferences.",
+                    "imposed_goal": "To support local restaurants and promote sustainable dining practices.",
+                    "imposed_action": "Prioritize dining at locally-owned restaurants that use sustainable ingredients.",
+                    "mechanism": "Create a rewards program for consumers who frequent local restaurants and provide feedback on their sustainability practices.",
+                    "reasoning": "The proposal from 'Рестораны' aligns with 'Consumers' desires to support local restaurants and promote sustainable dining practices. By creating a rewards program for consumers who frequent local restaurants and provide feedback on their sustainability practices, it incentivizes honesty and builds a trusted community, which ultimately enhances the dining experience. This approach not only addresses the issue of fake reviews but also fosters a sustainable dining culture, which is beneficial for both consumers and local businesses.",
+                    "recruited_sources": [
+                        "Corporations",
+                        "Advertisers",
+                        "Brands",
+                        "Social Media Platforms",
+                        "Retailers"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Увеличение доходов от инвестиций в ресторанный бизнес",
+                    "current_action": "Анализ текущих ресторанов и их финансовых показателей",
+                    "imposed_goal": "Увеличение числа успешных ресторанных проектов на 20% в следующем году",
+                    "imposed_action": "Разработка и внедрение новых концепций меню и услуг",
+                    "mechanism": "Создание рабочей группы для тестирования новых идей и концепций, с последующим анализом их эффективности",
+                    "reasoning": "The proposed resolution by 'Рестораны' aligns with 'Инвесторы' desires for long-term income and successful investments in the restaurant business. By creating a global alliance of restaurants utilizing AI-driven sentiment analysis, there is a potential for increased authenticity in customer feedback, leading to more reliable restaurant performance data. This could mitigate the fear of losing investments due to platform failure or misinformation, while also offering an opportunity to increase the number of successful restaurant projects by 20% next year through innovative menu and service concepts.",
+                    "recruited_sources": [
+                        "Конкуренты стартапа",
+                        "Технологическая платформа стартапа",
+                        "Конкуренты стартапов",
+                        "Стартапы",
+                        "Регуляторные органы",
+                        "Платформа стартапа"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Restaurants",
+                "reasoning": "Restaurants are the core stakeholders in this initiative. Their participation is essential for creating the global alliance and ensuring that the AI-driven sentiment analysis is accurately reflecting their service quality. Their commitment to authenticating customer feedback will be crucial for the success of the resolution."
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup can provide innovative technological solutions and leadership necessary to implement the AI-driven sentiment analysis. Their entrepreneurial spirit and expertise will be vital in driving the project forward and ensuring the participation of restaurants."
+            },
+            {
+                "participant": "Consumers",
+                "reasoning": "Consumers are critical to the success of the resolution as they are the ones providing feedback and reviews. Engaging them will help ensure that the incentive system for verified reviewers is attractive and effective, ultimately contributing to a more trusted community."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for securing the necessary funding to develop and implement the AI-driven technology, as well as for scaling the initiative. Their financial support will enable the project to reach a wider audience and achieve sustainable growth."
+            }
+        ],
+        "recruited_sources": [
+            "Социальные сети",
+            "Конкурирующий стартап",
+            "Local Farmers",
+            "Advertisers",
+            "Corporations",
+            "Health Regulations",
+            "Стартапы",
+            "Food Suppliers",
+            "Негативные отзывы клиентов",
+            "Клиенты",
+            "Retailers",
+            "Пользователи платформы",
+            "Регуляторные органы",
+            "Brands",
+            "Social Media Platforms",
+            "Платформы отзывов (например, TripAdvisor, Yelp)",
+            "Конкуренты стартапа",
+            "Конкуренты стартапов",
+            "Технологическая платформа стартапа",
+            "Конкурирующие платформы",
+            "Отзывы клиентов",
+            "Платформа стартапа"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Отзывы клиентов",
+                "Платформы отзывов (например, TripAdvisor, Yelp)",
+                "Социальные сети",
+                "Негативные отзывы клиентов",
+                "Клиенты"
+            ]
+        }
+    }
+]

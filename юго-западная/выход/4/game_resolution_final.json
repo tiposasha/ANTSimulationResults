@@ -1,0 +1,69 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for the landscape is crucial to ensure that the pathway is designed in a way that is not only practical but also aesthetically pleasing and environmentally sustainable."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration's involvement is essential for securing the necessary permissions and support for the project, as well as for aligning the initiative with local regulations and policies."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic Trail proposes transforming urban spaces into dynamic culinary hubs by integrating modular, movable food and beverage stations that adapt to user preferences and seasonal demands, creating a vibrant, interactive, and user-driven urban experience.\"",
+        "new_actor": "Urban Culinary Hub Transformer",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscape will be crucial for the successful implementation of the Gastronomic Trail. They will provide expertise in creating attractive, functional spaces that can accommodate movable food and beverage stations while ensuring that these installations harmonize with the urban environment."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are essential for promoting the Gastronomic Trail as a tourist attraction. Their involvement will help attract visitors to these culinary hubs and ensure that the initiative receives the necessary support and visibility in the tourism sector."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Engaging with the smart city initiative will allow for the integration of technology into the Gastronomic Trail, enhancing user experience through interactive features, real-time data on culinary options, and adaptive systems that respond to user preferences and seasonal changes."
+            },
+            {
+                "participant": "Land use functions (LUFs)",
+                "reasoning": "Involving land use functions (LUFs) is critical to ensure that the proposed culinary hubs are effective in terms of zoning, space utilization, and compliance with urban planning regulations, which will ultimately support the sustainability and viability of the Gastronomic Trail."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "\"African cities propose creating 'Cultural Resilience Zones' where traditional knowledge and indigenous practices are integrated with modern urban design, fostering spaces that not only adapt to user needs but also preserve and celebrate local heritage, ensuring that urban development is deeply rooted in cultural identity and community empowerment.\"",
+        "new_actor": "Cultural Resilience Zone Authority",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape are crucial for integrating traditional knowledge and indigenous practices into modern urban design, ensuring that the Cultural Resilience Zones are aesthetically pleasing and functional while honoring local heritage."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are essential for promoting and marketing the Cultural Resilience Zones, helping to attract visitors and ensuring that the economic benefits of preserving cultural identity are realized through responsible tourism."
+            },
+            {
+                "participant": "Cities",
+                "reasoning": "Cities themselves are key stakeholders in the implementation of Cultural Resilience Zones, as they have the authority to facilitate policy changes and allocate resources necessary for the development and maintenance of these areas."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept will guide the development of Cultural Resilience Zones, ensuring that urban growth is environmentally sound and socially equitable, aligning with broader sustainability goals in urban planning."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

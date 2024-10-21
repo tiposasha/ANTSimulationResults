@@ -1,0 +1,242 @@
+[
+    {
+        "entity": "Scallops",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Overfishing Industry",
+            "Fishermen",
+            "Marine Ecosystem"
+        ],
+        "denied_sources": [
+            "Climate Change",
+            "Ocean Temperature",
+            "Pollution",
+            "Marine Biologists",
+            "Aquaculture Industry",
+            "Restaurants",
+            "Environmental Regulators",
+            "Aquaculture Practices",
+            "Culinary Experts",
+            "Environmental NGOs",
+            "Regulatory Bodies",
+            "Ocean Ecosystem",
+            "Tourism Industry"
+        ]
+    },
+    {
+        "entity": "Коллеги-ученые",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научные исследовательские организации",
+            "Конкурирующие исследовательские группы",
+            "Научные журналы"
+        ],
+        "denied_sources": [
+            "Научные конференции",
+            "Университеты",
+            "Государственные органы и фондовые организации",
+            "Государственные организации",
+            "Научные учреждения",
+            "Научные сети и сообщества",
+            "Государственные гранты",
+            "Научные сообщества и ассоциации",
+            "Финансирование исследований",
+            "Недостаток финансирования",
+            "Технологические новшества (например, новые методы анализа данных)",
+            "Общественное мнение",
+            "Профессиональные ассоциации",
+            "Новейшие технологии",
+            "Образовательные учреждения",
+            "Конференции и симпозиумы",
+            "Экологические организации",
+            "Научные сообщества",
+            "Научные эксперты",
+            "Конференции по науке"
+        ]
+    },
+    {
+        "entity": "Translation",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Cultural Context",
+            "Cultural Norms",
+            "Linguistic Structures",
+            "Linguistic Theories",
+            "Linguistic Experts"
+        ],
+        "denied_sources": [
+            "Globalization",
+            "Academic Researchers",
+            "Audience Expectations",
+            "Translators",
+            "Technology (Translation Tools)",
+            "Knowledge Systems",
+            "Legal and Ethical Standards",
+            "Global Businesses",
+            "Globalization Forces",
+            "Market Demand",
+            "Regulatory Bodies",
+            "Technology Platforms",
+            "Language Communities",
+            "Cultural Contexts",
+            "Cultural Institutions",
+            "Technological Tools",
+            "Academic Institutions",
+            "Peer Network"
+        ]
+    },
+    {
+        "entity": "Морские гребешки",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Экосистема морского дна",
+            "Ракообразные (хищники)",
+            "Человеческие рыбаки",
+            "Морские хищники (акулы, рыбы)",
+            "Морские хищники",
+            "Морские хищники (например, морские ежи, рыбы)"
+        ],
+        "denied_sources": [
+            "Изменение климата",
+            "Рыболовные сообщества",
+            "Научные исследования (экологи, биологи)",
+            "Рыболовные сети и техника (человеческие факторы)",
+            "Конкурирующие виды (например, другие моллюски)",
+            "Человек (рыбак)",
+            "Научные исследования",
+            "Хищники (например, морские звезды)",
+            "Морская экосистема",
+            "Климатические условия (температура воды, соленость)",
+            "Экологические организации",
+            "Экосистема",
+            "Человек (рыбаки)",
+            "Исследователи морской биологии",
+            "Научное сообщество",
+            "Туризм и рекреация (человеческие факторы)",
+            "Экосистема (морское дно, водоросли)",
+            "Туризм и рекреация",
+            "Человеческие организации по охране природы"
+        ]
+    },
+    {
+        "entity": "Три исследователя",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научное сообщество",
+            "Конкурирующие исследовательские группы"
+        ],
+        "denied_sources": [
+            "Государственные учреждения",
+            "Правительственные учреждения",
+            "Морские экосистемы",
+            "Государственные организации",
+            "Местные сообщества",
+            "Финансирующие организации",
+            "Конкуренты в научной области",
+            "Общественное мнение",
+            "Экологические группы",
+            "Экологические факторы",
+            "Местные рыболовные сообщества",
+            "Экосистемы морских гребешков",
+            "Экологические условия",
+            "Экологические организации",
+            "Местные рыбаки",
+            "Оборудование для исследований",
+            "Технологические инновации"
+        ]
+    },
+    {
+        "entity": "population of sea scallops",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Ocean Currents",
+            "Fishermen",
+            "Climate Change",
+            "Commercial Fishermen",
+            "Ocean Environment",
+            "Commercial Fishing Industry"
+        ],
+        "denied_sources": [
+            "Environmental Regulators",
+            "Marine Ecosystem",
+            "Predatory Species",
+            "Regulatory Bodies",
+            "Overfishing",
+            "Predators (e.g., sea stars, crabs)",
+            "Pollution",
+            "Aquaculture Practices",
+            "Local Communities",
+            "Tourism Sector",
+            "Fisheries Management Regulations",
+            "Marine Biologists",
+            "Scientific Research Community",
+            "Local Economies",
+            "Environmental NGOs",
+            "Predators of Sea Scallops (e.g., sea stars, crabs)"
+        ]
+    },
+    {
+        "entity": "Рыбаки",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Экосистема моря",
+            "Экологические организации"
+        ],
+        "denied_sources": [
+            "Клиенты (покупатели рыбы)",
+            "Потребители морепродуктов",
+            "Государственные регулирующие органы",
+            "Технологические новшества",
+            "Научные исследователи",
+            "Научные учреждения",
+            "Рынок сбыта",
+            "Покупатели и рынки",
+            "Местные сообщества",
+            "Технологии рыболовства",
+            "Рынок",
+            "Конкуренты в рыболовстве",
+            "Правительство",
+            "Научные исследования",
+            "Государственные органы",
+            "Конкуренты-рыбаки",
+            "Поставщики рыболовного оборудования",
+            "Научные исследовательские институты",
+            "Природные ресурсы (запасы гребешков)"
+        ]
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "initiator": "APOE ɛ4",
+        "resolution_description": "Initiator: APOE ɛ4, Resolution: Pioneer a disruptive approach by harnessing the genetic and metabolic interplay of APOE ɛ4 with lipid metabolism to develop precision lifestyle and pharmacological interventions that not only mitigate Alzheimer's disease risk but also enhance cognitive resilience, thereby establishing a paradigm shift from treatment to proactive neuroprotection.",
+        "new_actor": "Neuroprotection Innovator: APOE ɛ4 Metabolic Integrator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are essential for translating the research findings into viable drug therapies. Their involvement will facilitate the development and commercialization of interventions targeting the lipid metabolism and genetic factors associated with APOE ɛ4."
+            },
+            {
+                "participant": "Clinical Studies",
+                "reasoning": "Clinical studies are necessary to test the effectiveness of the proposed interventions in real-world settings. They will provide the data needed to support the resolution's strategy of proactive neuroprotection against Alzheimer's disease."
+            }
+        ],
+        "recruited_sources": [
+            "Neurons",
+            "Genetic Research Community",
+            "APOE ɛ4 Gene Variants",
+            "Alzheimer's Disease Research",
+            "Genetic Variants"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Genetic Research Community",
+                "Neurons",
+                "APOE ɛ4 Gene Variants",
+                "Alzheimer's Disease Research",
+                "Genetic Variants"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "Initiate a revolutionary approach by engineering synthetic tau protein variants that can selectively stabilize microtubule networks and disrupt pathological aggregates, thereby transforming tau from a pathogenic entity to a foundational element of neuroprotective therapies that preemptively fortify neuronal integrity against Alzheimer's disease.",
+        "new_actor": "Neuroprotective Tau Synthesizer",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Neurotransmitters",
+            "Neurodegenerative diseases",
+            "Neurons",
+            "Hyperphosphorylated Tau protein",
+            "Microtubules",
+            "Microtubule-associated proteins (MAPs)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Microtubules",
+                "Hyperphosphorylated Tau protein",
+                "Neurons",
+                "Neurodegenerative diseases",
+                "Neurotransmitters",
+                "Microtubule-associated proteins (MAPs)"
+            ]
+        }
+    },
+    {
+        "initiator": "Больница",
+        "resolution_description": "Initiator: Neuroinflammation, Resolution: Implement a pioneering strategy by developing targeted bioelectronic medicine that modulates neuroimmune interactions to reduce chronic inflammation and promote neural repair mechanisms, thereby establishing a novel paradigm in Alzheimer's disease management focused on restoring brain homeostasis and enhancing cognitive function.",
+        "new_actor": "Neuroimmune Modulation Innovator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Медицинские технологии",
+            "Пациенты",
+            "Финансирование от государства",
+            "Страховщики",
+            "Страховые компании",
+            "Фармацевтические компании"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Фармацевтические компании",
+                "Страховщики",
+                "Пациенты",
+                "Финансирование от государства",
+                "Страховые компании",
+                "Медицинские технологии"
+            ]
+        }
+    },
+    {
+        "initiator": "Научный журнал",
+        "resolution_description": "Initiator: Synaptic Plasticity, Resolution: Introduce a groundbreaking approach by leveraging advanced neuroimaging and AI-driven analytics to decode and enhance synaptic plasticity dynamics, creating personalized cognitive training protocols that not only counteract synaptic degradation but also foster adaptive neural networks, thereby shifting the focus from disease treatment to cognitive empowerment and resilience against Alzheimer's disease.",
+        "new_actor": "Cognisynapse Innovator",
+        "participants": [
+            {
+                "participant": "Clinical Studies",
+                "agreement_structure": {
+                    "current_goal": "To conduct thorough clinical trials to evaluate the safety and efficacy of new treatments.",
+                    "current_action": "Recruiting participants and collecting data from ongoing studies.",
+                    "imposed_goal": "To publish findings in a reputable scientific journal within the next 6 months.",
+                    "imposed_action": "Prepare and submit a comprehensive research paper summarizing the trial results.",
+                    "mechanism": "Implement a structured timeline with milestones for data analysis, manuscript drafting, and peer review to ensure timely submission.",
+                    "reasoning": "The proposed resolution focuses on advanced neuroimaging and AI-driven analytics to enhance synaptic plasticity, which aligns with the emerging trends in Alzheimer's research. This approach offers the opportunity for 'Clinical Studies' to publish findings in a reputable scientific journal within six months, significantly contributing to the field and raising the profile of our work. Moreover, it helps to shift the perspective from merely treating disease to empowering cognitive resilience, an important shift in managing Alzheimer's. Therefore, this proposal benefits our objectives and mitigates any concerns about stagnation in research progress.",
+                    "recruited_sources": [
+                        "Regulatory Bodies",
+                        "Pharmaceutical Companies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Clinical Studies",
+                "reasoning": "Clinical studies are necessary to test and assess the effectiveness of the proposed cognitive training protocols in real-world scenarios, ensuring that the approach is not only theoretical but also practically applicable."
+            }
+        ],
+        "recruited_sources": [
+            "Академические исследователи",
+            "Regulatory Bodies",
+            "Научное сообщество",
+            "Научные исследователи",
+            "Pharmaceutical Companies",
+            "Конкурирующие научные журналы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные исследователи",
+                "Научное сообщество",
+                "Конкурирующие научные журналы",
+                "Академические исследователи"
+            ]
+        }
+    },
+    {
+        "initiator": "iPSCs",
+        "resolution_description": "Initiate a transformative approach by leveraging iPSCs to create patient-specific neural organoids that model Alzheimer's disease progression, enabling unprecedented insights into individual disease mechanisms and facilitating the development of bespoke therapeutic strategies that target the earliest pathological events, thereby shifting the paradigm from generalized treatment to highly personalized neurointervention.",
+        "new_actor": "Alzheimer's iPSC-Derived Neural Organoid Innovator",
+        "participants": [
+            {
+                "participant": "Пациенты",
+                "agreement_structure": {
+                    "current_goal": "Receive effective treatment for their condition.",
+                    "current_action": "Consult with healthcare providers and explore treatment options.",
+                    "imposed_goal": "Participate in clinical trials utilizing iPSCs for advanced therapies.",
+                    "imposed_action": "Engage in the enrollment process for iPSC-related clinical trials.",
+                    "mechanism": "Provide educational resources and support for navigating the clinical trial enrollment process.",
+                    "reasoning": "The proposed resolution by 'iPSCs' aligns closely with my desires to live a full life without symptoms of Alzheimer's disease. By focusing on creating patient-specific neural organoids to better understand and target the disease's progression, this initiative offers a personalized approach that could significantly reduce my fears of losing memory, identity, and independence. Engaging in clinical trials utilizing iPSCs could provide me with access to advanced therapies that are tailored to my specific condition, thereby enhancing my chances for effective treatment and cognitive empowerment.",
+                    "recruited_sources": [
+                        "Медицинские работники",
+                        "Болезнь Альцгеймера",
+                        "Медицинские учреждения"
+                    ]
+                }
+            },
+            {
+                "participant": "Исследователи в области нейрологии",
+                "agreement_structure": {
+                    "current_goal": "Исследование и понимание механизмов нейродегенеративных заболеваний",
+                    "current_action": "Проведение экспериментов с использованием нейронных клеток и моделей заболеваний",
+                    "imposed_goal": "Использовать индуцированные плюрипотентные стволовые клетки (iPSCs) для разработки новых терапий",
+                    "imposed_action": "Создание и оптимизация культур iPSCs для изучения нейронных заболеваний",
+                    "mechanism": "Предоставление доступа к ресурсам и обучающим материалам о технологии iPSCs и их применении в нейробиологии",
+                    "reasoning": "The proposal from 'iPSCs' aligns with my current desires to confirm the amyloid hypothesis and gain recognition in the scientific community, as it offers a unique approach to studying Alzheimer's disease mechanisms through patient-specific neural organoids. This innovative strategy can provide unprecedented insights into individual disease progression and potentially facilitate the development of new therapies. Additionally, it mitigates my fears by providing a more personalized and targeted research direction, reducing the risk of pursuing a potentially flawed hypothesis without losing years of previous research efforts.",
+                    "recruited_sources": [
+                        "Научное сообщество",
+                        "Научные журналы"
+                    ]
+                }
+            },
+            {
+                "participant": "Фармакологические компании",
+                "agreement_structure": {
+                    "current_goal": "Develop new pharmacological treatments based on iPSCs",
+                    "current_action": "Conducting research and clinical trials on iPSC-derived therapies",
+                    "imposed_goal": "Accelerate the development of safe and effective therapies using iPSCs",
+                    "imposed_action": "Collaborate with academic institutions and regulatory bodies to streamline the approval process for iPSC therapies",
+                    "mechanism": "Establish a partnership framework that includes shared resources, data access, and joint regulatory submissions",
+                    "reasoning": "The new proposal by 'iPSCs' aligns with 'Фармакологические компании' desires to develop and patent an effective Alzheimer's treatment by leveraging patient-specific neural organoids. This approach not only provides a pathway to accelerate the development of therapies but also mitigates fears of investment loss due to its focus on personalized medicine, which could lead to greater success rates. Additionally, collaborating with academic institutions and regulatory bodies enhances credibility and supports a streamlined approval process, further reducing the risk associated with clinical trials.",
+                    "recruited_sources": [
+                        "Инвесторы",
+                        "Конкурирующие фармацевтические компании"
+                    ]
+                }
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "agreement_structure": {
+                    "current_goal": "To develop and optimize 3D iPSC-based organoids for disease modeling and drug testing.",
+                    "current_action": "Conducting experiments to refine organoid protocols and assess their functionality and relevance to human diseases.",
+                    "imposed_goal": "To create standardized 3D iPSC-based organoids that can be used across multiple research labs for consistency in results.",
+                    "imposed_action": "Implementing a standardized protocol for the generation and analysis of 3D iPSC-based organoids.",
+                    "mechanism": "Providing a comprehensive guideline and resource hub for researchers, including training workshops and a shared database for organoid characterization.",
+                    "reasoning": "The proposal aims to create patient-specific neural organoids that can model Alzheimer's disease progression, which aligns with the goal of developing and optimizing 3D iPSC-based organoids for disease modeling and drug testing. This approach not only enhances the understanding of individual disease mechanisms but also facilitates the development of personalized therapeutic strategies. By implementing a standardized protocol and providing comprehensive guidelines, the proposal ensures consistency and reliability in results across multiple research labs, ultimately benefiting research efforts and advancing the field of Alzheimer's disease treatment.",
+                    "recruited_sources": [
+                        "Biomedical Researchers",
+                        "Biotechnology Companies",
+                        "Regulatory agencies",
+                        "Regulatory Agencies",
+                        "Pharmaceutical Companies",
+                        "Stem Cell Research"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are crucial for the success of this resolution as their specific disease profiles and responses to therapies will provide essential data for creating and validating patient-specific neural organoids. Their involvement ensures that the research is aligned with actual clinical needs and can lead to personalized treatment strategies."
+            },
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in neurology are vital as they possess the expertise to develop and analyze the iPSC-derived neural organoids and understand the mechanisms underlying Alzheimer's disease. Their contributions will be essential for designing experiments and interpreting results."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are important stakeholders because they can provide the resources, funding, and infrastructure necessary for developing bespoke therapeutic strategies. Their collaboration can accelerate the translation of research findings into clinical applications."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids are a key technological component for this resolution, as they serve as the platform for modeling Alzheimer's disease. Their development and optimization are crucial for generating accurate models that reflect disease progression and enable personalized intervention strategies."
+            }
+        ],
+        "recruited_sources": [
+            "Инвесторы",
+            "Медицинские работники",
+            "Biotechnology Companies",
+            "Научные журналы",
+            "Конкурирующие фармацевтические компании",
+            "Traditional Stem Cell Therapies",
+            "Pharmaceutical Companies",
+            "Медицинские учреждения",
+            "Biomedical Researchers",
+            "Болезнь Альцгеймера",
+            "Regulatory Agencies",
+            "Научное сообщество",
+            "Stem Cell Research",
+            "Regulatory Bodies",
+            "Regulatory agencies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Bodies",
+                "Traditional Stem Cell Therapies",
+                "Biomedical Researchers",
+                "Biotechnology Companies",
+                "Pharmaceutical Companies"
+            ]
+        }
+    },
+    {
+        "initiator": "Коллеги-ученые",
+        "resolution_description": "Initiate a radical approach by developing a bio-integrated neural interface that harnesses quantum dot technology to monitor and modulate neural circuit activity in real-time, enabling dynamic regulation of cognitive processes and establishing a new frontier in Alzheimer's prevention and enhancement of brain resilience.",
+        "new_actor": "QuantumNeuroGuard",
+        "participants": [
+            {
+                "participant": "AD researchers",
+                "agreement_structure": {
+                    "current_goal": "To advance research in Alzheimer's disease and develop innovative solutions.",
+                    "current_action": "Conducting clinical trials and publishing findings in peer-reviewed journals.",
+                    "imposed_goal": "To collaborate on a unified research framework to accelerate breakthroughs in Alzheimer's disease treatments.",
+                    "imposed_action": "Participate in the proposed collaborative research initiative and share data with other researchers.",
+                    "mechanism": "Establishing a centralized data-sharing platform and regular interdisciplinary meetings to facilitate collaboration.",
+                    "reasoning": "The proposed resolution aligns well with the goals of 'AD researchers' to advance research in Alzheimer's disease and leverage innovative technologies. By participating in this collaborative initiative, 'AD researchers' can contribute to cutting-edge research in cognitive enhancement and resilience against Alzheimer's, while also benefiting from shared data and interdisciplinary collaboration. This proposal not only enhances the potential for breakthroughs in treatment but also shifts the focus towards proactive cognitive empowerment, which is a valuable direction in the field.",
+                    "recruited_sources": [
+                        "Funding agencies",
+                        "Funding Agencies",
+                        "Funding Organizations",
+                        "Academic Journals"
+                    ]
+                }
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "agreement_structure": {
+                    "current_goal": "To develop advanced 3D microfluidic organ chips for improved drug testing and disease modeling.",
+                    "current_action": "Conducting research and experiments to optimize the design and functionality of organ chips.",
+                    "imposed_goal": "To collaborate with interdisciplinary teams to enhance the efficacy of organ chip technology in clinical applications.",
+                    "imposed_action": "Engage in regular meetings and workshops with biologists, engineers, and clinicians to share findings and integrate feedback.",
+                    "mechanism": "Establish a structured collaboration framework that includes scheduled progress reviews, joint research initiatives, and shared resources.",
+                    "reasoning": "The proposed resolution to develop a bio-integrated neural interface using quantum dot technology aligns with the goals of 3D microfluidic organ chips to advance drug testing and disease modeling. This initiative represents a significant opportunity to enhance the efficacy of organ chip technology in clinical applications. By collaborating with interdisciplinary teams, we can leverage shared knowledge and resources, thereby improving our capabilities and addressing the complexities of Alzheimer's disease. Although there are no current desires or fears, this proposal opens avenues for growth and innovation in our field.",
+                    "recruited_sources": [
+                        "Researchers and Scientists",
+                        "Biomedical Researchers",
+                        "Regulatory Agencies",
+                        "Biomedical researchers",
+                        "Traditional drug testing methods"
+                    ]
+                }
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "agreement_structure": {
+                    "current_goal": "To study and understand the properties and functions of the blood-brain barrier.",
+                    "current_action": "Conducting experiments and research on the permeability and transport mechanisms of the BBB.",
+                    "imposed_goal": "To develop therapeutic strategies that can effectively utilize or bypass the blood-brain barrier for drug delivery.",
+                    "imposed_action": "Collaborate with pharmacologists and neuroscientists to design and test new drug formulations targeting the BBB.",
+                    "mechanism": "Establish a multidisciplinary research team that integrates expertise in molecular biology, pharmacology, and neurology to facilitate knowledge sharing and experimental validation.",
+                    "reasoning": "The proposed resolution aligns with the Blood-brain barrier's (BBB) interests in developing therapeutic strategies that effectively utilize or bypass the BBB for drug delivery. By collaborating with pharmacologists and neuroscientists, the BBB can enhance its understanding of drug formulations targeting its unique properties. Furthermore, the integration of quantum dot technology for monitoring and modulating neural activity presents an innovative approach that could lead to significant advancements in Alzheimer's treatment and prevention, ultimately contributing to the restoration of brain homeostasis and cognitive function.",
+                    "recruited_sources": [
+                        "Neurotoxins",
+                        "Neurotransmitters",
+                        "Neurons"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "AD researchers",
+                "reasoning": "AD researchers are crucial for providing insights into Alzheimer's disease mechanisms and for guiding the application of the new technology in prevention and treatment strategies."
+            },
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips can be utilized to create realistic in vitro models of the brain environment, allowing for the testing and optimization of the neural interface in a controlled setting."
+            },
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "reasoning": "Understanding and overcoming the blood-brain barrier (BBB) is vital for the effective delivery of the neural interface technology and ensuring that therapeutic interventions reach the target neural circuits."
+            }
+        ],
+        "recruited_sources": [
+            "Funding Agencies",
+            "Academic Journals",
+            "Funding Organizations",
+            "Neurons",
+            "Traditional drug testing methods",
+            "Biomedical researchers",
+            "Neurotransmitters",
+            "Biomedical Researchers",
+            "Funding agencies",
+            "Научные журналы",
+            "Neurotoxins",
+            "Researchers and Scientists",
+            "Regulatory Agencies",
+            "Конкурирующие ученые"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные журналы",
+                "Конкурирующие ученые"
+            ]
+        }
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "initiator": "Места предполагаемого интереса",
+        "resolution_description": "\"Места предполагаемого интереса\" can address the mismatch between urban space design and user interests by creating an interactive, AI-driven urban sandbox platform that empowers local communities to simulate, experiment with, and vote on real-time modifications to their environments, ensuring that urban spaces evolve organically based on collective user input and emerging cultural trends.",
+        "new_actor": "The actor created would be named \"Urban Sandbox AI: Collective Design Platform.\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Местные транспортные власти",
+            "Транспортная инфраструктура",
+            "Транспортные службы",
+            "Неправильная транспортная инфраструктура",
+            "Транспортные компании",
+            "Туристы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Транспортные компании",
+                "Туристы",
+                "Неправильная транспортная инфраструктура",
+                "Транспортная инфраструктура",
+                "Транспортные службы",
+                "Местные транспортные власти"
+            ]
+        }
+    },
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "\"Land use functions (LUFs) can revolutionize urban space design by implementing a dynamic 'adaptive zoning' system that automatically adjusts land use regulations in real-time based on data-driven insights from user behavior, environmental factors, and evolving community needs, thereby aligning urban development with the actual interests and well-being of its inhabitants.\"",
+        "new_actor": "Adaptive Zoning Authority",
+        "participants": [
+            {
+                "participant": "Sustainability concept",
+                "agreement_structure": {
+                    "current_goal": "To promote sustainable land use practices that minimize environmental impact.",
+                    "current_action": "Conducting workshops and seminars on sustainable agriculture and land management.",
+                    "imposed_goal": "Integrate land use functions into the sustainability framework to enhance environmental and social benefits.",
+                    "imposed_action": "Develop a comprehensive assessment tool to evaluate land use functions in sustainability planning.",
+                    "mechanism": "Establish a collaborative platform for stakeholders to share data and best practices related to land use functions.",
+                    "reasoning": "The proposal from 'Land use functions (LUFs)' aligns well with the goals of the 'Sustainability concept'. Implementing a dynamic 'adaptive zoning' system is a forward-thinking approach that prioritizes user engagement and real-time adaptability in urban space design. This directly supports the objective of integrating land use functions into sustainability frameworks by enhancing social and environmental benefits. Furthermore, developing a comprehensive assessment tool and establishing a collaborative platform for stakeholders will facilitate data sharing and best practices, which are essential for promoting sustainable land use practices. Overall, this proposal not only benefits the goals of 'Sustainability concept' but also addresses the contemporary challenges in urban planning effectively.",
+                    "recruited_sources": [
+                        "Corporate Social Responsibility (CSR) initiatives",
+                        "Capitalism",
+                        "Industrial Capitalism",
+                        "Corporate Social Responsibility (CSR) Programs",
+                        "Government Policies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is important as it aligns with the goals of adaptive zoning to ensure that urban development is not only responsive but also environmentally sustainable, enhancing the overall well-being of inhabitants."
+            }
+        ],
+        "recruited_sources": [
+            "Government policies",
+            "Capitalism",
+            "Agricultural Practices",
+            "Government Regulations",
+            "Urban development policies",
+            "Industrial Capitalism",
+            "Urban planners",
+            "Corporate Social Responsibility (CSR) Programs",
+            "Government Policies",
+            "Local Government",
+            "Corporate Social Responsibility (CSR) initiatives"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Government policies",
+                "Agricultural Practices",
+                "Urban planners",
+                "Government Regulations",
+                "Local Government",
+                "Urban development policies"
+            ]
+        }
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "African cities can address the disconnect between urban space design and user interests by leveraging indigenous knowledge systems and participatory storytelling workshops to co-create urban spaces that reflect diverse cultural narratives and lived experiences, fostering environments that are both uniquely authentic and responsive to the dynamic needs of their communities.",
+        "new_actor": "Participatory Urban Design Facilitator (PUDF)",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "International NGOs",
+            "Global Climate Change",
+            "Real estate developers",
+            "Global Financial Institutions"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Real estate developers",
+                "Global Financial Institutions",
+                "International NGOs",
+                "Global Climate Change"
+            ]
+        }
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic trail\" can revolutionize urban space design by integrating a culinary-centric urban framework that transforms cityscapes into vibrant, multi-sensory food ecosystems, where local gastronomy, community agriculture, and cultural food experiences are seamlessly woven into the fabric of daily urban life, creating spaces that nourish the body, soul, and community interests.",
+        "new_actor": "CulinaryUrbanEcosystemInnovator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Local Government",
+            "Fast Food Chains",
+            "Local Restaurants"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Local Restaurants",
+                "Fast Food Chains",
+                "Local Government"
+            ]
+        }
+    },
+    {
+        "initiator": "Выход из метро",
+        "resolution_description": "As 'Выход из метро', the issue of urban space design misalignment with user interests can be resolved by implementing a 'Subterranean Culture Network', a revolutionary underground infrastructure that transforms metro systems into dynamic cultural hubs, where art, music, and community events are seamlessly integrated with urban transit, thereby creating vibrant, adaptable spaces that reflect the evolving cultural pulse and diverse needs of city dwellers.",
+        "new_actor": "Subterranean Culture Network Initiator",
+        "participants": [
+            {
+                "participant": "Cities",
+                "agreement_structure": {
+                    "current_goal": "Improve public transportation accessibility in urban areas",
+                    "current_action": "Implementing new bus routes and schedules",
+                    "imposed_goal": "Enhance metro exit flow and reduce congestion",
+                    "imposed_action": "Introduce dedicated exit lanes at metro stations",
+                    "mechanism": "Establish a monitoring system to analyze foot traffic and adjust exit strategies accordingly",
+                    "reasoning": "The proposal by 'Выход из метро' offers a creative solution to the misalignment between urban space design and user interests by transforming metro systems into cultural hubs. This aligns with the goal of enhancing metro exit flow and reducing congestion, while also creating vibrant spaces that can adapt to the needs of city dwellers. By participating in this initiative, 'Cities' can achieve its objectives related to public transportation accessibility and urban space design, fostering a more inclusive and culturally rich urban environment.",
+                    "recruited_sources": [
+                        "Rural Communities",
+                        "Businesses",
+                        "Technology Companies",
+                        "Global Corporations",
+                        "Government Policies",
+                        "Local Governments"
+                    ]
+                }
+            },
+            {
+                "participant": "Пассажиры",
+                "agreement_structure": {
+                    "current_goal": "Достигнуть выхода из метро",
+                    "current_action": "Следовать к выходу",
+                    "imposed_goal": "Выходить из метро быстро и организованно",
+                    "imposed_action": "Сформировать очередь перед выходом",
+                    "mechanism": "Установить четкие указатели и организовать поток пассажиров",
+                    "reasoning": "The proposal by 'Выход из метро' aligns well with the desires of 'Пассажиры' for quick and convenient access to destinations. By establishing a 'Subterranean Culture Network', the integration of cultural elements within the metro system not only enhances the experience but also ensures that the flow of passengers is organized and efficient. This approach addresses the fear of wasting time on obstacles as it promotes a streamlined exit process through clear signage and organized queues, ultimately facilitating a smoother journey for all users.",
+                    "recruited_sources": [
+                        "Транспортные компании",
+                        "Пробки на дорогах"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Cities",
+                "reasoning": "Cities are key stakeholders in the development of urban infrastructure. Their involvement will ensure that the 'Subterranean Culture Network' aligns with broader urban planning goals and can be integrated into existing city frameworks, facilitating cooperation and resource allocation."
+            },
+            {
+                "participant": "Пассажиры",
+                "reasoning": "Passengers are the primary users of the metro system. Engaging them will provide valuable insights into their needs and preferences, ensuring that the cultural hubs created within the metro resonate with and serve the community effectively."
+            }
+        ],
+        "recruited_sources": [
+            "Городские власти",
+            "Метро",
+            "Local Governments",
+            "Пробки на дорогах",
+            "Транспортные компании",
+            "Government Policies",
+            "Businesses",
+            "Global Corporations",
+            "Конкурирующие станции метро",
+            "Пассажиры метро",
+            "Государственные органы",
+            "Technology Companies",
+            "Rural Communities"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Пассажиры метро",
+                "Городские власти",
+                "Конкурирующие станции метро",
+                "Метро",
+                "Государственные органы"
+            ]
+        }
+    },
+    {
+        "initiator": "Social relations in South Korea",
+        "resolution_description": "As 'Social relations in South Korea,' the issue of urban space design misalignment with user interests can be addressed by creating a \"Cultural Harmony Co-Design Platform\" that harnesses South Korea's dynamic social networks and K-pop fan communities to crowdsource and co-create urban spaces through gamified design challenges, fostering communal engagement and ensuring spaces reflect the shared cultural aspirations and social dynamics of the city.",
+        "new_actor": "Cultural Harmony Co-Design Platform",
+        "participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "agreement_structure": {
+                    "current_goal": "To create sustainable and aesthetically pleasing landscapes in urban areas.",
+                    "current_action": "Designing landscape blueprints and selecting appropriate plants and materials.",
+                    "imposed_goal": "To incorporate elements that enhance social interaction and community engagement in public spaces.",
+                    "imposed_action": "To revise landscape designs to include communal areas, seating arrangements, and interactive features.",
+                    "mechanism": "Organizing community workshops to gather input and ideas from local residents for landscape improvements.",
+                    "reasoning": "The proposal from 'Social relations in South Korea' aligns closely with the desires of 'Менеджеры и дизайнеры, отвечавшие за ландшафт' to create aesthetically pleasing and functional urban spaces. By collaborating on the 'Cultural Harmony Co-Design Platform', we can ensure that our landscape designs are informed by the community's needs and cultural aspirations. This approach will mitigate our fears of criticism for not meeting user interests, as it incorporates direct input from local residents, ultimately leading to more relevant and engaging public spaces.",
+                    "recruited_sources": [
+                        "Горожане",
+                        "Городские власти",
+                        "Критики и общественное мнение",
+                        "Городские планировщики",
+                        "Государственные органы"
+                    ]
+                }
+            },
+            {
+                "participant": "Tourism authorities",
+                "agreement_structure": {
+                    "current_goal": "To increase the number of international tourists visiting South Korea.",
+                    "current_action": "Promoting tourist attractions and cultural experiences through various marketing campaigns.",
+                    "imposed_goal": "Enhance social relations among tourists and local communities.",
+                    "imposed_action": "Implement community engagement programs that connect tourists with local residents.",
+                    "mechanism": "Establish partnerships with local organizations to facilitate cultural exchange events and programs.",
+                    "reasoning": "The proposed 'Cultural Harmony Co-Design Platform' aligns well with the goals of 'Tourism authorities' to enhance social relations among tourists and local communities. By fostering communal engagement and ensuring urban spaces reflect the shared aspirations of both tourists and locals, it creates a more inviting atmosphere for international visitors. Additionally, this initiative allows for the promotion of cultural experiences that can attract more tourists, thereby achieving the desire to increase the number of international tourists visiting South Korea.",
+                    "recruited_sources": [
+                        "Local businesses",
+                        "Local Businesses",
+                        "Government Regulations",
+                        "Environmental Activists"
+                    ]
+                }
+            },
+            {
+                "participant": "Администрация",
+                "agreement_structure": {
+                    "current_goal": "Promote social harmony and understanding among diverse groups in South Korea",
+                    "current_action": "Organizing community events and workshops to encourage dialogue",
+                    "imposed_goal": "Enhance the integration of multicultural communities within South Korean society",
+                    "imposed_action": "Implement targeted outreach programs to underrepresented communities",
+                    "mechanism": "Establish a collaborative platform that connects community leaders, government agencies, and NGOs to share resources and best practices for multicultural integration",
+                    "reasoning": "The proposed resolution from 'Social relations in South Korea' aligns with the desires of 'Администрация' to improve urban environments and meet the needs of residents. By creating a 'Cultural Harmony Co-Design Platform,' we can actively engage diverse communities in the design process, ensuring that urban spaces reflect their interests and cultural aspirations. This collaborative approach not only enhances community involvement but also helps mitigate fears of citizen dissatisfaction and criticism by demonstrating responsiveness to user needs and aspirations.",
+                    "recruited_sources": [
+                        "Граждане города",
+                        "Граждане"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscape will ensure that the cultural inputs gathered from the community can be effectively integrated into the urban space design. Their expertise is crucial for translating user interests into feasible architectural and landscape solutions."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities play a pivotal role in promoting urban spaces that reflect cultural identity and attract visitors. Their participation will help ensure that the co-designed spaces are not only functional for locals but also appealing to tourists, thus enhancing economic vitality."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration is critical for facilitating the implementation of the co-design platform, providing necessary resources, and ensuring that the community's inputs are considered in urban planning processes. Their support is essential for legitimizing the initiative and ensuring it aligns with broader urban development goals."
+            }
+        ],
+        "recruited_sources": [
+            "Городские власти",
+            "Government Regulations",
+            "Городские планировщики",
+            "Государственные органы",
+            "Local Businesses",
+            "Local businesses",
+            "Environmental Activists",
+            "Горожане",
+            "Критики и общественное мнение",
+            "Граждане города",
+            "Граждане",
+            "Government policies",
+            "Cultural Norms",
+            "Government Policies",
+            "Economic Institutions"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Government policies",
+                "Economic Institutions",
+                "Government Policies",
+                "Cultural Norms"
+            ]
+        }
+    }
+]

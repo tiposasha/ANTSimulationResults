@@ -1,0 +1,69 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Certainly! Here’s the revised resolution text that focuses on practical training and efficient processes:\n\n\"Implement practical training programs that emphasize secure loading techniques and efficient handling processes for fragile goods. This approach aims to enhance the transporter's awareness of proper handling without relying on complex technologies, ensuring minimal effort in task execution while promoting careful handling through straightforward, effective training methods.\"",
+        "new_actor": "FragilityEngageAR Specialist",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The bicycle manufacturer is essential for implementing dynamic packaging designs. Their involvement ensures that the packaging not only protects the product but also integrates augmented reality features effectively."
+            }
+        ],
+        "recruited_sources": [
+            "Traditional Graphic Design Practices",
+            "Marketing professionals",
+            "Client Demands",
+            "Cultural trends and societal values",
+            "Cultural Influences",
+            "Clients/Businesses"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Client Demands",
+                "Traditional Graphic Design Practices",
+                "Cultural Influences",
+                "Cultural trends and societal values",
+                "Marketing professionals",
+                "Clients/Businesses"
+            ]
+        }
+    },
+    {
+        "initiator": "Social Vulnerability to Hazards",
+        "resolution_description": "\"Leverage social vulnerability mapping to identify and empower local communities susceptible to economic instability by training and employing them as dedicated freight care specialists, creating a symbiotic relationship where reducing cargo damage directly enhances community resilience and economic stability.\"",
+        "new_actor": "Community Resilience Freight Specialists",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Community services",
+                "reasoning": "Community services are essential for identifying and empowering local communities susceptible to economic instability. They can provide the necessary support and resources for training and employing individuals as dedicated freight care specialists, ensuring that the initiative is community-focused and addresses local needs effectively."
+            },
+            {
+                "participant": "Port Community Systems",
+                "reasoning": "Port Community Systems facilitate the logistics and transportation processes. Engaging them will help streamline the operations involved in reducing cargo damage and enhancing overall efficiency, which is vital for the success of the resolution."
+            }
+        ],
+        "recruited_sources": [
+            "Emergency Management Agencies",
+            "Climate Change",
+            "Government Policies",
+            "Government Agencies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Climate Change",
+                "Emergency Management Agencies",
+                "Government Agencies",
+                "Government Policies"
+            ]
+        }
+    },
+    {
+        "initiator": "resilience",
+        "resolution_description": "Initiate a global 'Resilient Cargo Network' that leverages blockchain technology to create a transparent, decentralized system of real-time cargo tracking and incentivization, rewarding handlers with digital tokens for maintaining package integrity, thereby fostering a culture of accountability and resilience through a gamified economic ecosystem.",
+        "new_actor": "ResilientCargoChain Network",
+        "participants": [],
+        "required_participants": []
+    }
+]

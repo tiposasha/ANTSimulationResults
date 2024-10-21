@@ -1,0 +1,170 @@
+[
+    {
+        "initiator": "Translation",
+        "resolution_description": "Translation proposes to establish a multilingual AI-driven communication platform for real-time collaboration and knowledge sharing among international marine biologists, local fishermen, and policymakers, enabling the integration of diverse global insights and traditional ecological knowledge to innovate sustainable scallop harvesting techniques in the Baie de Saint-Brieuc.",
+        "new_actor": "Multilingual Marine Knowledge Exchange Platform (MMKEP)",
+        "participants": [
+            {
+                "participant": "Коллеги-ученые",
+                "agreement_structure": {
+                    "current_goal": "Conduct research on the effects of climate change on biodiversity.",
+                    "current_action": "Collecting data from various ecosystems and analyzing it.",
+                    "imposed_goal": "Publish a comprehensive report on climate change impacts by the end of the year.",
+                    "imposed_action": "Collaborate with other researchers to compile findings and write the report.",
+                    "mechanism": "Establish bi-weekly meetings to discuss progress and share data, along with a shared online platform for document collaboration.",
+                    "reasoning": "The proposed scenario by 'Translation' aligns well with the desires and fears of 'Коллеги-ученые'. By participating in the multilingual AI-driven communication platform, 'Коллеги-ученые' can gain new knowledge about marine scallops through collaboration with international marine biologists, local fishermen, and policymakers. This collaboration not only enhances understanding of scallop populations but also allows for the integration of diverse insights and traditional ecological knowledge, which is essential for innovative sustainable harvesting techniques. Moreover, the opportunity to publish a comprehensive report on climate change impacts by working with other researchers mitigates the fear of missing out on important scientific discoveries, ensuring that 'Коллеги-ученые' remain at the forefront of relevant research.",
+                    "recruited_sources": [
+                        "Конкурирующие ученые",
+                        "Научные журналы"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Коллеги-ученые",
+                "reasoning": "Colleagues-scientists can broaden the scope of research and collaboration, bringing diverse insights and methodologies that can enhance the effectiveness of the proposed communication platform and the development of sustainable practices."
+            }
+        ],
+        "recruited_sources": [
+            "Научные журналы",
+            "Конкурирующие ученые",
+            "Cultural Traditions",
+            "Language",
+            "Cultural Context",
+            "Cultural Misinterpretation",
+            "Translators"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Language",
+                "Cultural Context",
+                "Translators",
+                "Cultural Traditions",
+                "Cultural Misinterpretation"
+            ]
+        }
+    },
+    {
+        "initiator": "Морские гребешки",
+        "resolution_description": "Морские гребешки предлагают создать биомиметическую сеть подводных \"ферм\", использующих искусственные рифы и автономных дронов для мониторинга и восстановления популяции гребешков, обеспечивая устойчивое воспроизводство и тем самым снижая зависимость от дикой добычи.",
+        "new_actor": "Биомиметическая сеть подводных ферм для устойчивого воспроизводства гребешков",
+        "participants": [
+            {
+                "participant": "Три исследователя",
+                "agreement_structure": {
+                    "current_goal": "Conduct research on marine ecosystems.",
+                    "current_action": "Collecting data on biodiversity in coastal regions.",
+                    "imposed_goal": "Analyze the impact of climate change on marine species.",
+                    "imposed_action": "Develop a comprehensive report based on collected data.",
+                    "mechanism": "Regular progress meetings and collaborative tools for data sharing.",
+                    "reasoning": "The proposal from 'Морские гребешки' aligns with the desire of 'Три исследователя' to successfully implement a project aimed at increasing the scallop population. The use of biomimetic underwater farms and monitoring drones presents an innovative approach that enhances sustainable practices, thus potentially ensuring a successful outcome. Additionally, collaborating on this project may help mitigate fears of failure by providing access to resources, expertise, and a structured framework that promotes accountability and trust within the scientific community.",
+                    "recruited_sources": [
+                        "Научное сообщество"
+                    ]
+                }
+            },
+            {
+                "participant": "Рыбаки",
+                "agreement_structure": {
+                    "current_goal": "Increase the catch of fish for sustainable fishing practices",
+                    "current_action": "Conducting fishing expeditions in designated areas",
+                    "imposed_goal": "Enhance the collection of sea scallops to boost local economy",
+                    "imposed_action": "Participate in sea scallop harvesting activities during the designated season",
+                    "mechanism": "Establish a quota system for scallop harvesting and provide training on sustainable practices",
+                    "reasoning": "The proposed bioregenerative network of underwater 'farms' utilizing artificial reefs and autonomous drones aligns with our desire to ensure a long-term stable catch by promoting sustainable practices. It directly addresses our fear of scallop stock depletion by implementing a quota system and providing training on sustainable harvesting methods. This approach not only enhances the collection of sea scallops, boosting the local economy, but also reduces dependency on wild catches, ultimately securing our source of income.",
+                    "recruited_sources": [
+                        "Экологические законы",
+                        "Экосистема моря",
+                        "Экологические изменения",
+                        "Экологические организации"
+                    ]
+                }
+            },
+            {
+                "participant": "population of sea scallops",
+                "agreement_structure": {
+                    "current_goal": "To thrive and reproduce in a stable marine environment",
+                    "current_action": "Filtering water for food and engaging in natural reproductive cycles",
+                    "imposed_goal": "To increase the population density of sea scallops in designated marine areas",
+                    "imposed_action": "Participate in habitat restoration and breeding programs initiated by marine conservation efforts",
+                    "mechanism": "Establishment of marine protected areas and controlled breeding initiatives to enhance survival rates",
+                    "reasoning": "The proposed resolution by 'Морские гребешки' offers a sustainable approach to increasing the population density of sea scallops through habitat restoration and controlled breeding initiatives. This aligns with the long-term goals of the 'population of sea scallops' to thrive in a stable marine environment. The use of artificial reefs and monitoring drones also suggests advanced techniques that could enhance survival rates and overall population health, addressing potential fears of overfishing and habitat degradation.",
+                    "recruited_sources": [
+                        "Commercial fishing industry",
+                        "Fishermen",
+                        "Marine Ecosystem Health",
+                        "Marine Ecosystems",
+                        "Commercial Fishing Industry"
+                    ]
+                }
+            },
+            {
+                "participant": "Scallops",
+                "agreement_structure": {
+                    "current_goal": "Increase awareness about sustainable fishing practices for scallops.",
+                    "current_action": "Participating in educational workshops and community outreach programs.",
+                    "imposed_goal": "Achieve a 20% reduction in overfishing of scallops within the next year.",
+                    "imposed_action": "Implement stricter harvesting regulations and monitor compliance.",
+                    "mechanism": "Establish a collaborative framework with local fisheries and environmental organizations to enforce regulations and promote sustainable practices.",
+                    "reasoning": "The proposed scenario by 'Морские гребешки' aligns with the overarching goal of achieving sustainability in scallop populations. Implementing bioremediation networks and artificial reefs can effectively reduce overfishing and promote a healthier ecosystem, which is essential for the long-term viability of scallops. Moreover, the collaborative framework with local fisheries and environmental organizations ensures that sustainable practices are enforced and monitored, enhancing the overall success of the initiative. This proposal not only addresses the immediate concerns regarding overfishing but also contributes to a sustainable future for scallops, thereby benefitting the entity I represent.",
+                    "recruited_sources": [
+                        "Marine Predators",
+                        "Fishermen",
+                        "Marine Ecosystem",
+                        "Climate Change"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три исследователя",
+                "reasoning": "The researchers are essential for developing the bioreplicative techniques and technology needed for the artificial reefs and monitoring systems. Their expertise will guide the scientific foundation of the project."
+            },
+            {
+                "participant": "Рыбаки",
+                "reasoning": "Fishermen are key stakeholders as they are directly affected by scallop populations. Engaging them will help in gaining support for sustainable practices and integrating local knowledge into the project."
+            },
+            {
+                "participant": "population of sea scallops",
+                "reasoning": "The population of sea scallops is crucial as they are the primary species the resolution aims to restore. Their health and sustainability are vital for the success of the proposed underwater farms."
+            },
+            {
+                "participant": "Scallops",
+                "reasoning": "Scallops, as living entities, are central to the ecosystem. Their well-being and reproduction are the ultimate goals of this resolution, making them a non-human participant whose interests must be prioritized."
+            }
+        ],
+        "recruited_sources": [
+            "Marine Ecosystems",
+            "Экологические законы",
+            "Commercial fishing industry",
+            "Fishermen",
+            "Морская экосистема",
+            "Marine Ecosystem",
+            "Экосистема моря",
+            "Научное сообщество",
+            "Commercial Fishing Industry",
+            "Хищники (например, рыбы, морские птицы)",
+            "Marine Predators",
+            "Marine Ecosystem Health",
+            "Экологические организации",
+            "Морские хищники",
+            "Экологические изменения",
+            "Морские хищники (например, рыбы и морские млекопитающие)",
+            "Ракообразные хищники",
+            "Морские хищники (например, рыбы, морские птицы)",
+            "Climate Change"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Морская экосистема",
+                "Ракообразные хищники",
+                "Хищники (например, рыбы, морские птицы)",
+                "Морские хищники",
+                "Морские хищники (например, рыбы и морские млекопитающие)",
+                "Морские хищники (например, рыбы, морские птицы)"
+            ]
+        }
+    }
+]

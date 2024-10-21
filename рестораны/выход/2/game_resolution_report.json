@@ -1,0 +1,173 @@
+[
+    {
+        "initiator": "Review",
+        "resolution_description": "Establish an AI-driven review aggregator that cross-references and analyzes diverse data sources such as social media, transaction records, and geo-location data to dynamically assess the authenticity of reviews, providing a real-time trust score for each review that evolves with user interactions and feedback.",
+        "new_actor": "AI-Driven Dynamic TrustScore Aggregator",
+        "participants": [
+            {
+                "participant": "TripAdvisor ranking",
+                "agreement_structure": {
+                    "current_goal": "Maintain a high ranking on TripAdvisor for increased visibility and bookings.",
+                    "current_action": "Responding to reviews and updating listings regularly.",
+                    "imposed_goal": "Achieve a top 10 ranking in the local category within the next quarter.",
+                    "imposed_action": "Implement a customer feedback strategy and enhance the quality of service based on reviews.",
+                    "mechanism": "Establish a monthly review meeting to assess progress, share feedback received, and strategize improvements.",
+                    "reasoning": "The proposed resolution offers a significant improvement in the fight against fake reviews, which is critical for maintaining the integrity of the TripAdvisor platform. By implementing an AI-driven review aggregator, TripAdvisor can enhance the authenticity of reviews, thereby increasing user trust and engagement. This aligns with the goal of achieving a top 10 ranking in the local category, as improved review authenticity will likely lead to better user experiences and higher ratings. Additionally, the focus on a customer feedback strategy and regular review meetings can provide valuable insights for continuous improvement in service quality, benefiting both customers and businesses within the restaurant and tourism industries.",
+                    "recruited_sources": [
+                        "Hotels and Restaurants",
+                        "Local Restaurants",
+                        "Hotel Owners",
+                        "User Reviews",
+                        "Competitor Review Platforms"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "TripAdvisor ranking",
+                "reasoning": "TripAdvisor ranking is a significant participant as it represents a well-established platform in the review space. Collaborating with or understanding their ranking system can provide valuable insights into how to position the new aggregator and compete effectively in the market."
+            }
+        ],
+        "recruited_sources": [
+            "User Reviews",
+            "Users",
+            "Reviewer",
+            "Local Restaurants",
+            "Hotel Owners",
+            "Hotels and Restaurants",
+            "Customer Feedback",
+            "Competitor Review Platforms",
+            "Negative Reviews",
+            "Audience Feedback"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Audience Feedback",
+                "Reviewer",
+                "Negative Reviews",
+                "Users",
+                "Customer Feedback"
+            ]
+        }
+    },
+    {
+        "initiator": "Рестораны",
+        "resolution_description": "As 'Рестораны', create a blockchain-based review system where each review is verified and permanently recorded, incentivizing genuine feedback through a token reward system that customers can redeem for discounts or perks, thereby ensuring transparency and reducing the prevalence of fake reviews.",
+        "new_actor": "BlockchainReviewVerifier",
+        "participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Develop a unique restaurant concept that attracts customers.",
+                    "current_action": "Conduct market research to identify trends and preferences.",
+                    "imposed_goal": "Create a comprehensive business plan for a new restaurant within three months.",
+                    "imposed_action": "Present the business plan to potential investors and stakeholders.",
+                    "mechanism": "Provide weekly mentorship sessions and resources for business planning and market analysis.",
+                    "reasoning": "The proposed blockchain-based review system aligns with 'Три основателя стартапа's' desire to create a successful platform for restaurant evaluation and travel planning. By ensuring transparency and authenticity in reviews, this system can attract more users and restaurants, addressing the fear of insufficient traction. Additionally, the mentorship and resources provided by 'Рестораны' will support the development of a comprehensive business plan, further enhancing the potential for success.",
+                    "recruited_sources": [
+                        "Пользователи платформы",
+                        "Конкурирующие платформы (например, TripAdvisor, Yelp)",
+                        "Конкуренты в сфере туристических приложений"
+                    ]
+                }
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "Find a suitable restaurant for dining",
+                    "current_action": "Searching online and reading reviews",
+                    "imposed_goal": "Choose a restaurant from the recommended list",
+                    "imposed_action": "Select one restaurant and make a reservation",
+                    "mechanism": "Providing a curated list of top-rated restaurants with direct booking options",
+                    "reasoning": "The proposed blockchain-based review system directly addresses my desire to find quality restaurants and avoid disappointment during my travels. By ensuring that reviews are verified and incentivizing genuine feedback, the system increases the likelihood of receiving accurate and trustworthy information. Additionally, having a curated list of top-rated restaurants with direct booking options enhances my ability to make informed choices and secure reservations, further mitigating my fear of encountering subpar services.",
+                    "recruited_sources": [
+                        "Рестораны",
+                        "Некачественные рестораны",
+                        "Некоторые рестораны"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize returns on investments in the restaurant sector",
+                    "current_action": "Analyzing potential restaurant investments and market trends",
+                    "imposed_goal": "Increase overall profitability of the restaurant portfolio by 20% within the next year",
+                    "imposed_action": "Implement cost-cutting measures and enhance marketing strategies across all restaurant investments",
+                    "mechanism": "Monthly performance reviews and strategy adjustment meetings to ensure alignment with profitability targets",
+                    "reasoning": "The proposed blockchain-based review system directly aligns with 'Инвесторы' desires for long-term income by creating a transparent and trustworthy review mechanism that can enhance the restaurant sector's reputation. This system also addresses the fears of losing investments due to platform failure or misinformation by ensuring that all reviews are verified and incentivized, thus increasing the overall integrity of the feedback. The potential increase in profitability by 20% within a year makes this proposal appealing, as it not only supports the current investment strategy but also mitigates risks associated with fake reviews.",
+                    "recruited_sources": [
+                        "Аналитические компании",
+                        "Конкурирующие стартапы",
+                        "Стартапы",
+                        "Финансовые аналитики",
+                        "Платформа стартапа",
+                        "Непроверенные стартапы"
+                    ]
+                }
+            },
+            {
+                "participant": "Restaurants",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction and retention",
+                    "current_action": "Implementing customer feedback systems and loyalty programs",
+                    "imposed_goal": "Expand the restaurant's reach through online delivery services",
+                    "imposed_action": "Partner with at least two major food delivery platforms",
+                    "mechanism": "Establish a promotional campaign to attract new customers via online platforms and offer discounts for first-time users",
+                    "reasoning": "The proposed blockchain-based review system addresses the issue of fake reviews, which is a significant concern in the restaurant industry. By ensuring that reviews are verified and recorded transparently, customer trust can be increased, leading to higher customer satisfaction and retention. Additionally, the incentive structure for genuine feedback can engage customers more, promoting loyalty. This aligns with the goal of expanding the restaurant's reach through online delivery services, as positive reviews can enhance visibility and attract new customers. Overall, the proposal is beneficial for enhancing the reputation of restaurants and mitigating the risks associated with dishonest reviews.",
+                    "recruited_sources": [
+                        "Local Food Suppliers",
+                        "Food Delivery Services",
+                        "Food Suppliers"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are essential for developing and implementing the blockchain-based review system. They possess the vision, technical skills, and entrepreneurial drive needed to create a functional and appealing platform that addresses the issue of fake reviews."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are the primary users of the review system. Their genuine feedback will be crucial for the system's success, and their participation will help validate the effectiveness of the platform in providing trustworthy reviews."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for securing the necessary funding to develop and maintain the blockchain-based review system. Their support can provide the resources needed for technology development, marketing, and scaling the platform."
+            },
+            {
+                "participant": "Restaurants",
+                "reasoning": "Restaurants are key stakeholders in the review ecosystem. Their participation is vital as they will be the entities being reviewed. Gaining their trust and involvement will ensure that they are motivated to engage with the new system and respond positively to genuine customer feedback."
+            }
+        ],
+        "recruited_sources": [
+            "Социальные сети",
+            "Food Suppliers",
+            "Некоторые рестораны",
+            "Стартапы",
+            "Клиенты",
+            "Рестораны",
+            "Food Delivery Services",
+            "Некачественные рестораны",
+            "Local Food Suppliers",
+            "Финансовые аналитики",
+            "Конкурирующие стартапы",
+            "Конкуренты в сфере туристических приложений",
+            "Аналитические компании",
+            "Негативные отзывы клиентов",
+            "Непроверенные стартапы",
+            "Пользователи платформы",
+            "Конкурирующие платформы (например, TripAdvisor, Yelp)",
+            "Платформа стартапа"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Негативные отзывы клиентов",
+                "Клиенты",
+                "Социальные сети"
+            ]
+        }
+    }
+]

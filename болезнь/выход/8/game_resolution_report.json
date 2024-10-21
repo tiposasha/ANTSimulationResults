@@ -1,0 +1,354 @@
+[
+    {
+        "initiator": "MIND Diet",
+        "resolution_description": "\"MIND Diet proposes a groundbreaking resolution by integrating precision nutrition with advanced neuroimaging and AI-driven biomarker analysis to develop personalized dietary interventions that not only prevent but potentially reverse cognitive decline by directly influencing neuroplasticity and synaptic repair in Alzheimer's patients.\"",
+        "new_actor": "NeuroNutriAI Innovator",
+        "participants": [
+            {
+                "participant": "Научный журнал",
+                "agreement_structure": {
+                    "current_goal": "To publish research on dietary interventions for cognitive health.",
+                    "current_action": "Conducting studies and collecting data on the effects of various diets.",
+                    "imposed_goal": "To adopt the MIND Diet as a primary research focus.",
+                    "imposed_action": "Implementing the MIND Diet in ongoing and future research studies.",
+                    "mechanism": "Providing resources and guidance on the MIND Diet, including access to existing research and collaboration opportunities with experts in the field.",
+                    "reasoning": "The proposed resolution by MIND Diet aligns with Научный журнал's desire to publish groundbreaking research and maintain a high impact factor. By integrating precision nutrition with advanced neuroimaging and AI-driven biomarker analysis, the research has the potential to yield innovative findings that could significantly contribute to the field of cognitive health. Additionally, the collaboration with MIND Diet provides access to resources and expertise, which can enhance the credibility and rigor of the research, thereby helping to mitigate fears of losing reputation due to the publication of unreliable studies.",
+                    "recruited_sources": [
+                        "Научные исследователи",
+                        "Непроверенные исследовательские данные",
+                        "Научные рецензенты"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the ultimate beneficiaries of the MIND Diet. Engaging them ensures that the dietary interventions are tailored to real-world needs and preferences, enhancing the likelihood of successful adoption and adherence."
+            },
+            {
+                "participant": "Научный журнал",
+                "reasoning": "Scientific journals play a vital role in disseminating research findings and gaining recognition in the scientific community. Publishing results related to the MIND Diet will help establish credibility and attract further interest and collaboration."
+            }
+        ],
+        "recruited_sources": [
+            "Научные исследователи",
+            "Научные рецензенты",
+            "Nutrition Science",
+            "Nutrition Guidelines",
+            "Fast Food Industry",
+            "Непроверенные исследовательские данные",
+            "Health Researchers",
+            "Neuroscientists"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Fast Food Industry",
+                "Nutrition Guidelines",
+                "Nutrition Science",
+                "Neuroscientists",
+                "Health Researchers"
+            ]
+        }
+    },
+    {
+        "initiator": "gamma frequency stimulation",
+        "resolution_description": "\"Gamma frequency stimulation proposes a transformative resolution by leveraging synchronized neural oscillations to enhance cognitive function and repair neural circuits, offering a non-invasive and adaptive approach to mitigate Alzheimer's symptoms and potentially restore cognitive abilities by re-establishing neural connectivity and promoting brain resilience.\"",
+        "new_actor": "The Neural Connectivity Enhancer",
+        "participants": [
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "agreement_structure": {
+                    "current_goal": "Maintain the integrity of the blood-brain barrier to protect the brain from harmful substances.",
+                    "current_action": "Regulating the passage of molecules and ions across the endothelial cells of the BBB.",
+                    "imposed_goal": "Enhance the permeability of the blood-brain barrier to facilitate the delivery of therapeutic agents.",
+                    "imposed_action": "Increasing the expression of specific transporters and modifying tight junctions to allow for increased substance passage.",
+                    "mechanism": "Utilizing gamma frequency stimulation to modulate cellular signaling pathways that influence the permeability of the blood-brain barrier.",
+                    "reasoning": "The proposal from gamma frequency stimulation aligns with the goals of enhancing therapeutic delivery through modulation of the blood-brain barrier. By allowing for increased permeability selectively and safely, the proposal not only facilitates the delivery of therapeutic agents but also enhances cognitive function and neural repair. This collaborative approach can lead to a more comprehensive strategy for treating Alzheimer's Disease, addressing both the need for effective drug delivery and the restoration of cognitive abilities.",
+                    "recruited_sources": [
+                        "Neurotoxins",
+                        "Neurotransmitters",
+                        "Neurons"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Blood-brain barrier (BBB)",
+                "reasoning": "The blood-brain barrier (BBB) is a key factor in delivering therapeutic interventions effectively; understanding its dynamics will be essential for optimizing gamma frequency stimulation's impact on cognitive enhancement and neural connectivity."
+            }
+        ],
+        "recruited_sources": [
+            "Neurotransmitters",
+            "Traditional Neuromodulation Techniques",
+            "Neurons",
+            "Neuroscientific Research",
+            "Neuroscience Research Community",
+            "neuroscience research community",
+            "Neuroscience Research",
+            "Neurotoxins",
+            "regulatory bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "regulatory bodies",
+                "Neuroscience Research Community",
+                "Neuroscientific Research",
+                "Traditional Neuromodulation Techniques",
+                "neuroscience research community",
+                "Neuroscience Research"
+            ]
+        }
+    },
+    {
+        "initiator": "Больница",
+        "resolution_description": "\"Больница proposes a pioneering resolution by developing a global network of interconnected virtual reality-based cognitive rehabilitation centers, utilizing immersive environments and real-time neurofeedback to retrain and enhance the brain's adaptive capabilities, fostering resilience and cognitive restoration in Alzheimer's patients through continuous, personalized virtual engagement.\"",
+        "new_actor": "CognitiveVR Rehab Network Initiative",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Фармацевтические компании",
+            "Страховая компания",
+            "Финансирование от государства",
+            "Пациенты с Альцгеймером",
+            "Страховые компании",
+            "Финансовые учреждения"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Финансовые учреждения",
+                "Фармацевтические компании",
+                "Страховая компания",
+                "Финансирование от государства",
+                "Страховые компании",
+                "Пациенты с Альцгеймером"
+            ]
+        }
+    },
+    {
+        "initiator": "Коллеги-ученые",
+        "resolution_description": "Initiator: Коллеги-ученые, Resolution: \"Коллеги-ученые propose an avant-garde resolution by harnessing quantum computing to unravel the complex protein misfolding pathways and synaptic dysfunctions in Alzheimer's disease, enabling the discovery of novel molecular targets and the development of ultra-specific pharmacological agents that can preemptively stabilize neuronal structures and halt the progression of neurodegeneration.\"",
+        "new_actor": "Quantum Neurogenesis Consortium",
+        "participants": [
+            {
+                "participant": "iPSCs",
+                "agreement_structure": {
+                    "current_goal": "Advance research on induced pluripotent stem cells (iPSCs) for therapeutic applications.",
+                    "current_action": "Conducting experiments to optimize reprogramming techniques for iPSCs.",
+                    "imposed_goal": "Collaborate with other research teams to integrate iPSC technology into wider therapeutic strategies.",
+                    "imposed_action": "Participate in joint research projects and share findings in collaborative workshops.",
+                    "mechanism": "Establish a framework for regular meetings and progress reports among participating teams to ensure alignment and synergy in research efforts.",
+                    "reasoning": "The proposed resolution by Коллеги-ученые offers an innovative approach to understanding Alzheimer's disease through the integration of quantum computing, which aligns with the goals of iPSCs to advance research and therapeutic applications. By participating in this resolution, iPSCs can collaborate with other research teams and enhance the integration of iPSC technology into broader therapeutic strategies, thus fulfilling the desire for collaboration and potentially addressing any fears related to isolation in research efforts. The unique opportunity to explore new molecular targets and develop novel pharmacological agents could significantly benefit the field of neurodegeneration and enhance the impact of iPSCs in this critical area of research.",
+                    "recruited_sources": [
+                        "Research Institutions",
+                        "Biotechnology Companies",
+                        "Regulatory Agencies",
+                        "Stem Cell Research Community",
+                        "Traditional Stem Cell Research",
+                        "Stem Cell Researchers"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "iPSCs",
+                "reasoning": "Incorporating 'iPSCs' (induced pluripotent stem cells) is crucial for generating patient-specific neuronal models. This will allow researchers to study the disease mechanisms in a personalized context and evaluate the efficacy of new treatments on patient-derived cells."
+            }
+        ],
+        "recruited_sources": [
+            "Stem Cell Researchers",
+            "Research Institutions",
+            "Stem Cell Research Community",
+            "Научные журналы",
+            "Научные критики",
+            "Biotechnology Companies",
+            "Regulatory Agencies",
+            "Traditional Stem Cell Research"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Научные журналы",
+                "Научные критики"
+            ]
+        }
+    },
+    {
+        "initiator": "Tau protein",
+        "resolution_description": "Initiator: Tau protein, Resolution: \"Tau protein proposes an unprecedented resolution by engineering synthetic, self-regulating tau variants that autonomously modulate their phosphorylation states to prevent aggregation and toxicity, thus transforming tau from a pathological agent into a therapeutic tool that actively maintains neuronal integrity and function in Alzheimer's patients.\"",
+        "new_actor": "SynTau-Regulator",
+        "participants": [
+            {
+                "participant": "3D microfluidic organ chips",
+                "agreement_structure": {
+                    "current_goal": "To develop high-fidelity models of human organs for drug testing and disease modeling.",
+                    "current_action": "Fabricating and optimizing microfluidic organ chips to mimic physiological conditions.",
+                    "imposed_goal": "To investigate the role of Tau protein in neurodegenerative diseases using organ chips.",
+                    "imposed_action": "Integrate Tau protein assays into the microfluidic organ chip platforms for real-time analysis.",
+                    "mechanism": "Establish a collaborative framework with researchers specializing in Tau protein to design experiments and analyze data using the organ chips.",
+                    "reasoning": "The proposal from Tau protein presents an opportunity to enhance the functionality of 3D microfluidic organ chips by integrating Tau protein assays, which will allow for real-time analysis of neurodegenerative processes. This collaboration not only supports the ongoing development of patient-specific models for Alzheimer's disease but also aligns with our goal of investigating the roles of various proteins, including Tau, in disease mechanisms. By adopting this proposal, we can broaden our research capabilities and contribute more effectively to the understanding and treatment of Alzheimer's disease.",
+                    "recruited_sources": [
+                        "Biomedical Researchers",
+                        "Biotechnology Companies",
+                        "Regulatory Agencies",
+                        "Pharmaceutical Companies",
+                        "Biomedical researchers",
+                        "Traditional drug testing models"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "3D microfluidic organ chips",
+                "reasoning": "3D microfluidic organ chips can be used to model the human brain environment and test the efficacy and safety of the engineered tau variants. This technology will help in assessing the interactions within neuronal circuits and the impact of the synthetic tau on neuronal integrity."
+            }
+        ],
+        "recruited_sources": [
+            "Biotechnology Companies",
+            "Microtubules",
+            "Neurotransmitters",
+            "Biomedical researchers",
+            "Neurodegenerative diseases",
+            "Regulatory Agencies",
+            "Neurodegenerative Diseases",
+            "Pharmaceutical Companies",
+            "Biomedical Researchers",
+            "Traditional drug testing models",
+            "Ubiquitin-proteasome system (UPS)"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Microtubules",
+                "Neurodegenerative diseases",
+                "Neurotransmitters",
+                "Neurodegenerative Diseases",
+                "Ubiquitin-proteasome system (UPS)"
+            ]
+        }
+    },
+    {
+        "initiator": "Alzheimer's Disease",
+        "resolution_description": "\"Alzheimer's Disease proposes a revolutionary resolution by embedding itself within a global consciousness network to create a collective cognitive reservoir, allowing individuals to access shared memories and experiences, thereby bypassing individual memory deficits and fostering a new paradigm of interconnected cognitive resilience.\"",
+        "new_actor": "The actor created would be named \"Collective Cognition Nexus.\"",
+        "participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "agreement_structure": {
+                    "current_goal": "Investigate the underlying mechanisms of Alzheimer’s disease and develop potential therapeutic approaches.",
+                    "current_action": "Conducting clinical trials and laboratory research to understand disease pathology.",
+                    "imposed_goal": "Accelerate the development of effective treatments for Alzheimer’s disease.",
+                    "imposed_action": "Collaborate with pharmaceutical companies to fast-track drug discovery and approval processes.",
+                    "mechanism": "Establish a consortium that brings together researchers, clinicians, and industry partners to share data and resources, facilitating a more efficient approach to treatment development.",
+                    "reasoning": "The proposal by 'Alzheimer's Disease' to embed itself within a global consciousness network offers a groundbreaking approach to addressing the challenges posed by Alzheimer's disease. By collaborating with industry partners and establishing a consortium, 'Исследователи в области нейрологии' can accelerate the development of effective treatments, which aligns with the desire to confirm the amyloid hypothesis and gain recognition in the scientific community. Moreover, this collaborative approach may mitigate fears of losing research and funding, as it provides a platform for shared resources and data, reducing the risks associated with potential setbacks in individual research efforts.",
+                    "recruited_sources": [
+                        "Научное сообщество",
+                        "Научные журналы",
+                        "Финансирующие организации"
+                    ]
+                }
+            },
+            {
+                "participant": "Фармакологические компании",
+                "agreement_structure": {
+                    "current_goal": "Develop effective medications to treat Alzheimer's Disease",
+                    "current_action": "Conducting clinical trials for new drug compounds",
+                    "imposed_goal": "Accelerate the development of innovative treatments specifically targeting Alzheimer's Disease",
+                    "imposed_action": "Allocate additional resources towards research and development focused on Alzheimer's Disease therapies",
+                    "mechanism": "Establish a collaborative platform for sharing research data and findings among pharmaceutical companies to expedite the drug development process",
+                    "reasoning": "The proposal from 'Alzheimer's Disease' aligns with our desire to develop and patent effective medications for Alzheimer's Disease. By participating in this new resolution, we can allocate additional resources towards research and development focused on Alzheimer's therapies, which is critical for our success. Additionally, the collaborative platform for sharing research data and findings can help mitigate our fears of losing investments by potentially speeding up the drug development process and reducing the risk associated with competition. Thus, engaging in this proposal provides a strategic advantage for 'Фармакологические компании'.",
+                    "recruited_sources": [
+                        "Инвесторы"
+                    ]
+                }
+            },
+            {
+                "participant": "Пациенты",
+                "agreement_structure": {
+                    "current_goal": "Manage daily living activities despite cognitive decline",
+                    "current_action": "Participating in memory care programs and therapy sessions",
+                    "imposed_goal": "Improve cognitive function and enhance quality of life",
+                    "imposed_action": "Engage in regular cognitive training exercises and social interactions",
+                    "mechanism": "Implement a structured schedule that includes cognitive activities, social engagement, and caregiver support",
+                    "reasoning": "The proposal by 'Alzheimer's Disease' aligns with my desire to live a full life without the symptoms of Alzheimer's. By embedding itself within a global consciousness network, it offers a way to access shared memories and experiences, thus potentially alleviating my fears of losing memory, personality, and independence. This new approach not only aims to improve cognitive function but also fosters social interactions, which are crucial for enhancing quality of life. Overall, this proposal presents a promising opportunity to manage the challenges posed by the disease.",
+                    "recruited_sources": [
+                        "Исследовательские организации",
+                        "Технологические компании",
+                        "Медикаменты",
+                        "Социальные стереотипы о пациенте с Альцгеймером",
+                        "Медицинские учреждения",
+                        "Семья и близкие"
+                    ]
+                }
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "agreement_structure": {
+                    "current_goal": "Develop and optimize 3D iPSC-based organoids for modeling brain diseases.",
+                    "current_action": "Conducting experiments to refine organoid protocols and assess their viability in modeling Alzheimer's pathology.",
+                    "imposed_goal": "Create more accurate disease models for Alzheimer's disease research.",
+                    "imposed_action": "Implement advanced imaging techniques and high-throughput screening to enhance organoid functionality and analysis.",
+                    "mechanism": "Establish collaborations with imaging specialists and data analysts to integrate novel techniques into organoid development.",
+                    "reasoning": "The proposed resolution by 'Alzheimer's Disease' offers a significant opportunity for '3D iPSC-based organoids' to enhance its capabilities in modeling Alzheimer's pathology. By embedding within a global consciousness network, '3D iPSC-based organoids' can leverage shared knowledge and resources, leading to the development of more accurate disease models. This aligns with our underlying interest in advancing organoid research and improving their functionality, while also providing a collaborative framework that mitigates potential fears of isolation in research endeavors.",
+                    "recruited_sources": [
+                        "Biotechnology Research Institutions",
+                        "Healthcare Providers",
+                        "Pharmaceutical Companies",
+                        "Competing Technologies",
+                        "Patient Advocacy Groups",
+                        "Traditional organ manufacturing methods"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Исследователи в области нейрологии",
+                "reasoning": "Researchers in neurology are essential for developing the scientific foundation and evidence necessary for the proposed resolution. Their expertise will guide the integration of cognitive resources and memory sharing techniques within the neurological framework."
+            },
+            {
+                "participant": "Фармакологические компании",
+                "reasoning": "Pharmaceutical companies are crucial for funding, developing, and producing any potential therapies or technologies that may arise from the resolution's implementation. Their involvement ensures that practical applications and innovations can be realized."
+            },
+            {
+                "participant": "Пациенты",
+                "reasoning": "Patients are the primary beneficiaries of the proposed cognitive network. Their participation and feedback will help refine the system, ensuring it truly addresses the needs of those experiencing memory deficits due to Alzheimer's Disease."
+            },
+            {
+                "participant": "3D iPSC-based organoids",
+                "reasoning": "3D iPSC-based organoids can provide valuable insights into disease mechanisms and potential therapies. Their integration into the resolution will enhance understanding of Alzheimer's pathology and support the development of personalized cognitive interventions."
+            }
+        ],
+        "recruited_sources": [
+            "Научные журналы",
+            "Научное сообщество",
+            "Инвесторы",
+            "Pharmaceutical Companies",
+            "Healthcare Providers",
+            "Traditional organ manufacturing methods",
+            "Медицинские учреждения",
+            "Caregiving Services",
+            "Социальные стереотипы о пациенте с Альцгеймером",
+            "Biotechnology Research Institutions",
+            "Competing Technologies",
+            "Финансирующие организации",
+            "Families and Caregivers",
+            "Медикаменты",
+            "Семья и близкие",
+            "Технологические компании",
+            "Исследовательские организации",
+            "Healthcare Access",
+            "Patient Advocacy Groups"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Caregiving Services",
+                "Healthcare Access",
+                "Healthcare Providers",
+                "Pharmaceutical Companies",
+                "Families and Caregivers"
+            ]
+        }
+    }
+]

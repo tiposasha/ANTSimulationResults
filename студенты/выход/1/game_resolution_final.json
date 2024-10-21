@@ -1,0 +1,102 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: Develop a blockchain-based system for knowledge verification and credentialing that ensures transparency and authenticity in student assessments, allowing for peer and self-assessment to validate true understanding beyond traditional exams.",
+        "new_actor": "The actor created would be named \"Blockchain Academic Verifier.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including educators and researchers, will provide valuable insights into best practices for assessment and credentialing. Their support is essential for the credibility and acceptance of the new system within academic institutions."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers' involvement is vital for validating the effectiveness of the blockchain-based credentialing system. Their perspectives on the skills and competencies that matter in the workforce will help shape the system to ensure it aligns with industry needs."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies can enhance the assessment process by providing personalized feedback and analysis. Their integration into the blockchain system can support more sophisticated validation methods and improve the overall assessment experience."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Perceptions of normative behavior",
+        "resolution_description": "Initiate a global cultural shift in education by establishing \"Learning Festivals\" where students collaboratively engage in real-world problem-solving projects, assessed by diverse community stakeholders, thereby redefining knowledge evaluation through collective societal impact and practical application.",
+        "new_actor": "\"Global Learning Festival Collaborator\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of educators and researchers can provide valuable insights and support for the Learning Festivals. Their involvement will help ensure that the projects are academically rigorous and aligned with educational standards, while also facilitating knowledge sharing and innovation."
+            },
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a critical role in shaping the skills and competencies that students need in the workforce. Their participation can help ensure that the problem-solving projects are relevant to industry needs, and they can also provide mentorship and resources to enhance the learning experience."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can enhance the Learning Festivals by providing tools for collaboration, data analysis, and personalized learning experiences. Integrating AI can help streamline the assessment process and support diverse learning styles, making the educational experience more effective and inclusive."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "**Initiator: Teacher**\n\n**Resolution:** Establish a global \"Knowledge Exchange Program\" where students teach peers from different cultures and disciplines, with evaluations based on the effectiveness of their teaching and mutual understanding. To ensure the integrity of the assessment process, the program will include stringent guidelines on assessment criteria, delineating clear expectations for teaching effectiveness and intercultural engagement. Furthermore, the role of educators will be reinforced in overseeing the evaluation process, ensuring that assessments remain objective and meaningful. This approach aims to redefine assessment as a measure of one's ability to communicate and apply knowledge across diverse contexts while maintaining accountability and quality in evaluations.",
+        "new_actor": "Global Knowledge Exchange Facilitator",
+        "participants": [
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Enhance student engagement in classroom activities",
+                    "current_action": "Implement interactive teaching methods",
+                    "imposed_goal": "Achieve a 20% increase in student participation rates by the end of the semester",
+                    "imposed_action": "Conduct weekly assessments to measure participation and provide feedback",
+                    "mechanism": "Utilize a digital platform to track participation metrics and share results with the class",
+                    "reasoning": "The proposed 'Knowledge Exchange Program' aligns with my desire to effectively transmit knowledge while providing an innovative approach to assessment that emphasizes intercultural engagement and teaching effectiveness. By establishing clear guidelines and involving educators in the evaluation process, the proposal addresses my fear of losing control over the learning process due to new technologies. This structure ensures that assessments remain objective and meaningful, ultimately supporting my goal of increasing student participation rates.",
+                    "recruited_sources": [
+                        "Технологии обучения",
+                        "Студенты",
+                        "Новые технологии списывания"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are essential as they are the primary participants in the Knowledge Exchange Program. Their involvement ensures that the program meets the needs and interests of the learners, and their unique perspectives will enhance the mutual understanding aspect of the resolution."
+            },
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers play a crucial role in facilitating the program, guiding students in their teaching efforts, and ensuring that the educational standards are upheld. Their expertise and support will help in evaluating the effectiveness of the teaching and fostering an environment of collaboration."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including researchers and educators, will provide valuable insights and resources to refine the program. Their collaboration will enhance the credibility and effectiveness of the teaching methods employed in the program."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can support the Knowledge Exchange Program by providing tools for personalized learning experiences, facilitating communication across cultures, and helping in the assessment of teaching effectiveness through data analysis."
+            }
+        ],
+        "recruited_sources": [
+            "School Administration",
+            "students",
+            "Educational Institution",
+            "Технологии обучения",
+            "Новые технологии списывания",
+            "Студенты",
+            "Standardized Testing"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Educational Institution",
+                "School Administration",
+                "students",
+                "Standardized Testing"
+            ]
+        }
+    }
+]

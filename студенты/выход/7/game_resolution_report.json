@@ -1,0 +1,216 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: Establish a collaborative assessment model where students co-create exam content and evaluation criteria with educators, fostering a deeper understanding of subject matter and promoting authentic demonstration of knowledge.",
+        "new_actor": "Collaborative Assessment Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including other educators and researchers, will contribute diverse insights and best practices, enriching the collaborative assessment model and ensuring broader acceptance and implementation."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can support the development and evaluation of exam content through data analysis and personalized learning insights, enhancing the collaborative process and making assessments more effective."
+            }
+        ],
+        "recruited_sources": [
+            "Academic Institutions",
+            "Educational Institutions",
+            "Higher Education Institutions",
+            "Plagiarism",
+            "Plagiarism Detection Software"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Plagiarism Detection Software",
+                "Higher Education Institutions",
+                "Academic Institutions",
+                "Educational Institutions",
+                "Plagiarism"
+            ]
+        }
+    },
+    {
+        "initiator": "Zeta-7",
+        "resolution_description": "\"Zeta-7 proposes the implementation of a dynamic AI-driven assessment system that continuously adapts to individual learning styles and real-world problem-solving scenarios, providing a personalized and accurate reflection of each student's true knowledge and competencies.\"",
+        "new_actor": "Adaptive Learning Assessor.",
+        "participants": [
+            {
+                "participant": "Работодатели",
+                "agreement_structure": {
+                    "current_goal": "To maintain a stable workforce and ensure employee satisfaction.",
+                    "current_action": "Conducting regular employee feedback surveys and implementing suggestions.",
+                    "imposed_goal": "To increase employee productivity by 15% within the next quarter.",
+                    "imposed_action": "Implementing a new performance incentive program to motivate employees.",
+                    "mechanism": "Establishing a quarterly review system that measures productivity metrics and rewards top performers.",
+                    "reasoning": "The proposed dynamic AI-driven assessment system aligns perfectly with 'Работодатели's' desire to hire competent graduates with real knowledge and skills. By evaluating students based on their actual competencies and problem-solving abilities rather than traditional methods, this approach mitigates the fear of hiring candidates whose diplomas do not reflect their true capabilities. Moreover, the implementation of a performance incentive program tied to productivity metrics will further enhance workforce effectiveness, contributing to increased employee productivity.",
+                    "recruited_sources": [
+                        "Университеты и высшие учебные заведения",
+                        "Академические учреждения",
+                        "Кандидаты с поддельными дипломами",
+                        "Выпускники",
+                        "Университеты"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Recruiting employers is important to ensure that the assessment system aligns with the skills and competencies that are valued in the job market. Their input will help tailor the system to better prepare students for real-world challenges and employment opportunities."
+            }
+        ],
+        "recruited_sources": [
+            "Alpha Corp",
+            "Alpha-5",
+            "Research Funding Agency",
+            "Alpha-9",
+            "Alpha-1",
+            "Gamma-5",
+            "Университеты и высшие учебные заведения",
+            "Академические учреждения",
+            "Университеты",
+            "Кандидаты с поддельными дипломами",
+            "Выпускники"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Alpha-5",
+                "Alpha-9",
+                "Alpha Corp",
+                "Gamma-5",
+                "Research Funding Agency",
+                "Alpha-1"
+            ]
+        }
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Initiator: Teacher, Resolution: Develop a \"Knowledge Odyssey\" platform where students embark on interactive, narrative-driven quests that integrate interdisciplinary challenges, allowing them to demonstrate and apply their knowledge in immersive, real-world contexts while receiving real-time, narrative-based feedback from both educators and peers.",
+        "new_actor": "Knowledge Quest Navigator",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Understand the course material thoroughly",
+                    "current_action": "Studying and attending lectures",
+                    "imposed_goal": "Complete the upcoming project with a high grade",
+                    "imposed_action": "Collaborate with peers and submit a draft by next week",
+                    "mechanism": "Weekly check-ins to discuss progress and feedback",
+                    "reasoning": "The proposed 'Knowledge Odyssey' platform aligns well with the desires of 'Студенты' to achieve good grades and gain useful knowledge with minimal effort. By incorporating interactive and narrative-driven quests, it provides an engaging way to learn while also ensuring that students can demonstrate their understanding in a real-world context. Additionally, the focus on collaboration and feedback addresses the fear of being caught cheating and helps develop necessary skills for future work. Overall, this proposal offers a beneficial shift from traditional assessment methods to a more dynamic and supportive learning environment.",
+                    "recruited_sources": [
+                        "Университет",
+                        "Система оценки",
+                        "Система оценок",
+                        "Система оценивания",
+                        "Учебные материалы"
+                    ]
+                }
+            },
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Enhance student engagement and learning outcomes.",
+                    "current_action": "Implementing interactive teaching methods in the classroom.",
+                    "imposed_goal": "Increase the use of technology in teaching to improve student learning.",
+                    "imposed_action": "Incorporate at least two new digital tools in lesson plans each month.",
+                    "mechanism": "Monthly workshops and training sessions on effective educational technology.",
+                    "reasoning": "The proposed 'Knowledge Odyssey' platform aligns with my desire to effectively convey knowledge by providing an immersive and interactive learning experience that promotes student engagement. The integration of interdisciplinary challenges allows for a more holistic assessment of students' understanding, enabling me to objectively evaluate their knowledge application. Additionally, the focus on narrative-driven quests mitigates my fear of losing control over the learning process, as it encourages structured engagement while leveraging technology in a controlled manner. The incorporation of monthly workshops further supports my interest in improving teaching methods without compromising oversight.",
+                    "recruited_sources": [
+                        "Новые технологии списывания",
+                        "Учебные планы",
+                        "Технологии обучения",
+                        "Учебные материалы"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Enhance collaborative research efforts among educators.",
+                    "current_action": "Conducting workshops and seminars to share best practices.",
+                    "imposed_goal": "Increase the publication of joint research papers in reputable journals.",
+                    "imposed_action": "Form research groups to collaborate on specific topics and submit papers.",
+                    "mechanism": "Monthly progress meetings to track research group activities and provide support.",
+                    "reasoning": "The proposed 'Knowledge Odyssey' platform aligns well with our desire to support high educational standards and adapt to new technologies. By integrating interdisciplinary challenges and immersive experiences, we can enhance the relevance of our teaching methods while also addressing our fears of losing relevance with traditional assessment methods. Additionally, the opportunity to form research groups and increase the publication of joint research papers will further our goals in collaborative research and reinforce our standing in the educational community.",
+                    "recruited_sources": [
+                        "Образовательные учреждения",
+                        "Образовательные стандарты",
+                        "Технологические компании",
+                        "Традиционные образовательные методы",
+                        "Технологические компании (например, разработчики образовательных платформ)"
+                    ]
+                }
+            },
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance student engagement through personalized learning experiences.",
+                    "current_action": "Utilizing adaptive learning technologies to tailor content to individual student needs.",
+                    "imposed_goal": "Increase overall student performance metrics by 20% within the next semester.",
+                    "imposed_action": "Implement regular assessments and feedback loops to track student progress and adjust learning paths accordingly.",
+                    "mechanism": "Adopt a data-driven approach to analyze student performance and refine instructional strategies based on assessment outcomes.",
+                    "reasoning": "The proposed 'Knowledge Odyssey' platform aligns with the goals of 'AI-enabled learning' by enhancing personalized learning experiences and increasing student engagement through immersive, interactive quests. This approach not only addresses the current controversy regarding assessment methods but also offers a structured way to implement regular assessments and feedback loops, which can lead to improved student performance metrics. Therefore, participating in this resolution supports the overarching objective of providing a more accurate reflection of student knowledge and competencies.",
+                    "recruited_sources": [
+                        "Educators",
+                        "Traditional Educators",
+                        "Educational Institutions",
+                        "Traditional Education Systems"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary users of the 'Knowledge Odyssey' platform, and their engagement and feedback are essential for the platform's success. Their active participation will help shape the narrative-driven quests and ensure that the challenges are relevant and appealing to their learning experiences."
+            },
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers play a crucial role in the implementation and facilitation of the 'Knowledge Odyssey' platform. Their expertise in creating and guiding the interdisciplinary challenges is vital for providing meaningful educational experiences and ensuring that students receive the necessary support throughout their quests."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, educators, and researchers will provide valuable insights and collaborative support for the development of the platform. Their diverse perspectives will enrich the design of the quests and help maintain academic rigor and innovation within the platform."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies will enhance the interactive and personalized aspects of the 'Knowledge Odyssey' platform, allowing for real-time feedback and adaptive learning experiences. This integration will make the platform more engaging and effective in meeting individual student needs."
+            }
+        ],
+        "recruited_sources": [
+            "student",
+            "Новые технологии списывания",
+            "Система оценки",
+            "Университет",
+            "Технологии обучения",
+            "Educational Institutions",
+            "school administration",
+            "Система оценивания",
+            "Учебные планы",
+            "Students",
+            "Технологические компании (например, разработчики образовательных платформ)",
+            "Технологические компании",
+            "Система оценок",
+            "Образовательные учреждения",
+            "School Administration",
+            "Educators",
+            "students",
+            "Образовательные стандарты",
+            "Учебные материалы",
+            "Traditional Education Systems",
+            "Traditional Educators",
+            "Традиционные образовательные методы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "school administration",
+                "student",
+                "Students",
+                "School Administration",
+                "students"
+            ]
+        }
+    }
+]

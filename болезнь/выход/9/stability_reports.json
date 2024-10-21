@@ -1,0 +1,476 @@
+[
+    {
+        "entity": "APOE ɛ4",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Research Institutions",
+            "APOE ɛ4 allele",
+            "Neurons",
+            "Alzheimer's Disease Research Community",
+            "Neurodegenerative Diseases",
+            "Genetic Variants"
+        ],
+        "denied_sources": [
+            "Lifestyle choices (diet, exercise)",
+            "Family history of Alzheimer's disease",
+            "Genetic Counseling Services",
+            "Genetic Research Institutions",
+            "Public awareness and stigma surrounding Alzheimer's disease",
+            "Social Media and Information Networks",
+            "Public Health Policies",
+            "Pharmaceutical Companies",
+            "Genetic Testing Companies",
+            "Healthcare Providers",
+            "Public Health Organizations",
+            "Genetic Testing Services",
+            "Media and Social Networks",
+            "Medical research and treatment advancements"
+        ]
+    },
+    {
+        "entity": "Tau protein",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Amyloid-beta protein",
+            "Alzheimer's Disease",
+            "Amyloid-beta peptide",
+            "Neurotransmitter Systems",
+            "Neurodegenerative Diseases",
+            "Cellular Environment"
+        ],
+        "denied_sources": [
+            "Protein kinases",
+            "Microtubules",
+            "Healthcare Systems",
+            "Pharmaceutical Industry",
+            "Genetic Factors",
+            "Chaperone proteins",
+            "Pharmaceutical Companies",
+            "Neurons",
+            "Microtubule Network",
+            "Research Community",
+            "Neurotransmitters",
+            "Heat shock proteins (HSPs)",
+            "Protein kinases (e.g., GSK-3, CDK5)",
+            "Neurofibrillary Tangles",
+            "Neuroinflammatory cytokines",
+            "Phosphatases"
+        ]
+    },
+    {
+        "entity": "Пациенты",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Медицинские работники",
+            "Болезнь Альцгеймера",
+            "Медицинские учреждения"
+        ],
+        "denied_sources": [
+            "Семья и близкие",
+            "Медикаменты",
+            "Медицинская система",
+            "Социальное окружение",
+            "Технологические устройства (например, приложения для здоровья)",
+            "Технологические устройства (например, приложения для мониторинга состояния)",
+            "Технологические решения (например, вспомогательные устройства)",
+            "Научные исследователи",
+            "Научные исследования",
+            "Фармацевтические компании",
+            "Семьи пациентов",
+            "Социальные службы",
+            "Научные исследовательские учреждения",
+            "Общественные организации"
+        ]
+    },
+    {
+        "entity": "Коллеги-ученые",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научные конкуренты",
+            "Научные журналы",
+            "Научное сообщество"
+        ],
+        "denied_sources": [
+            "Международные конференции",
+            "Научные конференции",
+            "Финансирующие фонды",
+            "Финансирующие организации",
+            "Технологические инструменты и исследования",
+            "Научные гранты",
+            "Университеты и исследовательские институты",
+            "Научные сообщества (ассоциации)",
+            "Образовательные учреждения",
+            "Общественность",
+            "Научные теории и парадигмы",
+            "Совет по научным стандартам",
+            "Научные организации",
+            "Научные гранты и финансирование",
+            "Научные сообщества и ассоциации",
+            "Критики и оппоненты",
+            "Финансирование исследований"
+        ]
+    },
+    {
+        "entity": "Больница",
+        "status": "Existential Threat",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": true
+        },
+        "recruited_sources": [
+            "Фармацевтические компании",
+            "Медицинское оборудование",
+            "Страховые компании",
+            "Конкурирующая больница",
+            "Медицинские технологии"
+        ],
+        "denied_sources": [
+            "Государственные регуляторы",
+            "Пациенты и их семьи",
+            "Финансирование",
+            "Пациенты с Альцгеймером",
+            "Технологические компании",
+            "Государственные органы здравоохранения",
+            "Научные исследовательские институты",
+            "Правительственные организации",
+            "Научные исследования",
+            "Персонал",
+            "Научные исследования и инновации",
+            "Пациенты с болезнью Альцгеймера",
+            "Финансирование здравоохранения",
+            "Исследовательские учреждения",
+            "Конкурирующие медицинские учреждения"
+        ]
+    },
+    {
+        "entity": "Исследователи в области нейрологии",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научное сообщество",
+            "Конкурирующие исследователи",
+            "Научные журналы",
+            "Научные журналы и конференции"
+        ],
+        "denied_sources": [
+            "Общественное мнение",
+            "Общество в целом",
+            "Научные конференции",
+            "Финансирующие организации",
+            "Технологические инструменты (например, алгоритмы анализа данных)",
+            "Научные сообщества",
+            "Конкурирующие исследовательские группы",
+            "Конкуренты в научной области",
+            "Общество",
+            "Общество и СМИ",
+            "Технологические инновации (например, новые методы визуализации мозга)",
+            "Пациенты с болезнью Альцгеймера",
+            "Технологические платформы",
+            "Общественное мнение и СМИ",
+            "Научное сообщество (коллеги и эксперты)",
+            "Технологии и оборудование (например, сканеры ПЭТ)",
+            "Финансирующие организации (грантодатели)"
+        ]
+    },
+    {
+        "entity": "Blood-brain barrier (BBB)",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Neurotoxins",
+            "Toxins",
+            "Neurons",
+            "Endothelial cells"
+        ],
+        "denied_sources": [
+            "Immune cells",
+            "Immune Cells",
+            "Research Institutions",
+            "Glial cells",
+            "Blood flow",
+            "Blood flow dynamics",
+            "Environmental Toxins",
+            "Environmental Factors (e.g., diet, stress)",
+            "Microglia",
+            "Neurotransmitters",
+            "Glial Cells",
+            "Pharmaceutical drugs",
+            "Inflammatory cytokines",
+            "Pathogens",
+            "Pharmaceuticals"
+        ]
+    },
+    {
+        "entity": "iPSCs",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Biopharmaceutical companies",
+            "Biotechnology Companies",
+            "Regulatory Agencies",
+            "Stem Cell Research Institutions",
+            "Traditional Stem Cell Research"
+        ],
+        "denied_sources": [
+            "Ethics Committees",
+            "Regulatory Bodies",
+            "Research institutions",
+            "Funding Agencies",
+            "Public Perception",
+            "Research Institutions",
+            "Scientific Community",
+            "Academic Institutions",
+            "Pharmaceutical Companies",
+            "Regulatory bodies",
+            "Patients",
+            "Ethical Committees",
+            "Patient Advocacy Groups",
+            "Competing Stem Cell Technologies",
+            "Ethics committees",
+            "Bioengineering and Biomanufacturing Industries"
+        ]
+    },
+    {
+        "entity": "Фармакологические компании",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Инвесторы",
+            "Конкурирующие фармацевтические компании",
+            "Конкурирующие фармакологические компании"
+        ],
+        "denied_sources": [
+            "Регуляторные органы",
+            "Общественное мнение",
+            "Конкуренты",
+            "Пациенты и их организации",
+            "Регулирующие органы",
+            "Потребители",
+            "Научные исследователи",
+            "Научные исследования и университеты",
+            "Пациенты",
+            "Научные исследования и разработки"
+        ]
+    },
+    {
+        "entity": "3D microfluidic organ chips",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Biomedical Researchers",
+            "Traditional pharmaceutical testing methods",
+            "Biomedical Research Institutions",
+            "Biomedical researchers",
+            "Traditional drug testing methods"
+        ],
+        "denied_sources": [
+            "Clinical practitioners",
+            "Regulatory Bodies",
+            "Regulatory agencies",
+            "Competing technologies (e.g., in-vivo models)",
+            "Animal testing advocates",
+            "Pharmaceutical Companies",
+            "Technology manufacturers",
+            "End-users (clinicians and pharmaceutical companies)",
+            "Healthcare Providers",
+            "Manufacturers of biomaterials",
+            "Technology Developers",
+            "Investors",
+            "Funding bodies and investors",
+            "Investment in traditional biotech",
+            "Funding agencies",
+            "Regulatory Agencies",
+            "Regulatory bodies",
+            "Patients",
+            "Public perception and acceptance",
+            "Conventional researchers"
+        ]
+    },
+    {
+        "entity": "Научный журнал",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Научные исследователи",
+            "Редакционная коллегия",
+            "Конкурирующий научный журнал"
+        ],
+        "denied_sources": [
+            "Базы данных и индексы цитирования",
+            "Издательство",
+            "Ученые-авторы",
+            "Редакция журнала",
+            "Спонсоры и грантодатели",
+            "Научные цитирования",
+            "Научные базы данных (например, Scopus, Web of Science)",
+            "Научное сообщество",
+            "Аудитория (читатели и цитирующие)",
+            "Редакторы журнала",
+            "Рецензенты",
+            "Читатели и подписчики",
+            "Издатель",
+            "Академические учреждения",
+            "Аудитория читателей",
+            "Цитируемость и индексирование",
+            "Научные учреждения",
+            "Финансирование научных исследований",
+            "Недостоверные рецензенты",
+            "Технологические платформы для публикации"
+        ]
+    },
+    {
+        "entity": "Alzheimer's Disease",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Societal stigma"
+        ],
+        "denied_sources": [
+            "Pharmaceutical industry",
+            "Research Institutions",
+            "Societal Perceptions",
+            "Pharmaceutical Companies",
+            "Healthcare Providers",
+            "Technology Developers (Assistive Technologies)",
+            "Support Groups and Advocacy Organizations",
+            "Advocacy Groups",
+            "Healthcare Systems",
+            "Caregivers (Family and Professional)",
+            "Public awareness campaigns",
+            "Government Policies",
+            "Neurodegenerative processes",
+            "Government and Policy Makers",
+            "Support Groups",
+            "Media Representation",
+            "Healthcare policies",
+            "Society at Large",
+            "Caregivers and Families"
+        ]
+    },
+    {
+        "entity": "gamma frequency stimulation",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "medical technology companies",
+            "Neuroscientific Research",
+            "Medical Technology Companies",
+            "competing therapeutic modalities",
+            "neuroscientific research",
+            "neurological research institutions"
+        ],
+        "denied_sources": [
+            "Regulatory Bodies",
+            "regulatory bodies",
+            "traditional therapy methods",
+            "Technological Advancements",
+            "patient communities",
+            "public perception and acceptance",
+            "therapeutic practices",
+            "Patient Community",
+            "patients seeking treatment",
+            "mental health practitioners",
+            "Regulatory Agencies",
+            "technological advancements",
+            "Patients with Neurological Disorders",
+            "Clinical Trials",
+            "pharmaceutical companies",
+            "regulatory agencies",
+            "neuroscientific research funding bodies",
+            "neuroscientific research community",
+            "patients with neurological disorders",
+            "Neuroscientists",
+            "media coverage",
+            "Academic Institutions",
+            "mental health advocates"
+        ]
+    },
+    {
+        "entity": "3D iPSC-based organoids",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Regulatory Agencies",
+            "Stem Cell Research Institutions",
+            "Pharmaceutical Companies"
+        ],
+        "denied_sources": [
+            "Biotechnology Firms",
+            "Regulatory Bodies",
+            "Traditional organ transplantation methods",
+            "Funding Agencies",
+            "Biotechnology Companies",
+            "Research Institutions",
+            "Academic Researchers",
+            "Ethical Committees",
+            "Public Perception",
+            "Academic Collaborators",
+            "Public Opinion",
+            "Collaborative Research Networks",
+            "Pharmaceutical companies focused on organ transplant drugs",
+            "Funding Bodies",
+            "Patients",
+            "Competitive Technologies",
+            "Regulatory bodies overseeing organ transplantation",
+            "Medical researchers specializing in organ transplant biology",
+            "Patients awaiting organ transplants"
+        ]
+    }
+]

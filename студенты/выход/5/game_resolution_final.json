@@ -1,0 +1,51 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: Establish a transparent, blockchain-based credentialing system where students demonstrate knowledge through community-verified contributions to open-source projects and real-world problem-solving challenges, ensuring that assessments reflect genuine understanding and ethical engagement.",
+        "new_actor": "Blockchain Credentialing Advocate",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a crucial role in validating the effectiveness of the credentialing system. Their support and recognition of the blockchain credentials will enhance the system's credibility and encourage student participation in the community-verified contributions."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of fellow educators and researchers can provide valuable insights and credibility to the assessment process. Their involvement will help in designing meaningful contributions and ensuring that the system aligns with academic standards and integrity."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can facilitate personalized learning experiences and help evaluate the contributions made by students in real-time. This technology can also assist in maintaining the transparency and security of the blockchain system."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Machine learning classification model",
+        "resolution_description": "Initiate a dynamic, machine learning-powered \"Knowledge Map\" that continuously evaluates and visualizes students' understanding across diverse subjects through real-time data inputs from interactive simulations, cross-disciplinary projects, and contextual problem-solving scenarios, thereby aligning educational assessments with authentic cognitive profiles.",
+        "new_actor": "\"Dynamic Edu-Insight Evaluator\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary users of the Knowledge Map, and their engagement and feedback will be crucial for iterating and improving the system. Their understanding and learning outcomes can directly inform the model's effectiveness."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of fellow educators and researchers can provide valuable expertise and collaboration opportunities. Their collective knowledge can enhance the development of the Knowledge Map and ensure it is grounded in effective pedagogical practices."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies are essential for the dynamic and adaptive nature of the Knowledge Map. Their integration will allow for real-time data collection and analysis, making the system responsive to student needs."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "As 'teacher', I propose establishing a global, collaborative \"Knowledge Ecosystem\" that connects students with diverse mentors and experts from various fields in an ongoing dialogue, where understanding is demonstrated through iterative, real-world projects that impact communities, thereby fostering a holistic and socially relevant measure of true knowledge and skills.",
+        "new_actor": "\"Global Knowledge Connector\"",
+        "participants": [],
+        "required_participants": []
+    }
+]

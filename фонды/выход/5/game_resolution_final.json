@@ -1,0 +1,115 @@
+[
+    {
+        "initiator": "Volume",
+        "resolution_description": "Volume could resolve the issue by creating a decentralized, blockchain-based investment platform that allows individual investors to pool their resources and collectively invest in high-value opportunities, with transparent voting mechanisms to ensure equal decision-making power and prevent large financial funds from exerting influence.",
+        "new_actor": "Decentralized Investment Collective (DIC)",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', I propose creating an AI-driven investment advisory network that uses predictive modeling to individually tailor investment strategies for small investors, empowering them with insights traditionally reserved for large funds, while dynamically adapting to market shifts in real-time to maintain a competitive edge.",
+        "new_actor": "InvestiAI Navigator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (Small investors) are the primary target audience for the AI-driven investment advisory network. Their participation is crucial as the resolution aims to empower them with tailored investment strategies and insights."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for the predictive modeling aspect of the advisory network. They will help analyze market trends and investor sentiment, allowing the network to dynamically adapt strategies in real-time."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood represents a significant platform for small investors, making it a key participant for engagement and distribution of the AI-driven investment advisory service, thus facilitating access for the target audience."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', I propose the creation of a global, AI-driven financial education platform that equips individual investors with advanced, cutting-edge investment knowledge and skills previously accessible only to large funds, fostering a new generation of savvy investors who can independently navigate and strategically outmaneuver large financial entities.",
+        "new_actor": "Global AI Financial Education Platform",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the development of a quantum-based financial simulation environment that allows individual investors to test and optimize investment strategies in a hyper-realistic, parallel market universe, providing them with a predictive edge and unique insights that preempt the actions of large financial funds.",
+        "new_actor": "QuantumFinanceSimulatorActor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the success of the resolution as they are the primary users of the proposed quantum-based financial simulation environment. Their engagement and feedback will help refine the platform and ensure it meets the needs of individual investors."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors, in general, are essential participants as they encompass a broad range of individuals who will benefit from the simulation environment. Their involvement will help validate the effectiveness of the platform and attract further interest."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques will be vital for enhancing the predictive capabilities of the simulation environment. By integrating these techniques, the platform can provide deeper insights into market trends and investor behavior."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the establishment of a global, real-time collaborative forecasting platform where individual investors can anonymously share and aggregate their market predictions and insights, creating a collective intelligence network that not only democratizes access to strategic foresight traditionally held by large funds but also dynamically influences market trends through the power of synchronized investor sentiment.",
+        "new_actor": "\"Collective Market Insight Network\"",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Market",
+        "resolution_description": "As 'Market', I propose the establishment of a dynamic, AI-driven investment ecosystem that gamifies the investment process for individual investors, offering personalized financial growth pathways and rewards for strategic collaboration, thereby transforming investment into an engaging, socially-driven experience that naturally counters the dominance of large financial funds by leveraging community-driven market influence.",
+        "new_actor": "\"InvestiQuest\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (small investors) are crucial for the dynamic, AI-driven investment ecosystem as they form the core user base that will engage with the gamified investment process. Their participation will help create a community-driven market influence that counters large financial funds."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forum) serves as a valuable platform for building community engagement and facilitating discussions among individual investors. Leveraging forums like Reddit can enhance the social aspect of the investment ecosystem, promoting collaboration and strategy sharing."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood is a popular trading platform known for its accessibility to individual investors. Partnering with Robinhood can help integrate the gamified investment experience into a user-friendly interface, attracting more participants to the ecosystem."
+            },
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are essential for understanding market trends and investor behavior. Incorporating these techniques into the ecosystem can provide personalized insights and enhance user engagement through tailored recommendations."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "trust",
+        "resolution_description": "As 'trust', I propose the development of a globally recognized, AI-driven trustworthiness index for financial entities, where individual investors can transparently assess and compare the ethical track records, community engagement, and long-term sustainability commitments of large financial funds, empowering them to make investment decisions that prioritize integrity and accountability, thereby reshaping market dynamics through the collective influence of ethically-minded investment choices.",
+        "new_actor": "AI-Driven Trustworthiness Index for Financial Entities (AITIFE)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "SEC",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) plays a critical role in regulating financial markets and ensuring transparency and fairness. Their involvement would lend credibility to the trustworthiness index and ensure compliance with existing financial regulations."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors are the primary users of the trustworthiness index. Their engagement and feedback would be essential in shaping the index to meet their needs and ensure that it effectively empowers them to make informed investment decisions."
+            },
+            {
+                "participant": "Regulatory authorities",
+                "reasoning": "Regulatory authorities are crucial for the development and implementation of standards for the trustworthiness index. Their support would help establish guidelines and benchmarks that ensure the index is reliable and respected within the financial community."
+            },
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are a key demographic that the index aims to support. Their participation and use of the index will drive its success and impact in reshaping market dynamics towards more ethically-minded investment choices."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

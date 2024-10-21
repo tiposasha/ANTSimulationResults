@@ -1,0 +1,193 @@
+[
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "Initiator: Academic Integrity, Resolution: Develop a peer-led collaborative assessment framework where students co-create evaluation criteria and engage in continuous feedback loops, ensuring assessments reflect authentic understanding and uphold academic integrity by fostering a community of trust and accountability.",
+        "new_actor": "Peer-Collaborative Assessment Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including educators and researchers, can provide valuable insights and best practices for implementing the peer-led framework. Their collaboration can enhance the credibility and effectiveness of the assessment process."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning tools can support the development of the assessment framework by providing data analytics and insights into student performance, facilitating continuous feedback loops, and promoting personalized learning experiences that uphold academic integrity."
+            }
+        ],
+        "recruited_sources": [
+            "Educational Institutions",
+            "Academic Institutions",
+            "Plagiarism",
+            "Plagiarism Detection Software"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Plagiarism",
+                "Academic Institutions",
+                "Educational Institutions",
+                "Plagiarism Detection Software"
+            ]
+        }
+    },
+    {
+        "initiator": "Преподаватели",
+        "resolution_description": "Initiator: Преподаватели, Resolution: Implement a dynamic and adaptive assessment system that integrates real-world problem-solving projects, where students demonstrate their knowledge through practical applications and receive mentorship-driven evaluations, ensuring that assessments align with both academic standards and real-life skills.",
+        "new_actor": "Actor Name: Adaptive Assessment Mentor",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Технологические платформы для обучения",
+            "Учебные программы",
+            "Студенты",
+            "Технологии списывания"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Технологические платформы для обучения",
+                "Студенты",
+                "Технологии списывания",
+                "Учебные программы"
+            ]
+        }
+    },
+    {
+        "initiator": "teacher",
+        "resolution_description": "Implement an AI-driven personalized learning and assessment platform that adapts to individual student learning styles and paces, providing real-time feedback and allowing students to demonstrate knowledge mastery through a customizable blend of interactive simulations, virtual reality experiences, and creative expression projects, thus transforming traditional assessment into a holistic, engaging, and deeply personalized educational journey.",
+        "new_actor": "PersonalizedLearningAIPlatform",
+        "participants": [
+            {
+                "participant": "Работодатели",
+                "agreement_structure": {
+                    "current_goal": "Increase employee satisfaction and retention rates.",
+                    "current_action": "Implementing flexible work hours and remote work options.",
+                    "imposed_goal": "Enhance workforce productivity and collaboration.",
+                    "imposed_action": "Establish regular team-building activities and performance reviews.",
+                    "mechanism": "Create a structured schedule for team-building events and set up a feedback system for performance evaluations.",
+                    "reasoning": "The proposed resolution to implement an AI-driven personalized learning and assessment platform directly aligns with the desires of 'Работодатели' to hire competent graduates with real knowledge and skills. By fostering a system that allows students to demonstrate their mastery through diverse and engaging methods, it mitigates the fear of hiring candidates whose diplomas do not accurately reflect their abilities. This approach ensures that assessments are more reflective of actual skills, making it easier for 'Работодатели' to identify and recruit qualified individuals.",
+                    "recruited_sources": [
+                        "Образовательные учреждения",
+                        "Непроверенные образовательные учреждения",
+                        "Система образования"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Involving employers is key to ensuring that the assessment methods align with workplace skills and competencies. Their input can help shape the platform to prepare students for the job market, making the educational journey relevant and beneficial for future career success."
+            }
+        ],
+        "recruited_sources": [
+            "Образовательные учреждения",
+            "school administration",
+            "Educational Institution",
+            "students",
+            "Система образования",
+            "Непроверенные образовательные учреждения",
+            "Standardized Testing"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Educational Institution",
+                "students",
+                "school administration",
+                "Standardized Testing"
+            ]
+        }
+    },
+    {
+        "initiator": "Survey researchers",
+        "resolution_description": "Initiator: Survey Researchers, Resolution: Develop a real-time, data-driven assessment ecosystem that leverages continuous student input and behavioral analytics to dynamically adjust evaluation criteria, ensuring assessments accurately capture genuine knowledge and understanding while fostering a culture of personalized educational growth and improvement.",
+        "new_actor": "Adaptive Learning Assessment Ecosystem Developer.",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Complete academic assignments on time",
+                    "current_action": "Studying and attending lectures",
+                    "imposed_goal": "Participate in a survey research project",
+                    "imposed_action": "Fill out the survey and provide feedback",
+                    "mechanism": "Scheduled survey sessions with reminders and support resources",
+                    "reasoning": "The proposed resolution by Survey Researchers aligns with my current desires of obtaining good grades and useful knowledge with minimal effort. By participating in a survey research project, I can provide feedback that may lead to a more personalized educational experience, which could enhance my actual learning and understanding. This approach also mitigates my fear of being caught for cheating by shifting the focus towards a more authentic assessment of knowledge and skills, ultimately helping me gain the necessary competencies for my future career.",
+                    "recruited_sources": [
+                        "Преподаватели"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Enhance teaching methodologies and research practices among educators.",
+                    "current_action": "Conducting workshops and sharing best practices.",
+                    "imposed_goal": "Gather comprehensive data on teaching effectiveness and student engagement.",
+                    "imposed_action": "Administer a survey to all educators within the community.",
+                    "mechanism": "Provide a standardized survey template and analysis tools to facilitate data collection and interpretation.",
+                    "reasoning": "The proposed assessment ecosystem aligns with our desire to maintain high educational standards and adapt to new technologies. By leveraging real-time data and behavioral analytics, we can enhance our understanding of teaching effectiveness and student engagement, which addresses our fear of losing relevance in traditional assessment methods. This initiative offers the potential for transformative change in how we evaluate student knowledge, fostering a culture of personalized educational growth.",
+                    "recruited_sources": [
+                        "Технологические инновации в образовании",
+                        "Технологические платформы для онлайн-обучения",
+                        "Образовательные технологии",
+                        "Государственные образовательные стандарты",
+                        "Традиционные методы обучения"
+                    ]
+                }
+            },
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance personalized learning experiences through adaptive AI algorithms.",
+                    "current_action": "Developing and testing AI models for learning analytics.",
+                    "imposed_goal": "Increase the efficiency of survey data analysis using AI tools.",
+                    "imposed_action": "Implement AI-driven analytics to streamline survey response evaluations.",
+                    "mechanism": "Create a collaborative platform that integrates AI tools for real-time data processing and feedback.",
+                    "reasoning": "The proposed scenario aligns with the goal of enhancing personalized learning experiences through adaptive AI algorithms. By participating in the development of a real-time, data-driven assessment ecosystem, 'AI-enabled learning' can leverage continuous student input and behavioral analytics to improve the quality and accuracy of assessments. This collaboration with 'Survey Researchers' not only increases the efficiency of survey data analysis using AI tools but also supports a more holistic approach to education, addressing the issues with existing assessment methods. There are no current desires or fears that contradict this proposal, making it a beneficial opportunity.",
+                    "recruited_sources": [
+                        "Traditional education systems",
+                        "Educational Institutions",
+                        "Traditional Educational Institutions",
+                        "Educators",
+                        "Data Analytics"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are crucial for providing continuous input and feedback on their learning experiences, which is essential for developing a real-time assessment ecosystem that captures genuine knowledge and understanding."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of fellow educators and researchers will bring diverse perspectives and expertise to refine the assessment criteria and ensure the ecosystem is research-based and effective."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies can facilitate the collection and analysis of behavioral analytics, allowing for dynamic adjustments in the assessment criteria based on real-time data."
+            }
+        ],
+        "recruited_sources": [
+            "Преподаватели",
+            "Educational Institutions",
+            "Технологические платформы для онлайн-обучения",
+            "Academic Institutions",
+            "Traditional education systems",
+            "Funding Agencies",
+            "Образовательные технологии",
+            "Educators",
+            "Государственные образовательные стандарты",
+            "Traditional Market Researchers",
+            "Data Analytics",
+            "Traditional Educational Institutions",
+            "Традиционные методы обучения",
+            "Технологические инновации в образовании"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Academic Institutions",
+                "Traditional Market Researchers",
+                "Funding Agencies"
+            ]
+        }
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "initiator": "Пассажиры",
+        "resolution_description": "Протоптать тропинку через газон вдоль удобного маршрута",
+        "new_actor": "Протоп через газон",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting the managers and designers responsible for the landscape is crucial as they can provide insights into the feasibility and aesthetics of creating a pathway through the grass, ensuring it aligns with the overall design and sustainability goals."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "Engaging with the administration is essential to obtain the necessary permissions and support for the project, as they have the authority to approve or deny changes to public spaces."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important to involve as they can promote the newly established pathway to tourists, enhancing the attractiveness of the area and ensuring it meets the needs of visitors."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating the sustainability concept is vital to ensure that the pathway development is environmentally friendly, promoting long-term ecological balance and community support."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic trail can transform urban spaces by designing dynamic, edible landscapes that double as pedestrian paths and culinary experiences, encouraging community interaction, local food production, and adaptable design that evolves with user preferences.\"",
+        "new_actor": "The name of the actor that will be created is \"Urban Edible Pathways Initiative.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are essential for creating the dynamic, edible landscapes that the 'Gastronomic trail' aims to implement. Their expertise in urban design and landscape architecture will be crucial in ensuring that the paths are both functional and aesthetically pleasing."
+            },
+            {
+                "participant": "Agriculture",
+                "reasoning": "Involving agriculture is vital as it directly relates to local food production, which is a key component of the 'Gastronomic trail'. Collaborating with agricultural stakeholders will help in sourcing local produce and integrating it into the culinary experiences offered along the trail."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important participants to engage as they can help promote the 'Gastronomic trail' as a unique attraction. Their involvement will facilitate marketing efforts and ensure that the initiative aligns with broader tourism strategies, thereby driving visitor engagement."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is crucial for ensuring that the 'Gastronomic trail' is environmentally friendly and economically viable. By integrating sustainable practices, the initiative can promote responsible consumption and production, which aligns with contemporary urban development goals."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Urban sprawl",
+        "resolution_description": "Urban sprawl can resolve the issue of misaligned urban space design by implementing an adaptable, user-driven \"urban patchwork\" system that empowers residents to claim and transform underutilized parcels of land into personalized, multifunctional spaces, fostering organic growth and community-driven development.",
+        "new_actor": "Urban Patchwork Facilitator",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "\"African cities can redefine urban space design by harnessing indigenous knowledge systems and traditional spatial practices to create 'Cultural Ecosystems,' where urban environments are co-designed with local communities to reflect and celebrate diverse cultural identities, fostering resilient, inclusive, and adaptable urban landscapes that prioritize community needs and heritage.\"",
+        "new_actor": "Cultural Ecosystem Urban Design Collaborator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape are crucial for the practical implementation of the resolution. They possess the skills and expertise needed to integrate indigenous knowledge systems into urban space design, ensuring that cultural ecosystems are effectively co-created with local communities."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a vital role in policy-making and resource allocation. Their support is essential for legitimizing the initiative, facilitating community engagement, and ensuring that the co-design process aligns with broader urban development strategies."
+            },
+            {
+                "participant": "Cities",
+                "reasoning": "Cities as a participant are central to the resolution since they serve as the primary context in which urban design occurs. Engaging with city representatives ensures that the resolution is grounded in real urban challenges and opportunities, making it more relevant and impactful."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities can promote cultural ecosystems as a way to enhance local tourism, which can provide economic incentives for communities to engage in the co-design process. Their involvement can help to celebrate and sustain diverse cultural identities, making the resolution more appealing to both locals and visitors."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

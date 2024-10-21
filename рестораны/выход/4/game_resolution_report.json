@@ -1,0 +1,177 @@
+[
+    {
+        "initiator": "consumer",
+        "resolution_description": "Empower consumers to verify reviews by implementing a blockchain-based authenticity badge system, where users earn credibility points for consistently accurate and valuable feedback, creating a transparent and trustworthy review ecosystem.",
+        "new_actor": "ReviewCredibilityVerifier",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Advertising Agencies",
+            "Retailers",
+            "Retailer",
+            "Corporations",
+            "Market Trends"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Corporations",
+                "Market Trends",
+                "Retailer",
+                "Retailers",
+                "Advertising Agencies"
+            ]
+        }
+    },
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "Implement an AI-driven, real-time review validation system on 'TripAdvisor ranking' that analyzes linguistic patterns, user behavior, and cross-references external data sources to identify and flag fraudulent reviews, providing an authenticity score for each review and thus enhancing consumer trust and industry integrity.",
+        "new_actor": "TripAdvisor AI Review Authenticator",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Users of TripAdvisor",
+            "User Reviews",
+            "Local Businesses",
+            "Restaurant Owners",
+            "Competitor Review Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Users of TripAdvisor",
+                "Local Businesses",
+                "User Reviews",
+                "Competitor Review Platforms",
+                "Restaurant Owners"
+            ]
+        }
+    },
+    {
+        "initiator": "Hotel Managers",
+        "resolution_description": "As 'Hotel Managers', we propose establishing a global consortium of hotels and restaurants that collaboratively fund and implement a decentralized reputation system, where guests and diners earn loyalty rewards for submitting verified reviews through biometric authentication at the point of service, ensuring genuine feedback and fostering a reliable review ecosystem.",
+        "new_actor": "Global Hospitality Reputation Consortium",
+        "participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "agreement_structure": {
+                    "current_goal": "Enjoy a comfortable and pleasant stay at the hotel",
+                    "current_action": "Booking accommodations and participating in hotel activities",
+                    "imposed_goal": "Provide feedback on hotel services and amenities",
+                    "imposed_action": "Complete a satisfaction survey after check-out",
+                    "mechanism": "Utilization of an online survey platform accessible via email post-stay",
+                    "reasoning": "The proposed resolution to establish a global consortium for a decentralized reputation system directly addresses my desire to find quality restaurants and avoid disappointments during travels. By implementing biometric authentication for verified reviews, it significantly reduces the risk of encountering fraudulent information, thereby mitigating my fear of being a victim of poor services or unreliable data about restaurants. This collaborative approach not only enhances the authenticity of reviews but also fosters a reliable ecosystem for feedback, aligning perfectly with my interests.",
+                    "recruited_sources": [
+                        "Туристические приложения",
+                        "Онлайн-платформы для отзывов (TripAdvisor, Google Reviews)",
+                        "Некачественные рестораны",
+                        "Туристические агентства",
+                        "Онлайн-отзывы"
+                    ]
+                }
+            },
+            {
+                "participant": "Рестораны",
+                "agreement_structure": {
+                    "current_goal": "Increase customer satisfaction and loyalty through high-quality dining experiences.",
+                    "current_action": "Providing diverse menu options and excellent service to restaurant patrons.",
+                    "imposed_goal": "Enhance collaboration with hotel managers to create exclusive dining packages for hotel guests.",
+                    "imposed_action": "Develop and implement joint promotional campaigns targeting hotel guests.",
+                    "mechanism": "Regular meetings and feedback sessions with hotel managers to align on package offerings and marketing strategies.",
+                    "reasoning": "The proposal from 'Hotel Managers' aligns well with the desires of 'Рестораны' to attract more customers and improve reputation with lower costs. By establishing a decentralized reputation system, 'Рестораны' can benefit from verified reviews, which will help mitigate fears of losing customers due to negative feedback. Additionally, collaborating with hotel managers to create exclusive dining packages enhances the potential for increased foot traffic and customer loyalty, addressing both current desires and fears effectively.",
+                    "recruited_sources": [
+                        "Клиенты",
+                        "Социальные сети",
+                        "Конкуренты"
+                    ]
+                }
+            },
+            {
+                "participant": "Инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize return on investment in hotel properties",
+                    "current_action": "Analyzing market trends and potential investment opportunities",
+                    "imposed_goal": "Increase occupancy rates by 15% over the next quarter",
+                    "imposed_action": "Implement targeted marketing campaigns and promotional offers",
+                    "mechanism": "Regular performance reviews and strategy adjustment meetings with hotel management",
+                    "reasoning": "The proposed resolution aligns with 'Инвесторы' desires for long-term income from investments in promising startups by fostering a reliable review ecosystem that can enhance overall market integrity. Additionally, the decentralized reputation system aims to mitigate fears related to investment losses through verified reviews, thus creating a more trustworthy environment that could lead to increased occupancy rates and overall profitability.",
+                    "recruited_sources": [
+                        "Аналитические компании",
+                        "Конкуренты на рынке",
+                        "Конкуренты стартапов",
+                        "Стартапы",
+                        "Финансовые аналитики"
+                    ]
+                }
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "agreement_structure": {
+                    "current_goal": "Develop a unique value proposition for the startup",
+                    "current_action": "Conducting market research and competitor analysis",
+                    "imposed_goal": "Create a comprehensive business plan for the hotel management startup",
+                    "imposed_action": "Draft the business plan and submit it for review",
+                    "mechanism": "Weekly feedback sessions to discuss progress and provide guidance",
+                    "reasoning": "The proposal by 'Hotel Managers' aligns with our desire to create a successful platform for travel planning and restaurant evaluation by establishing a reliable and verified review ecosystem. This collaborative approach not only enhances consumer trust but also addresses our fear of attracting sufficient users and restaurants. By participating in a global consortium, we can leverage the collective resources and credibility of established hotels and restaurants, thereby increasing our platform's visibility and user engagement.",
+                    "recruited_sources": [
+                        "Пользователи платформы",
+                        "Пользователи",
+                        "Конкуренты на рынке платформ для планирования путешествий",
+                        "Конкурирующие платформы для планирования путешествий"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are crucial for the success of the decentralized reputation system as they are the primary users who will provide the verified reviews. Their participation ensures the feedback mechanism is robust and reflective of actual experiences, which is essential for building trust in the system."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are essential participants because they will implement the system at the point of service. Their collaboration is necessary for creating a seamless process for guests to submit reviews and earn loyalty rewards, thereby driving engagement with the reputation system."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important for funding the development and implementation of the decentralized reputation system. Their financial support will enable the consortium to build the necessary technology and infrastructure to sustain the initiative."
+            },
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The three founders of the startup are vital as they bring the vision, expertise, and leadership necessary to drive the project forward. Their involvement can facilitate partnerships, guide development, and ensure that the initiative aligns with market needs."
+            }
+        ],
+        "recruited_sources": [
+            "Туристические агентства",
+            "Туристические приложения",
+            "Онлайн-платформы для отзывов (TripAdvisor, Google Reviews)",
+            "Аналитические компании",
+            "Пользователи платформы",
+            "Пользователи",
+            "Конкуренты на рынке платформ для планирования путешествий",
+            "Online Travel Agencies (OTAs)",
+            "Социальные сети",
+            "Клиенты",
+            "Стартапы",
+            "Online Booking Platforms",
+            "Конкуренты",
+            "Local Suppliers",
+            "Онлайн-отзывы",
+            "Конкуренты на рынке",
+            "Online Review Platforms",
+            "Конкурирующие платформы для планирования путешествий",
+            "Финансовые аналитики",
+            "Конкуренты стартапов",
+            "Некачественные рестораны",
+            "Guests",
+            "Suppliers"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Suppliers",
+                "Local Suppliers",
+                "Online Travel Agencies (OTAs)",
+                "Online Review Platforms",
+                "Online Booking Platforms",
+                "Guests"
+            ]
+        }
+    }
+]

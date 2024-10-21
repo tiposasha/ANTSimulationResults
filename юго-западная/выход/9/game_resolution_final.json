@@ -1,0 +1,84 @@
+[
+    {
+        "initiator": "Land use functions (LUFs)",
+        "resolution_description": "\"Implement a dynamic land use system that adapts urban spaces in real-time based on user movement patterns and preferences, using smart sensors and AI to continuously optimize pathways and public areas for maximum user satisfaction and utility.\"",
+        "new_actor": "Dynamic Urban Space Optimizer (DUSO)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Smart city",
+                "reasoning": "Recruiting the 'Smart city' participant is crucial because they embody the integration of technology and urban planning, which is essential for implementing a dynamic land use system. Their expertise in smart technologies will facilitate the adaptation of urban spaces based on real-time data."
+            },
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscaping are key participants because they can provide insights into effective design strategies that align with user satisfaction and utility. Their collaboration is vital to ensure that the optimized pathways and public areas are aesthetically pleasing and functional."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration plays a critical role in approving and supporting the implementation of the resolution. Their involvement is necessary for navigating regulatory frameworks and fostering collaboration among various stakeholders."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important participants as they can help promote the optimized urban spaces to visitors, thus enhancing user satisfaction and utility. Their involvement can also ensure that the dynamic land use system aligns with tourism goals and attracts more visitors."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic trail proposes transforming urban spaces into culinary pathways by integrating pop-up food stations and sensory experiences, encouraging organic foot traffic and community interaction, while dynamically reshaping the spatial design based on gastronomic engagement patterns.\"",
+        "new_actor": "GastroPath Innovator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for the landscape are crucial for executing the transformation of urban spaces into culinary pathways. Their expertise in spatial design will ensure that the integration of pop-up food stations and sensory experiences is both aesthetically pleasing and functional."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities will play a significant role in promoting the gastronomic trail as a tourist attraction, driving foot traffic and community interaction. Their support can help in marketing the initiative to both locals and visitors."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Incorporating smart city concepts can enhance the gastronomic trail by utilizing technology to analyze engagement patterns and dynamically adjust the spatial design, thereby improving the overall experience for participants."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "The sustainability concept is essential to ensure that the gastronomic trail operates in an environmentally friendly manner, promoting local food sources and minimizing waste, which will attract more community support and compliance."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Cities",
+        "resolution_description": "\"Cities will establish 'Urban Evolution Zones'—dynamic, modular spaces that continuously morph in response to real-time citizen interactions and environmental changes, utilizing adaptive architecture and community-driven design workshops to ensure urban areas evolve organically and inclusively, reflecting the true needs and desires of their inhabitants.\"",
+        "new_actor": "Adaptive Urban Evolution Facilitator",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Managers and designers responsible for landscape play a crucial role in the conceptualization and implementation of the Urban Evolution Zones. Their expertise in adaptive architecture and community-driven design workshops will help ensure that the spaces are functional, aesthetically pleasing, and responsive to the needs of the inhabitants."
+            },
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration is essential for policy-making and resource allocation. Their support will be necessary to facilitate the establishment of Urban Evolution Zones and to ensure that the initiative aligns with broader urban planning and regulatory frameworks."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Smart city initiatives are focused on integrating technology to improve urban living. Their involvement is vital for developing the dynamic, real-time adaptive features of Urban Evolution Zones, ensuring that the areas can respond effectively to citizen interactions and environmental changes."
+            },
+            {
+                "participant": "Пассажиры",
+                "reasoning": "Passengers, or the citizens who will interact with the Urban Evolution Zones, are the primary stakeholders. Their input and engagement are critical for understanding the needs and desires of the community, which will shape the design and functionality of the zones."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "African cities",
+        "resolution_description": "African cities propose the \"Cultural Synergy Ecosystem,\" an initiative that integrates indigenous knowledge systems and contemporary urban planning by creating fluid, narrative-driven spaces where traditional storytelling, art, and community rituals shape the physical and social environment, fostering a dynamic urban fabric that evolves organically with its inhabitants’ cultural rhythms and ecological wisdom.",
+        "new_actor": "Cultural Synergy Urban Integrator",
+        "participants": [],
+        "required_participants": []
+    }
+]

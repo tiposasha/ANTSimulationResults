@@ -1,0 +1,246 @@
+[
+    {
+        "entity": "consumer",
+        "status": "Existential Threat",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": true
+        },
+        "recruited_sources": [
+            "Corporations",
+            "Market Trends",
+            "Retailer",
+            "Retailers",
+            "Advertising Agencies"
+        ],
+        "denied_sources": [
+            "Advertisers",
+            "Advertising Agency",
+            "Product Developers",
+            "Environmental Awareness",
+            "Product Manufacturers",
+            "Consumer Reviews and Ratings",
+            "Social Influencers",
+            "Economic Conditions",
+            "Brand Manufacturer",
+            "Peer Pressure",
+            "Regulatory Bodies",
+            "Market Research Firms",
+            "Brand Loyalty Programs",
+            "Cultural Trends",
+            "Social Media Platforms",
+            "Retail Environments",
+            "Social Media Influencers",
+            "Product Reviews and Ratings",
+            "Manufacturer"
+        ]
+    },
+    {
+        "entity": "Три основателя стартапа",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Пользователи платформы",
+            "Пользователи",
+            "Конкуренты на рынке платформ для планирования путешествий",
+            "Конкурирующие платформы для планирования путешествий"
+        ],
+        "denied_sources": [
+            "Инвесторы стартапов",
+            "Поставщики технологий (например, хостинг-провайдеры)",
+            "Рестораны-партнеры",
+            "Инвесторы",
+            "Конкуренты на рынке",
+            "Технологические партнеры",
+            "Пользователи платформ для планирования путешествий",
+            "Технологические платформы (например, социальные сети)",
+            "Пользователи социальных сетей",
+            "Партнеры и рестораны",
+            "Социальные сети и маркетинговые каналы",
+            "Конкуренты",
+            "Технологические платформы (например, Google, Apple)",
+            "Рестораны",
+            "Технологическая инфраструктура"
+        ]
+    },
+    {
+        "entity": "Инвесторы",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Аналитические компании",
+            "Конкуренты на рынке",
+            "Конкуренты стартапов",
+            "Стартапы",
+            "Финансовые аналитики"
+        ],
+        "denied_sources": [
+            "Сообщество стартапов",
+            "Регуляторы",
+            "Платформы для инвестиций",
+            "Аналитические инструменты и программное обеспечение",
+            "Социальные сети и платформы для стартапов",
+            "Регулирующие органы",
+            "Аналитики рынка",
+            "Сообщество инвесторов",
+            "Технологические изменения",
+            "Регуляторы финансового рынка",
+            "Технологические инновации",
+            "Рынок",
+            "Государственные органы",
+            "Сообщество стартапов и менторы",
+            "Финансовые консультанты",
+            "Партнеры стартапов",
+            "Инвесторские сообщества",
+            "Платформы для инвестирования",
+            "Регуляторные органы",
+            "Информационные платформы и репутация"
+        ]
+    },
+    {
+        "entity": "TripAdvisor ranking",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Users of TripAdvisor",
+            "Local Businesses",
+            "User Reviews",
+            "Competitor Review Platforms",
+            "Restaurant Owners"
+        ],
+        "denied_sources": [
+            "Travel Influencers",
+            "Travel Agencies",
+            "Travelers",
+            "Businesses listed on TripAdvisor",
+            "Algorithms",
+            "Competitors to TripAdvisor",
+            "Travel Businesses",
+            "Reviewers",
+            "Social Media",
+            "Food Critics",
+            "TripAdvisor algorithm",
+            "Competitors",
+            "Local Tourism Boards",
+            "User Reviews and Ratings",
+            "Competitor Platforms",
+            "Travel influencers",
+            "Travel Industry Partnerships",
+            "Social Media Platforms",
+            "Social Media Influencers",
+            "Search Engine Algorithms",
+            "Online Competitors",
+            "Tourists"
+        ]
+    },
+    {
+        "entity": "Рестораны",
+        "status": "Existential Threat",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": true
+        },
+        "recruited_sources": [
+            "Клиенты",
+            "Социальные сети",
+            "Конкуренты"
+        ],
+        "denied_sources": [
+            "Отзывы клиентов",
+            "Платформы для отзывов",
+            "Конкуренты (другие рестораны)",
+            "Платформы для отзывов (например, TripAdvisor, Yelp)",
+            "Онлайн-платформы для отзывов",
+            "Технологические платформы (например, системы онлайн-бронирования)",
+            "Поставщики",
+            "Социальные медиа",
+            "Местные СМИ и блогеры",
+            "Сервисы доставки еды",
+            "Маркетинговые агентства",
+            "Поставщики продуктов",
+            "Платформы для отзывов (например, Tripadvisor, Google Reviews)",
+            "Платформы отзывов (например, TripAdvisor, Google Reviews)",
+            "Доставочные сервисы (например, Uber Eats, Яндекс.Еда)"
+        ]
+    },
+    {
+        "entity": "Туристы-клиенты",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Туристические приложения",
+            "Онлайн-платформы для отзывов (TripAdvisor, Google Reviews)",
+            "Некачественные рестораны",
+            "Туристические агентства",
+            "Онлайн-отзывы"
+        ],
+        "denied_sources": [
+            "Онлайн-платформы отзывов (например, TripAdvisor)",
+            "Местные сообщества",
+            "Кулинарные критики",
+            "Неверные отзывы",
+            "Путевые блоги и гайды",
+            "Социальные сети",
+            "Конкуренты",
+            "Местные жители",
+            "Рестораны",
+            "Гид-проводники"
+        ]
+    },
+    {
+        "entity": "Hotel Managers",
+        "status": "Existential Threat",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": true
+        },
+        "recruited_sources": [
+            "Suppliers",
+            "Local Suppliers",
+            "Online Travel Agencies (OTAs)",
+            "Online Booking Platforms",
+            "Guests",
+            "Online Review Platforms"
+        ],
+        "denied_sources": [
+            "Technology Systems (e.g., PMS, Booking Engines)",
+            "Local Governments",
+            "Technology Providers",
+            "Local Tourism Boards",
+            "Staff Members",
+            "Local Communities",
+            "Local Community",
+            "Environmental Regulations",
+            "Employees of the Hotel",
+            "Government Regulations",
+            "Travel Agencies",
+            "Customer Feedback Systems",
+            "Tourists and Guests",
+            "Hospitality Associations",
+            "Technological Disruptors (like Airbnb)",
+            "Regulatory Authorities",
+            "Local Government",
+            "Staff",
+            "Social Media Influencers"
+        ]
+    }
+]

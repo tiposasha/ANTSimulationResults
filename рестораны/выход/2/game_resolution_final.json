@@ -1,0 +1,34 @@
+[
+    {
+        "initiator": "TripAdvisor ranking",
+        "resolution_description": "\"TripAdvisor ranking could revolutionize the fight against fake reviews by developing an AI-driven authenticity verification system that cross-references user behavior patterns and external data sources, enhancing the reliability of reviews while providing a dynamic, real-time ranking adjustment for restaurants and hotels.\"",
+        "new_actor": "The actor that will be created is \"TripAdvisor AI Review Authenticity Verifier.\"",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Три основателя стартапа",
+                "reasoning": "The founders of the startup are crucial as they possess the vision and technical expertise needed to develop the AI-driven authenticity verification system. Their leadership will guide the project from concept to implementation."
+            },
+            {
+                "participant": "Туристы-клиенты",
+                "reasoning": "Tourists-customers are essential participants as they are the primary users of the TripAdvisor platform. Their feedback and behavior patterns will provide valuable data for the AI system, ensuring that it accurately reflects user experiences and needs."
+            },
+            {
+                "participant": "Рестораны",
+                "reasoning": "Restaurants are key stakeholders in this resolution. They will be directly affected by the authenticity verification system, and their cooperation is necessary for accurate data collection and to enhance the credibility of the reviews they receive."
+            },
+            {
+                "participant": "Инвесторы",
+                "reasoning": "Investors are important to secure the necessary funding for the development and maintenance of the AI system. Their support will enable the project to scale and ensure its sustainability in the competitive market."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Restaurants",
+        "resolution_description": "\"Restaurants\" could introduce a 'Verified Experience Program' where diners are invited to participate in a post-visit digital feedback session directly at the establishment, utilizing biometric verification to authenticate their presence, thereby ensuring genuine reviews and fostering trust in the restaurant and tourism industries.",
+        "new_actor": "VerifiedExperienceAuthenticator",
+        "participants": [],
+        "required_participants": []
+    }
+]

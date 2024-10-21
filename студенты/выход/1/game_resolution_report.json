@@ -1,0 +1,206 @@
+[
+    {
+        "initiator": "teacher",
+        "resolution_description": "**Initiator: Teacher**\n\n**Resolution:** Establish a global \"Knowledge Exchange Program\" where students teach peers from different cultures and disciplines, with evaluations based on the effectiveness of their teaching and mutual understanding. To ensure the integrity of the assessment process, the program will include stringent guidelines on assessment criteria, delineating clear expectations for teaching effectiveness and intercultural engagement. Furthermore, the role of educators will be reinforced in overseeing the evaluation process, ensuring that assessments remain objective and meaningful. This approach aims to redefine assessment as a measure of one's ability to communicate and apply knowledge across diverse contexts while maintaining accountability and quality in evaluations.",
+        "new_actor": "Global Knowledge Exchange Facilitator",
+        "participants": [
+            {
+                "participant": "Преподаватели",
+                "agreement_structure": {
+                    "current_goal": "Enhance student engagement in classroom activities",
+                    "current_action": "Implement interactive teaching methods",
+                    "imposed_goal": "Achieve a 20% increase in student participation rates by the end of the semester",
+                    "imposed_action": "Conduct weekly assessments to measure participation and provide feedback",
+                    "mechanism": "Utilize a digital platform to track participation metrics and share results with the class",
+                    "reasoning": "The proposed 'Knowledge Exchange Program' aligns with my desire to effectively transmit knowledge while providing an innovative approach to assessment that emphasizes intercultural engagement and teaching effectiveness. By establishing clear guidelines and involving educators in the evaluation process, the proposal addresses my fear of losing control over the learning process due to new technologies. This structure ensures that assessments remain objective and meaningful, ultimately supporting my goal of increasing student participation rates.",
+                    "recruited_sources": [
+                        "Технологии обучения",
+                        "Студенты",
+                        "Новые технологии списывания"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are essential as they are the primary participants in the Knowledge Exchange Program. Their involvement ensures that the program meets the needs and interests of the learners, and their unique perspectives will enhance the mutual understanding aspect of the resolution."
+            },
+            {
+                "participant": "Преподаватели",
+                "reasoning": "Teachers play a crucial role in facilitating the program, guiding students in their teaching efforts, and ensuring that the educational standards are upheld. Their expertise and support will help in evaluating the effectiveness of the teaching and fostering an environment of collaboration."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of colleagues, including researchers and educators, will provide valuable insights and resources to refine the program. Their collaboration will enhance the credibility and effectiveness of the teaching methods employed in the program."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning can support the Knowledge Exchange Program by providing tools for personalized learning experiences, facilitating communication across cultures, and helping in the assessment of teaching effectiveness through data analysis."
+            }
+        ],
+        "recruited_sources": [
+            "School Administration",
+            "students",
+            "Educational Institution",
+            "Технологии обучения",
+            "Новые технологии списывания",
+            "Студенты",
+            "Standardized Testing"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Educational Institution",
+                "School Administration",
+                "students",
+                "Standardized Testing"
+            ]
+        }
+    },
+    {
+        "initiator": "Academic Integrity",
+        "resolution_description": "**Resolution:** Develop a \"Dynamic Knowledge Portfolio\" system that effectively tracks and updates students' skills and understanding through a balanced approach of real-world project contributions and streamlined assessments. This system will incorporate selective peer reviews and adaptive AI evaluations that prioritize meaningful learning experiences while minimizing undue stress. By ensuring that academic evaluations reflect the true depth and applicability of students' knowledge, we aim to promote lifelong learning and integrity without overwhelming students with excessive workload.",
+        "new_actor": "Dynamic Knowledge Portfolio System Coordinator",
+        "participants": [
+            {
+                "participant": "Студенты",
+                "agreement_structure": {
+                    "current_goal": "Achieve good grades by completing assignments honestly",
+                    "current_action": "Studying and working on assignments independently",
+                    "imposed_goal": "Maintain academic integrity in all coursework",
+                    "imposed_action": "Submit all work with proper citations and no plagiarism",
+                    "mechanism": "Implement a peer review system to ensure accountability and provide feedback on academic work",
+                    "reasoning": "The proposed 'Dynamic Knowledge Portfolio' system aligns with 'Студенты's' desires to achieve good grades while gaining useful knowledge with minimal effort. By focusing on real-world project contributions and adaptive assessments, it offers a more engaging and meaningful learning experience. Additionally, the emphasis on accountability through peer reviews and AI evaluations mitigates the fear of being caught for dishonest practices and ensures that students develop the necessary skills for future work.",
+                    "recruited_sources": [
+                        "Преподаватели"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Студенты",
+                "reasoning": "Students are the primary beneficiaries of the Dynamic Knowledge Portfolio system. Their active participation in real-world projects and peer reviews is crucial for the system's success, as it relies on their skills and understanding to shape their learning outcomes."
+            }
+        ],
+        "recruited_sources": [
+            "Преподаватели",
+            "Plagiarism Detection Software",
+            "Academic Institutions",
+            "Educational Institutions",
+            "University Administration"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Academic Institutions",
+                "Educational Institutions",
+                "University Administration",
+                "Plagiarism Detection Software"
+            ]
+        }
+    },
+    {
+        "initiator": "Perceptions of normative behavior",
+        "resolution_description": "**Resolution:** Implement a \"Behavioral Insight Assessment\" system that evaluates students based on their ability to apply knowledge in dynamically simulated real-world scenarios, focusing on adaptability, ethical decision-making, and collaborative problem-solving, thereby redefining academic success as the demonstration of practical intelligence and societal impact.",
+        "new_actor": "Behavioral Insight Evaluator (BIE)",
+        "participants": [
+            {
+                "participant": "Работодатели",
+                "agreement_structure": {
+                    "current_goal": "Attract and retain skilled employees",
+                    "current_action": "Offering competitive salaries and benefits",
+                    "imposed_goal": "Foster a culture of inclusivity and diversity in the workplace",
+                    "imposed_action": "Implement diversity training programs and inclusive hiring practices",
+                    "mechanism": "Regular workshops and feedback sessions to monitor progress and adjust strategies",
+                    "reasoning": "The proposed 'Behavioral Insight Assessment' system aligns with our desire to hire competent graduates with real knowledge and skills. By focusing on practical intelligence, adaptability, and ethical decision-making, this approach directly addresses our fear of hiring candidates whose diplomas do not reflect their true abilities. Additionally, fostering a culture of inclusivity and diversity in the workplace through this system can enhance our recruitment strategies and improve employee retention.",
+                    "recruited_sources": [
+                        "Образовательные учреждения",
+                        "Университеты",
+                        "Непроверенные учебные заведения",
+                        "Выпускники"
+                    ]
+                }
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "agreement_structure": {
+                    "current_goal": "Enhance teaching methodologies and research collaboration among colleagues.",
+                    "current_action": "Conducting workshops and seminars to share best practices.",
+                    "imposed_goal": "Align teaching practices with normative behavior expectations across the community.",
+                    "imposed_action": "Participate in a series of training sessions aimed at understanding and integrating normative behaviors in teaching.",
+                    "mechanism": "Establish a peer review and feedback system to evaluate and guide the integration of normative behaviors in teaching practices.",
+                    "reasoning": "The proposed 'Behavioral Insight Assessment' system aligns well with our desire to maintain high educational standards and adapt to new technologies. By focusing on practical intelligence and societal impact, this approach not only enhances our teaching methodologies but also addresses our fear of losing relevance in traditional assessment methods. Furthermore, engaging in training sessions to integrate normative behaviors provides an opportunity for professional development and collaboration among colleagues, which is beneficial for our community.",
+                    "recruited_sources": [
+                        "Современные образовательные технологии",
+                        "Студенты",
+                        "Традиционные методы обучения",
+                        "Министерство образования",
+                        "Технологические гиганты (например, Google, Microsoft)"
+                    ]
+                }
+            },
+            {
+                "participant": "AI-enabled learning",
+                "agreement_structure": {
+                    "current_goal": "Enhance AI learning capabilities through user interaction",
+                    "current_action": "Developing adaptive learning algorithms",
+                    "imposed_goal": "Align AI learning with perceived normative behaviors",
+                    "imposed_action": "Integrate social feedback mechanisms into AI learning systems",
+                    "mechanism": "Implement a feedback loop that incorporates user behavior data to adjust AI responses and learning paths",
+                    "reasoning": "The proposed 'Behavioral Insight Assessment' system aligns with the goal of enhancing AI learning capabilities by integrating social feedback mechanisms into AI learning systems. This approach not only supports the development of adaptive learning algorithms but also emphasizes the application of knowledge in real-world scenarios, which is essential for meaningful learning experiences. By redefining academic success to focus on practical intelligence and societal impact, this proposal addresses the need for academic evaluations that reflect true understanding and adaptability, fostering a more engaged and capable learner.",
+                    "recruited_sources": [
+                        "Educators",
+                        "Educational Institutions",
+                        "Regulatory Bodies",
+                        "Traditional education systems"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Работодатели",
+                "reasoning": "Employers play a crucial role in validating the effectiveness of the new assessment system. Their input on the skills and competencies they seek in graduates will help align the assessment criteria with industry needs, ensuring that students are well-prepared for the workforce."
+            },
+            {
+                "participant": "Сообщество коллег-преподавателей и исследователей",
+                "reasoning": "The community of educators and researchers can provide valuable insights into the pedagogical frameworks and assessment methodologies that best support the goals of the proposed system. Their collaboration is vital for establishing credibility and fostering a shared understanding of practical intelligence and societal impact."
+            },
+            {
+                "participant": "AI-enabled learning",
+                "reasoning": "AI-enabled learning technologies can enhance the assessment system by providing adaptive learning experiences and simulations. Their integration will enable tailored evaluations that reflect students' abilities to navigate complex, real-world situations."
+            }
+        ],
+        "recruited_sources": [
+            "Университеты",
+            "Educational Institutions",
+            "Образовательные учреждения",
+            "Студенты",
+            "Министерство образования",
+            "Непроверенные учебные заведения",
+            "Educators",
+            "Social Media Platforms",
+            "Выпускники",
+            "Social Media Algorithms",
+            "Технологические гиганты (например, Google, Microsoft)",
+            "Современные образовательные технологии",
+            "Cultural Norms",
+            "Social Norms",
+            "Social Media Influencers",
+            "Традиционные методы обучения",
+            "Traditional education systems",
+            "Regulatory Bodies",
+            "Peer Influence"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Social Media Algorithms",
+                "Social Media Influencers",
+                "Social Media Platforms",
+                "Peer Influence",
+                "Social Norms",
+                "Cultural Norms"
+            ]
+        }
+    }
+]

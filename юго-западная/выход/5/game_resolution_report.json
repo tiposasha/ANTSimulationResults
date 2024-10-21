@@ -1,0 +1,297 @@
+[
+    {
+        "initiator": "African cities",
+        "resolution_description": "Initiator: African Cities, Resolution: African cities can leverage indigenous knowledge systems and community-driven participatory design processes to create urban spaces that are inherently adaptable and culturally resonant, fostering environments where local traditions and contemporary needs coalesce, thereby ensuring urban spaces organically reflect and evolve with the interests of their diverse inhabitants.",
+        "new_actor": "Actor: Indigenous Urban Design Collaborative",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "International NGOs",
+            "Local Governments",
+            "Government Policies",
+            "Multinational Corporations",
+            "Real Estate Developers",
+            "Governmental Authorities"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Real Estate Developers",
+                "Governmental Authorities",
+                "Multinational Corporations",
+                "International NGOs",
+                "Government Policies",
+                "Local Governments"
+            ]
+        }
+    },
+    {
+        "initiator": "Выход из метро",
+        "resolution_description": "'Выход из метро' can establish a transformative impact by developing an immersive urban simulation platform that allows users to experience and interact with virtual urban designs before implementation, thereby fostering informed community feedback and ensuring the physical spaces align with the dynamic needs and desires of the city's inhabitants.",
+        "new_actor": "UrbanSim Innovator",
+        "participants": [
+            {
+                "participant": "Пассажиры",
+                "agreement_structure": {
+                    "current_goal": "To exit the metro station safely and promptly.",
+                    "current_action": "Walking towards the exit while following the crowd.",
+                    "imposed_goal": "To exit the metro station in an orderly manner and reduce congestion.",
+                    "imposed_action": "Follow the designated exit signs and maintain a steady pace.",
+                    "mechanism": "Establish clear exit signage and employ staff to guide passengers.",
+                    "reasoning": "The proposal from 'Выход из метро' offers a way to achieve orderly exits and reduce congestion, which aligns with the desires of 'Пассажиры' to reach destinations quickly and conveniently. By establishing clear exit signage and employing staff to guide passengers, it mitigates the fear of wasting time on obstacles and enhances the overall experience of navigating urban spaces.",
+                    "recruited_sources": [
+                        "Транспортные компании"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Пассажиры",
+                "reasoning": "Involving 'Пассажиры' is important as they represent the end-users of the urban spaces. Their feedback will be invaluable in shaping designs that meet the real needs and preferences of the community."
+            }
+        ],
+        "recruited_sources": [
+            "Транспортные компании",
+            "Городская инфраструктура",
+            "Транспортные службы",
+            "Городские власти",
+            "Современные технологии (например, мобильные приложения для навигации)",
+            "Пассажиры метро"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Городская инфраструктура",
+                "Пассажиры метро",
+                "Городские власти",
+                "Современные технологии (например, мобильные приложения для навигации)",
+                "Транспортные службы"
+            ]
+        }
+    },
+    {
+        "initiator": "Cities",
+        "resolution_description": "Cities can revolutionize urban design by implementing a dynamic AI-driven urban ecosystem that continuously learns from real-time data on citizen interactions and environmental changes, allowing for the spontaneous adaptation and reconfiguration of urban spaces to seamlessly align with the evolving interests and needs of their inhabitants.",
+        "new_actor": "Dynamic Urban AI Ecosystem Entity",
+        "participants": [
+            {
+                "participant": "Администрация",
+                "agreement_structure": {
+                    "current_goal": "Improve urban infrastructure and public services",
+                    "current_action": "Implementing a city-wide maintenance program for roads and public facilities",
+                    "imposed_goal": "Achieve sustainable urban development by reducing carbon emissions",
+                    "imposed_action": "Adopt green technologies and renewable energy sources in public projects",
+                    "mechanism": "Establish a funding program that incentivizes the use of green technologies in urban development projects",
+                    "reasoning": "The proposed resolution aligns with 'Администрация's' current desires to improve the urban environment and satisfy the needs of citizens. By implementing a dynamic AI-driven urban ecosystem, 'Администрация' can ensure that urban spaces are continuously adapted to the evolving interests of inhabitants, which addresses the fear of citizen dissatisfaction and criticism. Additionally, the incorporation of green technologies and renewable energy aligns with sustainable urban development goals, further supporting the administration's objectives.",
+                    "recruited_sources": [
+                        "Гражданское общество",
+                        "Граждане"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Администрация",
+                "reasoning": "The administration's involvement is necessary for policy support and resource allocation. They can facilitate the implementation of the AI-driven ecosystem by providing the necessary infrastructure and governance framework."
+            }
+        ],
+        "recruited_sources": [
+            "Гражданское общество",
+            "Technology Companies",
+            "Граждане",
+            "Transportation Networks",
+            "Urban Planners",
+            "Global Corporations",
+            "Government Policies",
+            "Local Businesses"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Transportation Networks",
+                "Local Businesses",
+                "Technology Companies",
+                "Global Corporations",
+                "Urban Planners",
+                "Government Policies"
+            ]
+        }
+    },
+    {
+        "initiator": "Gastronomic trail",
+        "resolution_description": "\"Gastronomic Trail can revolutionize urban spaces by integrating culinary culture into urban planning, creating dynamic 'foodscapes' where local cuisine and food-related activities become central to community engagement and spatial design, thus ensuring urban environments are continuously shaped by the evolving tastes and cultural expressions of their inhabitants.\"",
+        "new_actor": "Culinary Urban Innovator",
+        "participants": [
+            {
+                "participant": "Land use functions (LUFs)",
+                "agreement_structure": {
+                    "current_goal": "Optimize land use to support sustainable agriculture and biodiversity.",
+                    "current_action": "Conducting assessments of land use patterns and their impacts on local ecosystems.",
+                    "imposed_goal": "Enhance the promotion of local gastronomic products through improved land use practices.",
+                    "imposed_action": "Implement land use strategies that prioritize the cultivation of local ingredients for gastronomic trails.",
+                    "mechanism": "Establish a collaborative framework that connects local farmers, chefs, and land use planners to develop and promote sustainable land use practices aligned with gastronomic tourism.",
+                    "reasoning": "The proposed resolution by 'Gastronomic Trail' aligns with the interests of 'Land use functions (LUFs)' by enhancing the promotion of local gastronomic products through improved land use practices. This collaboration allows for the integration of culinary culture into urban planning, which supports sustainable agriculture and biodiversity. Additionally, it addresses the need for urban spaces to evolve with community preferences and cultural expressions, thus benefiting both entities involved.",
+                    "recruited_sources": [
+                        "Agricultural Practices",
+                        "Urban planners",
+                        "Local governments",
+                        "Government Policies",
+                        "Regulatory Bodies",
+                        "Local Government Policies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Land use functions (LUFs)",
+                "reasoning": "Land use functions (LUFs) are essential to ensure that the integration of culinary culture aligns with zoning laws and urban policies, helping to create a cohesive framework for the gastronomic trail within the urban landscape."
+            }
+        ],
+        "recruited_sources": [
+            "Local Government",
+            "Local Government Policies",
+            "Local farmers",
+            "Local Restaurants",
+            "Agricultural Practices",
+            "Government Policies",
+            "Urban planners",
+            "Local chefs",
+            "Local governments",
+            "Regulatory Bodies",
+            "Corporate Tourism Companies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Local farmers",
+                "Local Restaurants",
+                "Corporate Tourism Companies",
+                "Local chefs",
+                "Local Government"
+            ]
+        }
+    },
+    {
+        "initiator": "Места предполагаемого интереса",
+        "resolution_description": "Места предполагаемого интереса can redefine urban spaces by creating a network of adaptive, sensory-driven installations that capture and respond to the emotional and cognitive patterns of city dwellers in real-time, transforming static environments into living, empathetic entities that intuitively adjust to the unspoken desires and collective consciousness of their communities.",
+        "new_actor": "Адаптивный Городской Эмпат.",
+        "participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "agreement_structure": {
+                    "current_goal": "Создание привлекательного и функционального ландшафта для пользователей",
+                    "current_action": "Разработка концепций ландшафтного дизайна и проектирование зеленых зон",
+                    "imposed_goal": "Определение и создание мест предполагаемого интереса для пользователей",
+                    "imposed_action": "Проведение анализа и исследований для выявления предпочтений целевой аудитории",
+                    "mechanism": "Создание рабочей группы для сбора данных и обсуждения идей, а также регулярные встречи для мониторинга прогресса",
+                    "reasoning": "The proposed resolution aligns with our desire to create aesthetically pleasing and functional urban spaces by focusing on user preferences and real-time responsiveness to community needs. By participating in this initiative, we can address our fears of criticism regarding our designs being out of touch with the actual needs of users. Conducting analyses to understand audience preferences and collaborating in a data-driven approach will enhance our ability to create relevant and engaging landscapes.",
+                    "recruited_sources": [
+                        "Горожане",
+                        "Пассажиры",
+                        "Граждане (пассажиры)",
+                        "Городские власти"
+                    ]
+                }
+            },
+            {
+                "participant": "Smart city",
+                "agreement_structure": {
+                    "current_goal": "To enhance urban infrastructure through technology integration.",
+                    "current_action": "Implementing smart sensors and data analytics for city management.",
+                    "imposed_goal": "Identify and promote areas of potential interest in the city.",
+                    "imposed_action": "Conduct surveys and data collection to highlight key locations of interest.",
+                    "mechanism": "Utilize a collaborative platform for data sharing and community feedback to identify and prioritize areas of potential interest.",
+                    "reasoning": "The proposal from 'Места предполагаемого интереса' aligns perfectly with the goals of 'Smart city' by enhancing urban infrastructure through technology integration. By creating adaptive, sensory-driven installations, we can gather real-time data on the emotional and cognitive patterns of city dwellers, which will significantly improve our ability to identify and promote areas of potential interest in the city. This collaboration will not only help in achieving our objectives but also facilitate a more engaged community that feels their interests are being represented in urban planning.",
+                    "recruited_sources": [
+                        "Traditional Urban Infrastructure",
+                        "Corporate Interests",
+                        "Urban Planners",
+                        "Urban Technology Providers",
+                        "Government Policies",
+                        "Local Government"
+                    ]
+                }
+            },
+            {
+                "participant": "Tourism authorities",
+                "agreement_structure": {
+                    "current_goal": "Increase tourism to local attractions",
+                    "current_action": "Promoting local events and destinations through marketing campaigns",
+                    "imposed_goal": "Identify and develop new points of interest to enhance tourist experience",
+                    "imposed_action": "Conduct a comprehensive assessment of potential tourist attractions and collaborate with local businesses",
+                    "mechanism": "Establish a task force to evaluate and prioritize new sites, create partnerships with local stakeholders, and allocate budget for development and marketing",
+                    "reasoning": "The proposal from 'Места предполагаемого интереса' presents an innovative approach to urban space design that aligns with the goals of 'Tourism authorities' to enhance the tourist experience. By creating adaptive installations that respond to the community's needs, we can identify and develop new points of interest that will attract more visitors. This proposal not only promises to enrich the urban landscape but also fosters collaboration with local businesses, which is crucial for sustainable tourism growth. Therefore, participating in this resolution aligns with our interests and addresses the potential for enhancing tourism to local attractions.",
+                    "recruited_sources": [
+                        "Local Businesses",
+                        "Local Communities",
+                        "Environmental NGOs",
+                        "Government Policies",
+                        "Local businesses"
+                    ]
+                }
+            },
+            {
+                "participant": "Sustainability concept",
+                "agreement_structure": {
+                    "current_goal": "To develop sustainable practices that minimize environmental impact.",
+                    "current_action": "Conducting research on eco-friendly materials and methods.",
+                    "imposed_goal": "Increase awareness and implementation of sustainability initiatives across all projects.",
+                    "imposed_action": "Create a comprehensive sustainability training program for all team members.",
+                    "mechanism": "Establish a quarterly review process to assess progress on sustainability initiatives and provide feedback.",
+                    "reasoning": "The proposed resolution by 'Места предполагаемого интереса' aligns with the goals of the 'Sustainability concept' by emphasizing the importance of adaptive and responsive urban spaces that can enhance community engagement and sustainability. By participating in this initiative, 'Sustainability concept' can expand its influence and promote sustainable practices in urban design, ultimately increasing awareness and implementation of sustainability initiatives across projects. This collaboration offers an opportunity to integrate sustainability training and create a dynamic feedback process, which can lead to more effective and meaningful sustainability outcomes.",
+                    "recruited_sources": [
+                        "Environmental NGOs",
+                        "Consumer Culture",
+                        "Government Policies",
+                        "Government Regulations"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Менеджеры и дизайнеры, отвечавшие за ландшафт",
+                "reasoning": "Recruiting managers and designers responsible for landscape is crucial as they have the expertise to conceptualize and implement the adaptive, sensory-driven installations that will transform urban spaces. Their insights into design and user experience are essential for creating environments that resonate with the emotional and cognitive patterns of city dwellers."
+            },
+            {
+                "participant": "Smart city",
+                "reasoning": "Involving smart city initiatives is vital as they encompass the technological frameworks and data analytics necessary to develop and manage the real-time responsive systems that will be integral to making urban spaces empathetic and adaptive. Their focus on integrating technology with urban planning aligns well with the objectives of the resolution."
+            },
+            {
+                "participant": "Tourism authorities",
+                "reasoning": "Tourism authorities are important participants because they can help promote the new installations and ensure that they attract visitors, thereby enhancing the cultural and economic vitality of the area. Their involvement can also facilitate partnerships and funding opportunities for the project."
+            },
+            {
+                "participant": "Sustainability concept",
+                "reasoning": "Incorporating sustainability concepts is essential to ensure that the adaptive installations are environmentally friendly and contribute positively to the urban ecosystem. This alignment with sustainable practices will enhance the long-term viability of the project and its acceptance within the community."
+            }
+        ],
+        "recruited_sources": [
+            "Local Government",
+            "Local Businesses",
+            "Urban Technology Providers",
+            "Corporate Interests",
+            "Local Communities",
+            "Городские власти",
+            "Local businesses",
+            "Environmental NGOs",
+            "Traditional Urban Infrastructure",
+            "Government Policies",
+            "Граждане (пассажиры)",
+            "Горожане",
+            "Пассажиры",
+            "Urban Planners",
+            "Government Regulations",
+            "Туристы",
+            "Транспортные компании",
+            "Транспортные службы",
+            "Consumer Culture"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Транспортные компании",
+                "Транспортные службы",
+                "Туристы"
+            ]
+        }
+    }
+]

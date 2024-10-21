@@ -1,0 +1,270 @@
+[
+    {
+        "entity": "Студенты",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Преподаватели"
+        ],
+        "denied_sources": [
+            "Университет",
+            "Однокурсники",
+            "Сокурсники",
+            "Технологии",
+            "Образовательные технологии",
+            "Система образования",
+            "ВУЗ (Учебное заведение)",
+            "Система оценивания",
+            "Учебные материалы",
+            "Родители",
+            "Технические средства (например, смартфоны, интернет)",
+            "Собственные мотивации и цели",
+            "Администрация вуза",
+            "Собственные способности студентов",
+            "Технологии (например, онлайн-ресурсы)",
+            "Работодатели",
+            "Курсовые работы и проекты",
+            "Учебный план"
+        ]
+    },
+    {
+        "entity": "Работодатели",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Образовательные учреждения",
+            "Непроверенные учебные заведения",
+            "Университеты",
+            "Выпускники"
+        ],
+        "denied_sources": [
+            "Рынок труда",
+            "Конкурирующие работодатели",
+            "Правительство",
+            "Кадровые агентства",
+            "Кандидаты (выпускники)",
+            "Общественное мнение",
+            "Социальные сети и платформы для поиска работы",
+            "Экономическая ситуация на рынке труда",
+            "Технологические новшества",
+            "Ассоциации работодателей",
+            "Профессиональные ассоциации",
+            "Кандидаты на работу",
+            "Технологические платформы для подбора кадров",
+            "Клиенты компаний",
+            "Обратная связь от сотрудников",
+            "Аккредитационные организации",
+            "Образовательные платформы",
+            "Государственные учреждения"
+        ]
+    },
+    {
+        "entity": "teacher",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Educational Institution",
+            "School Administration",
+            "students",
+            "Standardized Testing"
+        ],
+        "denied_sources": [
+            "curriculum",
+            "school administration",
+            "educational technology tools",
+            "Educational Policies",
+            "Educational Technology",
+            "Curriculum Standards",
+            "Parents and Guardians",
+            "curriculum developers",
+            "educational policy makers",
+            "parents",
+            "Parents",
+            "Students",
+            "Peer Teachers",
+            "Technology and Digital Platforms"
+        ]
+    },
+    {
+        "entity": "Преподаватели",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Технологии обучения",
+            "Студенты",
+            "Новые технологии списывания"
+        ],
+        "denied_sources": [
+            "Профессиональное сообщество",
+            "Образовательные технологии",
+            "Курсы повышения квалификации",
+            "Методы оценки знаний",
+            "Учебные заведения",
+            "Общество и культурные нормы",
+            "Общественное мнение",
+            "Системы оценки и аккредитации",
+            "Новые технологии",
+            "ВУЗы",
+            "Родители студентов",
+            "Методы оценки",
+            "Общество",
+            "Администрация учебного заведения"
+        ]
+    },
+    {
+        "entity": "Сообщество коллег-преподавателей и исследователей",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Современные образовательные технологии",
+            "Студенты",
+            "Традиционные методы обучения",
+            "Министерство образования",
+            "Технологические гиганты (например, Google, Microsoft)"
+        ],
+        "denied_sources": [
+            "Научные исследования",
+            "Администрация учебных заведений",
+            "Образовательные технологии",
+            "Научные журналы",
+            "Образовательные исследования",
+            "Обратная связь от студентов",
+            "Технологические платформы",
+            "Профессиональные сообщества",
+            "Профессиональные ассоциации",
+            "Социальные сети и образовательные платформы",
+            "Государственные образовательные реформы",
+            "Образовательные стандарты",
+            "Исследования и публикации в области образовательных технологий",
+            "Конкуренция с другими образовательными учреждениями",
+            "Студенты и их потребности",
+            "Технологические компании",
+            "Оценочные стандарты",
+            "Общество",
+            "Администрация учебного заведения"
+        ]
+    },
+    {
+        "entity": "Academic Integrity",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Academic Institutions",
+            "Educational Institutions",
+            "University Administration",
+            "Plagiarism Detection Software"
+        ],
+        "denied_sources": [
+            "Educational Technologies",
+            "Technological Tools (e.g., plagiarism detection software)",
+            "Cultural Attitudes Towards Education",
+            "Academic Publishers",
+            "Technological Advancements",
+            "Academic Integrity Offices",
+            "Institutional Policies",
+            "Peer Pressure",
+            "Educational Technology Tools",
+            "Peer Reviewers",
+            "Faculty Members",
+            "Society at Large",
+            "Accrediting Bodies",
+            "Academic Dishonesty",
+            "Peer Influence",
+            "Employers",
+            "Students",
+            "Government Regulations",
+            "Technology Tools (e.g., plagiarism detection software)"
+        ]
+    },
+    {
+        "entity": "AI-enabled learning",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Educators",
+            "Educational Institutions",
+            "Regulatory Bodies",
+            "Traditional education systems"
+        ],
+        "denied_sources": [
+            "Technology Providers",
+            "Teachers and educators",
+            "Educational content publishers",
+            "AI Developers",
+            "Research Communities",
+            "Market Competition",
+            "Parents and guardians",
+            "Public Perception",
+            "Content Creators",
+            "Traditional Education Systems",
+            "Technology Developers",
+            "Technological Limitations",
+            "AI Algorithms",
+            "Policy Makers",
+            "Students",
+            "Educational technology companies"
+        ]
+    },
+    {
+        "entity": "Perceptions of normative behavior",
+        "status": "On the verge of disappearing",
+        "details": {
+            "prosperity": false,
+            "stability": false,
+            "existential_threat": false
+        },
+        "recruited_sources": [
+            "Social Media Algorithms",
+            "Social Media Influencers",
+            "Social Media Platforms",
+            "Peer Influence",
+            "Social Norms",
+            "Cultural Norms"
+        ],
+        "denied_sources": [
+            "Legal Frameworks",
+            "Cultural Institutions",
+            "Cultural Institutions (e.g., Schools, Churches)",
+            "Religious Beliefs",
+            "Educational Institutions",
+            "Media Representation",
+            "Educational Systems",
+            "Marketing and Advertising Agencies",
+            "Legislation and Policies",
+            "Market Research Firms",
+            "Regulatory Bodies",
+            "Advertising Agencies",
+            "Legislation and Policy",
+            "Policy Makers",
+            "Peer Groups"
+        ]
+    }
+]

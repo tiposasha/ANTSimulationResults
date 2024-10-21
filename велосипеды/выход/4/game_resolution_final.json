@@ -1,0 +1,80 @@
+[
+    {
+        "initiator": "Graphic design theories",
+        "resolution_description": "Implement augmented reality (AR) packaging that visually simulates the cargo's fragility through interactive graphics, engaging handlers to intuitively understand and prioritize careful handling.",
+        "new_actor": "AR Fragility Visualizer",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Грузчики",
+                "reasoning": "Recruiting 'Грузчики' (handlers) is essential as they will directly interact with the augmented reality (AR) packaging. Their understanding and engagement with the AR graphics will determine the effectiveness of the resolution in ensuring careful handling of fragile cargo."
+            },
+            {
+                "participant": "Производитель велосипедов",
+                "reasoning": "The 'Производитель велосипедов' (bicycle manufacturer) is critical as they will be responsible for integrating AR packaging into their products. Their collaboration ensures that the AR features are effectively designed to communicate fragility, thereby enhancing the overall shipping process."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The 'Logistics Management Platform System' will be vital for implementing and managing the AR packaging within the supply chain. This system can facilitate data exchange and ensure that the AR information is accessible to all relevant parties involved in the logistics process."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Social Vulnerability to Hazards",
+        "resolution_description": "Initiate a \"Resilience Rating System\" that assesses and labels cargo based on its vulnerability during transit, incentivizing logistics companies to adopt innovative protective measures and prioritize routes that minimize exposure to potential hazards, thereby creating a market-driven demand for safer handling practices.",
+        "new_actor": "Resilience Rating System Assessor",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The Logistics Management Platform System is essential for implementing the Resilience Rating System, as it can integrate the rating mechanism into existing logistics operations, facilitating better route planning and cargo handling practices."
+            },
+            {
+                "participant": "Коробка с грузом",
+                "reasoning": "The cargo itself is a critical participant as it represents the items being transported. Understanding its characteristics and vulnerabilities is essential for developing effective protective measures and assessing risks during transit."
+            },
+            {
+                "participant": "resilience",
+                "reasoning": "Resilience is a key concept in this initiative, as it directly relates to the ability of the logistics system to adapt and recover from hazards. Engaging with resilience-focused stakeholders can promote the adoption of best practices and encourage innovation in protective measures."
+            },
+            {
+                "participant": "Community services",
+                "reasoning": "Community services can play a vital role in supporting vulnerable populations affected by hazards. By involving them, the resolution can ensure that the needs of these populations are considered, promoting social equity and enhancing overall community resilience."
+            }
+        ],
+        "status": "COLLAPSED"
+    },
+    {
+        "initiator": "Vulnerable populations",
+        "resolution_description": "Initiate a \"Vulnerable Populations Empowerment Initiative\" where marginalized community members are trained and employed as specialized \"Cargo Care Ambassadors,\" leveraging their unique perspectives and resilience to foster a culture of empathy and meticulous handling in the logistics industry.",
+        "new_actor": "Cargo Care Ambassadors Empowerment Initiative",
+        "participants": [],
+        "required_participants": []
+    },
+    {
+        "initiator": "Port Community Systems",
+        "resolution_description": "Initiate a \"Smart Port Ecosystem\" that integrates IoT-enabled sensors and blockchain technology to create a transparent, real-time monitoring and feedback loop for cargo conditions during transit, empowering all stakeholders with data-driven insights to ensure optimal handling and minimize damage.",
+        "new_actor": "Smart Cargo Monitoring Consortium",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Коробка с грузом",
+                "reasoning": "The 'Коробка с грузом' (Box with cargo) is essential as it represents the physical entity being monitored. Integrating IoT sensors with the cargo container is crucial for real-time data collection on conditions like temperature, humidity, and shock, which will be vital to ensure optimal handling and minimize damage during transit."
+            },
+            {
+                "participant": "Logistics Management Platform System",
+                "reasoning": "The 'Logistics Management Platform System' is critical for the successful integration of the Smart Port Ecosystem. This system will facilitate data analysis, storage, and sharing among stakeholders, ensuring that all parties have access to the insights derived from the IoT-enabled sensors and blockchain technology."
+            },
+            {
+                "participant": "Грузчики",
+                "reasoning": "The 'Грузчики' (Dockworkers) are key human participants who will be directly involved in the handling of cargo. Their input and training on the new system will be necessary to ensure that they can effectively utilize the data provided and adapt their processes to minimize damage during loading and unloading."
+            },
+            {
+                "participant": "Иностранные покупатели",
+                "reasoning": "The 'Иностранные покупатели' (Foreign buyers) are important stakeholders who will benefit from the transparency and data-driven insights provided by the Smart Port Ecosystem. Their involvement will help ensure that the system meets the needs of end-users and encourages adoption of the new monitoring practices."
+            }
+        ],
+        "status": "COLLAPSED"
+    }
+]

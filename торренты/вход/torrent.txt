@@ -1,0 +1,933 @@
+
+
+Abstract
+The main contribution of the poster, which is shortly outlined in the following, is to offer a definition for Peer- to-Peer networking and to make the differences to com- mon so called Client/Server-architectures clear. With this definition we are able to classify currently existing networking concepts in the Internet either as ìPureî Peer-to-Peer, or "Hybrid" Peer-to-Peer or Client/Server architecture.
+1 Introduction
+Peer-to-Peer Networking is mostly known under the brand of Napster. Within this application the Peer-to- Peer networking concept is used to share files, i.e. the exchange of MPEG Layer3 (mp3) compressed audio files. However, Peer-to-Peer is not only about file shar- ing, it is also about establishing multimedia communica- tion networks based on Peer-to-Peer concepts or re- source sharing.
+A basic problem we often encountered, is the multi- faceted and confusing situation, concerning the terms related to Peer-to-Peer networking in publications and discussions. Often Peer-to-Peer is used without having clearly stated the meaning of Peer-to-Peer. Thus it may happen, that sometimes in discussions the term Peer-to- Peer is used with completely opposing meanings.
+The central theme of this poster therefore is to bring in a clear definition of Peer-to-Peer networking and its different facets, like e.g. ìHybridì Peer-to-Peer net- working. Further on we also give a definition of the classical Client/Server architectural concept, to make a distinctive delimitation to Peer-to-Peer network archi- tectures possible.
+2 Definition of Peer-to-Peer and Client/Server networking
+Peer-to-Peer networking is not new. Already a few years ago the advantages of Peer-to-Peer networking have been recognized and thus investigations into these architectures were made [You93] [Sim91]. Others like
+e.g. [Met01] and [Wra94] define Peer-to-Peer networks just as a collection of heterogeneous distributed re- sources which are connected by a network. Some at- tempts to describe Peer-to-Peer networks more exten- sively, than in just an application specific way, define Peer-to-Peer simply as the opposite of Client/Server architectures [Sin01] [Tho98].
+However, from our point of view, the most distinctive difference between Client/Server networking and Peer- to-Peer networking is the concept of an entity acting as a Servent, which is used in Peer-to-Peer networks. Servent is an artificial word which is derived from the first sylla- ble of the term server (ìServ-ì) and the second syllable of the term client (ì-entî). Thus this term Servent shall represent the capability of the nodes of a Peer-to-Peer network of acting at the same time as server as well as a client. This is completely different to Client/Server net- works, within which the participating nodes can either act as a Server or act as a client but cannot embrace both capabilities.
+The above shortly outlined features of Peer-to-Peer networks can be concluded in Definition 1. Service in this conext is understood as outlined in [Kel98].
+A distributed network architecture may be called a Peer-to-Peer (P-to-P, P2P,Ö) network, if the participants share a part of their own hardware resources (processing power, storage capacity, network link capacity, printers,Ö). These shared resources are necessary to provide the Service and content offered by the network (e.g. file sharing or shared workspaces for collaboration). They are accessible by other peers directly, without passing intermediary entities. The participants of such a network are thus resource (Service and content) providers as well as resource (Service and content) requestors (Servent-concept).
+Definition 1 The definition of Peer-to-Peer
+To be able to distinguish Peer-to-Peer networks with a central entity from those without any central entities, it is general practice to split the Peer-to-Peer networking definition into two sub-definitions. They are generally known as the ìHybridì Peer-to-Peer networking con-
+Proceedings of the First International Conference on Peer-to-Peer Computing (P2Pí01) 0-7695-1503-7/02 $17.00 © 2002 IEEE
+cept, which allows the existence of central entities in its network, and the ìPureî Peer-to-Peer networking con- cepts within which Servents are the only entities al- lowed. These two concepts are defined in the following way:
+Definition 2 The definition of ìPureì Peer-to-Peer
+The key distinction of ìHybridì Peer-to-Peer com- pared to ìPureì Peer-to-Peer is the fact, that a ìHy- bridì Peer-to-Peer network always includes a central entity, which is ìforbiddenì by definition in ìPureì Peer-to-Peer networks. On the other hand ìHybridì Peer-to-Peer networks differ from Client/Server net- works, because the feature of the nodes to share re- sources is substantial in "Hybrid" Peer-to-Peer net- works.
+Definition 3 The definition of ìHybridì Peer-to-Peer One significant difference of Client/Server network-
+ing compared to Peer-to-Peer networking is that the clients do not share any of their resources (storage ca- pacity, computing power, network connection, band- width, content). In the Client/Server concept exists only one central entity, which provides all the content and services which are offered in a certain network.
+Definition 4 The definition of Client/Server 3 Conclusion
+The introduction of a profound and clear definition of the understanding of Peer-to-Peer -networking is a first step to understand and be able to estimate the impacts of
+this new arising networking technology. We feel the need for such a basic work, because the main problem of todayís discussions and publications in the field of Peer- to-Peer networking are, the different and often even opposing understandings of Peer-to-peer networking. Meaningful discussions were hardly possible until now, because of the vagueness about the terms used in Peer- to-Peer networking.
+Nevertheless there is still a long way to go, until Peer-to-peer networking is going to become a real suc- cess story. A lot of problems still have to be solved and one of them is certainly the traffic engineering problem encountered especially in completely flat routing archi- tectures. New, dynamic routing concepts have to be developed, as for example dynamic hierarchical routing topologies we envision as a solution for todayís encoun- tered traffic problems. Although there are still a of problems to be solved, this might finally lead to a Peer- to-Peer based third generation Internet.
+4 References
+
+Distributed hash tables (DHTs) have been actively studied in literature and many different proposals have been made on how to organize peers in a DHT. However, very few DHTs have been implemented in real systems and deployed on a large scale. One exception is kad, a DHT based on Kadem- lia, which is part of eDonkey2000, a peer-to-peer file sharing system with several million simultaneous users. We have been crawling kad continuously for about six months and obtained information about the total number of peers online and their geographical distribution.
+Peers are identified by the so called kad ID, which was up to now assumed to remain the same across sessions. How- ever, we observed that this is not the case: There is a large number of peers, in particular in China, that change their kad ID, sometimes as frequently as after each session. This change of kad IDs makes it difficult to characterize end-user availability or membership turnover.
+Categories and Subject Descriptors
+H.3 [INFORMATION STORAGE AND RETRIEVAL]: Systems and Software – Distributed systems, Performance evaluation (efficiency and effectiveness)
+General Terms
+Algorithms, Measurement, Performance
+Keywords
+Peer-to-Peer, lookup, distributed hash table
+1. INTRODUCTION
+Peer-to-peer systems have seen a tremendous growth in the last few years and peer-to-peer traffic makes a major fraction of the total traffic seen in the Internet. The domi- nating application for peer-to-peer is file sharing. Some of the most popular peer-to-peer systems for file sharing have been Napster, FastTrack, BitTorrent, and eDonkey, each one counting a million or more users at their peak time. Since
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, to republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.
+IMC’07, October 24-26, 2007, San Diego, California, USA. Copyright 2007 ACM 978-1-59593-908-1/07/0010 ...$5.00.
+these systems are mainly used by home-users and since the content shared is typically copyright-protected, the users of these systems often stay only connected as long as it takes for them to download the content they are interested in. As a result, the user population of these peer-to-peer systems is highly dynamic with peers joining and leaving all the time.
+In this paper, we focus on a single peer-to-peer system, namely kad, which is the publishing and search network of eDonkey. We want to characterize kad in terms of metrics such as arrival/departure process of peers or the number of new peers joining the network.
+To obtain the relevant raw data needed we decided to “crawl” kad. Each crawl gives a snapshot of the peers active at that instant. The three major challenges in crawling are
+	•	Time necessary to carry out a single crawl, which should be as small as possible to get a consistent view of the system. 
+	•	Frequency of the crawls, i.e. the time elapsed between two consecutive crawls should be small (no more than a few minutes) in order to achieve a high resolution for metrics such as session length. 
+	•	Duration of the crawl, which should be in the order of many months, to be able to correctly capture the longest session and inter-session lengths. 
+To meet all these goals, we built our own crawler. Early results have been published in [12].
+While peer-to-peer systems have been explored previously using a crawler, the duration of these crawls was limited to a few days at best. We were able to crawl kad for almost six months at a frequency of one crawl every five minutes, which allowed us to obtain a number of original results. We observed that:
+	•	the lifetime of a significant fraction of the peers ob- served can be as short as a single session. We could explain in part this surprising behavior by the fact that peers change their kad ID, which is contrary to the assumption that kad IDs are persistent. 
+	•	when classifying peers according to their geographic origin, the peers from China make about 25% of all peers seen at any point of time and Europe is the con- tinent where kad is most popular. We also saw a big difference between peers in China and Europe with re- spect to some of the key metrics such as session length or daily availability. 
+The remainder of the paper is organized as follows. Sec- tions 2 and 3 present related work and background informa- tion on kad. Section 4 presents the measurement methodol- ogy followed by Section 5 that contains the results. Section 6 concludes the paper.
+distance d(a, b) between nodes a and b is d(a, b) = a ⊕ b. It is calculated bitwise on the kad IDs of the two nodes, e.g. the distance between a = 1011 and b = 0111 is d(a, b) = 1011 ⊕ 0111 = 1100. The fact that this distance metric is symmetric is an advantage compared to other systems, e.g. Chord, since in kad if a is close to b, then b is also close to a.
+The entries in the routing tables are called contacts and are organized as an unbalanced routing tree: A peer P stores only a few contacts to peers that are far away in the overlay and increasingly more contacts to peers as we get closer P. For details of the implementation see [15]. For a given dis- tance P knows not only one peer but a bucket of peers called contacts. Each bucket can contain up to ten contacts, in or- der to cope with peer churn without the need to periodically check if the contacts are still online.
+For routing, a message is simply forwarded to one of the peers from the bucket with the longest common prefix to the target. Routing to a specific kad ID is done in an it- erative way, which means that each peer on the way to the destination returns the next hop to the sending node.
+3.2 Publishing
+A key in a peer-to-peer system is an identifier used to re- trieve information. kad distinguishes between two different keys:
+	•	A source key that identifies the content of a file and is computed by hashing the content of a file. 
+	•	A keyword key that classifies the content of a file and is computed by hashing the tokens of the name of a file.  In kad keys are not published just on a single peer that is numerically closest to that key, but on 10 different peers whose kad ID agrees at least in the first 8-bits with the key. This zone around a key is called the tolerance zone.  Keys are periodically republished: source keys every 5 hours and, keyword keys every 24 hours. Analogously, a peer on which a source key or keyword key was published will delete the information after 5 and 24 hours, respectively. This way re-publishing is done exactly the same way as pub- lishing. 
+2.
+RELATED WORK
+Overnet was the first widely deployed peer-to-peer ap- plication that used a DHT, namely Kademlia. The imple- mentation of Overnet is proprietary and its operation was discontinued in September 2006 after legal actions from the media industry. Overnet has been the subject of several studies such as [2, 4, 8] and up to 265,000 concurrent users have been seen online. The study most relevant to our work is the one by Bhagwan et al. [2]. A set of 2,400 peers was contacted every 20 minutes during two weeks. This study pointed out the IP aliasing problem that is due to the fact that many peers periodically change their IP address. So, in order to properly compute session times and other peer- specific metrics one needs to use the global identifier of the peer-to-peer system. This study also indicates, that for sys- tems where peers leave permanently, the mean peer avail- ability decreases as the observation period considered in- creases.
+kad is the first widely deployed open-source peer-to-peer system relying on a DHT. Two studies on kad have been published by Stutzbach. The first explains the implementa- tion of Kademlia in eMule [15] and the other [16] compares the behavior of peers in three different peer-to-peer systems, one being kad. The results obtained for kad are based on crawling a subset of the kad ID space. We call a continuous subset of the total kad ID space that contains all kad peers whose kad IDs agree in the high order k bits a k-bit zone. Stutzbach [16] crawled a 10-bit zone in 3-4 minutes and a 12-bit zone in approximately 1 minute. A total of 4 different zones were crawled during 2 days each.
+3.
+BACKGROUND ON KAD
+kad is a Kademlia-based [6] peer-to-peer DHT routing protocol implemented by several peer-to-peer applications such as Overnet [9], eMule [3], and aMule [1]. The two open–source projects eMule and aMule do have the largest number of simultaneously connected users since these clients connect to the eDonkey network, which is a very popular peer-to-peer system for file sharing. Recent versions of these clients implement the kad protocol.
+Similar to other DHTs like Chord [14], Can [10], or Pas- try [11], each kad node has a global identifier, referred to as kad ID, which is 128 bit long and is randomly generated us- ing a cryptographic hash function. The kad ID is generated when the client application is started for the first time and is then permanently stored. The kad ID stays unchanged on subsequent join and leaves of the peer, until the user deletes the application or its preferences file1. Therefore, using the kad ID, a particular peer can be tracked even after a change of its IP address.
+3.1 Routing
+Routing in kad is based on prefix matching: Node a for- wards a query, destined to a node b, to the node in his rout- ing table that has the smallest XOR-distance. The XOR-
+1As we will see later, not all peers in kad behave this way.
+4.
+MEASUREMENT METHODOLOGY
+We have developed Blizzard, our own crawler for kad, with the aim to crawl kad frequently and over a duration of several months. Our crawler logs for each peer the time of the crawl, the IP address of the peer, and its kad ID.
+In a large peer-to-peer system such as kad, peers are con- stantly joining and leaving, which makes it difficult to get a consistent view of the system. Therefore, the overall du- ration of a single crawl should be as short as possible. The main idea of Blizzard is to use only one machine and keep all relevant information in main memory. After the crawl is completed, the results are written to disk. The implementa- tion of Blizzard is straightforward: Blizzard runs on a local machine knowing several hundred contacts to start with. It uses a simple breadth first search and iterative queries: It first queries peers among its contacts in order to get to know more peers and so on. The communication is asynchronous: requests are sent out by one thread while a second thread
+
+stores the results. In this way the delay between the re- quest and the corresponding answers does not slow down the crawling. In fact the speed of our crawler is limited by the available bandwidth (100 Mbit/s bi–directional).
+There are various pitfalls when crawling a peer-to-peer system, such as incomplete data due to crawler crashes, loss of network connectivity, or random failures due to tempo- rary network instability. To address these problems, we run simultaneously two instances of Blizzard, one at the Uni- versity of Mannheim, Germany, connected to the German research network, and a second one at Institut Eur ́ecom, France, connected to the French academic network.
+The speed of Blizzard allows us to crawl the entire kad system (entire kad ID space), which was never done before. Such a full crawl of kad takes about 8 minutes. The first million different peers are identified in about 10 seconds, the second million in 50 seconds, thereafter the speed of discovery decreases drastically since most of the encountered peers have already be seen before during the same crawl. A full crawl of kad produces about 3 GBytes of inbound and outbound traffic each.
+A full crawl was done three times a day from 2006/08/18 to 2006/08/26 and from 2006/10/03 to 2006/10/12. An- other full crawl has been started 2007/03/20 and is carried out up to now once a day.
+A full crawl generates an extremely high amount of trace data and of network traffic. Carrying out just 3 crawls per day is not really sufficient to capture the dynamics of kad at short timescales. For this reason, we decided to carry out a zone crawl on a 8-bit zone, where we try to find all active peers whose kad ID have the same 8 high-order bits. Such a zone crawl, which explores one 256-th of the entire kad ID space, takes less than 2.5 seconds. A zone crawl for the kad IDs whose 8 high order bits are 0x5b was done once every 5 minutes from 2006/09/23 to 2007/03/21, which is slightly less than 6 months.
+ID cannot see one another and therefore cannot download one from another.
+22000
+20000
+18000
+16000
+14000
+12000
+10000
+8000
+6000 0x0 0x20 0x40 0x60 0x80 0xa0 0xc0 0xe0
+zones
+Figure 1: The distribution of the peers over the hash space. The 256 8-bit zones on the x-axis go from 0x00 to 0xff.
+During a full crawl, we found between 3 and 4.3 million different peers. Between 1.5 to 2 million are not located behind NATs or firewalls and can be directly contacted by our crawler. Peers behind NATs or firewalls use kad to publish information about the content they share, but do not participate in storing published information, and make therefore no contribution to the operation of kad.
+In the rest of the paper we will only report statistics on the peers that our crawler could contact directly. As we can see in Figure 2 the number of peers seen varies according to a diurnal and a weekly patterns and reaches its peak during the weekend, where the population is about 10% higher.
+5.
+GROUP–LEVEL DYNAMICS OF PEERS
+4.5e+06
+4e+06
+3.5e+06
+3e+06
+2.5e+06
+2e+06
+In this section, we will present results about the full crawl of the system and the zone crawl, moreover we will charac- terize the fact of IP address aliasing and kad ID aliasing.
+5.1 Full Crawl
+A good hash function should assure a uniform distribution of the kad IDs over the entire kad ID space. We see that the peers are indeed uniformly distributed over the hash space, except for some outliers (Figure 1). An 8-bit zone contains the peers whose kad ID agrees in the first 8 bits, thus one zone can theoretically contain 2120 hash values, while we actually observe between 12,000 and 20,000 peers per zone. For some zones we see a much higher number of peers, which are due to modified kad clients. The modi- fied kad clients with the same kad ID are always limited to a single country (Korea, Spain, Israel, China, Argentina). The outlier in zone 0xe1 is a modified client, for which we counted more than 10,000 instances. Using modified kad clients amounts for some sort of free-riding, since the load for publishing and forwarding that a single regular kad peer carries will be distributed among all the modified peers with the same kad ID. On the other hand, modified clients can use the peer-to-peer network like a regular client. If there were too many modified kad clients, the application perfor- mance would decrease, since the peers using the same kad
+all
+responding
+1.5e+06 Tue Wed Thu Fri Sat Sun Mon Tue Wed Thu
+date
+Figure 2: The number of kad peers available in en- tire kad ID space depending on the time of day.
+In Figure 3, we plot the distribution of the percentage of peers seen per country. We used the Maxmind database [5] to resolve IP addresses to countries and ISPs. The conti- nent with the highest percentage of peers is Europe (Spain, France, Italy and Germany), while the country with the largest number of peers is China. Less than 15% of all peers are located in America (US, Canada, and South America).
+                                  
+        
+peers
+peers
+     
+  
+We can also see that the geographic distribution of the peers obtained with the two zone crawls of an 8-bit zone each is very close to the result obtained with the full crawl, which is to be expected since the kad IDs are chosen at random.
+9.30PM Beijing
+9PM Madrid, Paris, Rome
+
+0.25
+0.2
+m 0.15
+zone 0x91
+zone 0xf4 full crawl
+1600
+1400
+1200
+e i v l 1000
+a
+                    
+s
+r
+
+e 800
+e p f o
+#
+  
+o
+600
+   
+a r g
+400
+200
+0 Saturday
+CN
+ES FR IT DE
+Tuesday
+ 
+t
+s i H
+0.1
+0.05
+   
+Sunday
+Monday
+ 
+time of day (CET)
+                                 
+0 CNESFR IT DEPL IL BRUSTWKRARPTGB
+countries
+Figure 4: Peers online according to country of ori- gin.
+peers. Each time a peer joins, it first contacts other peers for information to populate its routing table, before it pub- lishes the keywords and source keys for all the files it will share.
+In figure 5(a) we depict the CDF (cumulative distribution function) of the number of peers that arrive and that depart between two consecutive crawls. We see that the distribu- tions for arrivals and departures are the same.
+The arrival process is very well described by a Negative Binomial distribution (see figure 5(b)).
+5.3 Aliasing
+IP Address Aliasing
+It has been known for quite some time [2, 4] that peers may get frequently assigned new IP addresses, which is referred to as IP address aliasing. We observed a total of 400,278 distinct kad IDs and 3,228,890 different IP addresses (see table 1). As we see in figure 6, the number of different IP addresses per peer is strongly correlated with the peer lifetime.
+KAD ID Aliasing
+Figure 7 reports the number of new kad IDs per day. i.e. kad IDs seen for the first time, according to country of origin. More than 50% of the new kad IDs are from peers in China, which is more than one order of magnitude more than the number of new kad IDs seen for any other country such as Spain, France, or Germany.
+We see in our zone crawl approx. 2,000 new kad IDs a day, which means that for the entire kad system the number of new kad IDs per day is around 500,000. If we extrapolate, this makes about 180 Million kad IDs a year. It is hard to believe that there exist such a large number of different end-users of kad.
+We were curious to find out whether the end-users really stop using kad after one session, or whether the same users come back with a different kad ID. We refer to the phe- nomenon of non-persistent kad IDs as kad ID aliasing, in contrast to IP address aliasing.
+To investigate kad ID aliasing, we need to look for peers
+ 
+Figure 3: Histogram of geographic distribution of peers seen on 2006/08/30.
+We can therefore estimate the total number of peers in kad by simply counting the number of peers in a zone. We do a zone crawl of one 256-th of the entire kad ID space and use Chernoff Bounds (see [7] Chapter 4) to estimate the total population size and to tightly bound the estimation error.
+Since the full crawl was quite expensive in terms of re- sources, we will extensively rely on the zone crawl to obtain much of the relevant information about kad.
+5.2 Zone Crawl
+All the results in the following subsection were obtained using the zone-crawl of the 8-bit zone 0x5b that lasted for 179 days. During this period a total of 51,552 crawls were executed.
+In Figure 4, we plot the number of peers seen that orig- inate from China and some European countries. For the peers of each country, we can clearly identify a diurnal pat- tern, with a peak around 9 PM local time. The eight hour time shift between Europe and China is clearly visible.
+Table 1 summarizes the basic findings on the zone crawl.
+The peers seen came from 168 different countries and 2384
+providers. For the kad IDs seen the 1st day of our zone
+crawl, we observe that about 1 of the peers come from Eu- 3
+rope and about 1 from China. If we compare the lifetime 4
+of the peers, which is defined as the difference between the time a given kad ID was seen the last time and the time this kad ID was seen the first time, we notice that the lifetime of peers in China is much smaller than the one for peers in the other countries. More than half of the peers in China were seen for the duration of only one session. We will come back to this point in subsection 5.3.
+Arrivals and Departures
+Since we crawl kad once every 5 minutes, we can determine the number of peers that join and leave between two con- secutive crawls. Knowing the arrival rate of peers is useful since it allows to model the load in kad due to newly joining
+ 
+
+Total
+China
+Europe
+Rest
+Different kad IDs Different IP addresses
+400,278 3,228,890
+231,924 875,241
+59,520 1,060,848
+108,834 1,292,801
+kad IDs seen for a single session kad IDs with LT ≤ 1 day
+174,318 242,487
+131,469 183,838
+11,644 15,514
+31,205 43,135
+kad IDs seen for the first time on - 1st crawl - 1st day - 60th day
+5,670 18,549 1,893
+455 4,535 1,083
+2,879 6,686 259
+2,336 7,328 551
+kad IDs seen for the first time on 1st day - with LT ≤ 1 day - 1 day < LT ≤ 1 week - 1 week < LT ≤ 1 month - LT > 1 month - LT > 3 months
+2,407 1,368 2,735
+12,039 8,423
+1,568 497 791 1,679 936
+286 393 944
+5,063 3,679
+553
+478 1,000 5,297 3,808
+Table 1: Key facts about the zone crawl spanning 179 days (LT=Lifetime).
+
+1
+0.8
+0.6
+0.4
+0.2
+0 01234
+10 10 10 10 10
+number of different IP addresses
+T
+LT <= 1 day
+1 day < LT < 1 week < LT 1 month < L
+= 1 week <= 1 month
+
+CDF
+
+1
+0.8
+0.6
+0.4
+0.2
+mean=114.79, std=29.93
+a
+0 0 50 100 150 200 250
+No. of host
+Arriv
+Dep
+als
+rtures
+CDF
+(a) CDF of the number of arrivals and departures.
+0.015
+0.01
+0.005
+Negative Binomial Parameters: r=16.81, p=0.127
+0 0 50 100 150 200 250
+Number of Arrivals
+ 
+Arrivals
+Negative Binomial
+
+PDF
+(b) PDF of the number of arrivals
+Figure 5: Peer arrivals between two crawls during the first week.
+with static IP addresses, wich we can track for non-persistent kad IDs. We know that, for instance in France, one of the ADSL providers (Proxad) assigns static IP addresses to cus- tomers located in areas where the service offer is completely “un-bundled”, while France Telecom-Orange changes the IP addresses of ADSL customers on a daily basis.
+Figure 6: The number of different IP addresses re- ported per kad ID during a period of six months.
+To find peers with static IP addresses, we started in March 20th, 2007 to carry out one full crawl a day. We take the logs of the two full crawls of March 20th and March 30th and extract the 160,641 peers that have the same IP address and the same kad ID in both logs. We call this set of IP addresses pivot set. Our hypothesis is that a peer that keeps the same IP address for 10 days is assigned a static IP address. We then take the logs of the full crawls starting April 1st, 2007 to look for peers whose IP addresses are in the pivot set that have changed their kad ID.
+In figure 8, we plot the rate of change of kad IDs for the peers in the pivot set. Up to now, all the publications on kad assumed persistent kad IDs. Our observations clearly disagree with this affirmation, since we see that a significant fraction of end-users in different countries change their kad ID over time. The rate of change among the Chinese peers is highest with about 35% after one month, second is Spain with close to 20%, while the average is about 10%.
+We have no good explanation for why end-users change their kad IDs. In the case of China, we suspect that there exists a “Chinese implementation” of the kad protocol that uses a new kad ID for every session.
+4 10
+3 10
+2 10
+1 10
+20 40 60 80 100 120 140 160 180
+Days
+Figure 7: New kad IDs according to country of ori- gin.
+We saw kad IDs are not necessarily persistent as was assumed so far. It remains an open problem to explain why kad IDs are non-persistent and under what circumstances peers change their kad ID.
+We also obtained interesting results concerning the behav- ior of individual peers that could not be presented here for space reasons. The most important findings are that
+	•	Session lengths have a “long tail”, with sessions lasting as long as 78 days. 
+	•	The distribution of the session lengths is best charac- terized by a Weibull distribution,with shape parame- ter k < 1. One property of Weibull distributed session lengths is that a peer that has so far been up for t units of time will – in expectation – remain up for a duration that is in the order of O(t1−k). 
+	•	For many peers, the amount of time a peer is connected per day varies a lot from one day to the next.  For more details, we refer the interested reader to our tech- nical report [13]. Acknowledgment: We would like to thank D. Carra and F. Pianese for feedback on an early version of this paper and our shepherd R. Rejaie for his constructive suggestions. We also thank the Computing Center of the University of Mannheim for providing us with the resources necessary to carry out such a long crawl.  7. REFERENCES  [1] A-Mule. http://www.amule.org/. [2] R. Bhagwan, S. Savage, and G. Voelker. Understanding  availability. In Proceedings of the 2nd International Workshop  on Peer-to-Peer Systems (IPTPS’03), pages 256–267, 2003. [3] E-Mule. http://www.emule-project.net/. [4] K. Kutzner and T. Fuhrmann. Measuring large overlay  networks - the overnet example. In Proceedings of the 14th  KiVS, Feb. 2005. [5] Maxmind. http://www.maxmind.com/. [6] P. Maymounkov and D. Mazieres. Kademlia: A Peer-to-peer  informatiion system based on the XOR metric. In Proceedings of the 1st International Workshop on Peer-to-Peer Systems (IPTPS), pages 53–65, Mar. 2002.  [7] M. Mitzenmacher and E. Upfal. Probability and Computing: Randomized Algorithms and Probabilistic Analysis. Cambridge Press, 2005.  [8] N. Naoumov and K. Ross. Exploiting p2p systems for ddos attacks. In International Workshop on Peer-to-Peer Information Management, May 2006.  [9] Overnet. http://www.overnet.org/. [10] S. Ratnasamy, M. Handley, R. Karp, and S. Shenker. A  scalable content-addressable network. In Proc. ACM  SIGCOMM, 2001. [11] A. Rowstron and P. Druschel. Pastry: Scalable, distributed  object location and routing for large-scale Peer-to-peer systems. In Proceedings of Middleware, Heidelberg, Germany, November 2001.  [12] M. Steiner, E. W. Biersack, and T. Ennajjary. Actively monitoring peers in kad. In Proceedings of the 6th International Workshop on Peer-to-Peer Systems (IPTPS’07), 2007.  [13] M. Steiner, T. En-Najjary, and E. W. Biersack. Analyzing Peer Bahavior in KAD. Technical report, Institut Eurecom, May 2007.  [14] I. Stoica, R. Morris, D. Karger, M. Kaashoek, and H. Balakrishnan. Chord: A scalable Peer-to-peer lookup service for Internet applications. In Proceedings of SIGCOMM, pages 149–160, San Diego, CA, USA, 2001. ACM Press.  [15] D. Stutzbach and R. Rejaie. Improving lookup performance over a widely-deployed DHT. In Proc. Infocom 06, Apr. 2006.  [16] D. Stutzbach and R. Rejaie. Understanding churn in peer-to-peer networks. In Proc. Internet Measurement Conference (IMC), Oct. 2006. 
+Figure 8: The fraction of peers in pivot set that changed their kad ID at least once.
+Implications of kad ID Aliasing The fact that the kad ID assigned may be non-persistent
+obliges us to distinguish between a peer and an end-user: • A peer is an instance of kad identified by a fixed kad
+ID. • An end-user is a physical person that launches a peer
+to participate in kad. The same end-user can, at dif- ferent times, participate in kad via different peers.
+When kad ID aliasing occurs, it is not really possible to characterize the lifetime of end-users, as compared to the lifetime of peers. All we can extract from our crawl data is the lifetime of peers, which provides us with a lower bound on the lifetime of end-users.
+6. CONCLUSION
+We have presented results on the peer behavior in kad, the largest currently deployed DHT. The duration of our crawl was 179 days, which makes it to our knowledge, the longest crawl of a peer-to-peer system ever carried out.
+
+Traditional peer-to-peer (P2P) file-sharing systems focus exclusively on technical issues and are therefore unable to leverage the power of social phenomena. However, we believe that social phenomena such as friendship, trust, and a sense of community may be at least as important as technical issues, and may indeed have a large positive impact on the usability and performance of P2P file- sharing and content-delivery systems. For example, viewing users as social partners rather than as
+∗Correspondence to: D. H. J. Epema, Department of Computer Science, Delft University of Technology, P.O. Box 5031, 2600 CD, Delft, The Netherlands. †E-mail: d.h.j.epema@tudelft.nl
+Copyright ⃝c 2007 John Wiley & Sons, Ltd.
+J. A. POUWELSE ET AL.
+solitary rational agents [1] could alleviate the problem of free-riding [2] by exploiting the fact that people tend not to steal (bandwidth) from the social group they belong to.
+To confirm our belief, we propose in this work a novel social-based P2P file-sharing paradigm, which facilitates the formation and maintenance of social networks and exploits social phenomena for improved content discovery, recommendation, and sharing. Our contribution is threefold. First, we relate the social-based P2P file-sharing paradigm to the current research challenges in P2P research (Section 2). Second, we present the design and implementation of TRIBLER, which adheres to the social-based paradigm by adding social-based functionality to the widely used BitTorrent system (Section 3). To facilitate the formation and maintenance of social networks, TRIBLER introduces permanent user identifiers, and will in the future be able to import existing user contacts from other social networks such as MSN (Section 4). Rather than using direct content-based searching, TRIBLER performs content discovery and recommendation based on the notion of taste buddies, that is, users with the same tastes or interests (Section 5). Third, we show evidence that TRIBLER achieves a significant improvement in download performance, by invoking the joint efforts of social peer groups (Section 6). In Section 7 we discuss related work, and in Section 8 we present our conclusions and ideas for future work. The full TRIBLER documentation and source code are available from http://Tribler.org.
+2. RESEARCH CHALLENGES IN P2P FILE SHARING
+With current P2P file-sharing systems continuously having more than 1000000 users, their performance and behavior have become of great interest. Starting in 2003, we have studied the performance of BitTorrent [3], which has for a number of years been the most popular P2P file-sharing system. Based on this work and on related studies, we formulate the following five grand research challenges for P2P file sharing, and we argue for the importance of the social-based paradigm in solving these challenges. In particular, with our social-based P2P network called TRIBLER we want to address all these challenges.
+The most difficult research challenge is the decentralization of the functionality of a P2P system across its peers. Full decentralization eliminates the need for central elements in the system, which must be set up and maintained by some party and which may form serious bottlenecks, points of failure, or security threats. In particular, connecting to the network and validating user identities are difficult to implement without any central element. To date, no P2P file-sharing system exists which fully decentralizes all functionality efficiently and without a high risk of a loss of integrity. BitTorrent is not fully decentralized as it depends on Web sites and trackers for finding content. Social groups form a natural method to efficiently decentralize P2P systems because people/peers who know each other tend to exchange information.
+The second challenge is to guarantee the availability of a P2P system as a whole. The operation of such a system should not depend on the availability of any particular participating peer, or of any central component (something we do not want if we aim for decentralization), as the failure of such a component can be disruptive to service [3]. Given the short periods of availability of peers (in [3] we found less than 4% of the peers to have an uptime of over 10 hours), the availability problem is critical. Proven social incentives such as rewards and social recognition could stimulate users to leave their P2P software running for longer periods, thus improving the overall availability of the network.
+The third challenge is to maintain the integrity of the system and to achieve trust among peers. By definition, P2P systems use donated resources. However, donors cannot always be trusted, and
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+TRIBLER: A SOCIAL-BASED PEER-TO-PEER SYSTEM
+maintaining system integrity has proven to be difficult in operational P2P systems [4]. Data at several levels can be attacked in a P2P system, namely system information (e.g., pointers to content), metadata, and the actual content itself. This significant problem, often ignored by P2P system designers, can be solved with a social-based network, in which users actively help to clean or remove polluted data and users can select trustworthy representatives.
+The performance of a P2P system highly depends on peers donating resources. Even though the resource economy is by definition balanced (e.g., every Mbyte downloaded corresponds to a Mbyte uploaded), autonomous peers are free to decide whether to donate resources or not. Hence, as the fourth challenge, providing proper incentives is vital to induce cooperation and to achieve good performance [2]. Again, social recognition can help to alleviate this problem.
+The fifth challenge in P2P systems is to achieve network transparency by solving the problems caused by dynamic IP addresses, NAT boxes, and firewalls. The Internet has fundamentally changed owing to the wide-spread use of these three technologies, and, as a consequence, peers no longer have the freedom to send anything anywhere without the help of another peer acting as a mediator. Social networks enable communicating peers to automatically select trusted mediators from the members of their social proximity that are online, thus eliminating the need for fixed mediators.
+3. THE ARCHITECTURE OF TRIBLER
+In this section, we present the architecture of our TRIBLER social-based P2P file-sharing system, which is built on top of the BitTorrent protocol. Figure 1 depicts this architecture, with rectangles representing its modules and files, and extrusions representing makes-use-of relationships. To achieve backwards compatibility with the existing BitTorrent P2P system, we have only made modifications and extensions to the existing BitTorrent client software. We have based our system on the popular ABC open-source BitTorrent client [5] so as to have a tested code base for our implementation and a large user base in a relatively short period of time. We now discuss several important concepts in TRIBLER.
+3.1. Social groups
+The prime social phenomenon that we exploit in TRIBLER is that ‘kinship fosters cooperation’ [6]. In other words, a similar taste for content can form the foundation for an online community with altruistic behavior. In order to implement effective social groups in TRIBLER, we use an approach borrowed from evolutionary biology (see, for instance, [6]): we have implemented the ability to distinguish friend, foe (e.g., a polluter), and newcomer. For this, we de-anonymize peers and facilitate social-group formation. De-anonymization is achieved by having every user choose a nickname; TRIBLER transfers user nicknames between users automatically. The Social Networking module in Figure 1 is responsible for storing and providing information regarding social groups (the group members, their recently used IP numbers, etc.).
+3.2. Megacaches
+Virtually all current P2P file-sharing systems lack persistent ‘memory’ about previous activity in the network; peers usually exchange queries for files and file metadata, but completely ignore other types
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+J. A. POUWELSE ET AL.
+User Interface
+Map
+Downloads
+My Friends
+Files I Like
+Taste Buddies
+Peer Geo-Location Engine
+Collaborative Downloader
+Friends List
+Recommendation Engine
+Metadata Cache
+Preference Cache
+Buddycast
+Geo-Location Engine
+BitTorrent Engine
+(Super) Peer Cache
+Social Peer Networking Similarity Evaluator
+Figure 1. The system architecture of TRIBLER.
+of information. The context information that needs to be saved in order to improve the performance consists of information on social relations, altruism levels, peer uptimes, taste similarities, etc. In TRIBLER, every piece of context information received by a peer that is relevant to it based on its interests and tastes is stored locally in its so-called Megacaches, and this information is exchanged within social groups using an epidemic protocol [7] (the Buddycast protocol, see Section 5). The small database icons in Figure 1 identify the four Megacaches in TRIBLER, which are the Friends List with information on social networks, the (Super) Peer Cache with information on super-peers and peers in general, the Metadata Cache with file metadata, and the Preference Cache with the preference lists of other peers. The sizes of the Friends List, the (Super) Peer Cache, and the Preference Cache are below 10 MB at any time, which for the Preference Cache is enough to store the preference lists of thousands of taste buddies (see also Section 5).
+The main problem concerning the Megacaches is the overhead traffic required to keep them up- to-date. For the Metadata Cache, we have observed that in BitTorrent the number of newly injected files per day is limited to roughly 1500 [3] when content pollution [4] is kept to a minimum. Then, by reducing the average size of the metadata for each file to just 400 bytes using Merkle hashes [8], the overhead is reduced to approximately 600 KB per day. With this amount of overhead, all metadata can be replicated among all peers, moving content discovery from network-based keyword searching to local metadata browsing.
+3.3. Taste-buddy-based content discovery
+Locating content is critical for P2P systems. Current solutions are based on one or a combination of query flooding, distributed hash tables, and semantic clustering. We take a next step by connecting people with similar tastes called taste buddies instead of focusing on files, and by using full metadata replication.
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+TRIBLER: A SOCIAL-BASED PEER-TO-PEER SYSTEM
+Using the Files I like module (see Figure 1), each peer indicates its preference for certain files expressed as a number between 1 and 5. By default, the preference list of a peer is filled with its most recent downloads. We have developed an algorithm called Buddycast which uses an epidemic protocol to exchange preference lists using the overlay swarm (see Section 3.6) and which can efficiently discover a user’s taste buddies (see Section 5). The Peer Similarity Evaluator module in Figure 1 is able to compare preference lists and determine the similarity in taste of two peers, which is measured as the cosine of their vectors of user ratings of content.
+The Recommendation Engine module is able to compile a list of files a user most likely wants. First, a user-item rating matrix is built from the preference lists [9], and then a user-based recommendation is generated by TRIBLER, based on standard collaborative filtering techniques. Finally, the user interface facilitates metadata browsing by augmenting each file entry with the estimated interest to the user.
+3.4. Downloading
+The BitTorrent Engine module in Figure 1 downloads files using a BitTorrent-compatible protocol. This module can also use the Collaborative Downloader module’s capabilities to achieve a significant increase in file download speed by exploiting idle upload capacity of online friends (see Section 6).
+3.5. User interface
+The user interface is key to making a social-based network usable and, as such, is a critical part of TRIBLER. The User Interface module from Figure 1 is split into five components: Map, Downloads, My Friends, Files I like, and Taste Buddies. The use of the Downloads, Files I like, and Taste Buddies modules is clear from the description above. The main goal of the interface is to facilitate the formation of social groups. For this purpose, the My Friends module clearly displays the friends, the friends-of- friends, and the taste buddies of the user. This visual proximity gives the user a more personal contact with his peers, and may help reduce asocial behavior.
+Another goal of the user interface design was to ease the process of visual identification of potential collaborators. When a user is downloading a file, the observed IP addresses of members of the corresponding download swarm are geo-located and then displayed on a world map using the Map module. We have built a Peer Geo-Location Engine module on top of a freely available Geo-Location Engine (http://hostip.info). The user interface also facilitates the use of the Collaborative Downloader module: the user can see which friends helped them in the past, which friends they donated bandwidth to, and which friends who are currently online can help speedup their new downloads.
+3.6. Bootstrapping
+Finding other peers in a P2P system after software installation is called bootstrapping. In BitTorrent, peers have to repeatedly connect to a tracker in order to discover other peers. Furthermore, the original BitTorrent protocol restricts communication to within the swarms of peers that download the same files, making the bootstrapping process unnecessarily repetitive. To solve the bootstrapping problem in TRIBLER, we use two mechanisms. First, a TRIBLER peer automatically contacts one of a set of pre-known super-peers only once immediately after installation in order to obtain an initial list of other peers in the system (through a Buddycast message, see Section 5), so that it can start participating
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+J. A. POUWELSE ET AL.
+Table I. Performance of the TRIBLER system.
+Test description
+Geo-lookup Overlay swarm connect Connect+challenge/response Connect+challenge+Buddycast
+Performance (ops s−1)
+       1730
+       7045
+        865
+        844
+in the epidemic information dissemination in TRIBLER. Second, we define a special overlay swarm, which is a swarm of which every TRIBLER peer is a member that has no tracker and that is used for content and peer discovery, again using Buddycast.
+3.7. Performance of TRIBLER
+In order to assess the overhead incurred by some of the operations in the TRIBLER protocol, we have carried out some performance tests on a powerful computer (a 4-CPU 2.0 GHz machine with 16 GB of main memory and a 1 Gbps Internet connection). Table I shows the results of these tests. The first test determines the number of geo-lookups this machine can handle per second. The second test shows the performance of connecting to a peer in the overlay swarm with the standard BitTorrent protocol messages. In the third test, in addition also the public key of the peer that connects is validated using a challenge/response algorithm (see Section 4). The fourth test adds to the third test the exchange of a preference list with 100 file names by means of the Buddycast algorithm. These tests show that a single peer can handle a significant workload, although indeed a certain amount of overhead is added to the BitTorrent protocol.
+4. SOCIAL NETWORKING
+A fundamental limitation in most file-sharing systems is the session boundary—all context information is lost when a user disconnects from the network. As a result of dynamic IP numbers, it is difficult to store context information about peers across sessions. Storing long-term context information in databases such as our Megacaches enables the existence of trust-based social groups, but only if the user identities are stable. To solve this problem, we have introduced permanent, unique, and secure peer identifiers (PermIDs), which are the public keys of a public-key scheme using elliptic-curve cryptography, and which are exchanged by e-mail. To prevent peers from faking the identity belonging to a PermID (spoofing), we have implemented a challenge-response mechanism for validating PermIDs. In this mechanism, a random number selected by the challenger is encrypted by the challengee with its private key and subsequently decrypted by the challenger with the corresponding public key—authentication succeeds when the result is identical to the original number. Social-network creation in TRIBLER will be facilitated by the ability to import contacts from other social networks of which peers are members, such as MSN and GMail.
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+TRIBLER: A SOCIAL-BASED PEER-TO-PEER SYSTEM
+0.003 0.00012 0.0025 0.0001
+0.002 8e-05 0.0015 6e-05 0.001 4e-05 0.0005 2e-05
+00 1 10 100 1000 10000 100000
+Number of friends/FoFs
+Figure 2. The probability density of the numbers of friends and friends-of-friends (FoFs) in Friendster.com.
+We will use Bloom filters [10], which are very dense hash-table-like data structures for storing and (probabilistically) testing set membership, for distributing and pairwise comparing the contents of the Megacaches. Because of their reduced size, Bloom filters can significantly reduce the bandwidth requirements of epidemic protocols, which are the basis of our solution for content discovery and social networking. In a recent prototype [11] of a design for decentralized swarm discovery in TRIBLER, we have already implemented Bloom filters for filtering peers from messages that are already known to their destinations.
+The size of a Bloom filter depends on the number of expected connections peers have. To assess their size while we do not yet have sufficient information on the operation of TRIBLER, we resort here to analyzing another existing social network, Friendster.com. We have created a crawler for this network and we have extracted 3.3 million relations between 27 000 people. Figure 2 shows the probability density of the numbers of friends and friends-of-friends in Friendster.com. In this network, we find that a person has on average 243 friends and 9147 friends-of-friends. These figures are to within an order of magnitude similar to the figures reported in [12] for several P2P file-sharing networks. Based on these numbers, we can compute that 260 bytes are needed to discover the common friends-of-friends of two peers using a Bloom filter. This very low bandwidth requirement will enable TRIBLER peers to exchange information with thousands of other peers in a short time frame, which is a significant improvement over traditional epidemic protocols.
+5. THE BUDDYCAST ALGORITHM
+In order to make recommendations and to enable peer and content discovery, and, more generally, to disseminate the contents of the Megacaches in the TRIBLER overlay swarm, we have designed the Buddycast algorithm, which is an epidemic protocol that works as follows. Each peer maintains in its Megacache a number of taste buddies with their preference lists and a number of random
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+number of friends
+number of FoFs
+
+
+Friends probability
+FoFs probability
+J. A. POUWELSE ET AL.
+4096 1024 256 64 16 4 1
+0 1 2 3 4 5 6 7 8 9 10 Number of online peers per buddycast message
+Number of buddycast messages
+taste buddies random peers
+Figure 3. The availability of peers in Buddycast messages.
+peers (i.e. peers for which no preference list is known). Periodically (in the current version of TRIBLER every 15 seconds), a peer either connects to (a) one of its taste buddies (exploitation) or to (b) a random peer (exploration) to exchange a Buddycast message, or it replies to such a message received from another peer. In contrast to other epidemic protocols such as Newscast [7], we use both exploitation and exploration, we limit the randomness of peer selection during the exploitation, and we implicitly cluster similar peers into (trusted) social groups. This is very close to the approach proposed in [13].
+A Buddycast message contains the identities of a number (currently 10) of taste buddies along with their top-10 preference lists, a number (currently also 10) of random (and fresh, see below) peers, and the top-50 preferences of the sending peer. The age of each peer is included in the message to help others know the freshness of peers. After exchanging Buddycast messages, both peers merge the information in the message received into their own Megacache. To maximize the exploration and avoid redundant messages, every peer also maintains a list with the most recently contacted random peers, and avoids reconnecting to the peers in this list for a certain period of time (currently 4 hours). Users can disable the functionality of Buddycast to protect their privacy.
+To find a good balance between exploration and exploitation, an exploration-to-exploitation ratio λ for selecting either a random peer or a taste buddy is used, which is currently set to 1, but which we may want to make adaptive. In the case of exploration, a random peer is selected based on its freshness, to improve the chance of its still being online when connecting to it. In the case of exploitation, a taste buddy is selected from a number (currently 100) of the most recently contacted taste buddies based on its similarity with the sending peer. As a consequence, the fresher or more similar a peer, the higher its chance to be selected.
+For a first assessment of the operation of the Buddycast algorithm, we have investigated the availability of the peers contained in Buddycast messages at the moment of receiving such messages. To this end, we have run a continuously fresh TRIBLER peer for a period of 519.7 hours, and we have probed all the peers in every Buddycast message it received to see how many of them were still online. At the time of this experiment, there were about 15 000 TRIBLER clients in the world who had actually downloaded files. The results are shown in Figure 3 (note the logarithmic scale on the vertical axis).
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+TRIBLER: A SOCIAL-BASED PEER-TO-PEER SYSTEM
+Download completed
+Downloading
+BitTorrent swarm
+Collector
+Helper Helper
+Helper Helper
+Cooperative Download
+Non-cooperative Download
+Figure 4. Overview of collaborative downloading.
+During the experiment, our peer received 5049 messages in total. As can be seen in the figure, often at most only four taste buddies in the Buddycast messages were still online, which agrees with our earlier finding that online periods in BitTorrent are short [3]. From the figure we also see that random peers have a higher chance to be online, which indicates that selecting peers based on freshness can benefit the effectiveness of exploration.
+6. COLLABORATIVE DOWNLOADING
+In this section we present the collaborative download protocol called 2Fast that we have developed for TRIBLER, in which a user invokes the help of his friends to speed up downloads. Early downloading protocols (e.g., Gnutella) have no incentives for donating upload bandwidth, which has serious limitations in real environments, because unconstrained bandwidth sharing is sensitive to free- riding [2]. The BitTorrent Tit-for-Tat mechanism was the first system which offered an incentive for uploading. The current BitTorrent mechanism also has its disadvantages, because without enough seeding peers (i.e., peers which possess the complete file in question), the download speed of a peer is restricted by BitTorrent’s Tit-for-Tat bartering protocol to its upload link capacity. Hence, peers with asymmetric Internet access, such as ADSL or ADSL-2, cannot fully use their download capacity.
+The 2Fast protocol makes use of social groups, where members who trust each other collaborate to improve their download performance (see Figure 4). The idea of downloading with the help of others was first introduced in [14], where altruistic peers contribute their bandwidth by joining a swarm even if they are not interested in the content being distributed in this swarm. The inherent assumption of sufficient altruism in the network without any incentives makes this simple approach impractical in real-world environments. Our 2Fast protocol solves this problem by introducing social- group incentives. For a full account of 2Fast, see [15].
+In 2Fast, peers from a social group that decide to participate in a collaborative download take one of two roles: they are either collectors or helpers. A collector is the peer that is interested in obtaining a complete copy of a particular file, and a helper is a peer that is recruited by a collector to assist in downloading that file. Both the collector and the helpers start downloading the file using the classical
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+J. A. POUWELSE ET AL.
+Figure 5. The impact of the number of helpers on the download speedup.
+BitTorrent Tit-for-Tat and the collaborative download extensions. As in BitTorrent, a helper selects a chunk of the file for downloading based on the rarest-first policy among the chunks in possession of its bartering partners. However, before actually downloading this chunk, it asks the collector for approval, which will only be granted when the chunk is unique, that is, when no other helper already downloads the same chunk. After downloading a file chunk, the helper sends the chunk to the collector without requesting anything in return. In addition to receiving file chunks from its helpers, the collector also optimizes its download performance by dynamically selecting the best available data source from the set of helpers and other peers in the BitTorrent network using the default mechanisms of BitTorrent, which prefer peers that upload at higher rates. As helpers give priority to collector requests, they are preferred as data sources.
+We have implemented and tested 2Fast in a real environment. For this we have selected a middle- sized swarm of around 1900 peers with only 6% seeds, distributing a 1.2 GB file. These numbers remained almost unchanged during our experiments. We have performed tests for three download- to-upload bandwidth ratios from standard Internet package offerings: low-end ADSL with a ratio of 512:128 Kbps, high-end ADSL with a ratio of 2048:512 Kbps, and ADSL-2 with a ratio of 8:1 Mbps. It should be noted that we could only impose these bandwidths on the collector and the helpers, which were under our control, but not on the peers in the Internet that they selected as their bartering partners.
+As a performance metric of our system, we use the ratio of the download time achieved by a peer obtaining a file all by itself to the corresponding time for a collaborative group (speedup). The theoretical maximum speedup is achieved when a peer can fully use its download bandwidth, and so it is equal to the ratio between the download and upload link capacities. Thus, for ADSL and ADSL-2 the maximum achievable speedup is 4 and 8, respectively.
+Figure 5 shows the obtained speedups for the number of helpers in the range from 0 to 32. The total download time was decreased by a factor of almost two for low-end ADSL, of more than three for
+Copyright ⃝c 2007 John Wiley & Sons, Ltd. Concurrency Computat.: Pract. Exper. (in press) DOI: 10.1002/cpe
+TRIBLER: A SOCIAL-BASED PEER-TO-PEER SYSTEM
+high-end ADSL, and of almost six for ADSL-2. The difference between the theoretical and achieved speedups is mainly due to the influence of the seeders (when there are many seeders to begin with, the potential speedup is restricted) and of the delays experienced by helpers when requesting unique file chunks from peers. The more helpers that are involved, the more restrictive the unique file chunk selection method is, and, consequently, the longer the time needed to find a bartering partner for such a chunk. This time is further increased in the case of low-end ADSL by the fact that then the collector and the helpers were discriminated as peers with an upload bandwidth which is below average [3].
+7. RELATED WORK
+The idea of exploiting the natural social connections between the humans behind the computers in large-scale P2P networks is starting to become a major research topic. To date, methods based on social clustering were applied in P2P networks to limited aspects of content distribution [16], user communities formation [17], and collaborative service provisioning [9]. In [16], a system which uses knowledge discovery techniques for overlay network creation is presented. By automatically clustering users based on their preferences, the system enables content location and improves the performance of content sharing. In [17], a simple general-purpose system is proposed which groups peers based on the similarity of their keyword searches. The authors give evidence on how their system can be used to form and maintain communities of users. An extensive experimental analysis of several collaborative filtering methods is given in [9]. TRIBLER is the first system which exploits social phenomena to address all the research challenges in P2P file-sharing networks mentioned in Section 2. The BTSlave project [18] extends the BitTorrent protocol by introducing special-purpose peers called repeaters that use their idle bandwidth to increase content replication in the swarm. In contrast to TRIBLER, in BTSlave a peer is not aware of the help it is receiving, and so it cannot coordinate its helpers as the collector in 2Fast does. Owing to the lack of coordination, BTSlave repeaters can end up competing for the same content instead of collaborating.
+8. CONCLUSION AND FUTURE WORK
+In this paper we have presented a novel paradigm for the design of P2P file-sharing networks based on social phenomena such as friendship and trust. Following the paradigm’s main concepts of taste buddies and friends, we have designed and implemented the TRIBLER P2P file-sharing system. We have described how TRIBLER can help to automatically build a robust semantic and social overlay on top of BitTorrent, one of the most popular P2P file-sharing systems. We have shown how various TRIBLER components can yield good performance with respect to existing solutions. In particular, we have presented evidence that collaborative downloading yields a significant speedup when used in a real BitTorrent swarm. Last but not least, we have shown how with TRIBLER we have made a start in addressing the five major P2P research challenges introduced in Section 2.
+As future work, we intend to extend TRIBLER with a reputation system, with tag-based content navigation, with video-on-demand, and with application-level multicasting for video streaming. In addition, we are planning a much more detailed analysis of the Buddycast algorithm.
+
+
+
+
+Over the last few years, quite a few peer-to-peer (P2P) protocols for sharing files (e.g. containing music or movies) have been devised. However, despite the increas- ing attention from both the research community and hundreds of thousands of users, the behavior of such systems under a real workload of actual users is poorly under- stood. One of the most promising current P2P file-sharing systems that is quickly gaining popularity, is the BitTorrent/Suprnova system [1]. This paper is an attempt to understand the operation of P2P file sharing by means of detailed measurements of the use and operation of BitTorrent to assess its quality with respect to such as- pects as download speed and availability. In addition, we propose improvements to the existing architecture.
+A high level of robustness and the “one-click download” user interface are impor- tant factors in the success of BitTorrent. BitTorrent is different from other P2P networks in three important respects. First, it does not include a search mechanism, but rather, it relies on central-directory based search facilities as provided by Web sites such as suprnova.org, which maintain lists of all files currently available for downloading. Secondly, it employs a file-level sharing policy instead of the common directory-level sharing policy. Thirdly, it provides a bartering mechanism among the clients who are downloading the same file, which introduces a certain level of fairness into the system.
+Our focus in this paper is on the usefulness of P2P concepts for the rapid dis- semination of information among large numbers of computers—the fact that also
+Email address: j.a.pouwelse@its.tudelft.nl (J.A. Pouwelse, P. Garbacki,
+D.H.J. Epema, H.J. Sips).
+Preprint 15 October 2004
+BitTorrent contains large amounts of illegally obtained and shared content is not relevant in this context.
+Furthermore, we make a comparison of BitTorrent with four other P2P architec- tures, namely FastTrack (Kazaa.com), Overnet (overnet.com), Direct Con- nect (neo-modus.com), and Gnutella (limewire.com).
+2 BitTorrent and Suprnova
+In this section we provide an overview of the BitTorrent/Suprnova P2P system [1]. The architecture of the system is depicted in Figure 1.
+BitTorrent does not provide a file-search mechanism itself; instead, users have to go to web sites which act as central directories listing recently released files. Suprnova (suprnova.org), with around 800,000 visitors per day, is currently the domi- nating web site for this purpose.
+                         K out of N peers
+search link
+redirect
+point to
+. . .
+peer_1
+peer_0
+suprnova.org
+   mirror
+.torrent
+  file
+contact
+Fig. 1. The BitTorrent/Suprnova architecture.
+To start the download of a file, a user (peer 0) first has to obtain the correspond- ing .torrent meta-data file. In order to do so, the user contacts the web site suprnova.org, whose sole purpose it is to balance the user requests across the Suprnova mirror sites (we will refer to this mechanism as the mirroring system). These sites present the user with a list such as shown in Figure 2 of (pointers to) .torrent files (here representing games). The meaning of the columns is, from left to the right: the date of upload, the name of the file, the file size, the number of seeds (peers that possess the whole file), the number of peers that are registered at the tracker (see below), the operating system for which the game is designed, the name of the person who uploaded the .torrent file, and the link to the web page with a description of the game. The meta-data files are not stored on Suprnova mirrors themselves, but are distributed among a number of file servers. The user then clicks on a link pointing to a location of the .torrent file.
+The .torrent file indicated by the user points to a tracker, which, as its name suggests, keeps track of all the peers which are (or recently were) also in the process of downloading the corresponding content, and which responds to the user’s request with a list of (some of) these peers. From this point onwards, the user can establish
+2
+  .torrent
+files server
+tracker
+suprnova.org
+peer_N
+Fig. 2. Several lines from a suprnova.org web page.
+direct connections with these peers participating in the download and start bartering chunks of the requested file with them. One tracker can supervise the simultaneous downloads of multiple files, and different .torrent files corresponding to the same data file may link to different trackers. In addition to the location of a tracker, .torrent files also contain content hashes that may be used to verify the cor- rectness of the incoming data. It should be noted that even though there may exist many of each of the three types of central components (mirrors, file servers, and trackers), they are not replicas that take over each others’ role when one of them goes down.
+The key philosophy of BitTorrent is that peers should barter for chunks of files, i.e. upload content at the same time they are downloading it. This bartering diminishes parasitic behavior of users—it is not possible to download without sharing. Each peer is responsible for maximizing its own download rate. Peers do this by down- loading from whoever they can and deciding on which peers to upload to, via a variant of tit-for-tat in which a peer responds in one period with the same action that its collaborator performed in the previous period. As a result, peers with high upload rates will probably also be able to download with a high speed. In this man- ner BitTorrent can achieve a high bandwidth utilization. When a peer has finished downloading a file, it may become a seed by staying online for a while and sharing the file for free, i.e. without bartering.
+New content is injected into BitTorrent by uploading a .torrent file to suprnova. org and creating a seed with the first copy of the file. However, in order to reduce the pollution level, new content is first manually inspected by moderators, who weed out fake content, content with low perceptual quality, and content with incor- rect naming. A normal user who injects content is called a moderated submitter. To lower the burden on the moderators, a user who frequently injects correct content
+is promoted to the rank of unmoderated submitter, and is allowed to add content to BitTorrent. Unmoderated submitters can request a promotion to moderator sta- tus. We call this a P2P moderation system because as is based on volunteers, and potentially everybody can become a moderator. As shown in Figure 2, the person who injected a file is clearly visible.
+Together, BitTorrent and Suprnova form a unique infrastructure that uses mirror- ing of the web servers with its directory structure, meta-data distribution for load balancing, a bartering technique for fair resource sharing, and a P2P moderation
+3
+system to filter fake files.
+3 Approach and related work
+In this section, we first define five characteristics of P2P systems. We review re- lated work in the form of a comparison of BitTorrent with four other popular P2P file-sharing systems with respect to these characteristics, and we discuss P2P mea- surement studies.
+3.1 Characteristics of P2P systems
+We base our treatment of BitTorrent on the following five characteristics:
+		(1)  The popularity of a P2P system is understood as the total number of users participating in it over a certain period of time. 
+		(2)  TheavailabilityisofparamountimportanceinP2Psystems.Asthesesystems have no (or sometimes only a few, such as in BitTorrent) central components, the operation generally depends on voluntarily contributed resources, which easily leads to low system availability. 
+		(3)  The download performance determines the relation between the size of a file and the time needed for downloading it. 
+		(4)  Several aspects of the content provided by a particular P2P network are very important to its users, such as the amount and types of content it provides. However, in this paper we focus in particular on the content lifetime, which is the time period that a file can actually be retrieved from the system, that is, the period from when it is injected into the system until none of the peers in the system is willing to share the file anymore. Another dynamic aspect of content is the content injection time, which is the time period between the first official release of the content anywhere in the world (e.g. a movie release) and the moment it is injected into a P2P system. 
+		(5)  The pollution level of a P2P system is defined as the fraction of corrupted or wrong content. All files on P2P networks are voluntarily provided, and there is usually no authentication or verification of their contents. Therefore, anybody can, either intentionally or unintentionally, upload files with incorrect names or corrupted contents (e.g. fake copies of songs), which may subsequently spread throughout the system.  4 
+3.2 A comparison of popular P2P file-sharing systems
+In this section we provide a comparison of BitTorrent with four of the most suc- cessful P2P systems with respect to the five characteristics presented in Section 3.1. These systems are FastTrack, which is the basis of Kazaa, Overnet (including eDon- key), DirectConnect (DC), and Gnutella. Table 1 shows the strong and weak points of these P2P systems, which are based on measurement surveys [3,4,6], file-sharing portals (e.g. slyck.com), and our own experiences with these systems. An impor- tant conclusion to be drawn from this table is that no single characteristic explains the popularity of the P2P systems.
+P2P system
+Strong points
+Weak points
+FastTrack
+popularity, availability, content lifetime
+pollution level
+Overnet
+popularity, content lifetime
+download performance
+BT/Suprnova
+popularity, download performance, content injection time, pollution level
+availability, content lifetime
+DC
+download performance, content lifetime
+availability
+Gnutella
+download performance
+popularity, pollution level
+Table 1
+A comparison of the five most popular P2P systems by means of five characteristics.
+Concerning the popularity of the systems, FastTrack has the largest file sharing community, although Overnet does not stay far behind and BitTorrent is rapidly gaining popularity. DC was the first system to fully exploit social relationships by using online friendships and communities. In DC, users have to connect to a hub to be able to share and download files. The concept of search hubs and minimum file sharing requirements on individual hubs in combination with a cumbersome interface is reflected in a low popularity of this system. The popularity of Gnutella falls as quickly as it grew a few years ago; its original flat-flooding design does not scale well.
+FastTrack is an architecturally advanced P2P system, and has good availability due to its utilization of supernodes to create temporary indexing servers, allowing the network to scale very well. Other systems try to ensure availability by means of full (Gnutella) or partial (Overnet) distribution of the responsibility for the shared files. The manually maintained Suprnova site does not scale by definition and is therefore one of the weakest points of BitTorrent.
+BitTorrent is the indisputable leader in download performance. Its lack of searching functionality is compensated by an advanced download distribution protocol that leaves the competitors far behind. Overnet takes a completely opposite approach by offering powerful searching capabilities and queue-based scheduling of downloads with waiting times sometimes exceeding a few days.
+The big difference between BitTorrent and other systems presented in Table 1 is the
+5
+file-sharing policy. BitTorrent provides a file-level sharing scope by allowing users to download files only if these are already being downloaded. The lack of archive functionality results in relatively short content lifetimes. Systems like Kazaa use a directory-level sharing policy in which all the files located in a particular directory are accessible as long as the client stays connected. Hence, a temporary drop of file popularity does not remove it from the system.
+Filtering of the shared content in order to create a pollution-free system is a process that can hardly be automated. Kazaa users are familiar with problems caused by fake files floating around in the system. Hash-code verification in combination with hash databases like verifieds.com do not limit the number of fake files in the FastTrack network, they allow user to identify correct files. The operation of Suprnova differs in this respect, as it prevents fake files from entering the system entirely.
+3.3 Other measurement studies
+Several studies have measured the five characteristics of P2P networks mentioned in Section 3.1, but most of these only span a few days, making it difficult to draw conclusions on long-term peer behaviour. The only long-term study is a 200-day trace of the Kazaa traffic on the University of Washington backbone [7]. However, the well-connected users with free Internet access in this environment are not aver- age P2P users.
+In [11], popularity measurements of Kazaa, DC, and Gnutella are described, and a detailed analysis of P2P traffic on the AT&T backbone is presented. The number of unique IP numbers involved in Kazaa traffic increased from 3,403,900 in Septem- ber 2001 to 5,924,072 in December 2001, indicating a significant rise of Kazaa’s popularity.
+The availability of 2,400 Overnet clients during a 7-day period in January 2003 is studied in detail in [5]. A problem with such studies is that peers may change IP number between sessions, which was overcome by exploiting a unique identifier in the Overnet P2P client. It was found that 32 % of the responding peers used five or more IP numbers during the measurement period. In [10] the availability of a few thousand Gnutella peers is measured during a six-week period. It was observed that about 31 % of the uptimes of the peers had a duration of roughly 10 minutes (their measurement resolution).
+In one of the first studies (August 2000) related to download performance [2], over 35,000 Gnutella peers where followed for one day. Nearly 70 % of the peers did not contribute any bandwidth, which is called “freeriding”. Freeriding is also found in [11], namely less than 10 % of the IP numbers fill about 99 % of all P2P band-
+6
+width. In [6], SProbe (sprobe.cs.washington.edu) was used to measure the bandwidth of 223,000 Gnutella peers in May 2001. It turned out that roughly 8 % of the Gnutella peers downloaded files at a speed lower than 8 KB/s.
+Content lifetime and content injection time are a poorly understood and unexplored research area. In [8], which is the only study of content injection time, an unnamed web site similar to verifieds.com is used to download 183 of the most popu- lar Hollywood movies from an unnamed P2P system (not BitTorrent/Suprnova). It was discovered that 77 % of these movies were leaked by movie industry insiders and that most movies appeared on the network around their cinema or DVD release date. The most popular files on the Gnutella network are measured in [10] and the top-50 files are listed. An initial measurement of the flash crowd effect (a sudden increase in interest) is presented in [1]. This flash crowd was caused by a few thou- sand volunteers who were asked by the author of BitTorrent to download a test file. In [4], the variation in popularity of files over their lifetime in Kazaa is analyzed. Flash crowds are not found on Kazaa, probably because it does not include features to display the latest content such as included in Suprnova.
+Pollution on P2P systems has also received little attention from academia. We be- lieve that our measurements are the first attempt to accurately quantify some of its properties. The American company OverPeer has patented their method to damage the sound quality of audio files on P2P systems. In [12], the director of Overpeer states that they are actively polluting P2P networks with fake (MP3) content to protect over 30,000 titles.
+
+Abstract
+The main contribution of the poster, which is shortly outlined in the following, is to offer a definition for Peer- to-Peer networking and to make the differences to com- mon so called Client/Server-architectures clear. With this definition we are able to classify currently existing networking concepts in the Internet either as ìPureî Peer-to-Peer, or "Hybrid" Peer-to-Peer or Client/Server architecture.
+1 Introduction
+Peer-to-Peer Networking is mostly known under the brand of Napster. Within this application the Peer-to- Peer networking concept is used to share files, i.e. the exchange of MPEG Layer3 (mp3) compressed audio files. However, Peer-to-Peer is not only about file shar- ing, it is also about establishing multimedia communica- tion networks based on Peer-to-Peer concepts or re- source sharing.
+A basic problem we often encountered, is the multi- faceted and confusing situation, concerning the terms related to Peer-to-Peer networking in publications and discussions. Often Peer-to-Peer is used without having clearly stated the meaning of Peer-to-Peer. Thus it may happen, that sometimes in discussions the term Peer-to- Peer is used with completely opposing meanings.
+The central theme of this poster therefore is to bring in a clear definition of Peer-to-Peer networking and its different facets, like e.g. ìHybridì Peer-to-Peer net- working. Further on we also give a definition of the classical Client/Server architectural concept, to make a distinctive delimitation to Peer-to-Peer network archi- tectures possible.
+2 Definition of Peer-to-Peer and Client/Server networking
+Peer-to-Peer networking is not new. Already a few years ago the advantages of Peer-to-Peer networking have been recognized and thus investigations into these architectures were made [You93] [Sim91]. Others like
+e.g. [Met01] and [Wra94] define Peer-to-Peer networks just as a collection of heterogeneous distributed re- sources which are connected by a network. Some at- tempts to describe Peer-to-Peer networks more exten- sively, than in just an application specific way, define Peer-to-Peer simply as the opposite of Client/Server architectures [Sin01] [Tho98].
+However, from our point of view, the most distinctive difference between Client/Server networking and Peer- to-Peer networking is the concept of an entity acting as a Servent, which is used in Peer-to-Peer networks. Servent is an artificial word which is derived from the first sylla- ble of the term server (ìServ-ì) and the second syllable of the term client (ì-entî). Thus this term Servent shall represent the capability of the nodes of a Peer-to-Peer network of acting at the same time as server as well as a client. This is completely different to Client/Server net- works, within which the participating nodes can either act as a Server or act as a client but cannot embrace both capabilities.
+The above shortly outlined features of Peer-to-Peer networks can be concluded in Definition 1. Service in this conext is understood as outlined in [Kel98].
+A distributed network architecture may be called a Peer-to-Peer (P-to-P, P2P,Ö) network, if the participants share a part of their own hardware resources (processing power, storage capacity, network link capacity, printers,Ö). These shared resources are necessary to provide the Service and content offered by the network (e.g. file sharing or shared workspaces for collaboration). They are accessible by other peers directly, without passing intermediary entities. The participants of such a network are thus resource (Service and content) providers as well as resource (Service and content) requestors (Servent-concept).
+Definition 1 The definition of Peer-to-Peer
+To be able to distinguish Peer-to-Peer networks with a central entity from those without any central entities, it is general practice to split the Peer-to-Peer networking definition into two sub-definitions. They are generally known as the ìHybridì Peer-to-Peer networking con-
+Proceedings of the First International Conference on Peer-to-Peer Computing (P2Pí01) 0-7695-1503-7/02 $17.00 © 2002 IEEE
+cept, which allows the existence of central entities in its network, and the ìPureî Peer-to-Peer networking con- cepts within which Servents are the only entities al- lowed. These two concepts are defined in the following way:
+Definition 2 The definition of ìPureì Peer-to-Peer
+The key distinction of ìHybridì Peer-to-Peer com- pared to ìPureì Peer-to-Peer is the fact, that a ìHy- bridì Peer-to-Peer network always includes a central entity, which is ìforbiddenì by definition in ìPureì Peer-to-Peer networks. On the other hand ìHybridì Peer-to-Peer networks differ from Client/Server net- works, because the feature of the nodes to share re- sources is substantial in "Hybrid" Peer-to-Peer net- works.
+Definition 3 The definition of ìHybridì Peer-to-Peer One significant difference of Client/Server network-
+ing compared to Peer-to-Peer networking is that the clients do not share any of their resources (storage ca- pacity, computing power, network connection, band- width, content). In the Client/Server concept exists only one central entity, which provides all the content and services which are offered in a certain network.
+Definition 4 The definition of Client/Server 3 Conclusion
+The introduction of a profound and clear definition of the understanding of Peer-to-Peer -networking is a first step to understand and be able to estimate the impacts of
+this new arising networking technology. We feel the need for such a basic work, because the main problem of todayís discussions and publications in the field of Peer- to-Peer networking are, the different and often even opposing understandings of Peer-to-peer networking. Meaningful discussions were hardly possible until now, because of the vagueness about the terms used in Peer- to-Peer networking.
+Nevertheless there is still a long way to go, until Peer-to-peer networking is going to become a real suc- cess story. A lot of problems still have to be solved and one of them is certainly the traffic engineering problem encountered especially in completely flat routing archi- tectures. New, dynamic routing concepts have to be developed, as for example dynamic hierarchical routing topologies we envision as a solution for todayís encoun- tered traffic problems. Although there are still a of problems to be solved, this might finally lead to a Peer- to-Peer based third generation Internet.
+
+
+
+The BitTorrent file distribution system uses tit-for- tat as a method of seeking pareto efficiency. It achieves a higher level of robustness and resource uti- lization than any currently known cooperative tech- nique. We explain what BitTorrent does, and how economic methods are used to achieve that goal.
+1 What BitTorrent Does
+When a file is made available using HTTP, all upload cost is placed on the hosting machine. With BitTor- rent, when multiple people are downloading the same file at the same time, they upload pieces of the file to each other. This redistributes the cost of upload to downloaders, (where it is often not even metered), thus making hosting a file with a potentially unlim- ited number of downloaders affordable.
+Researchers have attempted to find practical tech- niqes to do this before[3]. It has not been previously deployed on a large scale because the logistical and robustness problems are quite difficult. Simply figur- ing out which peers have what parts of the file and where they should be sent is difficult to do without incurring a huge overhead. In addition, real deploy- ments experience very high churn rates. Peers rarely connect for more than a few hours, and frequently for only a few minutes [4]. Finally, there is a gen- eral problem of fairness [1]. The total download rate across all downloaders must, of mathematical neces- sity, be equal to the total upload rate. The strategy for allocating upload which seems most likely to make peers happy with their download rates is to make
+each peer’s download rate be proportional to their upload rate. In practice it’s very difficult to keep peer download rates from sometimes dropping to zero by chance, much less make upload and download rates be correlated. We will explain how BitTorrent solves all of these problems well.
+1.1 BitTorrent Interface
+BitTorrent’s interface is almost the simplest possi- ble. Users launch it by clicking on a hyperlink to the file they wish to download, and are given a standard “Save As” dialog, followed by a download progress dialog which is mostly notable for having an upload rate in addition to a download rate. This extreme ease of use has contributed greatly to BitTorrent’s adoption, and may even be more important than, although it certainly complements, the performance and cost redistribution features which are described in this paper.
+1.2 Deployment
+The decision to use BitTorrent is made by the pub- lisher of a file. Downloaders use BitTorrent because it’s the only way to get the file they want. Fre- quently downloaders cease uploading as soon as their download completes, although it is considered polite to leave the client uploading for a while after your download completes. The standard implementation continues to upload until the window is closed, which frequently results in uploads continuing until the user gets back to their machine.
+In a typical deployment, the number of incomplete downloaders, (meaning ones which do not have the
+1
+whole file), increases very rapidly after the file is made available. It eventually peaks and then falls off at a roughly exponential rate. The number of com- plete downloaders increases slowly, peaks some time after the number of incomplete downloaders does, then also falls off exponentially. The peak of incom- plete downloaders passes as downloaders complete. The peak of incomplete downloaders passes as fin- ished downloaders stop uploading. The exponential falloff of both reflects the rate of new downloaders joining after the initial rush is over.
+file made available by host, downloaders use BT because they want the file.downloaders upload while downloading, then leave.
+helping peers find each other.
+Although trackers are the only way for peers to
+find each other, and the only point of coordination at all, the standard tracker algorithm is to return a random list of peers. Random graphs have very good robustness properties [2]. Many peer selection algorithms result in a power law graph, which can get segmented after only a small amount of churn. Note that all connections between peers can transfer in both directions.
+In order to keep track of which peers have what, BitTorrent cuts files into pieces of fixed size, typi- cally a quarter megabyte. Each downloader reports to all of its peers what pieces it has. To verify data in- tegrity, the SHA1 hashes of all the pieces are included in the .torrent file, and peers don’t report that they have a piece until they’ve checked the hash. Era- sure codes have been suggested as a technique which might help with file distribution [3], but this much simpler approach has proven to be workable.
+Peers continuously download pieces from all peers which they can. They of course cannot download from peers they aren’t connected to, and sometimes peers don’t have any pieces they want or won’t cur- rently let them download. Strategies for peers dis- allowing downloading from them, known as chok- ing, will be discussed later. Other suggested ap- proaches to file distribution have generally involved a tree structure, which doesn’t utilize the upload ca- pacity of leaves. Simply having peers announce what they have results in less than a tenth of a percent bandwidth overhead and reliably utilizes all available upload capacity.
+2.3 Pipelining
+When transferring data over TCP, like BitTorrent does, it is very important to always have several re- quests pending at once, to avoid a delay between pieces being sent, which is disastrous for transfer rates. BitTorrent facilitates this by breaking pieces further into sub-pieces over the wire, typically sixteen kilobytes in size, and always keeping some number, typically five, requests pipelined at once. Every time a sub-piece arrives a new request is sent. The amount of data to pipeline has been selected as a value which
+2 2.1
+Technical Framework Publishing Content
+To start a BitTorrent deployment, a static file with the extension .torrent is put on an ordinary web server. The .torrent contains information about the file, its length, name, and hashing information, and the url of a tracker. Trackers are responsible for help- ing downloaders find each other. They speak a very simple protocol layered on top of HTTP in which a downloader sends information about what file it’s downloading, what port it’s listening on, and similar information, and the tracker responds with a list of contact information for peers which are downloading the same file. Downloaders then use this information to connect to each other. To make a file available, a ’downloader’ which happens to have the complete file already, known as a seed, must be started. The band- width requirements of the tracker and web server are very low, while the seed must send out at least one complete copy of the original file.
+2.2 Peer Distribution
+All logistical problems of file downloading are han- dled in the interactions between peers. Some infor- mation about upload and download rates is sent to the tracker, but that’s just for statistics gathering. The tracker’s responsibilities are strictly limited to
+2
+
+can reliably saturate most connections.
+2.4 Piece Selection
+Selecting pieces to download in a good order is very important for good performance. A poor piece se- lection algorithm can result in having all the pieces which are currently on offer or, on the flip side, not having any pieces to upload to peers you wish to.
+2.4.1 Strict Priority
+BitTorrent’s first policy for piece selection is that once a single sub-piece has been requested, the re- maining sub-pieces from that particular piece are re- quested before sub-pieces from any other piece. This does a good job of getting complete pieces as quickly as possible.
+2.4.2 Rarest First
+When selecting which piece to start downloading next, peers generally download pieces which the fewest of their own peers have first, a technique we refer to as ’rarest first’. This technique does a good job of making sure that peers have pieces which all of their peers want, so uploading can be done when wanted. It also makes sure that pieces which are more common are left for later, so the likelihood that a peer which currently is offering upload will later not have anything of interest is reduced.
+Information theory dictates that no downloaders can complete until every part of the file has been up- loaded by the seed. For deployments with a single seed whose upload capacity is considerably less than that of many downloaders, performance is much bet- ter if different downloaders get different pieces from the seed, since redundant downloads waste the op- portunity for the seed to get more information out. Rarest first does a good job of only downloading new pieces from the seed, since downloaders will be able to see that their other peers have pieces the seed has uploaded already.
+For some deployments the original seed is eventu- ally taken down for cost reasons, leaving only current
+downloaders to upload. This leads to a very signifi- cant risk of a particular piece no longer being avail- able from any current downloaders. Rarest first again handles this well, by replicating the rarest pieces as quickly as possible thus reducing the risk of them get- ting completely lost as current peers stop uploading.
+2.4.3 Random First Piece
+An exception to rarest first is when downloading starts. At that time, the peer has nothing to upload, so it’s important to get a complete piece as quickly as possible. Rare pieces are generally only present on one peer, so they would be downloaded slower than pieces which are present on multiple peers for which it’s possible to download sub-pieces from dif- ferent places. For this reason, pieces to download are selected at random until the first complete piece is assembled, and then the strategy changes to rarest first.
+2.4.4 Endgame Mode
+Sometimes a piece will be requested from a peer with very slow transfer rates. This isn’t a problem in the middle of a download, but could potentially delay a download’s finish. To keep that from happening, once all sub-pieces which a peer doesn’t have are actively being requested it sends requests for all sub-pieces to all peers. Cancels are sent for sub-pieces which arrive to keep too much bandwidth from being wasted on redundant sends. In practice not much bandwidth is wasted this way, since the endgame period is very short, and the end of a file is always downloaded quickly.
+3 Choking Algorithms
+BitTorrent does no central resource allocation. Each peer is responsible for attempting to maximize its own download rate. Peers do this by downloading from whoever they can and deciding which peers to upload to via a variant of tit-for-tat. To cooper- ate, peers upload, and to not cooperate they ’choke’ peers. Choking is a temporary refusal to upload; It stops uploading, but downloading can still happen
+3
+
+and the connection doesn’t need to be renegotiated when choking stops.
+The choking algorithm isn’t technically part of the BitTorrent wire protocol, but is necessary for good performance. A good choking algorithm should uti- lize all available resources, provide reasonably consis- tent download rates for everyone, and be somewhat resistant to peers only downloading and not upload- ing.
+3.1 Pareto Efficiency
+Well known economic theories show that systems which are pareto efficient, meaning that no two coun- terparties can make an exchange and both be hap- pier, tend to have all of the above properties. In computer science terms, seeking pareto efficiency is a local optimization algorithm in which pairs of coun- terparties see if they can improve their lot together, and such algorithms tend to lead to global optima. Specifically, if two peers are both getting poor recip- rocation for some of the upload they are providing, they can often start uploading to each other instead and both get a better download rate than they had before.
+BitTorrent’s choking algorithms attempt to achieve pareto efficiency using a more fleshed out version of tit-for-tat than that used to play prisoner’s dilemma. Peers reciprocate uploading to peers which upload to them, with the goal of at any time of having several connections which are actively transferring in both directions. Unutilized connections are also uploaded to on a trial basis to see if better transfer rates could be found using them.
+3.2 BitTorrent’s Choking Algorithm
+On a technical level, each BitTorrent peer always un- chokes a fixed number of other peers (default is four), so the issue becomes which peers to unchoke. This approach allows TCP’s built-in congestion control to reliably saturate upload capacity.
+Decisions as to which peers to unchoke are based strictly on current download rate. Calculating cur- rent download rate meaningfully is a surprisingly dif- ficult problem; The current implementation essen-
+tially uses a rolling 20-second average. Former chok- ing algorithms used information about long-term net transfer amounts, but that performed poorly because the value of bandwidth shifts rapidly over time as re- sources go away and become available.
+To avoid situations in which resources are wasted by rapidly choking and unchoking peers, BitTorrent peers recalculate who they want to choke once every ten seconds, and then leave the situation as is until the next ten second period is up. Ten seconds is a long enough period of time for TCP to ramp up new transfers to their full capacity.
+3.3 Optimistic Unchoking
+Simply uploading to the peers which provide the best download rate would suffer from having no method of discovering if currently unused connections are bet- ter than the ones being used. To fix this, at all times a BitTorrent peer has a single ‘optimistic unchoke’, which is unchoked regardless of the current download rate from it. Which peer is the optimistic unchoke is rotated every third rechoke period (30 seconds). 30 seconds is enough time for the upload to get to full capacity, the download to reciprocate, and the down- load to get to full capacity. The analogy with tit- for-tat here is quite remarkable; Optimistic unchokes correspond very strongly to always cooperating on the first move in prisoner’s dilemma.
+3.4 Anti-snubbing
+Occasionally a BitTorrent peer will be choked by all peers which it was formerly downloading from. In such cases it will usually continue to get poor down- load rates until the optimistic unchoke finds better peers. To mitigate this problem, when over a minute goes by without getting a single piece from a par- ticular peer, BitTorrent assumes it is ’snubbed’ by that peer and doesn’t upload to it except as an opti- mistic unchoke. This frequently results in more than one concurrent optimistic unchoke, (an exception to the exactly one optimistic unchoke rule mentioned above), which causes download rates to recover much more quickly when they falter.
+4
+
+3.5 Upload Only
+Once a peer is done downloading, it no longer has useful download rates to decide which peers to up- load to. The current implementation then switches to preferring peers which it has better upload rates to, which does a decent job of utilizing all available upload capacity and preferring peers which noone else happens to be uploading to at the moment.
+
+Abstract
+This article uses conceptual metaphor theory to develop the concept of ‘skeumorphs’ (reuse of old concepts for new phenomena) in order to analyse the Swedish The Pirate Bay court case. In line with conceptual metaphor theory, which states that abstract thinking is largely metaphor- ical, the article argues that this is true also for digital phenomena that, thus, are largely understood through metaphors and skeumorphs. Also, when attempting to understand and conceptualize new digital phenomena such as The Pirate Bay (TPB), law in a digital society is inevitably affected. Hence, new phenomena can be fought over in a ‘battle of metaphors’, in the TPB court case, for example, evidenced by the arguments of seeing TPB as ‘a platform’, ‘bulletin board’, or an ‘impure search engine’. This, here argued, was of key relevance for the outcome of the case.
+Keywords: metaphors; conceptions; skeumorphs; The Pirate Bay; copy- right; intellectual property; conceptual development
+1. Categorization, digitization and law
+On 17 April 2009, the District Court in Stockholm announced its verdict for the founders of the BitTorrent file-sharing site The Pirate Bay (TPB). The four men were convicted for assisting in violations of copyright law and
+* PhD, LLM, researcher in Sociology of Law, Lund University, Sweden. E-mail: Stefan.larsson@ soclaw.lu.se
+354
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+METAPHORS, LAW AND DIGITAL PHENOMENA
+they were sentenced to one-year prison terms and to pay damages of roughly euro 35,00,000 (SEK 30,000,000). This case, here argued, displays a number of significantly interesting questions that can be found in the intersection of social change, technological development, not least in terms of digitiza- tion, and most importantly, our understanding of both digital phenomena and law. Central to this article, therefore, is understanding digitization in terms of conceptual change—how metaphors and skeumorphs1 (reuse of old concepts for new phenomena) are necessary to understand digital phenomena—as well as guiding our conceptualization of the particular phe- nomenon. This also plays a role in legal processes, that is, in the practice of categorizing phenomena in legal circumstances. Therefore, the purpose of this article is to develop a deeper understanding of to what extent metaphors and skeumorphs are relevant for law in a digital society. The case chosen for this analysis is the legal case of The Pirate Bay (TPB), which was prosecuted both in Stockholm’s District Court2 as well as in the Svea Court of Appeals,3 because it displays a number of the features relevant for understanding conceptual change and practices of categorization relevant for law in a digital society. For example, a key question to address in terms of concep- tualizing new phenomena concerns what TPB ‘is’, or ‘was’, for the time period that was of relevance for the trial. How was the legal process strug- gling with this question—analogously and metaphorically? Of particular relevance, here, is the use of concepts such as ‘platform’, ‘search engine’, ‘bulletin board’, and TPB as ‘entrepreneurs’ while at the same time describ- ing an activity by relying on embodied metaphors such as ‘torrents’, ‘domain names’, ‘links’, ‘swarm’, etcetera.
+In order to address and answer these questions, I use cognitive theory on conceptual metaphors. This follows in the scholarly tradition of George Lakoff and Mark Johnson,4 which addresses the consequences for law by writers such as Steven F Winter, especially in A clearing in the Forest: Law, Life, and Mind,5 and others.6 A key feature of metaphors is that one concept, from the source domain, is projected on other concepts, the target domain, in order to create an effect of meaning. There is, however, a widespread notion of metaphors as a rather language-based exception to ordinary talk and thinking, as ‘a device of poetic imagination and the rhetorical flourish – a
+1 From Greek: skeuos—vessel or tool, morphe—shape.
+2 Tingsra ̈tten, case B 13301-06, 17 April 2009.
+3 Hovra ̈tten, case B 4041-09, 26 November 2010.
+4 G Lakoff and M Johnson, Metaphors We Live By (University of Chicago Press 1980), This is a book that has
+become a standard text for those interested in cognitive linguistics. It has been followed and developed by a number of scholars, see M Johnson, The Body of the Mind: The Bodily Basis of Meaning, Imagination, and Reason (University of Chicago Press 1987); G Lakoff, Women, Fire and Dangerous Things: What Categories Reveal about Mind (University of Chicago Press 1987); G Lakoff and M Johnson, Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought (Basic Books 1999); G Lakoff and M Turner, More than Cool Reason: A Field Guide to Poetic Metaphor (University of Chicago Press 1989).
+5 SL Winter, A Clearing in the Forest: Law, Life, and Mind (University of Chicago Press 2001).
+6 For example, S Larsson, Metaphors and Norms. Understanding Copyright Law in a Digital Society (Lund University, Lund Studies in Sociology of Law 2011).
+355
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+STEFAN LARSSON
+matter of extraordinary rather than ordinary language’.7 One specific group of cognitive linguists, however, have disputed this notion since the 1980s from the perspective that metaphors are not only language-based but form an important part of our conceptual system and how we understand and categorize reality.8 This includes the notion of an experiential base of under- standing that borrows concepts from bodily or spatial references to bring order to abstract phenomena—often referred to as embodiment9—and has influenced disciplines such as political studies,10 psychology11 and technol- ogy studies.12 Of extra importance for this thesis is the legal analysis that has been made based on the work of Lakoff and Johnson,13 particularly when it has been concerned with both law and technology.14
+A key notion underpinning the argument in this article is the need for studying the particular implications that the digital environment brings for law. This can be related to the ‘law of the horse’ debate from the second half of the 1990s in which Judge Frank H. Easterbrook15 argued for the general perspective—the lack of need for a specific ‘cyberlaw’ field—and Lawrence Lessig was the most prominent counterpart.16 Lessig pointed out a number
+7 Lakoff and Johnson, Philosophy in the Flesh (n 4) 3.
+8 ibid.
+9 ibid; Michael Reddy, ‘The Conduit Metaphor: a Case of Frame Conflict in our Language about Language’
+in A Ortony (ed), Metaphor and Thought (CUP 1979); Winter, A Clearing in the Forest (n 5).
+10 See Carver and Pikalo (eds), Political Language and Metaphor, Interpreting and Changing the World (Routledge 2008), with contributions for instance from Peter Drula ́k, ‘Identifying and Assessing Metaphors: Discourse on EU Reform’ and Jan Helmig and Jochen Walter, ‘Discursive Metaphor Analysis: (de)construction(s) of Europe’. 11 Karin Moser, ‘Metaphor Analysis in Psychology – Method, Theory, and Fields of Application’ (2001)
+Forum: Qualitative Social Research, vol. 1, 1–11.
+12 Kimberly Cass and Thomas W Lauer, ‘Media Transitions. The Cases of Digital Imagery and E-mail’ (2004)
+17 Information technology & People 252–67.
+13 See Linda L Berger, ‘What is the Sound of a Corporation Speaking? How the Cognitive Theory of
+Metaphor can Help Lawyers Shape the Law’ (2004) 2 J Ass’n Legal Writing Directors 169–208; ‘Of Metaphor, Metonymy, and Corporate Money: Rhetorical Choices in Supreme Court Decisions on Campaign Finance Regulation’ (2007) 58 Mercer L Rev 949–90; ‘How Embedded Knowledge Structures Affect Judicial Decision Making: A Rhetorical Analysis of Metaphor, Narrative, and Imagination in Child Custody Disputes’ (2009) 18 S Cal Interdisc LJ 259–308; ‘The Lady, or the Tiger? A Field Guide to Metaphor and Narrative’ (2011) Washburn L J 50: 275–318. Thomas W Joo, ‘Contract, Property and the Role of Metaphor in Corporations law’ (2001) UC Davis L Rev, 1–59; Mark L Johnson, ‘Mind, Metaphor, Law’ (2007) 58 Mercer L Rev 845–68; Lucia Morra, ‘New Models for Language Understanding and the Cognitive Approach to Legal Metaphors’ (2010) 23 Int J Semiot L 387–405; Robert L Tsai, ‘Fire, Metaphor, and Constitutional Myth-Making’ (2004) 93 Georgetown LJ 181–239; Winter, A Clearing in the Forest (n 5); SL Winter, ‘Re-embodying Law’ (2007) 58 Mercer L Rev 869–97; ‘What is the “color” of Law?’, in Gibbs Jr, Raymond W, (ed), The Cambridge Handbook of Metaphor and Thought (CUP 2008) 363–79.
+14 Jonathan H Blavin, and I Glenn Cohen, ‘Gore, Gibson, and Goldsmith: The Evolution of Internet Metaphors In Law and Commentary’ (2002) 16 Harvard J L & Technol 265–85; Bill D Herman, ‘Breaking and Entering my Own Computer: The Contest of Copyright Metaphors’ (2008) 13 Com L & Pol 231–74; Dan Hunter, ‘Cyberspace as Place and the Tragedy of the Digital Anticommons’ (2003) 91 Cal L Rev 439–519; S Larsson, ‘Copy Me Happy – The Metaphoric Expansion of Copyright in a Digital Society’ (2012) Int J Semiot Law, online first.
+15 The origin is a 1996 cyberlaw conference presentation by Easterbrook, which he later published, see Frank H Easterbrook, ‘Cyberspace and the Law of the Horse’ (1996) 4 University of Chicago Legal Forum 207–16. 16 Lawrence Lessig, ‘The Law of the Horse: What Cyberlaw Might Teach’ (1999) 113 Harvard L Rev 501–46; for an even more developed account, see L Lessig, Code and Other Laws of Cyberspace (Basic books 1999). For a
+contemporary development, see C Reed’s Making Laws for Cyberspace (OUP 2012).
+356
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+METAPHORS, LAW AND DIGITAL PHENOMENA
+of ontological issues (eg the essence and implications of the coded architec- ture) that he allowed to testify to the need for specific legal attention to not only what the digital domain brings to law but also, in fact, when it acts with legal normativity in itself. When code, de facto, is law. Although I argue for a specific interest in what digitization means for legal concepts, the conceptual legal change can by no means be narrowed down to be relevant only for digitization—it is just that this specific shift is very broad, happens over a short period of time and near global, which makes it particularly interesting to study. Anyone who has studied the classical socio-legal scholars, such as Karl Renner, knows that the legal concepts may remain the same, while their function will transform as society transforms, no matter to what technology or reason the transformation can be linked.17
+When it comes to law, technology and metaphor, this article does not specifically address the common-law legal reasoning but will likely be of strong relevance nonetheless due to the extensive analogizing from prece- dent that the common-law tradition brings. When re-using relevant prin- ciples from the past and applying those principles to new settings, the conceptual bridges between concept and phenomena may be either stretched or reinterpreted. Sometimes not without a certain amount of cre- ativity on the one hand or conceptual path dependence on the other.18 Patricia L. Bellia, and others, addresses these specific challenges regarding old concepts and metaphors when faced with a legal issue in a digital matter and stresses that we must be ‘acutely aware of the metaphors that lawyers and judges employ when thinking about Internet legal issues’.19 The early (in terms of the Internet) analyses of metaphors of relevance for our under- standing of digital issues relate to the concepts that describe the digital in the first hand, such as ‘web’,20 and ‘cyberspace’ (as a place).21 Before I continue by addressing the multitude of metaphors of relevance for law regulating digital phenomena, and the specific case with TPB, I would like to develop the theoretical account with regards to how we think and speak of abstract matters through metaphors.
+Lakoff and Johnson, two central cognitive metaphor scientists, claim, ‘our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature’.22 This means that unlocking the metaphors constantly present in our language, minds and—as is argued here—law, can reveal to us how they are connected, what values and associ- ations they bring, and on what conceptions they are founded. Metaphor is
+17 K Renner, The Institutions of Private Law and Their Social Functions (Transaction Publishers 1949); for a more contemporary perspective, see Peter Robson, ‘Renner Revisited’ in Elspeth Attwool, (ed), Perspectives in Jurisprudence (Glasgow University 1977) 221–35.
+18 cf chapter two in PL Bellia and others, Cyberlaw: Problems of Policy and Jurisprudence in the Information Age (Thompson Reuters 2011).
+19 ibid 26.
+20 ibid 26.
+21 Blavin and Cohen (n 14); Hunter (n 14).
+22 Lakoff and Johnson, Philosophy in the Flesh (n 4) 3.
+357
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+STEFAN LARSSON
+not just a figure of ‘speech’; it is a figure of ‘thought’.23 In line with this, there has been a growing awareness of the importance of understanding the prac- tices of ‘categorization’ within cognitive linguistics, since the 1970s. Scholars like George Lakoff have, via empirical evidence, strongly emphasized that how we conceptualize the world is deeply dependent on categories, and that categories are—as opposed to a common and rationalistic view—not necessarily ‘clearly defined, mutually exclusive and collectively exhaustive’.24 In fact, they claim that categories are graded (they tend to be indistinct at their boundaries) and inconsistent in the status of their constituent mem- bers.25 These practices of categorization, I argue, become evident whenever a new phenomenon emerges, one that previously lacked a name. This is, I additionally argue, of further significance in a digital society, or rather, in a society in the process of becoming more digitalized and interconnected through massively embedded technologies such as the Internet.26 When a new phenomenon actually emerges—as with many digital phenomena—it will likely be judged and understood in terms of already present phenomena and their already accepted concepts. For example, Cass and Lauer27 de- scribe the connection between analogue photography and digital imagery in terms of the latter as a ‘skeumorph’ of the first.28 Digital imagery bears enough resemblance to analogue photography to be accepted as meaning- ful, despite the fact that it only shares a few attributes and constraints of the former phenomenon.
+2. The Pirate Bay
+The Pirate Bay is interesting due to that it is likely the most famous and resilient BitTorrent tracker in the world. It was started in 2003 and has con- stantly been increasing in number of visitors, regardless of any conviction against its founders or attempts to block it in national legal regimes.
+23 G Lakoff, ‘A Figure of Thought’ (1986) 1 Metaphor and Symbol 215–25.
+24 Lakoff and Johnson, Philosophy in the Flesh (n 4) 373–414.
+25 AG Amsterdam and J Bruner, Minding the Law. How Courts Rely on Storytelling, and How their Stories Change the
+Ways we Understand the Law – and Ourselves (Harvard University Press 2000); Lakoff, Women, Fire and Dangerous Things (n 5); Winter, A Clearing in the Forest (n 5).
+26 See S Larsson, ‘Conceptions in the Code: What “the copyright wars” Tell about Creativity, Social Change and Normative Conflicts in the Digital Society’ (2012) 4 Societal Studies 1009–30.
+27 Cass and Lauer (n 12).
+28 The term skeumorph is used in archaeology, for example, to describe the phenomenon of when pottery has imitated metal objects, see WD Kingery, The Social and Cultural Contexts of New Ceramic Technologies (American Ceramic Society, Northwestern University 1993), or when tombs have been prepared with home-like features in order to satisfy a culturally embedded belief that the dead need these amenities on their ‘journey’, see E Bloch-Smith, Judahite Burial Practices and Beliefs about the Dead (Sheffield Academic Press 1992) 188. Further, the skeumorph concept has been used in design studies for similar loans of style or shapes that may lead associations from a new object to an older and already established one. Larsson uses the concept in order to analyse the (conceptual) development of copyright as a legislation with its key concepts developed in pre- Internet times facing tremendous problems when using the same concepts in a digital environment, see Larsson, Metaphors and Norms (n 6).
+358
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+METAPHORS, LAW AND DIGITAL PHENOMENA
+According to the site-ranking company Alexa, in May 2008, TPB entered the top 100 of the most visited sites globally and by November the same year had 20 million unique peers for the first time since the site was launched.29 In April 2011, it had climbed to number 86 and in May 2012, it had reached place 63 for the most visited sites in the world with more than 5 million registered users.
+On the 17 of April 2009, four men were sentenced to one-year prison terms and fined roughly euro 35,00,000, (SEK 30,000,000), for assisting in violations of copyright law through the Pirate Bay site. Both sides appealed, and the three that were re-tried in the autumn of 2010 were all found guilty yet again and sentenced to higher damages of approximately euro 54,00,000, (SEK 46,000,000), but somewhat shorter prison sentences.30 The fourth defendant did not show up and was reportedly ill and living in Cambodia at the time. On the 12 of February, the Swedish Supreme Court denied the appeal, which meant that the decision in the Svea Court of Appeal stands.31
+There is a growing amount of literature on, and analysis of, The Pirate Bay, from a number of perspectives. There are articles on technological aspects,32 the political implications33 and from a legal perspective, on Intellectual Property (IP) law in general,34 the case in particular35 and the aspect of secondary liability for intermediaries.36 One contribution that is relevant to understand TPB is the Swedish anthology Efter The Pirate Bay, (translates to: After The Pirate Bay), from late 2010.37 This anthology, edited by the media researcher Jonas Andersson Schwarz (added Schwarz to his name in 2013) and the head of research at the Swedish Royal Library, Pelle Snickars, included many of the key Swedish writers on digital politics and Internet research. There are some articles in this anthology that deal with
+29 See Torrentfreak 18 May 2008, <http://torrentfreak.com/the-pirate-bay-100-popular-080518/> accessed 5 June 2013 and the web information company Alexa.
+30 26 November 2010, Case B 4041-09.
+31 The defendent that was ill at the negotiations in the Court of Appeal, failed to appear also at a later date, why the district court verdict was set for him.
+32 A Adrian, ‘Copyright Protected Works and the Territoriality Principle: The Pirate Bay Deep-Sixed’ (2006) 22 Computer Law & Security Report 392–401.
+32 F Miegel and T Olsson, ‘From Pirates to Politicians: The Story of the Swedish File Sharers who became a Political Party’ in N Carpentier and others (eds) Democracy, Journalism and Technology: New Developments in an Enlarged Europe (The intellectual work of ECREA’s 2008 European media and communication doctoral summer school 2008).
+34 T Touloumis, ‘Buccaneers and Bucks from the Internet: Pirate Bay and the Entertainment Industry’ (2009) 19 Seton Hall J Sports & Ent L 253–81; C Kirchberger, Cyber Law in Sweden (Kluwer Law International 2011); Ulric M Lewen, ‘Internet File-Sharing: Swedish Pirates Challenge the U.S.’ (2008) 16 Cardozo J Int’l & Comp L 173–205.
+35 M Bogdan, ‘Cyberspace Pirates Walk the Plank: Some Comments on the Swedish Judgment in the Pirate Bay Case’ (2010) 4 Masaryk University J L &Technol 113–26; Michael A Carrier, ‘The Pirate Bay, Grokster, and Google’ (2010) 15 J I P Rights 7–18.
+36 L Helman, ‘Pull Too Hard and the Rope May Break: On the Secondary Liability of Technology Providers for Copyright Infringement’ (2009) Columbia Law School 2–56; J Andreasson and K Schollin, ‘Goda och onda medhja ̈lpare—A ̈r du socialt adekvat, lille va ̈n? Om Pirate Bay-ma ̊lets betydelse’ (2011) SvJT 534–56.
+37 J Andersson and P Snickars (eds), Efter The Pirate Bay (Kungliga Biblioteket 2010). 359
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+STEFAN LARSSON
+metaphorical aspects of TPB, whether in terms of a court case or as a political and technical phenomenon. For example, Nina Wombs grasps the overall picture by analysing how technology itself bears a metaphorical function.38 Jonas Andersson Schwarz’s contribution breaks down the Internet into two types of metaphors, the fish net versus the spider web.39 Peter Jakobsson discusses the commons as a widespread metaphor that has been used to criticize the organizational and legal structures of the media world.40 Daniel Johansson analyses the flow metaphor ‘music like water’, which Larsson elaborates on, to highlight the absurdity of an estimate of the value of ‘digital’ copies based on a model originating from valuation of physical copies.41
+Larsson calculates the (fictive) value of a BitTorrent site ‘like’ TPB based on all downloads and thereby displays how copyright law is founded on a conception of the reproduction of copies as tangible goods.42 He de- velops this further elsewhere.43 Another contributor, Leif Dahlberg, has elaborated on his contribution in English and shows no restraints when it comes to dealing with law and its metaphoricity, as he discusses the TPB verdicts in relation to, ‘liquid spatiality that characterizes the activities of the pirate’ and the ‘juridical liquid space that is created in his or her wake’.44 Rasmus Fleischer devotes part of his contribution to an overview of how different forms of water over the years have been used as metaphors for what happens in computer networks.45 Fleischer continues with a characterization of TPB, which is of relevance to this article: ‘Question: What was the Pirate Bay? Answer: during the first decade’s second half, The Pirate Bay was a wide variety of things – that somehow held together’, and describes this in terms of ‘assemblage’, which I will return to below.46
+Copyright law in a digital society has been extensively debated and criti- cized over the past 15 years or so. In the late 1990s, a highly critical perspec- tive towards what the Intellectual Property regulation meant for creativity in a digital domain emerged among a group of American scholars. Law pro- fessor James Boyle was early in identifying copyright as one of the crucial issues in the construction of the information society in Shamans, Software and
+38 N Wormbs, ‘Det digitala imperativet’ in J Andersson and P Snickars (n 36) 140–50.
+39 J Andersson, ‘Det dumma na ̈tet’ in Jonas Andersson and P Snickars (n 36) 49–72.
+40 Peter Jacobsson, ‘Obegra ̈nsad kommunikation, obegra ̈nsad konkurrens’ in Jonas Andersson and P
+Snickars (eds) (n 36) 87–104.
+41 D Johansson, ‘Na ̈r alla blir radiokanaler och friso ̈rer’, chapter in J Andersson and P Snickars (eds) (n 36)
+105–23.
+42 S Larsson, ‘459 miljarder kronor – om metaforer, flo ̈den & exemplar’ in J Andersson and P Snickars (eds)
+(n 36) 173–95.
+43 See Larsson, Metaphors and Norms (n 6).
+44 L Dahlberg, ‘Pirates, Partisans, and Politico-Juridical Space’ (2011) 23 L & Lit 262–81.
+45 R Fleischer, ‘Femton gastar pa ̊ do ̈d mans kista – om framtidens na ̈tpolitik’ in J Andersson and P Snickars
+(eds) (n 36) 259–80. 46 ibid 263.
+360
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+METAPHORS, LAW AND DIGITAL PHENOMENA
+Spleens: Law and the Construction of the Information Society.47 He was followed by scholars such as Lawrence Lessig, often dealing with aspects of the coded architecture or the implications of how easy remixes are done in the new medium,48 Jessica Litman49 and Said Vaidhyanathan,50 who all criticized different aspects of IP in relation to the digital. Copyright has been increas- ingly criticized from several perspectives, for example, from the perspective that the legal norms do not reflect social norms, which may pose a demo- cratic issue to legislation.51 It is also in this light the analysis of the TPB case can be viewed, bearing in mind that there is something about the digital development that has lead to a systemic challenge to IP regulation which, according to some commentators, is linked to that we experience reality differently; that is, the matter that copyright used to regulate is not the same matter anymore.52 As stated, this article uses the case of TPB and its encounter with legal procedure in the case against the four men held as being behind TPB in order to show how important the metaphorical process is to law. Of exceptional relevance for this particular court case, here argued, is how a conceptual reuse in a translation of analogue concepts to describe digital phenomena is imperative for the outcome in the case.
+3. Skeumorphs and conceptual development
+Concepts are constantly transferred to new phenomena that carry similar elements. The development of information and communication technolo- gies, combined with their massive distribution and use, has created a con- siderable need for labels and concepts that can describe the multitude of phenomena that follow.53 Although the phenomena in their technical nature are brand new, concepts for pre-existing phenomena are metaphor- ically transferred, because they share some similar elements or possible associative paths; for example ‘computer virus’ or ‘cyber-trespass’.54
+47 J Boyle, Shamans, Software and Spleens: Law and the Construction of the Information Society (Harvard University Press 1996); cf J Boyle, ‘A Politics of Intellectual Property: An Environmentalism for the Net’ (1997) 47 Duke L J 87–116; J Boyle, The Public Domain. Enclosing the Commons of the Mind (Yale University Press 2008).
+48 Lessig, ‘The Law of the Horse’ (n 16) Code and other laws of cyberspace; cf L Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity (Penguin books 2004); L Lessig, Remix: Making Art and Commerce Thrive in the Hybrid Economy (Penguin Press 2008).
+49 J Litman, Digital Copyright (Prometheus books 2001).
+50 S Vaidhyanathan, Copyrights and Copywrongs: The Rise of Intellectual Property and How it Threatens Creativity (New York University Press, cop 2001).
+51 Reed (n 16) 121–28; cf Y Feldman and J Nadler, ‘The Law and Norms of File Sharing’ (2006) 43 The San Diego L Rev 577–618; J Karaganis, V Grassmuck and L Renkema, Copy Culture in the US and Germany ( Columbia University, The American Assembly 2012); M Svensson and S Larsson, ‘Intellectual Property Law Compliance in Europe: Illegal File sharing and the Role of Social Norms’ (2012) 14 New Media & Society 1147–163.
+52 Larsson, Metaphors and Norms (n 6).
+53 Cass and Lauer (n 12) 255; Larsson, ‘Copy Me Happy’ (n 14); Larsson, Metaphors and Norms (n 6).
+54 M Klang, ‘A Critical Look at the Regulation of Computer Viruses’ (2003) 11 Int’l J L & Infor Technol 162–
+83. Mary WS Wong, ‘Cyber-trespass and ‘Unauthorized Access’ as Legal Mechanisms of Access Control: Lessons from the US Experience’ (2006) 15 Int’l J L & Inform Technol 90–128.
+361
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+STEFAN LARSSON
+Some features from the previous phenomenon fit well, while others do not. A skeumorph provides us with familiar cues in an unfamiliar do- main by presenting parts that make new things appear old and familiar.55 The re-use, or extended use, of a metaphor is often quite necessary and ‘natural’:
+When the technological media of an artifact changes, some character- istics of the previous media are left behind, others are brought forward intact into the new media, while still others are brought forward in a modified form. In the transition between the non-digital and digital media, a learning process occurs where users employ metaphors from the non-digital representation and process to orient themselves to the novelty of the new media.56
+This is to emphasize how familiar and ‘non-digital representations’ take part in a process of conceptual change that is at least to some extent deceptive, and to some extent likely to be qualitatively informative. The skeumorph is a concept that can be used to describe just that process.57 Consider, for in- stance, the examples of transition from regular mail to e-mail or from ana- logue photography to digital imagery.58 The skeumorph means a type of reuse of information, but a reuse that comes with benefits as well as pitfalls. The professor and postmodern literary critic N. Katherine Hayles brings forward this double sidedness in the skeumorph:
+The new becomes more acceptable when it refers back to the earlier iteration that it is displacing, while the earlier iteration becomes more valuable when it is placed in a context where we can experience the new. A skeumorph simultaneously focuses on the past and future, while rein- forcing and undermining both.59
+In this use of older concepts, recognition is created, but it is a deceptive recognition. It is important to notice that the skeumorph is not entirely a physical entity; the reason it can create this recognition in the first place is due to that it collaborates with our cognitive images, our concep- tions and how we understand reality. The skeumorph is a type of metaphor that is often in the literature represented by an object. Some speak of skeu- morphs as ‘material metaphors’, since the term is often used in terms of the design of artefacts that bear some resemblance to older and estab- lished artefacts.60 Cass and Lauer, on the one hand, emphasize physicality
+55 N Gessler, Skeumorphs and Cultural Algorithms, UCLA Anthropology, Computational Evolution and Ecology Group (1998).
+56 Cass and Lauer (n 12) 255.
+57 Larsson, Metaphors and Norms (n 6) 62–63, 101–02.
+58 Cass and Lauer (n 12).
+59 KN Hayles, How We became Posthuman. Virtual Bodies in Cybernetics, Literature, and Informatics (University of
+Chicago Press 1999) 17. 60 Gessler (n 54).
+362
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+METAPHORS, LAW AND DIGITAL PHENOMENA
+and materiality in the term, but on the other describe its direct link to cognition:
+People use physical (skeumorph) and conceptual metaphors to orient themselves with new technology by understanding new functions in terms of earlier technological versions. Since new technology is adopted at varying rates and varying times, multiple versions exist at any given time.61
+This is the reason why the skeumorph cannot only be described as physical entities. It is in the interpretation that the important aspects lie. This is also why Cass and Lauer extend their definition:
+Skeumorphs, in addition to being physical features, can also take the form of ideas or metaphors. When new artifacts are presented to the public, many times they are described with metaphoric allusions that are grounded in prior iterations of that artifact. These metaphors assist people in their transition to understand and use new technological processes and artifacts. When the new artifact is described using termin- ology from a prior iteration, this influences one’s intent and encounter with the new artifact. The new artifact is initially understood using the norms and interpretive scheme of the old artifact, which aids in both transition to and adoption of the new medium. After collective learning about the new artifact that occurs, artifact users may discover new func- tionalities beyond what the “transitional functions” suggest and places where the metaphor breaks down.62
+Note that it has implications for norms too, according to Cass and Lauer. By borrowing an understanding of a phenomenon from an older concept, the norm connected to that older concept will likely connect also to the new phenomenon. A main interest here is how this dialectic between the old and the new is relevant for not only how we metaphorically interpret aspects of our reality, but also for how this process sustains whatever normativity that accompanies the first object or entity and is transferred to the latter, where ‘the new artefact is initially understood using the norms and interpretive scheme of the old artefact’. This, I argue, is of clear relevance also for legal developments connected to technological evolution, including digital phe- nomena such as TPB.
+For example, when we conceptualize TPB, we are inevitably surrendering to a conceptual reuse that is massive: it is found in a ‘domain’ name, relying on ‘torrents’ to be found by a search ‘engine’, taking place in a ‘swarm’ and has nowadays moved into using ‘magnet’ ‘links’. It is important to remember that this is not something strange or an abnormality. It depicts how concep- tual developments happen, in the sense that ‘abstract thought is largely
+61 Cass and Lauer (n 12) 252. 62 ibid 255.
+363
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+STEFAN LARSSON
+metaphorical’,63 and therefore a natural part of our conceptions. This, as mentioned, is however particularly evident in times when new types of phe- nomena emerge more frequently (likely connected to when society, for whatever reason, is changing more rapidly than the ‘normal’ rate). It is this conceptual development that we can study, based on findings in cogni- tive sciences on conceptual metaphors during the last four decades.
+4. Metaphor theory
+Addressed here is how law is affected by conceptual reuse regarding digital phenomena. To understand skeumorph processes, we can use conceptual metaphor theory. A common-sense notion of metaphors is that they are figurative and linguistic decoration in language or tools for communicating some kind of spectacular effect. This means that there is likely a widespread notion of the metaphor as simply an ornament of words, bearing no deeper meaning for our thinking and our minds. As outlined above, conceptual metaphor theories contradict this. They accept the figurative metaphors’ place as surface-level expressions in language but, more importantly, show how the metaphor has a fundamental—conceptual—role in how our think- ing and meaning-making works. However, if we concentrate on the concep- tual importance of metaphors, we soon see how some metaphorical expressions are connected in clusters.64
+The propositions of metaphor theory are the findings of a relatively new interest in metaphor theory that Nerlich and Clarke describe as metaphor’s ‘third wave of fame’ in the history of philosophy and science.65 It began around 1980 with Lakoff and Johnson publishing Metaphors we live by. The core of this theory is that an expression is mapped from a source domain to a target domain. In the fields of cognitive linguistics, the metaphor is some- times defined as an analogy (Lakoff, 1987). I have already mentioned that metaphors are analogies which allow us to map one experience (the target domain) in the terminology of another experience (the source domain) and thus to acquire an understanding of complex topics or new situations. Consider the conceptual metaphor ARGUMENT IS WAR for a moment. Lakoff and Johnson use it to describe how the combination of various elem- ents forms around a conceptual metaphor:66
+ Your claims are ‘indefensible’.
+ She ‘attacked’ every weak point in my argument.  His criticisms were ‘right on target’.
+ I ‘demolished’ her arguments.
+63 See Lakoff and Johnson, Metaphors We Live By (n 4) 3.
+64 S Larsson, ‘Metaforerna och Ra ̈tten’ (2012) 2 Retfærd Nordic J L & Justice 69–93.
+65 B Nerlich and David D Clarke, ‘Mind, Meaning and Metaphor: The Philosophy and Psychology of
+Metaphor in 19th-Century Germany’ (2001) 14 History of the Human Sciences 40. 66 Lakoff and Johnson, Philosophy in the Flesh (n 4) 4.
+364
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+METAPHORS, LAW AND DIGITAL PHENOMENA
+The conceptual metaphor determines what a socially meaningful use of the language for a given phenomenon is and it does so through metaphor and its connected systems or mappings. Differences in conceptual meta- phors in different languages may, of course, show diversity of cultures. The conceptualization of argumentation in terms of war may function and be deeply rooted in a specific language and culture.67 This means that this conceptualization is not necessarily meaningful in another culture that conceptualizes argumentation in a different manner. The description of how argumentation is conceptualized in terms of war means that there is one conceptual metaphor, not many completely unrelated metaphors. Such expressions can be part of everyday language, because the Argument is War mapping is part of our ordinary, everyday method of conceptualizing argumentation and how to reason about it. This is what Lakoff and Johnson and their colleagues have shown and developed in terms of conceptual metaphor theory.
+The figurative element may be more or less clear, and individuals may be more or less disposed to see the figurative elements, such as in a text. This means that we are often not aware of when we are speaking in metaphor and when we are not. While some uses are clearly and consciously metaphorical, others, perhaps most in everyday speech, are only unconsciously metaphor- ical. We do not differentiate between when we speak in metaphor and when we do not. We are all about the ‘meaning’ of what we say, no matter if this is metaphorical or not. In other words, a generalization that we can make regarding metaphor comprehension is that it is mandatory in the sense that it is ‘an automatic interpretation’ made by us.68 This means that literal meaning has no priority; the associative paths creating meaning are there anyway. Generally, we do not choose if we want to lean on the literal mean- ing. As mentioned, this is one reason for why there is a lock-in effect embedded in the way metaphors function that largely does not occur at an aware level of consciousness. Consequently, accepted metaphors and metaphors not perceived as being metaphors create a system that is harder to criticize and is likely to be conservative.69
+4.1 – Metaphors and law
+Many people interested in legal analysis and influenced by this school of
+metaphor theory begin their presentations with this conflicting perspective
+67 Steven L Winter expresses the cultural construction to meaning in terms of that ‘Meaning is a shared social phenomenon that constrains how we as embodied and culturally situated human understand our world’, Winter, A Clearing in the Forest (n 5) 315.
+68 S Glucksberg, ‘How Metaphors Create Categories – Quickly’ in Raymond W Gibbs Jr, (ed), The Cambridge Handbook of Metaphor and Thought (CUP 2008).
+69 On this ‘framing’, and to some extent rhetorical aspects of this, see G Lakoff, Don’t Think of an Elephant: Know Your Values and Reframe the Debate (Chelsea Green Publishing 2005) and (n 4) 70.
+365
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+STEFAN LARSSON
+on metaphors in law. They often do this by citing the early American legal realist Justice Cardozo who observed, ‘metaphors in law are to be narrowly watched, for though starting as devices to liberate thought, they end often by enslaving it’.70 Ironically enough, Cardozo’s statement, as Loughlan points out, uses at least two important metaphors (‘liberation’ and ‘slavery’).71 Consider, also, ‘devices’ and the use of what sometimes is called the ‘source-path-goal-schema’, in this case represented by the notion that the use of metaphors in law has a beginning and an end.72
+One importance of metaphor research here lies in what I pointed out as the dangers of metaphor not being perceived as metaphorical. When the metaphors are not perceived as metaphors, the conceptions behind will be perceived as the only possible alternative for the purpose of a given regula- tion. Any attempted revisionary arguments will then be framed within the prevailing conception, no matter what arguments are produced. This is so unless the conception is analytically unlocked and displayed via the meta- phors that reproduce it. This means that legal decisions, as well as legislation, are framed and conceptualized in a particular way without us even seeing alternative frames or conceptualizations. Some legal scholars, such as Linda Berger, have used conceptual metaphor theory to study hidden values in decision-making in court.73 Her conclusion is that lawmakers cannot avoid being affected in their decision-making by myths, metaphors and symbols. Berger studies cases that concern determining which parent is most suited to be granted custody when there often is no rational basis to choose one parent over the other. Decisions must, however, be taken and instead of doing this under the false impression that those decisions are pure and objective, Berger sees the solution in raising the awareness of how meaning is produced in the legal field. William Patry is yet another legal scholar who accentuates the importance of metaphors, in his case in what he describes in terms of the ‘copyright wars’. He is very critical of how the American copy- right lobby has managed to use metaphors surrounding copyright to their advantage.74 The combination of Berger and Patry can therefore work to highlight the importance of studying hidden values within the decision- making in the court case against The Pirate Bay, which so clearly is linked to the ‘copyright wars’, and therefore includes a number of metaphors either pro or con the protective elements in copyright.
+70 Berger (n 13); Herman (n 14); W Patry, Moral Panics and the Copyright Wars (OUP 2009); Winter, ‘What is the “color” of law?’ (n 13).
+71 P Loughlan, ‘Pirates, Parasites, Reapers, Sowers, Fruits, Foxes . . . The Metaphors of Intellectual Property’ (2006) 28 Sydney L Rev 215–16.
+72 Lakoff and Johnson, Philosophy in the Flesh (n 4) 33.
+73 Berger, ‘How Embedded Knowledge Structures Affect Judicial Decision Making’ (n 13) 262–66; G Lakoff, ‘The Contemporary Theory of Metaphor’ in A Ortony (ed), Metaphor and Thought (CUP 1993). Zolta ́n Ko ̈vecses, ‘Conceptual Metaphor Theory. Some Criticisms and Alternative Proposals’ (2008) 6 Annual Rev Cog Ling 168–84; Winter, A Clearing in the Forest (n 5).
+74 Patry (n 69).
+366
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+METAPHORS, LAW AND DIGITAL PHENOMENA
+5. The Pirate Bay as a metaphoric court case
+When the Svea Court of Appeals convicted the founders of TPB in November 2010, it was for aiding in crime against Swedish Copyright Law on the grounds that this service promoted the sharing of copyright material without the authors’ consent.75 The wording in chapter 23, paragraph 4, part 2 of the Swedish Criminal Code reads:
+Responsibilities in this code are prescribed for a specific act, it shall be imposed not only on those who carried out the deed, but also the one that facilitated this by giving advice or assistance. The same shall apply in relation to what in another law or regulation is a criminal offense for which imprisonment is prescribed.76
+The problems and interesting issues that the case against TPB displays do not necessarily concern internal legal relations (although, there are, in the opinion of this author, interesting issues here as well) as much as the rela- tionship between law on the one side and social and cognitive structures on the other. Only when law is ‘not’ placed in a societal context may it be possible to perceive copyright law as internally coherent and therefore non-problematical. The media researcher Andersson offers a characteriza- tion of TPB—by its links to and entanglements with different actors and actions:
+...a service like TPB is “sticky”; the abundance of connections and interrelating actions acts like glue, and ties both venture capitalism, party politics, partisanship and even the idea of stewardship of a sensible cultural ecology into its vortex. TPB was never simply one thing; it can be seen as a conservator of a mainstream cultural supply, as well as a radical opponent to the big media corporations, as a harbinger of free media distribution or, conversely, as a hedonist absorption of mere self- gratification – and much more.77
+This act of interpreting the existence and identity of TPB is relevant also as a legal activity performed in court. And the outcome of this activity, this label- ling of metaphors, has direct consequences for the outcome of the case, for the judgment of guilt or non-guilt, and for the measurement of penalty and damages. It simply, but directly, ties to the cognitive approach of labelling abstract concepts and deals with what could be termed a ‘conceptual battle’ that took place in the TPB case. One central question in the Pirate Bay case was the question of what the Pirate Bay ‘is’, (or ‘was’ in the time frame selected for the case) and to what extent this existence could be regarded
+75 Case B 4041-09.
+76 BrB 23:4, 2 st: ‘Ansvar som i denna balk a ̈r fo ̈reskrivet fo ̈r viss ga ̈rning skall a ̊do ̈mas inte bara den som utfo ̈rt ga ̈rningen utan a ̈ven annan som fra ̈mjat denna med ra ̊d eller da ̊d. Detsamma skall ga ̈lla betra ̈ffande i annan lag eller fo ̈rfattning straffbelagd ga ̈rning, fo ̈r vilken fa ̈ngelse a ̈r fo ̈reskrivet.’
+77 See J Andersson, ‘The Origins and Impacts of Swedish Filesharing: A Case Study’ [2011] CSPP - RS 1–18. 367
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+STEFAN LARSSON
+as either actively participating in copyright infringement or merely more passively aiding the behaviour of the users of the site. Much of the liability was tied to a debate centring this dichotomy of active or passive participation, and the battle in the case was to a large extent fought through attaching different metaphors to TPB. This conceptual debate has its roots in argu- mentation that employs different metaphors to frame characteristics in an active or passive mode.
+Sometimes, TPB is described as a ‘platform’ where others carry out their sharing. For example, in the District Court case, one of the defendant’s legal counsellors, Jonas Nilsson, points out that the copyrighted works do not pass through the Pirate Bay’s computers: ‘All the Pirate Bay does is passively provide an empty platform’.78 This characterization is also relevant for the services the Pirate Bay depends on in terms of Internet access, broadband and storage. By labelling TPB as a ‘platform’, the defendant connects to a rather rich field in which digital intermediaries have strategically used this metaphor.79 ‘Platform’ is what Tarleton Gillespie calls a structural metaphor that ‘though it may go unnoticed by the casual listener or even the speaker, gives the term discursive resonance’.80 In this particular extended case, a legal middle step is also developed when the aspect of time is added to the characterization if the passive contributor of a service neglects to avoid participating in illegal actions, even though the contributor has become aware of their illegality. The middle step may be found in the passive con- tributor becoming conscious of its contribution. All of which leads back to what the Pirate Bay ‘is’. For example, Monique Wadsted, of the law firm MAQS that represented a range of major movie labels and computer game companies in the TPB case, claimed in the Court of Appeal that TPB does not represent a ‘passive site’. She claimed that the categories on the site make it easier to find torrents and, therefore, the site has made it easier for users.81 On the other hand, one of the defendants, Fredrik Neij, claimed that ‘The Pirate Bay is a transmission service, not a storage service’. Therefore, the defendants should not be liable to any copyright violations that occurred via the site due to the release from liability that service pro- viders receive through the E-Commerce Directive.82 He also claimed that TPB should be regarded mainly as a search engine.83 So, should TPB be seen as a ‘search engine’ or a ‘bulletin board’? To what extent should the
+78 Day 12 in first instance of case nr B 13301-06: ‘Allt Pirate Bay go ̈r a ̈r att passivt tillhandaha ̊lla en tom plattform.’ SR <http://sverigesradio.se/sida/gruppsida.aspx?programid=3402&grupp=7006&artikel=26723 85> accessed 5 June 2013.
+79 See n 18 above, 68–73.
+80 T Gillespie, ‘The Politics of “Platforms” ’ (2010) 12 New Media & Society 347–64.
+81 Day 2 in the Court of Appeal, 29 September 2010, see Svenska Dagbladet <http://www.svd.se/naringsliv/
+digitalt/dag-2-svdse-rapporterade-direkt-fran-the-pirate-bay-rattegangen_5422679.svd> accessed 5 June 2013. 82 Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on
+electronic commerce’).
+83 Day 2 in the Court of Appeal, (n 80).
+368
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+METAPHORS, LAW AND DIGITAL PHENOMENA
+founders be seen as ‘entrepreneurs’? Is it meaningful to speak of TPB as an ‘assemblage’? The latter is relevant not least in terms of the generative nature of the underlying technology. To label a set of functions in transition is to shoot at a moving target, which, in this case, has legal consequences when valuing the meaning and significance of the case for the future.
+5.1 – TPB as a search engine
+The question of seeing TPB as a search engine or ‘search service’ was debated in both the District Court as well as in the Court of Appeal. For example, in the District Court, the prosecutor asked the expert witness Kristoffer Schollin if TPB is a ‘storage service’. Schollin replied, ‘Yes, but only a very limited one’ and preferred to call it a ‘search engine’, (or ‘service’ in direct translation), as the defendants had described it in interrogation.84 Present in the case was the question of how to relate that to the fact that a technology in a sense is neutral, that it can be used for both good and bad (legal and illegal) purposes. To what extent, then, should the inventor of this technology be liable for its uses? In attempting to find a way to relate to this question, the Svea Court of Appeal concluded:
+In essence, these theories mean that an offense which involves a con- scious risk-taking for a detrimental effect under certain conditions may still be allowed depending on the circumstances such as the nature of the danger, which values the risks target, the social value of the offense, what precautions that have been possible and justified, etc.85
+The court then addressed this dilemma in terms of search engines, which is a function embedded in TPB, due to both YouTube and Google being men- tioned by the defendants. A search engine that can assist in illegal distribu- tion of content can still be legitimate, according to the court, but it has to be dominated by legitimate use to ‘public benefit’:
+If a search engine is characterized by primarily being a valuable tool in lawful activities and generally to public benefit, if this legitimate use dominates, but distribution or transmission of illegal material in spite of precautions cannot be ruled out, the operation of such a service, from an objective point of view, may be regarded as permitted in accordance with the aforementioned theories.86
+84 Day 8 in the first instance in the case against The Pirate Bay, Case nr B 13301-06. See Dagens Nyheter, 26 February 2009, <http://www.dn.se/kultur-noje/rattegangen-mot-pirate-bay—dag-8> accessed 5 June 2013.
+85 Case B 4041-09, 26 November 2010, p 24: ‘I huvudsak inneba ̈r dessa teorier att en ga ̈rning som innefattar ett medvetet risktagande fo ̈r en skadlig effekt under vissa fo ̈rha ̊llanden a ̈nda ̊ kan vara tilla ̊ten med beaktande av sa ̊dana omsta ̈ndigheter som riskernas art, vilka va ̈rden riskerna riktar sig mot, sja ̈lva ga ̈rningens sociala va ̈rde, vilka fo ̈rsiktighetsa ̊tga ̈rder som varit mo ̈jliga och befogade m.m.’
+86 Case B 4041-09, 26 November 2010, p 24: ‘Om en so ̈ktja ̈nst till sin karakta ̈r a ̈r sa ̊dan att den i fo ̈rsta hand a ̈r ett va ̈rdefullt verktyg i laglig verksamhet och allma ̈nt samha ̈llsnyttig, om denna legitima anva ̈ndning domi- nerar, men spridning eller o ̈verfo ̈ring av olagligt material trots fo ̈rsiktighetsa ̊tga ̈rder inte kan uteslutas, kan
+369
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+STEFAN LARSSON
+Should TPB be regarded as a search engine? And if this search engine is ‘a valuable tool in lawful activities and to a general public benefit’ then it would also be regarded as legitimate from a legal point of view.87 References in the TPB Court of Appeal case were made to the Google search engine, on both sides. This judgment of intent was a central issue in the case. However, as Andreasson and Schollin point out, the requirements for establishing this intent to constitute contributory copyright infringement were significantly lowered in the Court of Appeal, as well as the Court having to address the debatable assessment of the ‘social adequacy’ of a service. This means that the Court lowered the standards for what is deemed as contributory infringe- ment, which would then probably include any general search engine, but tried to balance up this vast criminalization with an evaluation of whether the service is ‘socially adequate’, ie if it is of predominantly legal use as well as to the ‘general public benefit’.88 This assessment is not easy to arrive at in a lot of cases and perhaps it is doubtful if it is even possible.
+Peter Danowsky, legal counsel for the record industry association International Federation of the Phonographic Industry (IFPI), described in his closing argument in the Court of Appeal Google as a ‘pure search engine’, implying that the TPB focus on torrent files makes it impure in terms of being a search engine (or service).89 Note the metaphorical content of ‘purity’ here in connection with ‘search engine’ and the negative conno- tations that are embedded.
+5.2 – TPB as a bulletin board
+Legal scholar Kristoffer Schollin was heard as an expert witness in the case, and stated, ‘the best way to describe a tracker is that it is like a bulletin board’.90 In the Court of Appeal, the prosecutor argued that TPB be seen as an ‘electronic bulletin board’.91 In this case, it would mean that the prosecuted would be seen as actively involved in copyright infringement if TPB were to be legally classified as an electronic bulletin board.92 From a
+driften av en sa ̊dan tja ̈nst i objektivt ha ̈nseende komma att bedo ̈mas som tilla ̊ten med sto ̈d av nyss na ̈mnda teorier.’
+87 Case B 4041-09, 26 November 2010, p 24.
+88 Case B 4041-09, 26 November 2010, p 24; cf Andreasson and Schollin (n 35) 541.
+89 In Court of Appeal, 12 October 2012, see Svenska Dagbladet, <http://www.svd.se/naringsliv/digitalt/
+slutpladeringar-i-pirate-bay-rattegangen_5493311.svd> accessed 5 June 2013.
+90 Day 8 in the first instance of the case against The Pirate Bay, Case nr B 13301-06. See Dagens Nyheter, 26
+February 2009, <http://www.dn.se/kultur-noje/rattegangen-mot-pirate-bay—dag-8> accessed 5 June 2013. In Swedish: ‘Det ba ̈sta sa ̈ttet att beskriva en tracker a ̈r som en anslagstavla’.
+91 Day 7 in the Court of Appeal in the case against TPB, 12 October 2012, Case B 4041-09.
+92 The so-called BBS-law (Act on Responsibility for Electronic Bulletin Boards, 1998:112) was adopted in 1998 and applies to services that electronically convey messages. The purpose of the Act is to establish respon- sibility for the provider to keep an eye on the bulletin board and to remove messages that clearly constitute incitement, hate speech, child pornography, unlawful depiction of violence or messages where the posting user manifestly infringes on copyright.
+370
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+METAPHORS, LAW AND DIGITAL PHENOMENA
+metaphor theoretical approach, it forces us to apply what we know about the source domain (bulletin boards > electronic bulletin boards) to the target domain (TPB). The constant battle in court over TPB regarding the dichot- omy of active/passive not only targets the characterization of the actual functions of the website or the BitTorrent technology but also ‘the individ- uals’ accused of being responsible for TPB. The prosecutor argued for le- gally supported metaphors that would frame the accused as playing an active role in supporting illegal file sharing (contributory copyright infringement) and the defence arguments used legally supported metaphors that would frame the accused as passive or inactive.
+5.3 – TPB founders as entrepreneurs
+Were the accused ‘entrepreneurs’? How did the court regard this? Was it good or bad? Each metaphor is connected to specific values, of which some also are legally relevant. For example, if the individuals responsible are entre- preneurs, then a profit value is easily argued for. And the distinction of whether or not the activity is aimed at making a profit or not is very relevant to the calculation of damages in the case. The District Court concludes that TPB has been run as a ‘commercial project’, which, as stated in preparatory legal works, indicates that a tougher sentencing is appropriate.93 Palma ̊s, a social scientist and entrepreneurship analyst, addresses the fact that the court in grave terminology described the cunning and ambition with which TPB operated as additionally incriminating, and concludes that these are the same type of innovative traits that we teach the students to take on the world with:
+The District Court’s ruling suggests that it was not possible to demon- strate the financial benefit, but also listed other entrepreneurial traits of the accused as damaging factors. The TPB founders worked as a team, they investigated the appropriate organizational forms, and tried to think creatively about different sources of revenue – they had, in other words, practiced what we are today trying to teach to the thou- sands students of entrepreneurship at the country’s universities and colleges.94
+In short, the same characterization that is especially attractive in innovation is here found to be especially incriminating. Another way to put it is that TPB made money from the online distribution of music and movies where the industry itself had failed to do so.
+93 Case nr B 13301-06, p 79. Preparatory legal work prop. 1981/82:152, p 18.
+94 K Palma ̊s, ‘The Pirate Bay-bacillen – tre spekulationer’ in J Andersson and P Snickars (n 36) 196–211, my translation. See also K Palma ̊s, Prometheus eller Narcissus. Entrepreno ̈ren som samha ̈llsomva ̈lvare (Korpen Koloni Fo ̈rlag 2011).
+371
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+STEFAN LARSSON
+5.4 – TPB as assemblage
+Regarding the identity and existence of TPB, Fleischer has, for example, called it an assemblage.95 In his contribution to the Swedish anthology Efter the Pirate Bay, he explains that The Pirate Bay was ‘a name of an assemblage of software, hardware, people, and symbols. No single component meant something by itself, but the explosive force arose from its reconciliation’.96 The terminology has its theoretical roots in a French tradition that includes Gilles Deleuze and Felix Guattari,97 and has been developed by Manuel DeLanda.98 The point here is to present an alternative to seeing TPB as a seamless whole, to explicitly point out the multitude of functions sorted in the particular setting it consists of. The challenge that quite naturally follows from this is, what does it mean when these functions are re-arranged at a later point? To what extent does a court case dealing with TPB anno 2006 also regulate TPB anno 2013?
+Describing TPB in terms of an assemblage emphasizes the notion of a construction put together consisting of different pieces, each with its own significance. And what has been assembled can also be disassembled, decentralized and distributed. However, the legalization of the activities TPB stands for demands a personalization of the abstract or assembled entity that TPB is. The first grand problem of a networked activity is the one of picking the people most important to this networked activity. Even at this point, it is hard to draw the line. There are likely to be a large number of participants who have contributed, each in their own way. The roughly out- lined categorization of law does not easily fit into the great diversity of roles in a digital environment, where identity and types of contribution can differ considerably, and not even individuality needs to be an important distinc- tion. In order to understand the organizational form of TPB, at least five main functions can be identified as necessary for a BitTorrent tracker site to work:
+1. Domain name. The website needs to be found by its users, and have some sort of functioning interface.
+2. Internet access. The website needs to be accessible through the Internet.
+3. Search engine. Although many different categorizations of the tor- rents may be considered, a search engine is very helpful if the data- base is extensive. Which brings us to the . . .
+4. . . . database of torrent files. Since no actual media content is found under the domain name, the actual web page, the torrents that show
+95 Fleischer (n 44).
+96 ibid 264.
+97 G Deleuze and F Guattari, A Thousand Plateaus: Capitalism and Schizophrenia (University of Minnesota Press
+1987).
+98 M DeLanda, Intensive Science and Virtual Philosophy (Continuum International Publishing Group Ltd 2005).
+372
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+METAPHORS, LAW AND DIGITAL PHENOMENA
+exactly where this content can be found need to be gathered some- where. It is these that are searchable. They, of course, need to be accessible.
+5. Tracker. This feature communicates with the peers using the BitTorrent protocols, which can be termed the clients (this is how- ever not used with ‘magnet links’). Clients that have already begun downloading also communicate with the tracker periodically to ne- gotiate with newer peers and provide statistics; however, after the initial reception of peer data, peer communication can continue without a tracker.
+So, in short, there are three main functions behind the website, namely, the search engine, the torrent database, and the tracker that has to be connected to Internet and tied to a domain name. It is these three main functions that have been associated with TPB in the court cases. In the Svea Court of Appeal, they were instructed to examine points 3, 4, and 5, as well as the functionality of the users who are able to upload torrents.
+6. Liability of the functions
+In order to understand the future challenge for law here, it is important to understand that the ‘assembled’ functions can be disassembled and spread out over different legal jurisdictions and operated by a number of different subjects. This highlights the question of to what extent these parts of assem- blages such as TPB are liable for what the whole assemblage leads to. In the aftermath of the first court verdict regarding TPB (1 April 2009), some of these other functions were also targeted by the same plaintiffs as in the TPB case. The responsibilities of the people providing the necessary building blocks are dependent on the legally accepted criteria for what the site is, or is not, doing. Number 2, above, concerns Internet access; on 21 August 2009, the District Court of Stockholm issued an interim injunction against Black Internet AB, stating that the company had contributed to copyright infringement by providing Internet access to the Pirate Bay file-sharing service.99 A group of major movie and music companies from both Sweden and North America filed this suit against the broadband provider shortly after the court decision in the District Court Case against TPB. The step from passive contributor goes via the contributor becoming conscious of the nature of its contribution. Legally, this is how the passive contributor can become liable, because they have neglected the fact that their contributions are transformed into illegal actions. The suit resulted in that Black Internet stopped delivering Internet access for TPB, which for about a day went offline before it had rerouted its access. Black
+99 T 7540-09, T 11712-09, 21 August 2009.
+373
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+STEFAN LARSSON
+Internet appealed the District Court decision (3 November 2009) without success.100
+Number 5, above, concerns the BitTorrent tracker. While filing the suit against Black Internet, the group of major American movie companies sim- ultaneously filed a suit against Internet Service Provider (ISP) Portlane for offering services to BitTorrent tracker OpenBittorrent as well as against two of the convicted in the TPB case, Fredrik Neij and Gottfrid Svartholm Warg, in order to prohibit them from participating in the operation of the file- sharing service, including the tracker. The law firm, MAQS, demanded that Portlane deny Internet access to the tracker function. The District Court did not, however, rule in favour of the American companies.101 The District Court stated that according to the legislative history of the Swedish Copyright Act,102 it is clear that more of an intermediary role is required than provision of Internet access for liability for contributory copyright vio- lations. The Court’s evaluation was that the application of copyright provi- sions in the manner the plaintiffs argued would mean too far-reaching responsibility for an ISP. They would be forced to exert control over what a tracker holder does and the extent to which the tracker was involved in copyright infringement or not. A significant distinction from the character- ization of TPB in this case, in relation to the characterization of TPB in the original case, is that here, the case regards TPB in its organizational form in 2009 when the tracker function, at least, was no longer directly connected to TPB, while in 2005–06 more functions were assembled under the same TPB flag. The court however ruled in favour of the movie companies regarding the two convicted in the TPB case. The decision was appealed and the Court of Appeal upheld the decision against Neij and Svartholm Warg. It also overruled the District Court regarding Portlane and banned Portlane from providing Internet access to a specific tracker (tracker.openbittor- rent.com) involved in TPB.103
+Fredrik Neij and Gottfrid Svartholm Warg, having just been convicted in District Court in the TPB case were, through the decision in District Court and later the Court of Appeal, prohibited from participating in the oper- ation of the file-sharing service and risked a fine of euro 58,000 if they were found doing so. However, later the same year (2009), TPB announced that it had closed its tracker down since the service now relied on so called magnet links that allow peer-to-peer sharing without a central tracker to guide the swarm. Consequently, as a sum, instead of shutting down the activity that was assisted by the BitTorrent tracker, the parallel torrent technology developed into becoming independent enough to no longer rely on a tracker. This describes what Jonathan Zittrain has expressed as ‘generativity’, that is, the
+100 Case O ̈ 7131-09, Svea Court of Appeal, Black Internet, 21 May 2010.
+101 Case T 17127-09, 1 December 2009.
+102 Prop. 2004/05: 110.
+103 Cases O ̈ 8773-09 and O ̈ 10146-09, Svea Court of Appeal, Black Internet, 21 May 2010.
+374
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+METAPHORS, LAW AND DIGITAL PHENOMENA
+possibility of restructuring and rebuilding that in many instances has been a characteristic of the digital coded medium.104 This is a main reason for why this medium is so hard to control from a central point of view, for example, for law.
+7. Future outlook: Generativity in
+decentralization
+In order to concentrate on the future of peer-to-peer (p2p) sharing, I return to the possible disassemblement. As can be seen from the differentiation into several necessary functions, none of these need to be located at the same place, under the same pirate flag, so to speak. They may be extremely decentralized in terms of both geographical location and collective meta- phors. This further complicates the characterization of what a site such as TPB is, and it further asks rather intriguing questions in relation to an in- credibly geographically and concept-dependent regulation of copyright. If a BitTorrent tracker site of the early TPB character were to be sued for com- plicity in copyright infringement, issues to be covered would include:
+1. In which country, and hence, under which legal jurisdiction? 2. Which of the functions is illegal? Or is it the combination of
+(a) Search engine and interface? (b) Torrent database? (and)
+(c) BitTorrent tracker?
+And then, what if the search engine is run by one party, the torrent data- base by another in another country, and the tracker function by a third party in yet another country? And what if the search engine not only finds torrents, but anything, along with the fact that the tracker aids in the sharing of a great deal of non-copyright infringing material, combined with the fact that the torrent database contains all kinds of both copyrighted and non-copyrighted material? The opportunities for decentralization are all here. It could be said that BitTorrent sites are becoming meta-p2p. That is, decentralized catalysts for decentralized file sharing. And, of course—with Zittrain’s ‘generativity’ in mind—there are other protocols that take over, or versions of the same protocol, that offer even more decentralization, more of the nodes in com- munication with each other as well as being strongly encrypted, such as the ‘magnet link’ Distributed Hash Table (DHT) that began to emerge in 2009. DHT may be described as a large ad hoc network of peers, passing on infor- mation requests about torrents without a central server, meaning no control
+104 J Zittrain, The Future of the Internet, and How to Stop It (Penguin Books 2008); J Zittrain, ‘The Generative Internet’ (2006) 119 Harvard L Rev 1974–2040.
+375
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+STEFAN LARSSON
+or single point of failure. This means that no tracker function is necessary. By moving to a more decentralized system of handling tracking (DHT þ PEX) and distribution of torrent files (magnet links), BitTorrent becomes even less centrally definable, meaning no central tracker that can be downloaded and no reliance on a single server that stores and distributes torrent files, and hence, no centrally located individuals to be held responsible.
+8. The normative implications of skeumorphs
+Which generalizable facts can we learn from the TPB case in terms of re- using conventional concepts in new circumstances, what implications follow from judging the new with concepts from the past? For one, skeumorphs come with normativity, and it is the past being normative in relation to the future. Already existing concepts and artefacts are constantly measuring the future and new phenomena, as expressed by Larsson:105
+Whenever metaphors serve as conceptual bridges between one technol- ogy and another it must be considered whether the norms that regu- lated the former phenomenon, which lends its name, can also stain the new phenomenon.
+In this sense, we can never be free in our judgment of the new and abstract. We need concepts and we need to conceptualize the new. But what I argue in this article is that we need to be aware of this ‘conceptual path dependence’, particularly to what extent it is taking part in legal development and court cases that send people to jail and condemn them to eternal poverty. We need to be aware of what Katherine N. Hayles means when she refers to a skeu- morph as something that ‘simultaneously focuses on the past and future, while reinforcing and undermining both’.106 It is this conceptually bound normativity that controls our actions and thinking when we immediately know how to use a digital camera, but at the same time are constrained in our actions by our understanding of it being based on and mimicking an analogue phenomenon.107
+The ‘undermining’ aspect of the skeumorph lies, here, in that the digital phenomenon used by any of the legal skeumorphs describes an analogue presence that exists over constraints that are significantly different from
+105 Larsson, Metaphors and Norms (n 6) 101.
+106 Hayles (n 58) 17.
+107 How norms function, especially social norms in relation to legal norms, has been studied and concep-
+tualized in the discipline of Sociology of Law. See for example Ha ̊kan Hyde ́n and Ma ̊ns Svensson, ‘The Concept of Norms in Sociology of Law’ in Peter Wahlgren (ed), Scandinavian Studies in Law (Law and Society 2008); M Svensson, Sociala normer och regelefterlevnad. Trafiksa ̈kerhetsfra ̊gor ur ett ra ̈ttssociologiskt perspektiv, [Social Norms and the Observance of Law], (Lund University, Lund Studies in Sociology of Law 28, 2008). This is done, particularly in relation to digitalization and copyright norms, in Larsson (n 7); Svensson and Larsson (n 50).
+376
+ Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+
+METAPHORS, LAW AND DIGITAL PHENOMENA
+those that the digital phenomena exist over. A parallel can be drawn to the use of the concept of ‘copies’ in copyright legislation.108 It means taking an earlier concept and reusing it in a new context under different constraints and conditions. The benefits are clear. We understand the new quickly, and the transition is in many aspects seamless and functional (we understand digital entities in terms of singular copies in a similar way to one physical copy being different from another physical copy). The downside, perhaps not as clearly expressed, relates to the fact that the conditions under which the latter concept, the skeumorph, exists are fundamentally different.
+The sum of the damages in the TPB court case was calculated on a small number of downloads of a smaller number of works during a limited amount of time. The main model for this calculation, according to the American claimants, was based on a per download value; that is, each copy meant a value. Now, in a skeumorphic fashion, there are a number of assumptions connected to this model for calculating value. For example, it assumes that the digitally mediated behaviour online surrounding the ‘consumption’ of music, movies and games follows the same pattern as more traditional con- sumption of physical artefacts. It assumes that the loss that the producer suffers from digital downloads are the same or very similar to the loss that a producer suffers from when a commodity is stolen. In short, it follows the extreme control-of-copies-lock-in that copyright regulation has drafted during the second half of the 20th century. The clearest example might be the related concept of ‘theft’ of these copies. Theft in a physical envir- onment means that the object is removed and lost for the one who is robbed. The consequences are very much different in a digital context, wherefore the concept of ‘theft’ needs to be considerably expanded to be truly mean- ingful also for this act.
+9. Conclusions
+The TPB case is of interest from many angles. Not only as a portrait of the obvious challenge to a legal construction, but also because it reveals some of the underlying dilemmas in the construction of this particular regulation in the digital context. Further, the case clearly illuminates the dilemmas of applying a legal construction formulated to control making copies and their distribution to an environment that has so fundamentally revolutio- nized both the reproduction of copies as well as distribution. In fact, it is argued here, this case may be used to illustrate that parts of copyright have become metaphorical in the sense that the reality it attempts to regulate has changed essentially. The concepts have received new meaning, or per- haps more properly put, the concepts have colonized new practices and therefore ‘mean’ more. In general, the key propositions of this article
+108 Larsson, ‘Copy Me Happy’ (n 14).
+377
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+STEFAN LARSSON
+are: (i) Metaphors are fundamental to language and mind—abstract think- ing is largely metaphorical; (ii) Digital phenomena are largely understood through metaphors and skeumorphs; (iii) Law, in a digital society, is inevit- ably affected by this—concepts become skeumorphs (their meaning changes over time, although retaining some connection to a (normative) past).
+Skeumorphs, that is the reuse of old concepts for new phenomena, come with a price. Although they offer a quick understanding of new phenomena, they also to some extent hide the novel aspects of these new phenomena. In the TPB court case, the prosecutor argued for legally supported metaphors that would frame the accused as playing an active role in supporting illegal file sharing (contributory copyright infringement), and the defence argu- ments used legally supported metaphors that would frame the accused as passive or inactive. By categorizing the activities as either active or passive in relation to the on-going, undisputed file sharing somehow linked to TPB, the founders of TPB would be held liable or not liable for aiding any copy- right infringement this file sharing leads to.
+Legally, the outcome of this battle of metaphors regarding the TPB is of extreme importance. Speaking of skeumorphs and the metaphorical prac- tice of moving a concept from a source domain to a target domain, notice the extreme need for metaphors when naming and describing the coded entities and the digital organization in this case: the torrents, the tracker, the search engine, peers in a network, links, magnet links, etcetera. And in the legal search for a metaphor that appropriately describes TPB, the unavoid- able tools are inescapably more metaphors, such as TPB as a ‘platform’, ‘bulletin board’, search ‘engine’ etcetera. This means that metaphor is not incompatible with legal reasoning. Rather, it is an inevitable part thereof and, in suggestion, a part that is of extra importance in terms of conceptual development in times of more rapid transition—for example, when a new technology is introduced. Bjerre, for instance, concludes that ‘the lesson for legal analysis is not to shun metaphor, or to seek liberation from it, but rather to realize that this aspect of thought is part of how the law functions, and that we can use it as an opening for reform though we must also live within its constraints’.109
+When it comes to TPB, given the possible rearrangements of the functions included in a site like TPB, it must not be forgotten that the original TPB case regarded TPB ‘as it was organized’ in 2005–06. The extent to which the case will function as a precedent for other cases and the extent to which the 2005–06 version of TPB is in any way able to symbolize p2p file sharing via the BitTorrent protocol when the very infrastructure has changed is also unclear. The form of organization, the existence, the ‘is’, has changed, probably towards using even more of the inherent strengths of the Internet: heading for maximum decentralization not only in its users, but
+109 Carl S Bjerre, ‘Mental Capacity as Metaphor’ (2005) 18 Int’l J Semio L 101–40. 378
+Downloaded from https://academic.oup.com/ijlit/article/21/4/354/730898 by guest on 20 October 2024
+ 
+METAPHORS, LAW AND DIGITAL PHENOMENA
+also in its functionality of connection of users. The benefits of the verdict are therefore hard to find. If we view the question from the angle of Intellectual Property regulation, a number of studies have concluded that the weak support for upholding copyright law online is both well spread and intact also after 2009.110 This means that four individuals have been punished for aiding a behaviour and normative precondition supported by a majority of the younger generation. The claimants, who won the court case, spent large sums on lawyers’ fees for winning a case that only renders a right to damages that they most likely never will be able to retrieve and a hard to estimate bad- will amongst the young generation of file sharers all around the globe. This should especially be seen in the light that the site itself is still operating and is more popular than ever.

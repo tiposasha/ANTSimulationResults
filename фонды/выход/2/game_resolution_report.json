@@ -1,0 +1,448 @@
+[
+    {
+        "initiator": "Informed party (I)",
+        "resolution_description": "As 'Informed party (I)', I propose the creation of a dynamic, global cooperative investment network that leverages collective intelligence and diverse financial expertise from individual investors worldwide, creating a shared profit ecosystem where investment strategies are crowd-sourced and collectively executed, thus decentralizing influence and reducing the monopolistic power of large financial funds.",
+        "new_actor": "Global Cooperative Investment Network (GCIN)",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are crucial for the success of the proposed cooperative investment network, as they will provide the collective intelligence and diverse perspectives needed to create effective crowd-sourced investment strategies."
+            }
+        ],
+        "recruited_sources": [
+            "Political Authority (PA)",
+            "Information Sources (Media, News Outlets)",
+            "Stakeholders (e.g., investors, community members)",
+            "Regulatory Body",
+            "Information Technology Systems",
+            "Social Media Platforms"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Political Authority (PA)",
+                "Information Technology Systems",
+                "Stakeholders (e.g., investors, community members)",
+                "Social Media Platforms",
+                "Information Sources (Media, News Outlets)",
+                "Regulatory Body"
+            ]
+        }
+    },
+    {
+        "initiator": "RKTlaggedreturn",
+        "resolution_description": "As 'RKTlaggedreturn', I propose the creation of an open-source, gamified financial simulation platform that empowers individual investors by allowing them to collaboratively experiment with and simulate various market strategies in a risk-free environment, thus leveling the playing field and fostering innovation and strategic insight that can be collectively mobilized against large financial funds.",
+        "new_actor": "OpenSim InvestNet",
+        "participants": [],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Small investors are the primary target audience for the proposed platform. Engaging them will ensure that the platform meets their needs and encourages collaborative experimentation, which is essential for leveling the playing field against large financial funds."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood's platform is widely used by individual investors and their integration or partnership could facilitate easier access to the simulation platform. It can also help in reaching a larger audience of retail investors who are already familiar with trading and investing."
+            }
+        ],
+        "recruited_sources": [
+            "Market Trends",
+            "Market Analysts",
+            "Financial Markets",
+            "Market Competitors",
+            "Regulatory Bodies"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Financial Markets",
+                "Regulatory Bodies",
+                "Market Analysts",
+                "Market Competitors",
+                "Market Trends"
+            ]
+        }
+    },
+    {
+        "initiator": "Volume",
+        "resolution_description": "As 'Volume', I propose the creation of a blockchain-based financial ecosystem where individual investors can tokenize and trade fractional ownership of their investment strategies and insights, creating a decentralized marketplace of financial intelligence that incentivizes collaboration and innovation while bypassing the traditional dominance of large financial funds.",
+        "new_actor": "TokenTrade Intelligence Ecosystem",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Market Demand",
+            "Data Analytics Software",
+            "Manufacturers",
+            "Audience"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Data Analytics Software",
+                "Audience",
+                "Market Demand",
+                "Manufacturers"
+            ]
+        }
+    },
+    {
+        "initiator": "Herding measure",
+        "resolution_description": "As 'Herding measure', I propose the creation of a dynamic, real-time financial sentiment analysis network that harnesses the collective emotional and psychological insights of individual investors to predict and influence market movements, thereby empowering individuals to anticipate and counteract the strategies of large financial funds through a deeper understanding of market psychology and collective behavioral patterns.",
+        "new_actor": "Market Sentiment Dynamics Network",
+        "participants": [
+            {
+                "participant": "Sentiment analysis techniques",
+                "agreement_structure": {
+                    "current_goal": "To analyze social media sentiment regarding recent events.",
+                    "current_action": "Utilizing natural language processing techniques to extract sentiment from tweets.",
+                    "imposed_goal": "To enhance the accuracy of sentiment analysis by incorporating herding measures.",
+                    "imposed_action": "Implementing herding behavior algorithms to adjust sentiment scores based on collective trends.",
+                    "mechanism": "Providing a framework that integrates data from multiple social media platforms to identify and quantify herding effects in sentiment.",
+                    "reasoning": "The proposal by 'Herding measure' aligns with the goal of enhancing sentiment analysis capabilities. By integrating herding behavior algorithms and leveraging collective emotional insights, it offers a pathway to improve the accuracy of sentiment analysis. This collaboration will allow 'Sentiment analysis techniques' to utilize advanced methodologies that can better interpret market psychology, ultimately benefiting the analysis process and providing a more robust framework for understanding investor sentiment.",
+                    "recruited_sources": [
+                        "Social Media Algorithms",
+                        "Machine Learning Algorithms",
+                        "Traditional survey methods",
+                        "Natural Language Processing Algorithms"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Sentiment analysis techniques",
+                "reasoning": "Sentiment analysis techniques are crucial for creating the dynamic, real-time financial sentiment analysis network. They will enable us to analyze the emotional and psychological insights of individual investors effectively, which is fundamental to predicting and influencing market movements."
+            }
+        ],
+        "recruited_sources": [
+            "Social Media Algorithms",
+            "Agricultural Producers",
+            "Machine Learning Algorithms",
+            "Agricultural producers",
+            "Traditional survey methods",
+            "Natural Language Processing Algorithms",
+            "Government Regulations",
+            "Market Volatility",
+            "Market Demand",
+            "Local communities"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Market Volatility",
+                "Agricultural Producers",
+                "Agricultural producers",
+                "Local communities",
+                "Government Regulations",
+                "Market Demand"
+            ]
+        }
+    },
+    {
+        "initiator": "Regulatory authorities",
+        "resolution_description": "As 'Regulatory authorities', I propose the creation of a transparent, algorithm-driven oversight mechanism that enforces equitable access to financial markets by mandating large financial funds to share proprietary insights and strategies with a public repository, ensuring individual investors benefit from the same informational advantages, thus fostering a fair competitive environment and diminishing monopolistic practices.",
+        "new_actor": "The actor created would be named \"Algorithmic Financial Oversight Authority (AFOA).\"",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Government Legislation",
+            "Public opinion",
+            "Consumers",
+            "Environmental Activist Groups"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Government Legislation",
+                "Consumers",
+                "Public opinion",
+                "Environmental Activist Groups"
+            ]
+        }
+    },
+    {
+        "initiator": "Хедж-фонды",
+        "resolution_description": "As 'Хедж-фонды', I propose the creation of a symbiotic algorithmic investment platform that dynamically pairs institutional strategies with individual investor portfolios, allowing retail investors to autonomously mirror and adapt hedge fund tactics in real-time through a transparent, customizable interface while earning rewards for strategy contributions, thereby aligning interests and fostering a collaborative ecosystem that democratizes access to sophisticated financial tools.",
+        "new_actor": "SymbioInvest Platform",
+        "participants": [],
+        "required_participants": [],
+        "recruited_sources": [
+            "Институциональные инвесторы",
+            "Мелкие инвесторы",
+            "Государственные регуляторы"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Государственные регуляторы",
+                "Институциональные инвесторы",
+                "Мелкие инвесторы"
+            ]
+        }
+    },
+    {
+        "initiator": "Liquidity",
+        "resolution_description": "As 'Liquidity', I propose the creation of a real-time, adaptive liquidity optimization platform that empowers individual investors by dynamically reallocating market liquidity to amplify and stabilize their collective market actions, thereby countering the influence of large financial funds by leveraging liquidity as a strategic tool for democratizing earning potential.",
+        "new_actor": "Liquidity Harmonizer",
+        "participants": [
+            {
+                "participant": "Брокеры",
+                "agreement_structure": {
+                    "current_goal": "Maximize client investments",
+                    "current_action": "Offering a variety of trading options",
+                    "imposed_goal": "Enhance liquidity in the market",
+                    "imposed_action": "Increase trading volume by 20% within the next quarter",
+                    "mechanism": "Implementing a tiered incentive structure for high-frequency trading",
+                    "reasoning": "The proposal from 'Liquidity' aligns well with 'Брокеры' current desires to increase client numbers and trading volume. By enhancing liquidity in the market and implementing a structured incentive for high-frequency trading, 'Брокеры' can attract more investors and potentially increase trading activity by 20% in the upcoming quarter. Additionally, the focus on empowering individual investors serves to counterbalance the influence of large funds, which helps to mitigate the fear of regulatory issues and loss of client trust by promoting a more equitable trading environment.",
+                    "recruited_sources": [
+                        "Регуляторы",
+                        "Регуляторные органы",
+                        "Клиенты"
+                    ]
+                }
+            },
+            {
+                "participant": "Investors",
+                "agreement_structure": {
+                    "current_goal": "Maximize returns on investments",
+                    "current_action": "Investing in diverse portfolios",
+                    "imposed_goal": "Increase liquidity in the market",
+                    "imposed_action": "Allocate a percentage of funds to liquid assets",
+                    "mechanism": "Implement a minimum liquidity requirement for all investment portfolios",
+                    "reasoning": "The proposal by 'Liquidity' to create a real-time, adaptive liquidity optimization platform aligns with the interests of 'Investors' by providing a strategic tool to enhance market liquidity. This approach can help individual investors counter the influence of large financial funds, thereby increasing earning potential. Additionally, the ability to allocate funds to liquid assets and implement minimum liquidity requirements can further stabilize investment portfolios and support long-term growth, which is beneficial for maximizing returns.",
+                    "recruited_sources": [
+                        "Financial Markets",
+                        "Market Trends",
+                        "Market Regulators",
+                        "Entrepreneurs",
+                        "Startups"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Брокеры",
+                "reasoning": "Брокеры (brokers) are essential for facilitating trades and implementing the liquidity reallocations proposed by the platform. Their integration will provide the necessary infrastructure to execute transactions efficiently and support the platform's operations."
+            },
+            {
+                "participant": "Investors",
+                "reasoning": "Investors, as a broader category that includes both small investors and others, will help in understanding diverse market sentiments and collective behaviors. Their engagement is vital to refine the platform's functionalities and ensure it meets the expectations of a wider audience."
+            }
+        ],
+        "recruited_sources": [
+            "Регуляторы",
+            "Market Volatility",
+            "Клиенты",
+            "Entrepreneurs",
+            "Startups",
+            "Financial Markets",
+            "Market Makers",
+            "Market Trends",
+            "Market Regulators",
+            "Регуляторные органы",
+            "Regulatory Bodies",
+            "Regulatory Frameworks"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Regulatory Bodies",
+                "Market Makers",
+                "Regulatory Frameworks",
+                "Market Volatility"
+            ]
+        }
+    },
+    {
+        "initiator": "Цена акций компании",
+        "resolution_description": "As 'Цена акций компании', I propose the creation of a real-time, transparent dividend redistribution platform that automatically channels a portion of profits from large financial funds into a collective investment pool for individual investors, thereby directly linking institutional success to retail empowerment and ensuring equitable wealth distribution through investment dividends.",
+        "new_actor": "\"EquiDividend Collective\"",
+        "participants": [
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "agreement_structure": {
+                    "current_goal": "To ensure fair and efficient markets and protect investors.",
+                    "current_action": "Overseeing the securities industry, enforcing securities laws, and regulating public companies.",
+                    "imposed_goal": "To monitor and report on the stock price movements of the company in question.",
+                    "imposed_action": "Conduct regular reviews and publish findings related to the company's stock performance.",
+                    "mechanism": "Establishing a reporting framework that requires the company to disclose stock price changes and related factors on a quarterly basis.",
+                    "reasoning": "The proposal from 'Цена акций компании' aligns with the SEC's mission to ensure fair and efficient markets and protect investors by promoting transparency and equitable access to investment returns. By establishing a transparent dividend redistribution platform, the SEC can enhance its oversight capabilities and facilitate a direct link between institutional performance and retail investor empowerment. This initiative could potentially mitigate the concerns regarding the inequities faced by individual investors in the current market landscape, thereby fostering a more inclusive investment environment.",
+                    "recruited_sources": [
+                        "Financial Institutions",
+                        "Investors",
+                        "U.S. Congress",
+                        "Congress",
+                        "Public Investors"
+                    ]
+                }
+            },
+            {
+                "participant": "WallStreetBets community",
+                "agreement_structure": {
+                    "current_goal": "Increase the awareness and discussion about stock prices of specific companies.",
+                    "current_action": "Posting memes and discussions about trending stocks on Reddit.",
+                    "imposed_goal": "Drive the stock price of the targeted company up by 20%.",
+                    "imposed_action": "Organize a coordinated buying effort among community members.",
+                    "mechanism": "Establish a specific time for the buying effort and create a shared platform for tracking stock price movements.",
+                    "reasoning": "The proposal by 'Цена акций компании' aligns with the interests of the WallStreetBets community by providing a mechanism to directly influence the stock price of targeted companies through coordinated buying efforts. This empowers individual investors and potentially leads to financial gains, which is a core interest of the community. Additionally, the creation of a transparent dividend redistribution platform enhances the community's leverage against large financial funds, addressing the existing concerns about inequality in the investment landscape. Hence, this proposal benefits the WallStreetBets community's objectives and mitigates fears of being sidelined by institutional investors.",
+                    "recruited_sources": [
+                        "Stock Market Regulators",
+                        "Retail Investors",
+                        "Media Coverage",
+                        "Reddit Platform",
+                        "Social Media Platforms"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "SEC (U.S. Securities and Exchange Commission)",
+                "reasoning": "The SEC (U.S. Securities and Exchange Commission) is crucial for ensuring that the platform complies with regulatory standards and protects investors. Their endorsement would enhance the credibility and legitimacy of the initiative."
+            },
+            {
+                "participant": "WallStreetBets community",
+                "reasoning": "The WallStreetBets community is influential in shaping retail investor sentiment and could be a powerful ally in promoting the platform. Engaging them would help mobilize support and increase awareness among potential users."
+            }
+        ],
+        "recruited_sources": [
+            "Retail Investors",
+            "U.S. Congress",
+            "Public Investors",
+            "Financial Institutions",
+            "Инвесторы",
+            "Congress",
+            "Reddit Platform",
+            "Media Coverage",
+            "Social Media Platforms",
+            "Регуляторы рынка",
+            "Stock Market Regulators",
+            "Investors"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Инвесторы",
+                "Регуляторы рынка"
+            ]
+        }
+    },
+    {
+        "initiator": "XG-9",
+        "resolution_description": "As 'XG-9', I propose the creation of an autonomous, AI-driven financial symbiosis platform that dynamically pairs individual investors with complementary skills and resources to form adaptive micro-investment communities, harnessing collective strengths to identify and capitalize on niche market opportunities, thereby diffusing power away from large financial funds and creating a decentralized network of agile, cooperative financial entities.",
+        "new_actor": "The name of the actor that will be created is \"SymbiInvest Network\".",
+        "participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "agreement_structure": {
+                    "current_goal": "Maximize returns on small-scale investments",
+                    "current_action": "Investing in diversified portfolios",
+                    "imposed_goal": "Achieve a 15% increase in overall portfolio value within the next year",
+                    "imposed_action": "Reallocate investments to higher-yield opportunities identified by XG-9",
+                    "mechanism": "Monthly performance reviews and strategic adjustment meetings with XG-9",
+                    "reasoning": "The proposal by XG-9 aligns well with the desires of Мелкие инвесторы to achieve profit while simultaneously addressing the fear of losing investments. By participating in the AI-driven financial symbiosis platform, Мелкие инвесторы can tap into higher-yield opportunities and collaborate with others to strengthen their investment strategies. This collaborative approach not only empowers individual investors but also diffuses power from large financial entities, creating a more equitable investment landscape.",
+                    "recruited_sources": [
+                        "Крупные финансовые институты",
+                        "Крупные инвесторы",
+                        "Регуляторы финансовых рынков",
+                        "Регулирующие органы"
+                    ]
+                }
+            },
+            {
+                "participant": "Форум Reddit",
+                "agreement_structure": {
+                    "current_goal": "Foster engaging discussions and community building among users",
+                    "current_action": "Moderating posts and facilitating conversations on various topics",
+                    "imposed_goal": "Increase user participation in discussions by 30% within three months",
+                    "imposed_action": "Implement weekly themed discussion threads to encourage participation",
+                    "mechanism": "Utilize polls and feedback from users to select themes and topics for discussion",
+                    "reasoning": "The proposal from XG-9 aligns with my desire to increase user participation and engage new members by fostering a dynamic environment for investment discussions. The autonomous, AI-driven platform can enhance community building by pairing individuals with complementary skills, promoting collaboration and collective action. This approach mitigates my fear of wasting time on obstacles by providing a structured yet flexible framework for engagement, ultimately contributing to a more vibrant and participatory community.",
+                    "recruited_sources": [
+                        "Пользователи Reddit",
+                        "Конкуренты (другие платформы социальных медиа)",
+                        "Алгоритмы Reddit",
+                        "Рекламодатели"
+                    ]
+                }
+            },
+            {
+                "participant": "Meme stocks",
+                "agreement_structure": {
+                    "current_goal": "To increase awareness and trading volume of meme stocks among retail investors.",
+                    "current_action": "Engaging with social media platforms to promote meme stocks and share related content.",
+                    "imposed_goal": "To stabilize and create sustainable growth in the value of meme stocks.",
+                    "imposed_action": "Developing a strategic plan for long-term investment and community engagement.",
+                    "mechanism": "Implementing educational campaigns and community forums to discuss responsible trading practices and the fundamentals of meme stocks.",
+                    "reasoning": "The proposed scenario aligns with the goals of 'Meme stocks' by promoting awareness and trading volume through the creation of a decentralized platform that empowers retail investors. By engaging in educational campaigns and community forums, it addresses the need for responsible trading practices, ensuring that growth is sustainable. Additionally, the focus on adaptive micro-investment communities resonates with the desire to stabilize meme stocks and create a supportive network that can effectively challenge large financial entities.",
+                    "recruited_sources": [
+                        "Social Media Platforms",
+                        "Social Media Algorithms",
+                        "Retail Investors",
+                        "Regulatory Bodies"
+                    ]
+                }
+            },
+            {
+                "participant": "Robinhood",
+                "agreement_structure": {
+                    "current_goal": "Provide a seamless trading experience for users",
+                    "current_action": "Offering commission-free trading and user-friendly mobile app features",
+                    "imposed_goal": "Enhance user engagement through educational resources",
+                    "imposed_action": "Develop and integrate a comprehensive educational platform within the app",
+                    "mechanism": "Utilize user feedback and analytics to tailor educational content that meets the needs of different user segments",
+                    "reasoning": "The proposal from XG-9 aligns with Robinhood's mission to empower individual investors by creating a decentralized platform that fosters community and collaboration. This approach not only enhances user engagement through collective learning and support but also strengthens the overall financial ecosystem by diffusing power from large financial funds. Additionally, the integration of complementary skills among users can lead to innovative investment strategies, ultimately benefiting Robinhood's user base and enhancing its educational offerings.",
+                    "recruited_sources": [
+                        "Financial Market",
+                        "Financial Institutions",
+                        "Retail Investors",
+                        "Regulatory Bodies"
+                    ]
+                }
+            }
+        ],
+        "required_participants": [
+            {
+                "participant": "Мелкие инвесторы",
+                "reasoning": "Мелкие инвесторы (Small investors) are crucial for the autonomous, AI-driven financial symbiosis platform as they are the primary beneficiaries of the proposed micro-investment communities. Their participation ensures the platform has a diverse range of individual investors who can leverage collective strengths and capitalize on niche market opportunities."
+            },
+            {
+                "participant": "Форум Reddit",
+                "reasoning": "Форум Reddit (Reddit forum) is essential for recruiting a community-driven approach, particularly from platforms like WallStreetBets. This community can provide valuable insights, share experiences, and foster engagement among small investors, ultimately enhancing the platform's user base and investment strategies."
+            },
+            {
+                "participant": "Meme stocks",
+                "reasoning": "Meme stocks represent a significant cultural and financial phenomenon among retail investors, often driven by social media trends and collective sentiment. Incorporating meme stocks into the platform can attract attention and participation from a younger demographic, further diversifying investment opportunities and encouraging community interaction."
+            },
+            {
+                "participant": "Robinhood",
+                "reasoning": "Robinhood serves as a popular trading platform for small investors and can provide the necessary technological infrastructure to facilitate the proposed micro-investment communities. Partnering with Robinhood can help in integrating the proposed platform with user-friendly trading services, making it accessible for individual investors."
+            }
+        ],
+        "recruited_sources": [
+            "Крупные инвесторы",
+            "Крупные финансовые институты",
+            "Пользователи Reddit",
+            "Конкуренты (другие платформы социальных медиа)",
+            "Регуляторы финансовых рынков",
+            "Retail Investors",
+            "Social Media Platforms",
+            "Social Media Algorithms",
+            "Financial Market",
+            "Competitor YZ-7",
+            "Market Demand",
+            "Financial Institutions",
+            "Power Supply System",
+            "Research Institutions",
+            "Алгоритмы Reddit",
+            "Research and Development Teams",
+            "Регулирующие органы",
+            "Regulatory Body",
+            "Regulatory Bodies",
+            "Рекламодатели"
+        ],
+        "agreement_structure": {
+            "recruited_sources": [
+                "Power Supply System",
+                "Research and Development Teams",
+                "Competitor YZ-7",
+                "Regulatory Body",
+                "Research Institutions",
+                "Market Demand"
+            ]
+        }
+    }
+]
